@@ -41,11 +41,13 @@ jobs:
           # 1. Subdomain discovery
           assetfinder squareup.com | tee results/subdomains.txt
 
-          # 2. URL collection
-          gau squareup.com | grep '=' | tee results/gau-urls.txt
+          # 2. URL collection — only URLs with potential open redirect params
+          cat results/subdomains.txt | gau --threads 20 \
+          | grep -Ei '([&?])(next|url|target|rurl|dest|destination|redir|redirect_uri|redirect_url|redirect|view|image_url|go|return|returnTo|return_to|checkout_url|continue|return_path)=' \
+          | tee results/gau-urls.txt
 
-          # 3. Filter for redirect-prone parameters
-          cat results/gau-urls.txt | grep -Ei 'redirect|url|next|dest|data|continue|return|callback' | uro --filters hasparams > results/redirect-params.txt
+          # 3. Clean + dedup w/ uro
+          cat results/gau-urls.txt | uro --filters hasparams > results/redirect-params.txt
 
           # 4. Inject payload & check for actual redirection
           cat results/redirect-params.txt \
