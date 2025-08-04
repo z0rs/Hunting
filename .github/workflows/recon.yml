@@ -18,7 +18,7 @@ jobs:
 
           # Install system deps
           sudo apt-get update
-          sudo apt-get install -y unzip golang
+          sudo apt-get install -y wget unzip jq git golang
 
           # Setup pipx env
           #python3 -m pip install --upgrade pip
@@ -26,10 +26,17 @@ jobs:
           export PATH="$HOME/.local/bin:$PATH"
 
           # Install Go-based tools
-          #go install github.com/projectdiscovery/httpx/cmd/httpx@latest && sudo mv ~/go/bin/httpx /usr/bin/
+          go install github.com/projectdiscovery/httpx/cmd/httpx@latest && sudo mv ~/go/bin/httpx /usr/bin/
           go install github.com/cybercdh/assetfinder@cybercdh && sudo mv ~/go/bin/assetfinder /usr/bin/
-          #go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
-          #go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
+          go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
+          go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
+          go install github.com/tomnomnom/httprobe@latest && sudo mv ~/go/bin/httprobe /usr/bin/
+          LATEST_VERSION=$(curl -s https://api.github.com/repos/projectdiscovery/nuclei/releases/latest | jq -r '.tag_name')
+          CLEAN_VERSION=${LATEST_VERSION#v}
+          wget https://github.com/projectdiscovery/nuclei/releases/download/${LATEST_VERSION}/nuclei_${CLEAN_VERSION}_linux_amd64.zip
+          unzip -o nuclei_${CLEAN_VERSION}_linux_amd64.zip
+          sudo mv nuclei /usr/bin/
+          sudo rm -rf nuclei* *.md
 
           # Install Python-based tool: uro
           #pipx install uro
@@ -39,21 +46,14 @@ jobs:
           mkdir -p results
 
           # 1. Subdomain discovery
-          assetfinder squareup.com | tee results/subdomains.txt
+          assetfinder squareup.com | httpx -silent -mc 200 | tee results/subdomains.txt
 
-          # 2. URL collection — only URLs with potential open redirect params
-          #cat results/subdomains.txt | gau --threads 20 \
-          #| grep -Ei '([&?])(next|url|target|rurl|dest|destination|redir|redirect_uri|redirect_url|redirect|view|image_url|go|return|returnTo|return_to|checkout_url|continue|return_path)=' \
-          #| tee results/gau-urls.txt
+          # 2. Subdomain collection
+          cat results/subdomains.txt | assetfinder | httpx -silent -mc 200 | tee results/subdomains-alive.txt
 
-          # 3. Clean + dedup w/ uro
-          #cat results/gau-urls.txt | uro --filters hasparams > results/redirect-params.txt
-
-          # 4. Inject payload & check for actual redirection
-          #cat results/redirect-params.txt \
-          #  | qsreplace "https://evil.evil" \
-          #  | httpx -silent -location -status-code \
-          #  | tee results/redirect-test.txt
+          # 3. Vulnerable scan
+          cat results/subdomains-alive.txt | nuclei -attack-type pitchfork -rl 50 -bs 10 -c 10 -timeout 20 -retries 2 -severity low,medium,high,critical,unknown \
+          | tee results/nuclei.$(date +%Y-%m-%d).txt
 
           # 5. Extract successful redirects
           #grep "evil.evil" results/redirect-test.txt > results/vulnerable.txt || true
