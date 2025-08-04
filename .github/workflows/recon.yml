@@ -1,11 +1,11 @@
-name: Hunting Open Redirect
+name: Full Recon
 
 on:
   push:
     branches: [master]
 
 jobs:
-  scan-and-deploy:
+  recon-and-scan:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,21 +16,19 @@ jobs:
         run: |
           set -e
 
-          # Install system deps
           sudo apt-get update
           sudo apt-get install -y wget unzip jq git golang
 
-          # Setup pipx env
-          #python3 -m pip install --upgrade pip
-          #python3 -m pipx ensurepath
           export PATH="$HOME/.local/bin:$PATH"
 
-          # Install Go-based tools
+          # Install Go tools
           go install github.com/projectdiscovery/httpx/cmd/httpx@latest && sudo mv ~/go/bin/httpx /usr/bin/
           go install github.com/cybercdh/assetfinder@cybercdh && sudo mv ~/go/bin/assetfinder /usr/bin/
           go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
           go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
-          go install github.com/tomnomnom/httprobe@latest && sudo mv ~/go/bin/httprobe /usr/bin/
+          go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && sudo mv ~/go/bin/subfinder /usr/bin/
+
+          # Install nuclei (latest)
           LATEST_VERSION=$(curl -s https://api.github.com/repos/projectdiscovery/nuclei/releases/latest | jq -r '.tag_name')
           CLEAN_VERSION=${LATEST_VERSION#v}
           wget https://github.com/projectdiscovery/nuclei/releases/download/${LATEST_VERSION}/nuclei_${CLEAN_VERSION}_linux_amd64.zip
@@ -38,24 +36,42 @@ jobs:
           sudo mv nuclei /usr/bin/
           sudo rm -rf nuclei* *.md
 
-          # Install Python-based tool: uro
-          #pipx install uro
-
-      - name: Recon and Hunt Open Redirect
+      - name: Recon & Vulnerability Scan
         run: |
+          set -e
           mkdir -p results
+      
+          TARGET="squareup.com"
+          DATE=$(date -u +%F-%H%M)
+      
+          echo "[*] Subdomain Enumeration with assetfinder & subfinder..."
+          
+          assetfinder --subs-only $TARGET | grep "\.${TARGET}$" > results/assetfinder.txt
+          subfinder -d $TARGET -silent > results/subfinder.txt
+      
+          cat results/assetfinder.txt results/subfinder.txt | sort -u > results/subdomains.txt
+          echo "[+] Total subdomains found: $(wc -l < results/subdomains.txt)"
+      
+          echo "[*] Probing live web apps on common ports..."
+          cat results/subdomains.txt | httpx -p 80,443,8080,8443,3000,5000,8000,8888,10000,5601,9200 \
+            -silent -title -td -sc -ip -probe -o results/subdomains-live.txt
+      
+          echo "[*] Running nuclei on live targets..."
+          cat results/subdomains-live.txt | nuclei -as -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" \
+            -rl 300 -c 100 \
+            -retries 3 -timeout 15 \
+            -stats -si 10 \
+            -sresp \
+            -t dns/ \
+            -t cves/ \
+            -t misconfiguration/ \
+            -t exposures/ \
+            -t default-logins/ \
+            -severity low,medium,high,critical \
+            -jle results/nuclei-$(date +%F).jsonl \
+            -o results/nuclei-$(date +%F).txt
 
-          # 1. Subdomain discovery
-          assetfinder squareup.com | grep "squareup.com$" | httpx -silent -mc 200 | tee results/subdomains.txt
-
-          # 2. Subdomain collection
-          cat results/subdomains.txt | assetfinder | httpx -silent -mc 200 | tee results/subdomains-alive.txt
-
-          # 3. Vulnerable scan
-          #cat results/subdomains-alive.txt | nuclei -attack-type pitchfork -rl 50 -bs 10 -c 10 -timeout 20 -retries 2 -severity low,medium,high,critical,unknown \
-          #| tee results/nuclei.$(date +%Y-%m-%d).txt
-
-      - name: Set up Git user
+      - name: Set up Git Identity
         run: |
           git config --global user.email "${{ secrets.EMAIL_ADDRESS }}"
           git config --global user.name "${{ secrets.USER_NAME }}"
@@ -63,10 +79,10 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          git commit -m "Open Redirect Recon $(date -u)" --no-verify || echo "Nothing to commit"
+          git commit -m "🔎 Recon update ${{ github.sha }} at $(date -u)" --no-verify || echo "No changes to commit"
 
-      - name: Push changes
+      - name: Push results
         uses: ad-m/github-push-action@master
         with:
           branch: master
-          github_token: ${{ secrets.GITHUB_TOKEN }} # atau secrets.GH_PAT kalau pakai PAT
+          github_token: ${{ secrets.GITHUB_TOKEN }}
