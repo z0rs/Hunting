@@ -1,6 +1,6 @@
-https://balances.squareup.com
-https://book.squareup.com
 https://canary-one.squareup.com
 https://inbox.squareup.com
-https://profile.squareup.com
 https://saasquatch.squareup.com
+https://book.squareup.com
+https://profile.squareup.com
+https://balances.squareup.com
