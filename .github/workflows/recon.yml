@@ -65,11 +65,11 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add results/
+          git add .
           git commit -m "Open Redirect Recon $(date -u)" --no-verify || echo "Nothing to commit"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: ${{ github.ref }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }} # atau secrets.GH_PAT kalau pakai PAT
