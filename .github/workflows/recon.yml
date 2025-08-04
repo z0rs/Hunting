@@ -18,21 +18,21 @@ jobs:
 
           # Install system deps
           sudo apt-get update
-          sudo apt-get install -y wget unzip jq git python3 python3-pip golang pipx
+          sudo apt-get install -y unzip golang
 
           # Setup pipx env
-          python3 -m pip install --upgrade pip
-          python3 -m pipx ensurepath
+          #python3 -m pip install --upgrade pip
+          #python3 -m pipx ensurepath
           export PATH="$HOME/.local/bin:$PATH"
 
           # Install Go-based tools
-          go install github.com/projectdiscovery/httpx/cmd/httpx@latest && sudo mv ~/go/bin/httpx /usr/bin/
+          #go install github.com/projectdiscovery/httpx/cmd/httpx@latest && sudo mv ~/go/bin/httpx /usr/bin/
           go install github.com/cybercdh/assetfinder@cybercdh && sudo mv ~/go/bin/assetfinder /usr/bin/
-          go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
-          go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
+          #go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
+          #go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
 
           # Install Python-based tool: uro
-          pipx install uro
+          #pipx install uro
 
       - name: Recon and Hunt Open Redirect
         run: |
@@ -42,21 +42,21 @@ jobs:
           assetfinder squareup.com | tee results/subdomains.txt
 
           # 2. URL collection — only URLs with potential open redirect params
-          cat results/subdomains.txt | gau --threads 20 \
-          | grep -Ei '([&?])(next|url|target|rurl|dest|destination|redir|redirect_uri|redirect_url|redirect|view|image_url|go|return|returnTo|return_to|checkout_url|continue|return_path)=' \
-          | tee results/gau-urls.txt
+          #cat results/subdomains.txt | gau --threads 20 \
+          #| grep -Ei '([&?])(next|url|target|rurl|dest|destination|redir|redirect_uri|redirect_url|redirect|view|image_url|go|return|returnTo|return_to|checkout_url|continue|return_path)=' \
+          #| tee results/gau-urls.txt
 
           # 3. Clean + dedup w/ uro
-          cat results/gau-urls.txt | uro --filters hasparams > results/redirect-params.txt
+          #cat results/gau-urls.txt | uro --filters hasparams > results/redirect-params.txt
 
           # 4. Inject payload & check for actual redirection
-          cat results/redirect-params.txt \
-            | qsreplace "https://evil.evil" \
-            | httpx -silent -location -status-code \
-            | tee results/redirect-test.txt
+          #cat results/redirect-params.txt \
+          #  | qsreplace "https://evil.evil" \
+          #  | httpx -silent -location -status-code \
+          #  | tee results/redirect-test.txt
 
           # 5. Extract successful redirects
-          grep "evil.evil" results/redirect-test.txt > results/vulnerable.txt || true
+          #grep "evil.evil" results/redirect-test.txt > results/vulnerable.txt || true
 
       - name: Set up Git user
         run: |
