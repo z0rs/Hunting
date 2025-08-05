@@ -41,30 +41,29 @@ jobs:
           set -e
           mkdir -p results
       
-          TARGET="squareup.com"
+          TARGET="t-mobile.com"
           DATE=$(date -u +%F-%H%M)
       
           echo "[*] Subdomain Enumeration with assetfinder & subfinder..."
           
-          subfinder -d $TARGET -silent | assetfinder --subs-only | grep "\.${TARGET}$" > results/assetfinder.txt
+          subfinder -d $TARGET -silent | assetfinder --subs-only | grep "\.${TARGET}$" > results/t-mobile.txt
       
-          cat results/assetfinder.txt | sort -u > results/subdomains.txt
+          cat results/mobile.txt | sort -u > results/subdomains-mobile.txt
           echo "[+] Total subdomains found: $(wc -l < results/subdomains.txt)"
       
           echo "[*] Probing live web apps on common ports..."
-          cat results/subdomains.txt | httpx -p 80,443,8080,8443,3000,5000,8000,8888,10000,5601,9200,1337,7001,7000,9000 \
+          cat results/subdomains-mobile.txt | httpx -p 80,443,8080,8443,3000,5000,8000,8888,10000,5601,9200,1337,7001,7000,9000 \
             -title -td -tech-detect -web-server -ip -status-code -method \
             -probe -follow-redirects -random-agent -fr \
-            -no-color -silent \
+            -silent \
             -rate-limit 500 \
             -timeout 10 \
             -retries 3 \
             -location \
-            -json -o results/subdomains-live.json \
-            -o results/subdomains-live.txt
+            -o results/subdomains-mobile-live.txt
       
           echo "[*] Running nuclei on live targets..."
-          cat results/subdomains-live.txt | awk '{print $1}' | sort -u | nuclei -as -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" \
+          cat results/subdomains-mobile-live.txt | awk '{print $1}' | sort -u | nuclei -as -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" \
             -rl 300 -c 100 \
             -retries 3 -timeout 15 \
             -stats -si 10 \
@@ -74,9 +73,7 @@ jobs:
             -t misconfiguration/ \
             -t exposures/ \
             -t default-logins/ \
-            -severity low,medium,high,critical \
-            -jle results/nuclei-$(date +%F).jsonl \
-            -o results/live-urls-$(date +%F).txt
+            -o results/nuclei-subdomains-mobile-live.txt-$(date +%F).txt
 
       - name: Set up Git Identity
         run: |
