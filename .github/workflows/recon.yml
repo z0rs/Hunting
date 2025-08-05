@@ -46,10 +46,9 @@ jobs:
       
           echo "[*] Subdomain Enumeration with assetfinder & subfinder..."
           
-          assetfinder --subs-only $TARGET | grep "\.${TARGET}$" > results/assetfinder.txt
-          subfinder -dL assetfinder.txt -silent > results/subfinder.txt
+          subfinder -d $TARGET -silent | assetfinder --subs-only | grep "\.${TARGET}$" > results/assetfinder.txt
       
-          cat results/subfinder.txt | sort -u > results/subdomains.txt
+          cat results/assetfinder.txt | sort -u > results/subdomains.txt
           echo "[+] Total subdomains found: $(wc -l < results/subdomains.txt)"
       
           echo "[*] Probing live web apps on common ports..."
