@@ -1,0 +1,235 @@
+[apache-impala] Dumped HTTP request for https://edtech.le.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: edtech.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apache-impala] Dumped HTTP response https://edtech.le.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache
+Set-Cookie: BIGipServer~app_047s-prod_prod~pool_047s-prod_prod=851842988.47873.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=63072000; preload
+Vary: Accept-Encoding
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="utf-8" />
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		<title>Login</title>
+		<!-- SEO relevant meta data to describe content of page -->
+		<meta name="DC.Title" content="Learning Environments : The University of Melbourne">
+		<meta name="keywords" content="elearning, e-learning, LMS, learning management system, AV, A/V, audio visual, lecture theatre, teaching, learning, learning spaces, classroom, seminar room, LSS, TSS, learning space support, learning environments, digital signage, lecture capture, lectopia, digital media, video conference, video recording, event support">
+		<meta name="description" content="Learning Environments enable innovation in teaching and learning across physical and virtual spaces">
+		<meta name="DC.Description" content="Learning Environments enable innovation in teaching and learning across physical and virtual spaces">
+		<!-- End SEO relevant meta data -->
+		<!-- Authoriser and maintainer related meta data - developers, don't forget humans.txt   -->
+		<meta name="DC.Creator" content="The University of Melbourne">
+		<meta name="DC.Contributor" content="">
+		<meta name="author" content="">
+		<meta name="UM.Authoriser.Name" content="">
+		<meta name="UM.Authoriser.Title" content="General Manager, Learning Environments">
+		<meta name="UM.Maintainer.Name" content="">
+		<meta name="UM.Maintainer.Department" content="Learning Environments">
+		<meta name="UM.Maintainer.Email" content="">
+		<!-- End authoriser and maintainer meta data -->
+		<!-- Static meta data   -->
+		<meta name="DC.Rights" content="http://www.unimelb.edu.au/disclaimer">
+		<meta name="DC.Publisher" content="The University of Melbourne">
+		<meta name="DC.Format" content="text/html">
+		<meta name="DC.Language" content="en">
+		<meta name="DC.Identifier" content="http://www.unimelb.edu.au/">
+		<!-- End static meta data -->
+		<!-- Meta data to be autofilled -->
+		<meta name="DC.Date" content="">
+		<meta name="DC.Date.Modified" content="1970-01-01">
+		<link rel="stylesheet" href="https://d2h9b02ioca40d.cloudfront.net/v7.0/uom.css">
+		<script src="https://d2h9b02ioca40d.cloudfront.net/v7.0/uom.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/css/select2.min.css" rel="stylesheet" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.full.js"></script>
+		<style type="text/css">
+			.select2, #select2-subject-container, .select2-container--default .select2-selection--single, .select2-selection__arrow {height: 40px!important;line-height: 40px!important;}
+			.select2-mlt {margin-top: -80px;}
+			.ldapLogin {display: block!important;}
+			.stdLogin {display: none!important;}
+			ul li.ldapLoginLi  {list-style-type: square; margin-left: 0px; padding-left: 0px; display: list-item!important;}
+			ul li.stdLoginLi  {list-style-type: square; margin-left: 0px; padding-left: 0px;display: none!important;}
+		</style>
+		<script type="text/javascript" language="javascript">
+			function setCookie() {
+				var expdate = new Date();
+				expdate.setTime(expdate.getTime() + (1000 * 60 * 60 * 24 * 2));
+				document.cookie = "lastEdTechSiteID=" + escape(document.loginForm.subject.options[document.loginForm.subject.selectedIndex].value) + "; domain=edtech.le.unimelb.edu.au; expires=" + expdate.toGMTString() + "; SameSite=None; Secure; path=/";
+			}
+			$(document).ready(function () {
+				$("#subject").select2({allowClear: true, dropdownAutoWidth: true});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="uomcontent">
+			<div class="page-local-login" data-href="index.jsp" data-title="Login"></div>
+			<div class="page-inner">
+                <div class="page-local-history">
+                    <a class="root" href="unimelb.edu.au">The University of Melbourne</a>
+                    <span>/</span>
+                    <a class="last" href="index.jsp?lm=true" title="Login">Login</a>
+                </div>
+				<div role="main">
+					<header class="stdLogin">
+						<h1>
+							Edtech Direct Login
+						</h1>
+					</header>
+
+					<div id="sitemap" role="navigation">
+						<h2>Edtech</h2>
+						<ul>
+							<li>
+								<a href="browserTest.jsp">Test Your Browser</a>
+							</li>
+							<li>
+							<li class="ldapLogin">
+								<a href="https://its.unimelb.edu.au/help/networks-access/accounts-passwords/staff-student-account-management" title="Link to reset a forgotten password">Unimelb Password Reset</strong></a>
+							</li>
+							<li class="stdLogin"><a href="resetPassword.jsp" title="Link to reset a forgotten password">Edtech Direct Login Password Reset</a></li>
+							<li class="ldapLogin"><a href="index.jsp?lm=false">Non Unimelb User Login</a></li>
+							<li class="stdLogin"><a href="index.jsp?lm=true">Unimelb User Login</a></li>
+						</ul>
+					</div>
+
+					<section>
+						<h1 class="aligned-title">Login</h1>
+						<form data-validate="" id="loginForm" title="Login Form" name="loginForm" method="post" action="services/LdapLogin" onsubmit="javascript:setCookie();">
+							<fieldset>
+								<legend>
+									<div class="ldapLogin">
+										Login with your University of Melbourne username and password.</div>
+									<div class="stdLogin">Please enter your Edtech login details</div>
+								</legend>
+								<div id="errorMessage" class="form-error hidden" role="alert" aria-atomic="true">
+									We didn't recognise the username or password you entered.
+								</div>
+								
+								<input type="hidden" name="customFailedLoginPageUrl" value="/failed-ldap.jsp">
+								
+								<div>
+									<label for="userName">Username: </label>
+									<input aria-required="true" data-error="Please enter your username."  type="text" name="userName" value="" id="userName"  maxlength="64" tabindex="1" placeholder="Unimelb username" autofocus="autofocus" autocapitalize="off" autocorrect="false" spellcheck="false">
+								</div>
+								<div>
+									<label for="pw">Password: </label>
+									<input aria-required="true" data-error="Please enter your password." tabindex="2" id="pw" name="pw" type="password" placeholder="Unimelb password" />
+								</div>
+								<div>
+									<label class="col-2" for="subject">Site: </label>
+									<select  aria-required="true" class="alt" title="Available Subjects" id="subject" name="subject" tabindex="3">
+										
+										<optgroup label="2025 Subjects" title="2025 Subjects">
+											
+											<option title="gordon25b" value="gordon25b" selected="selected">gordon25b</option>
+											
+											<option title="Language Placement Testing - Arabic" value="lpta2012">Language Placement Testing - Arabic</option>
+											
+											<option title="Language Placement Testing - Chinese" value="lptchinese">Language Placement Testing - Chinese</option>
+											
+											<option title="Language Placement Testing - French" value="lpt2012">Language Placement Testing - French</option>
+											
+											<option title="Language Placement Testing - German" value="lptgerman">Language Placement Testing - German</option>
+											
+											<option title="Language Placement Testing - Indonesian" value="lptindones">Language Placement Testing - Indonesian</option>
+											
+											<option title="Language Placement Testing - Italian" value="lptitalian">Language Placement Testing - Italian</option>
+											
+											<option title="Language Placement Testing - Japanese" value="lptjapan">Language Placement Testing - Japanese</option>
+											
+											<option title="Language Placement Testing - Korean" value="lptkorean">Language Placement Testing - Korean</option>
+											
+											<option title="Language Placement Testing - Russian" value="lptrussian">Language Placement Testing - Russian</option>
+											
+											<option title="Language Placement Testing - Spanish" value="lptspanish">Language Placement Testing - Spanish</option>
+											
+											<option title="Language Placement Testing external user enrolments" value="lptenrol">Language Placement Testing external user enrolments</option>
+											
+										</optgroup>
+										
+										
+										<optgroup label="Pre 2025 Subjects" title="Pre 2025 Subjects">
+											
+											<option title="- EdTech Subject -" value="default">- EdTech Subject -</option>
+											
+											<option title="Blogging Demo" value="blogdemo">Blogging Demo</option>
+											
+											<option title="Building sensitivity to LGBT clients accessing alcohol and drug care - An online training module for healthcare providers" value="buildsens">Building sensitivity to LGBT clients accessing alcohol and drug care - An online training module for healthcare providers</option>
+											
+											<option title="Clinical Teacher Training" value="medgp">Clinical Teacher Training</option>
+											
+											<option title="COTN: Conservation Online Training Network" value="cotn">COTN: Conservation Online Training Network</option>
+											
+											<option title="Evolution and the Human Condition - ZOOL30004_2019_SM1 (Praze S1 2019)" value="eathc19s1">Evolution and the Human Condition - ZOOL30004_2019_SM1 (Praze S1 2019)</option>
+											
+											<option title="Famine: The Geography of Scarcity (GEOG10001) Tutorial 3 and 7" value="famine">Famine: The Geography of Scarcity (GEOG10001) Tutorial 3 and 7</option>
+											
+											<option title="Geogmajor" value="geogmajor">Geogmajor</option>
+											
+											<option title="Optometry OIPD (655351,655359,OPTO30006,OPTO90027)" value="oipd">Optometry OIPD (655351,655359,OPTO30006,OPTO90027)</option>
+											
+											<option title="OSCE Examiner Training" value="oscevid">OSCE Examiner Training</option>
+											
+											<option title="Postgraduate Essentials Completion and Beyond" value="pget">Postgraduate Essentials Completion and Beyond</option>
+											
+											<option title="QuizSpace Demosite" value="Q2demo">QuizSpace Demosite</option>
+											
+											<option title="SCBD examiner training" value="scbd">SCBD examiner training</option>
+											
+											<option title="Vet Science clinical integrative puzzles (VETSCIP)" value="vetscip">Vet Science clinical integrative puzzles (VETSCIP)</option>
+											
+											<option title="Virtual Condition Report (VCR)" value="vcr">Virtual Condition Report (VCR)</option>
+											
+										</optgroup>
+										
+									</select>
+								</div>
+
+								<footer>
+									<div style="text-align: center;">
+										<button type="submit" class="button">Login</button>
+									</div>
+
+									<div class="ldapLogin notice notice--info">
+										<strong>Note.</strong> This login page is for users with Unimelb accounts.<br>Non unimelb user accounts <a href="index.jsp?lm=false">login via this page</a> (testers, external users, sv accounts).
+									</div>
+									<div class="stdLogin notice notice--info">
+										<strong>Note.</strong>
+										Unimelb Staff: please use the <a href="index.jsp?lm=true">LDAP/Active Directory login page.</a><br>
+										Students of The University of Melbourne should login via the <a href="http://www.lms.unimelb.edu.au/" title="Link to LMS">LMS</a>.<br>This login page is only for users without LMS/Unimelb accounts. This includes test users and external users.
+									</div>
+
+								</footer>
+
+
+							</fieldset>
+						</form>
+					</section>
+
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+

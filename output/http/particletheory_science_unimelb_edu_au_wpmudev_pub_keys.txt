@@ -1,0 +1,24 @@
+[wpmudev-pub-keys] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-content/plugins/wpmudev-updates/keys/
+
+
+GET /wp-content/plugins/wpmudev-updates/keys/ HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wpmudev-pub-keys] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-content/plugins/wpmudev-updates/keys/
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Server: openresty
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+
+

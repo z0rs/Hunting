@@ -1,0 +1,10 @@
+[tiny-file-manager-unauth] Dumped HTTP response https://enterpriseregistration.ormond.unimelb.edu.au/index.php
+
+HTTP/1.1 404 NotFound
+Connection: close
+Content-Length: 101
+Client-Request-Id: 0857c533-b214-428f-91fa-01b9abb1d810
+Content-Type: application/json
+Date: Wed, 06 Aug 2025 15:17:35 GMT
+
+{"odata.error":{"code":"NotFound","message":{"lang":"en","value":"Unsupported method or endpoint."}}}

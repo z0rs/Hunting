@@ -1,0 +1,35 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://planimation-test.eresearch.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: planimation-test.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://planimation-test.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 555
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Server: nginx/1.19.7
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.19.7</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

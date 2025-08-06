@@ -1,0 +1,65 @@
+[nginx-shards] Dumped HTTP request for https://le-web1-6.le.unimelb.edu.au/static/shards.html
+
+
+GET /static/shards.html HTTP/1.1
+Host: le-web1-6.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://le-web1-6.le.unimelb.edu.au/static/shards.html
+
+HTTP/1.1 401 
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json;charset=ISO-8859-1
+Date: Wed, 06 Aug 2025 15:17:50 GMT
+Expires: 0
+Pragma: no-cache
+Server: nginx/1.20.1
+Set-Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3239150=kW7oPQcfRneEj7NRlFpucx1yk2gAAAAAQUIPAAAAAAAjYRgzE9qi8SyiMN/JhxBi; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3239150=wr4eYtfccVZWO+jHrjZsMwAAAACYV1YvopQexOnUNlkpYU25; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239150=4gQVbYHsDFg7/7arov5JAx1yk2gAAAAA1SMfJGQeDv9Z5qVS2Ffu+A==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Iinfo: 14-12105524-12105530 NNYY CT(214 227 0) RT(1754493469996 15) q(0 0 1 -1) r(3 3) U11
+X-Xss-Protection: 1; mode=block
+
+{"message": "You session is no longer valid. Please try reloading the page or contact an administrator."}
+[nginx-shards] Dumped HTTP request for https://le-web1-6.le.unimelb.edu.au/static/shards/html
+
+
+GET /static/shards/html HTTP/1.1
+Host: le-web1-6.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; visid_incap_3239150=kW7oPQcfRneEj7NRlFpucx1yk2gAAAAAQUIPAAAAAAAjYRgzE9qi8SyiMN/JhxBi; nlbi_3239150=wr4eYtfccVZWO+jHrjZsMwAAAACYV1YvopQexOnUNlkpYU25; incap_ses_237_3239150=4gQVbYHsDFg7/7arov5JAx1yk2gAAAAA1SMfJGQeDv9Z5qVS2Ffu+A==
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://le-web1-6.le.unimelb.edu.au/static/shards/html
+
+HTTP/1.1 401 
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json;charset=ISO-8859-1
+Date: Wed, 06 Aug 2025 15:17:50 GMT
+Expires: 0
+Pragma: no-cache
+Server: nginx/1.20.1
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Iinfo: 5-4042283-4042286 NNYY CT(213 225 0) RT(1754493470271 7) q(0 0 0 0) r(2 2) U11
+X-Xss-Protection: 1; mode=block
+
+{"message": "You session is no longer valid. Please try reloading the page or contact an administrator."}

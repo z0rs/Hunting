@@ -1,0 +1,165 @@
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au/db/
+
+
+GET /db/ HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au/sql/
+
+
+GET /sql/ HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au/compalex/
+
+
+GET /compalex/ HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au/dbdiff/
+
+
+GET /dbdiff/ HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au/_db/
+
+
+GET /_db/ HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://video-conf1.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://compalex.video-conf1.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: compalex.video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://sql.video-conf1.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: sql.video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://_db.video-conf1.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: _db.video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://db.video-conf1.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: db.video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://dbdiff.video-conf1.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: dbdiff.video-conf1.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

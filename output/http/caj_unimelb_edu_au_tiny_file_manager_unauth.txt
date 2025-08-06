@@ -1,0 +1,32 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://caj.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: caj.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://caj.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:19 GMT
+Location: https://arts.unimelb.edu.au/centre-for-advancing-journalism
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=b16d6079b11c0fe773b21ac27664607b; path=/; HttpOnly
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 308d5196-bd5b-4de8-90c8-f70f00aea74e
+X-Upgrade-Enabled: off
+
+

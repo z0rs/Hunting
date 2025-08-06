@@ -1,0 +1,72 @@
+[nginx-shards] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/static/shards.html
+
+
+GET /static/shards.html HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/static/shards.html
+
+HTTP/1.1 404 
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Disposition: inline;filename=f.txt
+Content-Type: application/json
+Date: Wed, 06 Aug 2025 15:17:48 GMT
+Expires: 0
+Pragma: no-cache
+Server: nginx/1.20.1
+Set-Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3239152=rGfQjeY3TaqtjVyZiAyWQBxyk2gAAAAAQUIPAAAAAABlgJUu9S5WQqW64b47P3/o; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3239152=b4CcdiIGWDGdHjyoDOg18AAAAAA4T+9DFD6FOKeTSqqu7w39; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=C0ODCcmgA3ls/barov5JAxxyk2gAAAAAyJOPhjfAGkqsF5r1UvYBqw==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Iinfo: 8-4190566-4190568 NNYY CT(213 234 0) RT(1754493468624 7) q(0 0 0 -1) r(2 2) U11
+X-Xss-Protection: 1; mode=block
+
+{"timestamp":"2025-08-06T15:17:48.754+00:00","status":404,"error":"Not Found","path":"/static/shards.html"}
+[nginx-shards] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/static/shards/html
+
+
+GET /static/shards/html HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; visid_incap_3239152=rGfQjeY3TaqtjVyZiAyWQBxyk2gAAAAAQUIPAAAAAABlgJUu9S5WQqW64b47P3/o; nlbi_3239152=b4CcdiIGWDGdHjyoDOg18AAAAAA4T+9DFD6FOKeTSqqu7w39; incap_ses_237_3239152=C0ODCcmgA3ls/barov5JAxxyk2gAAAAAyJOPhjfAGkqsF5r1UvYBqw==
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/static/shards/html
+
+HTTP/1.1 404 
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Wed, 06 Aug 2025 15:17:49 GMT
+Expires: 0
+Pragma: no-cache
+Server: nginx/1.20.1
+Strict-Transport-Security: max-age=31536000
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Iinfo: 12-10111374-10111378 NNYY CT(214 231 0) RT(1754493468879 7) q(0 0 0 2) r(2 2) U11
+X-Xss-Protection: 1; mode=block
+
+{"timestamp":"2025-08-06T15:17:49.011+00:00","status":404,"error":"Not Found","path":"/static/shards/html"}

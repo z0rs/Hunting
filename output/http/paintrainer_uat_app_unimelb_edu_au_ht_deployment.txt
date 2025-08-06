@@ -1,0 +1,56 @@
+[ht-deployment] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/.htdeployment
+
+
+GET /.htdeployment HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[ht-deployment] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/.htdeployment
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 299
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:06 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.</p>
+<hr>
+<address>Apache/2.4.38 (Debian) Server at paintrainer-uat.app.unimelb.edu.au Port 80</address>
+</body></html>
+
+[ht-deployment] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/.deployment
+
+
+GET /.deployment HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[ht-deployment] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/.deployment
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+

@@ -1,0 +1,10 @@
+[CVE-2014-9094] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/wp-content/plugins/dzs-videogallery/readme
+
+
+GET /wp-content/plugins/dzs-videogallery/readme HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+

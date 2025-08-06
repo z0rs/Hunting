@@ -1,0 +1,38 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/index.php
+
+HTTP/1.1 404 
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Disposition: inline;filename=f.txt
+Content-Type: application/json
+Date: Wed, 06 Aug 2025 15:17:48 GMT
+Expires: 0
+Pragma: no-cache
+Server: nginx/1.20.1
+Set-Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3239152=3/fEPHy/Txe9RA3fJROvzxxyk2gAAAAAQUIPAAAAAAB85Ex2MMZn+T+z6vcUO6JW; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3239152=s9cJBKtR1xGX7GHgDOg18AAAAAAvW4ugkNBcltrLBQ3yZaWI; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=EV/STPWLxWGf/Larov5JAxxyk2gAAAAAoY3GD0HVRS2wZenzPqVEBQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Iinfo: 12-10111312-10111314 NNYY CT(214 235 0) RT(1754493468257 7) q(0 0 0 -1) r(2 2) U11
+X-Xss-Protection: 1; mode=block
+
+{"timestamp":"2025-08-06T15:17:48.384+00:00","status":404,"error":"Not Found","path":"/index.php"}

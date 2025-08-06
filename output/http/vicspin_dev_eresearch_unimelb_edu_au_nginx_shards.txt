@@ -1,0 +1,46 @@
+[nginx-shards] Dumped HTTP request for https://vicspin-dev.eresearch.unimelb.edu.au/static/shards.html
+
+
+GET /static/shards.html HTTP/1.1
+Host: vicspin-dev.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://vicspin-dev.eresearch.unimelb.edu.au/static/shards.html
+
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Content-Length: 13
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:15:01 GMT
+Server: nginx/1.10.3 (Ubuntu)
+Web2py_error: invalid file
+
+404 NOT FOUND
+[nginx-shards] Dumped HTTP request for https://vicspin-dev.eresearch.unimelb.edu.au/static/shards/html
+
+
+GET /static/shards/html HTTP/1.1
+Host: vicspin-dev.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://vicspin-dev.eresearch.unimelb.edu.au/static/shards/html
+
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Content-Length: 13
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:15:02 GMT
+Server: nginx/1.10.3 (Ubuntu)
+Web2py_error: invalid file
+
+404 NOT FOUND

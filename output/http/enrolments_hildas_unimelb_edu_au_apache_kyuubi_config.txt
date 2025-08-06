@@ -1,0 +1,27 @@
+[apache-kyuubi-config] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/engine-ui/0.0.0.0:4040/environment/
+
+
+GET /engine-ui/0.0.0.0:4040/environment/ HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apache-kyuubi-config] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/engine-ui/0.0.0.0:4040/environment/
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://enrolments.hildas.unimelb.edu.au/engine-ui/0.0.0.0:4040/environment/
+Set-Cookie: visid_incap_3211538=hehEqy6BS6qPF6pmNz6GoAxyk2gAAAAAQUIPAAAAAACc2uwhkCB82nA091SZsruQ; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=bYZKFLTyXTSO6barov5JAwxyk2gAAAAAUZlALPKynwbtqrSxkX8Qgw==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 8-4189734-0 0NNN RT(1754493453270 35) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

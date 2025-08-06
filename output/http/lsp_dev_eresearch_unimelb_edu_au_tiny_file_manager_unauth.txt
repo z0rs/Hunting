@@ -1,0 +1,41 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://lsp-dev.eresearch.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: lsp-dev.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://lsp-dev.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1112
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:24:47 GMT
+Etag: "1d62a71d78ca8d8"
+Last-Modified: Fri, 15 May 2020 04:32:29 GMT
+Server: Kestrel
+Strict-Transport-Security: max-age=63072000
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Dashboards</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+<link rel="stylesheet" href="styles.bcb9a134ab08fff13328.css"></head>
+<body>
+  <app-root>Loading...</app-root>
+<script src="polyfills-es5.31956ccffe7d701be1e4.js" nomodule defer></script><script src="polyfills-es2015.9be6bf3017dca1ff0ae6.js" type="module"></script><script src="scripts.a25ca18b40980557f722.js" defer></script><script src="runtime-es2015.cb08f6d088327343f4ae.js" type="module"></script><script src="main-es2015.a1ba7a101db34e5fc1f8.js" type="module"></script><script src="runtime-es5.cb08f6d088327343f4ae.js" nomodule defer></script><script src="main-es5.a1ba7a101db34e5fc1f8.js" nomodule defer></script></body>
+</html>
+

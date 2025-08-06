@@ -1,0 +1,300 @@
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/events../.git/config
+
+
+GET /events../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/events../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/assets../.git/config
+
+
+GET /assets../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/assets../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/content../.git/config
+
+
+GET /content../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/content../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/img../.git/config
+
+
+GET /img../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/img../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/media../.git/config
+
+
+GET /media../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/media../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/js../.git/config
+
+
+GET /js../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/js../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/images../.git/config
+
+
+GET /images../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/images../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/lib../.git/config
+
+
+GET /lib../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/lib../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/css../.git/config
+
+
+GET /css../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/css../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://imagebank.unimelb.edu.au/static../.git/config
+
+
+GET /static../.git/config HTTP/1.1
+Host: imagebank.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://imagebank.unimelb.edu.au/static../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://staff.unimelb.edu.au/marketing-communications/resources/find-images
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+

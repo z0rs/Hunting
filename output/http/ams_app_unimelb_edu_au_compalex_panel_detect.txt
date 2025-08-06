@@ -1,0 +1,34 @@
+[compalex-panel-detect] Dumped HTTP request for https://ams.app.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ams.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://ams.app.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Security-Policy: object-src 'none'; form-action 'self'; frame-ancestors 'none'
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-site
+Date: Wed, 06 Aug 2025 15:17:10 GMT
+Location: https://login.microsoftonline.com/0e5bf3cf-1ff4-46b7-9176-52c538c22a4d/oauth2/v2.0/authorize?client_id=c1ddac4b-8444-47b1-bf00-d2b933136e75&redirect_uri=https%3A%2F%2Fams.app.unimelb.edu.au%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access%20&code_challenge=1vofwbky3yB1FIS0j2vn9Z8zvS7lpSnIBQ0xdJU7oCI&code_challenge_method=S256&response_mode=form_post&nonce=638900902311167752.OWM5ODhkNzgtODk4OS00MmU2LWE3OTEtMmM3MDg5NzIxYTMwOGE3ZTg3ZDctZGMwNS00ODdlLTg5NTAtNmQ4ZDJhOGIxNjY5&client_info=1&x-client-brkrver=IDWeb.3.2.0.0&state=CfDJ8CXipZQV465LqqymnBIx03EdoTPBiKXyCGzQw7YYjrfs6Ii_idHxMzUzj0E6BENx8bBurNVcKop4H4YzmyRZmNuZBYDi7YZLXHBKfEaBdipXVYh_KlAXoPOJ-wrG79WHiLAxJcO4JMwVFYL12kSPlwFJUS7zvcKndPJNGoSMzQ0aRYOqCWIY-3yVgXNWbFpnaVCWj7r_Ixkc3XswCO0vVboRocn72ezVC1cPdpYw8QZ1oVXKmVEy_9EI1t5IyTKUmNdTwPoAGLKxuMAH0w2hpf-NH7V9AJ2dDkYuVhAh4h1xUXN9YA54f6fh_Xsa7wa_1Ba1PFOZbk1CdC2slSMllgRF4wswmjv9qneXGb4O4PwCzkdNjR5wUuu4hTq5s_aVgw&x-client-SKU=ID_NET9_0&x-client-ver=8.1.0.0
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), display-capture=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=()
+Referrer-Policy: strict-origin-when-cross-origin
+Request-Context: appId=cid-v1:6f0be2fe-1946-4bf1-be7f-17ef307ed2ca
+Set-Cookie: .AspNetCore.OpenIdConnect.Nonce.CfDJ8CXipZQV465LqqymnBIx03EXcytz6SZNlaiPbEltm7UjcooW9wfxeNpHyyKGAlEYaN_JWp4r4eWnx7my2l1yuC681QVN6ooJhI9iTUS3CY1P0yA1wljCvuMCfZ5zAKdMR7uoHGu9-90lEPce7AyTNiZ-cOyiP168S40QGV67LYGzQODAyQyZaTT9wxwsYH6R5BR5P5e1hrrQlsJu50GCtTo4Kz4C2O9MZGr4qChrtsMeO6ifRBdxlJDr2Q7eK1EYt7-Xw0mKGR4rhCgBAnqae-Q=N; expires=Wed, 06 Aug 2025 15:32:11 GMT; path=/signin-oidc; secure; samesite=none; httponly
+Set-Cookie: .AspNetCore.Correlation.3fZW8NWlKTH6cP3odHJtEvqOHX6wDkRSXTnCY4H9k58=N; expires=Wed, 06 Aug 2025 15:32:11 GMT; path=/signin-oidc; secure; samesite=none; httponly
+Set-Cookie: ARRAffinity=4b876821ccc2ce0b1403abe6763bc8df50aa204bb8bef2ce5d9b8572c748fe00;Path=/;HttpOnly;Secure;Domain=ams.app.unimelb.edu.au
+Set-Cookie: ARRAffinitySameSite=4b876821ccc2ce0b1403abe6763bc8df50aa204bb8bef2ce5d9b8572c748fe00;Path=/;HttpOnly;SameSite=None;Secure;Domain=ams.app.unimelb.edu.au
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Length: 0
+
+

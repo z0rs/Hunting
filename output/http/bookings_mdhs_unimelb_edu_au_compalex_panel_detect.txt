@@ -1,0 +1,28 @@
+[compalex-panel-detect] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:15 GMT
+Refresh: 0;url=Web?
+Set-Cookie: visid_incap_3209806=CWaHfPHvTFaaogo2WhR0rPtxk2gAAAAAQUIPAAAAAABfuNm3l4TbmxFvuxgx/nUo; expires=Thu, 06 Aug 2026 07:06:38 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3209806=aLydKEbAE1DeoboZO8YM8AAAAADcvwmZNAtlekp7ATkVkHlo; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=AFujdzzHFSm807arov5JA/txk2gAAAAADqaMJLu4H+A3arnVts4MHA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 9-6621951-6621952 NNNY CT(210 216 0) RT(1754493435466 49) q(0 1 1 -1) r(3 3) U24
+X-Powered-By: PHP/8.0.30
+Content-Length: 0
+
+

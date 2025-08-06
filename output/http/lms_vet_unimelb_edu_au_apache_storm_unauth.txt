@@ -1,0 +1,32 @@
+[apache-storm-unauth] Dumped HTTP request for https://lms.vet.unimelb.edu.au/api/v1/cluster/summary
+
+
+GET /api/v1/cluster/summary HTTP/1.1
+Host: lms.vet.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apache-storm-unauth] Dumped HTTP response https://lms.vet.unimelb.edu.au/api/v1/cluster/summary
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:03 GMT
+Server: Apache/2.4.62 (Debian)
+Set-Cookie: BIGipServer~app_vetlive_prod~pool_vetlive_prod_live=2035554220.47873.0000; path=/; Httponly; Secure
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at lms.vet.unimelb.edu.au Port 443</address>
+</body></html>
+

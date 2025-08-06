@@ -1,0 +1,64 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://prd01.filemaker.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: prd01.filemaker.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://prd01.filemaker.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store
+Content-Type: text/html; charset=ISO-8859-1
+Date: Wed, 06 Aug 2025 15:18:18 GMT
+Server: BigIP
+Set-Cookie: LastMRH_Session=5e180c2d;path=/;secure
+Set-Cookie: MRHSession=ec18791821a86aba1fbab02b5e180c2d;path=/;secure
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Frame-Options: DENY
+X-Iinfo: 14-12109705-12109706 NNYY CT(214 226 0) RT(1754493498250 8) q(0 0 0 1) r(2 2) U24
+
+<html>
+            <head><script src="/ctaten-looker-Banquo-Mal-What-dires-Angud-Macd-w" async></script>
+            </head>
+            <body onload="document.forms[0].submit()">
+            <noscript><p>
+                <strong>Note:</strong> Your browser does not support JavaScript,
+                Press Continue to proceed... </p>
+            </noscript>
+            <form method="POST" action="https://sso.unimelb.edu.au/app/unimelb_filemakerwebdirectprod01_1/exk1gexeykvSe8UrJ3l7/sso/saml">
+                <div>
+                   <input type="hidden" name="SAMLRequest" value="PHNhbWxwOkF1dGhuUmVxdWVzdCB4bWxuczpzYW1scD0idXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOnByb3RvY29sIiBBc3NlcnRpb25Db25zdW1lclNlcnZpY2VVUkw9Imh0dHBzOi8vcHJkMDEuZmlsZW1ha2VyLnVuaW1lbGIuZWR1LmF1L3NhbWwvc3AvcHJvZmlsZS9wb3N0L2FjcyIgRGVzdGluYXRpb249Imh0dHBzOi8vc3NvLnVuaW1lbGIuZWR1LmF1L2FwcC91bmltZWxiX2ZpbGVtYWtlcndlYmRpcmVjdHByb2QwMV8xL2V4azFnZXhleWt2U2U4VXJKM2w3L3Nzby9zYW1sIiBJRD0iXzI1MWFlZGU1Yjc3MGNiNjg1MzE1Mzc5ZWNmNTk3MmFiYmRiYjc0IiBJc3N1ZUluc3RhbnQ9IjIwMjUtMDgtMDZUMTU6MTg6MTguMDAyWiIgRm9yY2VBdXRobj0iZmFsc2UiIFByb3RvY29sQmluZGluZz0idXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOmJpbmRpbmdzOkhUVFAtUE9TVCIgVmVyc2lvbj0iMi4wIj48c2FtbDpJc3N1ZXIgeG1sbnM6c2FtbD0idXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOmFzc2VydGlvbiI+aHR0cHM6Ly9wcmQwMS5maWxlbWFrZXIudW5pbWVsYi5lZHUuYXUvc3A8L3NhbWw6SXNzdWVyPjxzYW1scDpOYW1lSURQb2xpY3kgQWxsb3dDcmVhdGU9InRydWUiLz48L3NhbWxwOkF1dGhuUmVxdWVzdD4="/> </div>
+                <noscript><div>
+                    <input type="submit" value="Continue"/>
+                </div>
+                </noscript>
+            </form>
+            <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=646648904" async></script></body>
+        </html>
+[tiny-file-manager-unauth] Dumped HTTP response https://prd01.filemaker.unimelb.edu.au/index.php
+
+HTTP/1.0 302 Found
+Connection: close
+Location: /my.policy
+Server: BigIP
+Set-Cookie: LastMRH_Session=5e180c2d;path=/;secure
+Set-Cookie: MRHSession=dba121f0de103fc54ab3751e5e180c2d;path=/;secure
+Set-Cookie: MRHSHint=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/;secure
+Set-Cookie: visid_incap_3237779=0fHnWRznSBm7HalcRBpe2Dlyk2gAAAAAQUIPAAAAAAAvfb1Klh6mZYTUi5O0JWHU; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.filemaker.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3237779=ML6hdj8obAWb1lkHKCmRBAAAAABsJ6n4UIN9bTJQZhZ3DUdN; HttpOnly; path=/; Domain=.filemaker.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3237779=zYtjCDaQb0HXIberov5JAzlyk2gAAAAADavC6PCZznUnBwve7ODM+A==; path=/; Domain=.filemaker.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 14-12109609-12109611 NNNN CT(225 358 0) RT(1754493497431 7) q(0 0 5 -1) r(8 8) U24
+Content-Length: 0
+
+

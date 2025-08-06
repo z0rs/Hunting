@@ -1,0 +1,476 @@
+[gopher-server] Dumped HTTP request for https://agoswiki.earthsci.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: agoswiki.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[gopher-server] Dumped HTTP response https://agoswiki.earthsci.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 20015
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:12 GMT
+Etag: "4e2f-5ccf181fc565f"
+Last-Modified: Mon, 27 Sep 2021 03:15:23 GMT
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+Set-Cookie: BIGipServer~app_science_web_prod~pool_science_web_prod_bachelor2_all_sites=1682184108.20480.0000; path=/; Httponly; Secure
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+
+  <meta https-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  <title>AUSHEP</title>
+  <style type="text/css">
+    a:link {
+      text-decoration: none;
+    }
+
+    a:visited {
+      text-decoration: none;
+    }
+
+    a:active {
+      text-decoration: underline;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<script LANGUAGE="JavaScript">//<!--
+  function DisplayMail(Server, Login, Display) {
+    if ((Display.length == 0) || (Display.indexOf('@') + 1)) {
+      document.write("<A HREF=" + "'mai" + "lto:" + Login + "@" + Server + "'>" + Login + "@" + Server + "</A>");
+    }
+    else {
+      document.write("<A HREF=" + "'mai" + "lto:" + Login + "@" + Server + "'>" + Display + "</A>");
+    }
+  }
+                                //-->
+</script>
+<center>
+  <table cellpadding="2" cellspacing="2" border="0" style="text-align: left; width: 80%;">
+    <tbody>
+      <tr>
+        <td style="vertical-align: top; text-align: center;">
+          <h1><b>
+              <font color="#ff0000"><img src="https://aushep.org.au/AusHEP-colour-large.jpg" title="" alt="aushep-logo"
+                  style="height: 225px;"></font>
+            </b></h1>
+        </td>
+        <td style="vertical-align: top;">
+          <br>
+          <br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</center>
+<center><br>
+  <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><span style="font-weight: bold;">
+      [<a href="https://aushep.org.au/#General_Information">General Info</a>]
+      [<a href="https://aushep.org.au/#Our_Objectives">Objectives</a>]
+      [<a href="https://aushep.org.au/#CDMPP">CDMPP</a>]
+      [<a href="https://aushep.org.au/#CoEPP">CoEPP</a>]
+      [<a href="https://aushep.org.au/#Experimental_Physics">Experimental</a>]
+      [<a href="https://aushep.org.au/#Theoretical_Physics">Theoretical</a>]
+      [<a href="https://aushep.org.au/#Medical">Medical Physics</a>]
+      [<a href="https://aushep.org.au/#Future">Future</a>]
+      [<a href="https://aushep.org.au/#Contact">Contact</a>]
+      [<a href="https://aushep.org.au/#HEP_Links">HEP Links</a>]</span>
+    </font><br>
+  <div style="text-align: left;"><br>
+  </div>
+  <table cellpadding="10" cellspacing="2" border="0" style="text-align: left; background-color: #FFFFFF; width: 90%;">
+    <tbody>
+      <tr>
+
+        <!--      <td style="vertical-align: top;"><font color="#ff0000" size="4"
+ face="COPPERPLATE GOTHIC BOLD"><span style="font-weight: bold;">LINKS<br>
+      <br>
+      </span></font><span style="font-weight: bold;"><br>
+      </span>
+      <hr style="width: 100%; height: 2px;"><span
+ style="font-weight: bold;"></span><font color="#ff0000" size="4"
+ face="COPPERPLATE GOTHIC BOLD"><span style="font-weight: bold;"></span></font><span
+ style="font-weight: bold; color: rgb(255, 0, 0);">Experiments&nbsp;</span><span
+ style="color: rgb(255, 0, 0);"> <br>
+      </span> <a href="https://aushep.org.au/belle.html">Belle</a><br>
+      <small><b><a href="https://aushep.org.au/atlas.html">ATLAS</a><br>
+      </b><b><a href="https://aushep.org.au/nomad.html">NOMAD</a><br>
+      </b></small>
+      <hr style="width: 100%; height: 2px;"><small><big
+ style="color: rgb(255, 0, 0); font-weight: bold;">Universities</big><b><br>
+      </b></small><a href="https://www.physics.usyd.edu.au/hienergy/">Sydney</a><br>
+      <a href="https://www.physics.adelaide.edu.au/cssm/">Adelaide</a><br>
+      <a href="https://www.uow.edu.au/eng/phys/rpg/">Wollongong</a><br>
+      <a href="https://epp.ph.unimelb.edu.au/twiki/bin/view/EPP/WebHome">Melbourne-exp</a><br>
+      <small><big><a href="https://www.ph.unimelb.edu.au/theory/">Melbourne-theory</a></big>&nbsp;</small>
+      <br>
+      <hr style="width: 100%; height: 2px;"><a href="https://aushep.org.au/resources.html">HEP
+resources</a><br>
+      </td> -->
+
+        <td> </td>
+
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><span style="font-weight: bold;"><a
+                  name="General_Information"></a>General Information</span><b><br>
+                <br>
+              </b></font>
+            <div style="text-align: justify;">
+              <p>High Energy Particle Physics (HEP) is an exciting, high
+                profile discipline which explores the basic structure of matter and the
+                fundamental forces in nature. Armed with our present knowledge we can
+                scientifically approach some of the most fundamental intellectual
+                questions ever asked: What was the universe like a billionth of a
+                second
+                after it was created? What will be its fate? What is the origin of
+                mass? What is the identity of Dark Matter? Why does the universe have more matter than anti-matter?
+                Is matter intrinsically stable? </p>
+
+
+
+              <p>The Australian Institute for High Energy Physics (AUSHEP) was
+                founded in 1989 on the initiative of the High Energy Physics groups
+                from
+                the Universities of
+                <a href="https://www.ph.unimelb.edu.au/">Melbourne</a>
+                and <a href="https://www.sydney.edu.au/science/our-research/research-areas/physics/particle-physics-group.html">
+                  Sydney</a>.
+
+
+              <p>
+                Current AUSHEP members are:
+              <p>
+                <b> Full members: </b>
+                <li> <a href="https://sciences.adelaide.edu.au/physical-sciences/research/physics-research/cssm">The University of Adelaide</a> </li>
+                <li> <a href="https://www.ph.unimelb.edu.au/">The University of Melbourne</a> </li>
+                <li> <a href="https://sydney.edu.au/science/physics/"> The University of Sydney</a> </li>
+                <li> <a href="https://eis.uow.edu.au/physics/">The University of Wollongong</a> </li>
+                <li> <a href="https://www.ansto.gov.au/">The Australian Nuclear Science and Technology Organisation
+                    (ANSTO)</a> </li>
+                <li> <a href="https://www.monash.edu/science/schools/physics">Monash University</a> </li>
+                <li> <a href=https://www.physics.uwa.edu.au/>The University of Western Australia</a> </li>
+              <p>
+                <b> Associate members: </b>
+                <li> <a href="https://www.phys.unsw.edu.au/">The University of N.S.W.</a> </li>
+            </div>
+          </center>
+        </td>
+      </tr>
+
+
+
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"> <b><a name="Our_Objectives"></a>Our
+                Objectives<br>
+              </b></font>
+          </center>
+          <ul>
+            <li>To promote and coordinate research in HEP in Australia.</li>
+            <li>To encourage theoretical HEP, and in particular the
+              symbiosis between theory and experiment.</li>
+            <li>With the consent of the members to act as the
+              representative body in Australia in a large number of areas, both
+              domestic and international.</li>
+            <li>The promotion and coordination of cooperation in the
+              sharing of resources.</li>
+            <li>The coordination of courses, specialised schools and
+              workshops, and the organisation of public lectures. </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"> <b><a name="CDMPP"></a> ARC Centre of
+                Excellence for Dark Matter Particle Physics<br>
+              </b></font>
+          </center>
+          <ul>
+            The <a href = "https://www.centredarkmatter.org/">ARC Centre of Excellence for Dark Matter Particle Physics</a> brings together experts from across Australia and
+            internationally to unlock the secrets of dark matter and foster the science and engineering leaders of the future. The centre brings together experimental and theoretical physicists across Australia,
+            with expertise in particle, nuclear, astro and quantum physics. It will explore the particle nature of dark matter using state-of-the-art experiments based in Australia and overseas
+            and create new theories of Nature that contain dark matter particles and describe their interactions.
+
+          </ul>
+        </td>
+      </tr>
+      <tr>
+
+
+
+
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"> <b><a name="CoEPP"></a> ARC Centre of
+                Excellence for Particle Physics at the Terascale (CoEPP) <br>
+              </b></font>
+          </center>
+          <ul>
+            The <a href="http://www.coepp.org.au/"> ARC Centre of Excellence for Particle Physics at the Terascale
+              (CoEPP)</a> was established in 2011 through the award of an
+            Australian Research Council grant of around $25 million over seven years.
+            The Centre was a collaborative research venture between the University of Melbourne, the University of
+            Adelaide, the University of Sydney and Monash University, with the
+            University of Melbourne hosting the head office. Bringing together theoretical and
+            experimental physicists, CoEPP enabled participation in the ATLAS experiment at the Large Hadron
+            Collider (LHC) at CERN in Geneva. Through CoEPP, Australian physicists participated in the discovery of the Higgs boson at the LHC.
+            CoEPP leaves a legacy of an expanded and coordinated effort in theoretical and experimental particle physics research
+            across Australia.
+
+          </ul>
+        </td>
+      </tr>
+      <tr>
+
+
+
+
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"> <b><a
+                  name="Experimental_Physics"></a>Experimental
+                Physics <br>
+                <br>
+              </b></font>
+            <div style="text-align: left;">Australian high energy physicists
+              participate in a number of international collaborative experiments at
+              the frontier of science and technology. We play an integral role in
+              their construction, maintenance and operation, as well as working
+              together with other institutes to interpret the final results. The
+              main experiments in which AUSHEP member institutes participate are:</div>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><b>
+              </b></font>
+            <div style="text-align: justify;">
+              <ul>
+                <li><a href="https://atlas.cern/">ATLAS</a>
+                  - situated at <a href="https://www.cern.ch/">CERN</a> (European
+                  Laboratory for Particle Physics) in Switzerland and France</li>
+                <li><a href="https://home.cern/science/experiments/lhcb">LHCb</a> - also at CERN</li>
+                <li><a href="https://www.belle2.org//">Belle II</a>
+                  - situated at <a href="https://www.kek.jp/">KEK</a> (High Energy
+                  Accelerator Research Organisation) in Japan</li>
+                <li><a href = "https://depts.washington.edu/admx/">ADMX</a> - situated at the University of Washington</li>
+                <li><a href="https://www.centredarkmatter.org/all-posts/sabre-south-and-supl-pprrl">SABRE-south</a>
+                  <!-- changed link, more appropriate one? -->
+                  - dark matter direct detection experiment situated at <a href="https://www.supl.org.au/">SUPL</a>
+                  <!--changed link-->
+                  (Stawell Underground Physics Laboratory) in Victoria, Australia
+                </li>
+              </ul>
+              <!-- --><div style="text-align: left;">
+              <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><b>
+                </b></font>
+              <div style="text-align: justify;">
+                <ul>
+                 
+                </ul>
+               
+          </center>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"> <b><a
+                  name="Theoretical_Physics"></a>Theoretical
+                Physics<br>
+              </b></font>
+            <div style="text-align: justify;">
+              <p>For more information about theoretical particle physics in
+                Australia please visit: </p>
+              <ul>
+                <li><a href="https://sciences.adelaide.edu.au/physical-sciences/research/physics-research/cssm">University of Adelaide</a> - Special Research
+                  Centre for the Subatomic Structure of Matter</li>
+                <li><a href="https://particletheory.science.unimelb.edu.au/">University of Melbourne</a> - Theoretical Particle
+                  Physics Group</li>
+                <li><a href="https://www.sydney.edu.au/science/our-research/research-areas/physics/particle-physics-group.html">University of Sydney</a> -
+                  Particle Physics Group</li>
+                <li><a href="https://www.monash.edu/science/schools/physics/research/research-groups/particle-physics">Monash
+                    University</a> - Particle Physics Group
+                </li>
+
+
+
+              </ul>
+              <h2><br>
+              </h2>
+            </div>
+          </center>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top; text-align: center;">
+          <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><b><a name="Medical"></a>Medical Physics<br>
+              <br>
+            </b></font>
+          <ul style="text-align: left;">
+            <li><a
+                href="https://www.uow.edu.au/engineering-information-sciences/research/centre-medical-radiation-physics/">CMRP</a> - Centre for Medical Radiation Physics (University of Wollongong)</li>
+          </ul>
+          <br>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;">
+          <center>
+            <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"> <b><a name="Future"></a>Future<br>
+              </b></font>
+            <div style="text-align: justify;">
+              <p>
+                Bodies and projects charting the future of the field.
+              <ul>
+                <li><a href="https://icfa.hep.net/">
+                    ICFA</a> - The International Committee for Future Accelerators
+                </li>
+                <li><a href="http://www.acfa-forum.net/">ACFA
+                  </a> - The Asian Committee for Future Accelerators</li>
+                <li><a href="https://www.linearcollider.org/cms/">
+                    ILC</a> - The International Linear Collider
+                </li>
+                <li><a href = "https://fcc.web.cern.ch/Pages/default.aspx">FCC</a> - The Future Circular Collider</li>
+                <li><a href = "https://clic.cern/">CLIC</a> - The Compact Linear Collider</li>
+              </ul>
+              <h2><br>
+              </h2>
+            </div>
+          </center>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top; text-align: center;">
+          <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><b><a name="Contact"></a>Contact<br>
+            </b></font>Further information on the program at each institute,
+          with contact names and addresses, can be obtained from the associated
+          web pages found here, or by contacting:<br>
+          <br>
+          <table cellpadding="2" cellspacing="10" border="0"
+            style="text-align: left; margin-left: auto; margin-right: auto; width: 100%; height: 100%;">
+            <tbody>
+              <tr>
+                <td style="width: 50%; vertical-align: middle; text-align: left;"><span
+                    style="font-weight: bold;">Chairperson: <br>
+                    Professor Geoffrey Taylor</span><br>
+                  School of Physics<br>
+                  The University of Melbourne<br>
+                  Victoria 3010 Australia<br>
+                  Phone: +61 3 8344.5456&nbsp;&nbsp; <br>
+                  Fax: +61 3 9347.4783<br>
+                  Email:
+                  <SCRIPT LANGUAGE="javascript">DisplayMail('unimelb.edu.au', 'gntaylor',
+                      '');</SCRIPT>
+                </td>
+                <td style="vertical-align: middle; text-align: left;"><span style="font-weight: bold;">
+                    Secretary and Treasurer: <br>
+                    Professor Nicole Bell</span><br>
+                  School of Physics<br>
+                  The University of Melbourne<br>
+                  Victoria 3010 Australia<br>
+                  Phone: +61 3 8344.3112&nbsp;&nbsp; <br>
+                  Fax: +61 3 9347.4783<br>
+                  Email:
+                  <SCRIPT LANGUAGE="javascript">DisplayMail('unimelb.edu.au', 'n.bell',
+                      '');</SCRIPT>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top; text-align: center;">
+          <font color="#ff0000" size="4" face="COPPERPLATE GOTHIC BOLD"><b><a name="HEP_Links"></a>HEP Links <br>
+              <br>
+            </b></font>
+          <ul style="text-align: left;">
+            <li><a href="https://ccwww.kek.jp/pdg/particleadventure/index.html">The
+                Particle Adventure</a> an introduction to particle (high energy)
+              physics</li>
+            <li><a href="https://pdg.lbl.gov/">Particle Data Group</a> </li>
+            <li><a href="https://inspirehep.net/">INSPIRE</a>
+              (High Energy Physics Literature Database) including...</li>
+            <ul>
+              <li><a href="https://www-spires.fnal.gov/spires/experiments">HEP
+                  Experiments List</a> </li>
+            </ul>
+            <li><a href="https://www.cern.ch/Physics/HEP.html">World Wide
+                Web Index of High Energy Physics</a> </li>
+            <li><a href="https://www.einet.net/directory/14915/High_Energy_and_Particle_Physics.htm">eiNET
+                Index of High Energy and Particle Physics</a></li>
+            <li><a href="https://www.interactions.org/cms/">interactions.org</a>
+              - A communication resource for particle physics labs<b><br>
+              </b></li>
+            <li><a href = "https://ippog.org/">The International Particle Physics Outreach Group (IPPOG)</a></li>
+          </ul>
+          <br>
+        </td>
+      </tr>
+      
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;"><br>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;"><br>
+        </td>
+        <td style="vertical-align: top;"><br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <br clear="all">
+  <hr style="width: 100%; height: 2px;">
+  <div style="text-align: left;">Created: October 2003<br>
+    Last Modified: 1 March 2016<br>
+    Maintained by: Nicole Bell
+  </div>
+
+</center>
+</body>
+
+</html>
+

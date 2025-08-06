@@ -1,0 +1,2982 @@
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/particletheory.science.unimelb.edu.au.sql
+
+
+GET /particletheory.science.unimelb.edu.au.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/particletheory.science.unimelb.edu.au.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/site.sql
+
+
+GET /site.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/site.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/backup.sql
+
+
+GET /backup.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/backup.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/mysqldump.sql
+
+
+GET /mysqldump.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-content/mysql.sql
+
+
+GET /wp-content/mysql.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/mysqldump.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/wp-content/mysql.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/dump.sql
+
+
+GET /dump.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/dump.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/sql.sql
+
+
+GET /sql.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/sql.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/db_backup.sql
+
+
+GET /db_backup.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/db_backup.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/translate.sql
+
+
+GET /translate.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/translate.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/database.sql
+
+
+GET /database.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/database.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/dbdump.sql
+
+
+GET /dbdump.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/dbdump.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/data.sql
+
+
+GET /data.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/data.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/1.sql
+
+
+GET /1.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/temp.sql
+
+
+GET /temp.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/1.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/temp.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-content/uploads/dump.sql
+
+
+GET /wp-content/uploads/dump.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/wp-content/uploads/dump.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/localhost.sql
+
+
+GET /localhost.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/localhost.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/db.sql
+
+
+GET /db.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/users.sql
+
+
+GET /users.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/db.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/users.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/www.sql
+
+
+GET /www.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/www.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/particletheory.science.unimelb.edu.au_db.sql
+
+
+GET /particletheory.science.unimelb.edu.au_db.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/particletheory.science.unimelb.edu.au_db.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff
+[mysql-dump] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/mysql.sql
+
+
+GET /mysql.sql HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response (Truncated) https://particletheory.science.unimelb.edu.au/mysql.sql
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forbidden</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+	<style>
+		html {
+			display: table;
+			height: 100%;
+			width: 100%;
+			color: #1A1A1A;
+		}
+	
+		body {
+			display: table-cell;
+			vertical-align: middle;
+			margin: 0;
+			padding: 5px;
+		}
+	
+		.content {
+			padding: 20px;
+			border-radius: 20px;
+			border: 1px solid #AAAAAA;
+			max-width: 700px;
+			margin: auto;
+			display: flex;
+			flex-direction: column;
+			gap: 20px;
+			box-sizing: border-box;
+	
+			@media (min-width: 1068px) {
+				padding: 50px;
+				gap: 30px;
+			}
+		}
+	
+		.content__copy {
+			display: flex;
+			flex-direction: column;
+			gap: 10px;
+		}
+	
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p {
+			margin: 0;
+		}
+	
+		h1 {
+			color: #1A1A1A;
+			font: 700 44px/56px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-weight: 700;
+				font-size: 58px;
+				line-height: 64px;
+			}
+		}
+	
+		p {
+			color: #1A1A1A;
+			font: 400 20px/30px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: -0.2px;
+	
+	
+			@media (min-width: 1068px) {
+				font-size: 24px;
+				line-height: 36px;
+			}
+		}
+	
+		span {
+			font: 500 13px/20px 'Inter', 'Helvetica', sans-serif;
+			letter-spacing: .2px;
+			display: inline-block;
+		}
+	
+		ul {
+			list-style: disc;
+		}
+	
+		ol {
+			list-style: decimal;
+		}
+	
+		ul,
+		ol {
+			margin: 0 0 10px 0;
+			padding: 0 0 0 30px;
+	
+			li {
+				font: 500 15px/30px 'Inter', 'Helvetica', sans-serif;
+				letter-spacing: -0.2px;
+	
+				@media (min-width: 1068px) {
+					font-size: 18px;
+					line-height: 32px;
+				}
+	
+				margin-bottom: 0;
+			}
+		}
+	
+		.btn {
+			appearance: none;
+			background: #0057FF;
+			border-radius: 27px;
+			border: 1px solid #0057FF;
+			box-shadow: none;
+			box-sizing: border-box;
+			color: #ff

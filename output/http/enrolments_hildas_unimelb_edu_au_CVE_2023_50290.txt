@@ -1,0 +1,27 @@
+[CVE-2023-50290] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/solr/admin/metrics
+
+
+GET /solr/admin/metrics HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2023-50290] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/solr/admin/metrics
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://enrolments.hildas.unimelb.edu.au/solr/admin/metrics
+Set-Cookie: visid_incap_3211538=qOfE+rjGQtmVvlJ6psiovQxyk2gAAAAAQUIPAAAAAAAK3l1sCF1MMd0x/gz621Gl; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=qzlWBE5yKQqg6barov5JAwxyk2gAAAAAzGt9mWWzE/1//1U7sQx/bg==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 8-4189733-0 0NNN RT(1754493453270 52) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

@@ -1,0 +1,44 @@
+[compalex-panel-detect] Dumped HTTP request for https://search.informit.com.au.ezp.lib.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: search.informit.com.au.ezp.lib.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://search.informit.com.au.ezp.lib.unimelb.edu.au/db/
+
+
+GET /db/ HTTP/1.1
+Host: search.informit.com.au.ezp.lib.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://search.informit.com.au.ezp.lib.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: search.informit.com.au.ezp.lib.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://search.informit.com.au.ezp.lib.unimelb.edu.au/sql/
+
+
+GET /sql/ HTTP/1.1
+Host: search.informit.com.au.ezp.lib.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

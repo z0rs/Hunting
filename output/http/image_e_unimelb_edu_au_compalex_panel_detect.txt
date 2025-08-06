@@ -1,0 +1,23 @@
+[compalex-panel-detect] Dumped HTTP request for https://image.e.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: image.e.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://image.e.unimelb.edu.au
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 10
+Accept-Ranges: bytes
+Date: Wed, 06 Aug 2025 15:17:43 GMT
+Nslocation: /
+Server: AkamaiNetStorage
+
+Not found
+

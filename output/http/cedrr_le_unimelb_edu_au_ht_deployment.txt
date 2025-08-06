@@ -1,0 +1,69 @@
+[ht-deployment] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/.htdeployment
+
+
+GET /.htdeployment HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[ht-deployment] Dumped HTTP response https://cedrr.le.unimelb.edu.au/.htdeployment
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/.htdeployment
+Set-Cookie: visid_incap_3239149=KWeu/PwORVuENZn7zSDswQRyk2gAAAAAQUIPAAAAAABapOqWopnbTdEKhM/0QFmA; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=YEg1FKwnImfK37arov5JAwRyk2gAAAAA058H2CPmlmlXXU7eCLCAow==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 12-10108149-0 0NNN RT(1754493445201 18) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[ht-deployment] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/.deployment
+
+
+GET /.deployment HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: visid_incap_3239149=KWeu/PwORVuENZn7zSDswQRyk2gAAAAAQUIPAAAAAABapOqWopnbTdEKhM/0QFmA; incap_ses_237_3239149=YEg1FKwnImfK37arov5JAwRyk2gAAAAA058H2CPmlmlXXU7eCLCAow==
+Accept-Encoding: gzip
+
+
+[ht-deployment] Dumped HTTP response https://cedrr.le.unimelb.edu.au/.deployment
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:25 GMT
+Server: nginx/1.20.1
+Set-Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; path=/; Httponly; Secure
+Set-Cookie: nlbi_3239149=ojN6KWUJoGNoHV7YuIX5SQAAAACbRJgtCVTBR4qX2V1PzmSl; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 7-6737410-6737414 NNYN CT(213 231 0) RT(1754493445231 10) q(0 0 4 0) r(6 6) U11
+
+<html>
+<head><script src="/c-O-Scotland-Lady-Macb-Ile-And-Seyward-my-forge-" async></script><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.20.1</center>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=168614497" async></script></body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

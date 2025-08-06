@@ -1,0 +1,41 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://youthview-uat.app.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: youthview-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://youthview-uat.app.unimelb.edu.au/index.php
+
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:05 GMT
+Set-Cookie: visid_incap_3181549=P9AxglyiT8+o7i6TGVAWl2lyk2gAAAAAQUIPAAAAAAD2t+jhwe8bUCUV1XCOyxax; expires=Thu, 06 Aug 2026 08:08:46 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3181549=BE1SLNjve3QtaEQnwuZOOAAAAAB2HHL4hj1jJvsacYMMklsC; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3181549=HbObEG6weTlZHW1VQi5fFWlyk2gAAAAAEmM98V9WfzXxLKv725YbuA==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Www-Authenticate: Basic realm="Restricted Content"
+X-Cdn: Imperva
+X-Iinfo: 11-7270064-7270066 NNYY CT(206 213 0) RT(1754493545582 8) q(0 1 1 -1) r(3 3) U24
+
+<html>
+<head><script src="/accust-And-All-truth-In-Exeunt-fell-made-and-Pin" async></script><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx/1.27.3</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

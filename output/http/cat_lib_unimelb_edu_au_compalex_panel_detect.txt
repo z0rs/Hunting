@@ -1,0 +1,469 @@
+[compalex-panel-detect] Dumped HTTP request for https://cat.lib.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: cat.lib.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://cat.lib.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store
+Content-Security-Policy: default-src 'self' http://syndetics.com https://secure.syndetics.com http://libraryh3lp.com https://libraryh3lp.com https://s7.addthis.com https://unbound.syndetics.com https://cat2.lib.unimelb.edu.au https://www.google-analytics.com https://ajax.googleapis.com https://ltfl.librarything.com https://script.crazyegg.com/ cat2.lib.unimelb.edu.au; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://google.com https://*.google.com https://maps.googleapis.com https://ebscohost.com https://*.ebscohost.com https://cdn.appdynamics.com https://prototypejs.org https://o.aolcdn.com https://s7.addthis.com https://www.gstatic.com http://syndetics.com https://secure.syndetics.com http://libraryh3lp.com https://libraryh3lp.com https://s7.addthis.com https://unbound.syndetics.com https://cat2.lib.unimelb.edu.au https://www.google-analytics.com https://ajax.googleapis.com https://ltfl.librarything.com https://script.crazyegg.com; connect-src 'self' https://col.eum-appdynamics.com http://syndetics.com https://secure.syndetics.com http://libraryh3lp.com https://libraryh3lp.com https://s7.addthis.com https://unbound.syndetics.com https://cat2.lib.unimelb.edu.au https://www.google-analytics.com https://ajax.googleapis.com https://ltfl.librarything.com https://script.crazyegg.com/;  upgrade-insecure-requests; block-all-mixed-content; style-src 'unsafe-inline' https:; img-src https: blob: data:; media-src https: blob: data:; font-src https: data:; object-src 'none';
+Content-Security-Policy: frame-ancestors 'self'  canvas.lms.unimelb.edu.au;
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:27 GMT
+Expires: Wed, 06 Aug 2025 15:17:27 GMT
+Pragma: no-cache
+Server: III 100
+Set-Cookie: PAT_LOGGED_IN=; domain=.lib.unimelb.edu.au; expires=Thu, 1 Jan 1970 00:00:00 GMT; SameSite=Lax; HttpOnly; Secure; path=/
+Set-Cookie: SESSION_LANGUAGE=eng; path=/; domain=.lib.unimelb.edu.au; SameSite=Lax; HttpOnly
+Set-Cookie: III_EXPT_FILE=aa3683972; path=/; domain=.lib.unimelb.edu.au; SameSite=Lax; HttpOnly
+Set-Cookie: III_SESSION_ID=11d675eebf710602f20c4bd4a81cf318; domain=.lib.unimelb.edu.au; SameSite=Lax; HttpOnly; path=/
+Set-Cookie: SESSION_SCOPE=30; SameSite=Lax; HttpOnly; path=/
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding,User-Agent
+X-Content-Type-Options: nosniff
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- Rel 2009B Example Set -->
+<!-- Updated: 09 June 2010 -->
+<head>
+<link rel="stylesheet" type="text/css" href="/scripts/ProStyles.css" />
+<link rel="stylesheet" type="text/css" href="/screens/styles.css" />
+<script type="text/javascript" src="/scripts/elcontent.js"></script>
+<script type="text/javascript" src="/scripts/common.js"></script>
+<script type="text/javascript" src="/scripts/webbridge.js"></script>
+
+<title>Catalogue : Library : The University of Melbourne</title>
+<meta name="google-site-verification" content="SLoDGrGcYGk8nQABt-HeplWqZFmXY7s7AVrG6-RSWzI" />
+<meta http-equiv="X-UA-Compatible" content="IE=8;FF=3;OtherUA=4">
+<link rel="stylesheet" type="text/css" href="/screens/styles_print.css" media="print">
+<!--<link rel="stylesheet" type="text/css" href="/screens/stylesmain.css" > Un-comment to offer a larger logo on mainmenu.-->
+<script type="text/javascript">/* <![CDATA[ */
+function iiiSearchValidate() {
+	try{
+	  if (document.getElementById('search').searcharg.value==null||document.getElementById('search').searcharg.value=="") {
+		return false;
+		}
+	}
+	catch(err) {
+	}
+  return true;
+}
+
+function iiiDoSubmit_1()
+{
+//getFormHandleForm() is in common.js
+var obj = getFormHandleForm(1);
+if(iiiSearchValidate()){
+obj.submit();
+}
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="/screens/iiilangswitch.js"></script>
+<link href="//fonts.googleapis.com/css?family=Roboto:500,300,700,300italic" rel="stylesheet" type="text/css"> 
+<style>
+.submitButton span { display: none; }
+.submitButton:after { content: "Search"; }
+</style>
+<!--[if lt IE 8]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<!-- begin toplogo.html file -->
+<!-- Rel 2009B Example Set -->
+<!-- Updated: 06 Oct 2010 -->
+
+<script type="text/javascript">
+if (document.body){document.body.className = "bodybg";}
+</script>
+
+<div class="minHeight">
+<div class="fullPage">
+
+<div id="skipNav"><a href="#content" tabindex="1">Skip to content</a></div>
+<div class="topLogo">
+<!-- PC added -->
+<div id="homelink"><a href="http://www.unimelb.edu.au/"><span>University of Melbourne home page</span></a></div>
+</div>
+<!-- PC added end -->
+
+<!-- PC adding print and help links to topMyLibrary
+<div class="topLinks">
+<ul id="topLinksList">
+
+<li><a href="/help" tabindex="110">Help</a></li>
+<li><a href="#" onClick="window.print();" tabindex="100"><span class="buttonTopLinks"><img src="ico_printer.gif" alt=""><span class="buttonTopLinksText">Print</span></span></a></li>
+</ul>
+</div>
+-->
+<!-- PC remove 
+<div class="topLogoSmall">
+<a href="/" tabindex="10"><img src="logo_sm.jpg" height="40" width="280" alt="Catalogue Home Page"></a>
+</div> -->
+
+</div><!--topLogo-->
+
+
+<div class="topMyLibrary">
+<div id="topMyLibraryHeader"><h1>My Library</h1></div>
+
+<ul id="toplogoMoreNav">
+<!-- Toplogo alt links. -->
+<!--<li><a href="/acquire">Suggest a purchase</a></li>
+<li><a href="/suggest">Leave Comments</a></li>
+-->
+
+<li id="mainmenu"><a href="/search/">New Search</a></li>
+
+<li id="mainmenu"><a href="https://discovery.ebsco.com/c/xppotz/">Discovery</a>
+
+<!--<li id="mainmenu"><a href="https://search.ebscohost.com/login.aspx?direct=true&scope=site&type=0&site=eds-live&custid=s2775460&groupid=main&profid=eds&lang=en&authtype=shib&ssl=Y">Discovery</a></li>-->
+
+<!--<li id="mainmenu"><a href="https://search.ebscohost.com/login.aspx?direct=true&scope=site&type=0&site=eds-live&custid=s2775460&groupid=main&profid=eds&lang=en&authtype=cookie,ip,shib">Discovery</a></li>-->
+
+<li id="mainmenu"><a href="http://library.unimelb.edu.au/borrowing/borrowing_at_other_unis/interlibrary_loans">Inter-library Loans</a></li>
+<!---<li id="mainmenu"><a href="http://bonus.caval.edu.au/">Bonus+</a></li>--->
+<li id="mainmenu"><a href="http://www.library.unimelb.edu.au/">Library Home</a></li>
+<li id="unilogin"><a href="/patroninfo">Login</a></li>
+<!---<li id="guestlogin"><a href="https://cat2.lib.unimelb.edu.au/patroninfo">Guest Login</a></li>--->
+<li id="print" ><a href="#" onClick="window.print();" tabindex="100"><span class="buttonTopLinks"><img src="/screens/ico_printer.gif" alt=""><span class="buttonTopLinksText">Print</span></span></a></li>
+
+
+
+<!---
+
+	<li id="first">
+	<div><a href="/patroninfo">University Login</a></div>
+	<ul>
+            <li><a href="http://tabby.lib.unimelb.edu.au/patroninfo">Guest Login</a></li>
+           <li><a href="http://tabby.lib.unimelb.edu.auself_registration.html">Register as borrower (CAVAL, ULANZ, & International Universities)</a></li>
+            <li><a href="http://www.library.unimelb.edu.au/">Library Home Page</a></li>
+		</ul>
+	</li>
+	<li>
+		<div><a href="/help">Help Topics</a></div>
+		<ul>
+			<li><a href="/help#searching">Searching</a></li>
+			<li><a href="/help#searchtips">Advanced Keyword Search Tips</a></li>
+			<li><a href="/help#prefsearch">Saving your searches</a></li>
+			<li><a href="/help#renewals">Renewals</a></li>
+			<li><a href="/help#feepay">Fee Payment</a></li>
+			<li><a href="/help#rpro">Research Pro</a></li>
+			<li><a href="/help#programs">Library Events and Community Programs</a></li>
+		</ul>
+	</li>
+	<li id="last">
+		<div><a href="#">Features</a></div>
+		<ul>
+     
+            <li><a href="/ftlist">Featured Lists</a></li>
+
+            <li><a href="/search/y">Find e-resources</a></li>
+            <li><a href="http://library.unimelb.edu.au/borrowing/borrowing_at_other_unis/interlibrary_loans">Interlibrary Loan</a></li>
+		</ul>
+	</li>
+---->
+
+
+    
+</ul>
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+//Enable optional dropdown menu for additional navigation options.
+if (document.all&&document.getElementById) {
+	navRoot = document.getElementById("toplogoMoreNav");
+	for (i=0; i<navRoot.childNodes.length; i++) {
+		node = navRoot.childNodes[i];
+		if (node.nodeName=="LI") {
+			node.onmouseover=function() {
+				this.className+=" over";
+			}
+			node.onmouseout=function() {
+				this.className=this.className.replace(" over", "");
+			}
+		}
+	}
+}
+
+//--><!]]></script>
+
+</div><!--myLibrary-->
+<div class="topNavClear"></div>
+<!-- PC add -->
+<div class="blockBanner">
+<h1><span>University Library</span><a href="/">Catalogue</a></h1>
+</div>
+
+<div class="searchNav">
+<script language="JavaScript"> 
+<!--
+function GotoURL() { 
+//top.location.href = dl.specializedSearch.options[dl.specializedSearch.selectedIndex].value;
+window.location.assign(document.getElementById("specializedSearch").value);
+return false;
+} 
+// -->
+</script>
+<div id="searchNavMenu">
+<select name="specializedSearch" id="specializedSearch">
+<option selected="selected" value=" ">(More Searches)</option>
+<option value="/search/X">Advanced Keyword</option>
+<option value="/search/t">Title</option>
+<option value="/search/a">Author</option>
+<option value="/search/d">Subject</option>
+<option value="/search/y">Database Name</option>
+<option value="/search/i">ISBN, ISSN, Music Number</option>
+<option value="/search/c">Call Number</option>
+<option value="/search/r">Subject Code/Name</option>
+<option value="/search/p">Lecturer</option>
+<option value="/search/e">Special Collections Donors</option>
+</select>
+<input type="image" src="/screens/ico_go.gif" class="searchNavBut" value="Go" onclick="GotoURL();" >
+</div>
+
+</div><!--searchNav-->
+<div class="clear"></div>
+<div class="pageContent"><!-- content container -->
+<a name="content" id="content"></a>
+
+<!-- Crazy Egg -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0017/1619.js" async="async"></script>
+
+<!--end toplogo.html-->
+
+<!--this is customized <screens/mainmenu.html>-->
+
+<div class="pageContentInner mainSearch">
+
+<h1 class="accessibleAddInfo">Search</h1>
+
+<div id="accessibleForm" class="form1Part">
+<div class="browseSearchtool">
+<form action="/search/" method="get" name="search" id="search" onSubmit="return iiiSearchValidate();">
+
+<input type="hidden" id="iiiFormHandle_1">
+
+<!-- Optional legend:
+<fieldset>
+<legend>Type the search term you want to find.</legend>
+-->
+<div class="formEntryArea">
+<label for="searchtype" class="accessibleAddInfo">Search type</label>
+<select name="searchtype" id="searchtype">
+<option value="X" selected="selected">Keyword</option>
+<option value="t">Title</option>
+<option value="a">Author</option>
+<option value="d">Subject</option>
+<option value="y">Database Name</option>
+<option value="f">Database Subject</option>
+<option value="i">ISBN, ISSN, etc.</option>
+<option value="c">Call Number</option>
+<option value="r">Subject Code/Name</option>
+<option value="p">Lecturer</option>
+<option value="e">Donors</option>
+</select>
+<input type="hidden" name="SORT" id="SORT" value="D" />
+
+<label for="searcharg" class="accessibleAddInfo">Search term</label>
+<input maxlength="100" name="searcharg" size="26" >
+<label for="scope" class="accessibleAddInfo">Location</label>
+<label for="searchscope" style="display:none;">Search Scope</label><select name="searchscope" id="searchscope">
+<option value="30" selected="selected"> Search Entire Collection</option> <option value="2"> All Parkville Libraries</option> <option value="15"> Search Online Collections</option> <option value="49"> Online Journals</option> <option value="50"> Online Books</option> <option value="41"> Online Music Audio</option> <option value="42"> Online Videos</option> <option value="31"> Databases</option> <option value="3"> Architecture Library</option> <option value="5"> Baillieu Library</option> <option value="6"> Baillieu Spec. Coll.</option> <option value="8"> Burnley Library</option> <option value="10"> Creswick Library</option> <option value="11"> Dookie Library</option> <option value="33"> East Asian Collections</option> <option value="14"> Eastern Resource Centre (ERC)</option> <option value="13"> Giblin Eunson Library</option> <option value="18"> Law Library</option> <option value="1"> Map Collections</option> <option value="29"> Southbank Library</option> <option value="28"> Vet Sci Werribee Library</option> <option value="32"> University of Melbourne Theses</option> <option value="43"> Music Scores</option> <option value="44"> DVD Collections</option> <option value="45"> CD Collections</option> <option value="34"> Education Curriculum Collections</option> <option value="35"> - Kits</option> <option value="36"> - Picture books</option> <option value="37"> - Junior fiction</option> <option value="38"> - Textbooks</option> <option value="39"> - Children's Award winners</option> <option value="40"> - Graphic Novels</option> <option value="23"> - Board Books</option> <option value="26"> - Australian Indigenous Knowledge</option> <option value="19"> Microforms</option> <option value="48"> Offcampus Stores</option> <option value="4"> Archives</option> </select>
+
+<span class="nowrap formButtonArea">
+<script type="text/JavaScript">
+
+function iiiDoSubmit_1()
+{
+//getFormHandleForm() is in common.js
+var obj = getFormHandleForm(1);
+obj.submit();
+}
+</script>
+<input type="hidden" id="iiiFormHandle_1"/>
+<a href="#" onclick="iiiDoSubmit_1();"><div onmousedown="this.className='pressedState';" onmouseout="this.className='';" onmouseup="this.className='';"><div class="buttonSpriteDiv"><span class="buttonSpriteSpan1"><span class="buttonSpriteSpan2"><span class="submitButton"><span>Submit</span></span></span></span></div></div></a>
+
+
+
+<script type="text/JavaScript">
+
+//getFormHandleForm() is in common.js
+var evtobj = getFormHandleForm(1);
+if (document.layers)
+    {
+    document.captureEvents(Event.KEYUP);
+    }
+document.onkeyup = function(evt)
+{
+if (!evt) evt = window.event;
+var keyCode;
+if (evt.which) keyCode = evt.which;
+else if (evt.keyCode) keyCode = evt.keyCode;
+var targ;
+if (evt.target) targ = evt.target;
+else if (evt.srcElement) targ = evt.srcElement;
+if (targ.nodeType == 3) //for Safari bug
+    targ = targ.parentNode;
+if (targ.form)
+    {
+    targ = targ.form;
+    //alert('targ='+targ+'  evtobj='+evtobj);
+    if (keyCode == 13 && targ == evtobj)
+        {
+        iiiDoSubmit_1();
+        }
+    }
+};
+
+</script>
+</span>
+
+
+<!--
+<br/>
+<i class="fa fa-info-circle" style="font-size:15px;color:red;font-weight:600">
+Catalogue search currently defaults to 'Search Online Collections', displaying online versions.
+<br/>Select 'Search Entire Collection' in the dropdown list to include print.
+</i>
+-->
+
+
+
+</div><!-- formEntryArea -->
+<!--</fieldset> optional-->
+</form>
+</div><!-- browseSearchtool -->
+</div><!-- form1Part -->
+
+<!--
+<span style="font-size: .85em;">
+<strong>Login to the Catalogue has changed.</strong> 
+University Login now uses University Single Signon with Okta Verify.
+Guest Login now uses Barcode and Library PIN. <br/>	
+If you don't have a PIN  or want to change an existing PIN click <em>Reset your Library PIN</em> on the Guest Login screen.
+Questions can be directed to <A HREF="https://library.unimelb.edu.au/contact_the_library#chat">Library Chat </A> or library-enquiries@unimelb.edu.au.
+</span>
+-->
+
+
+<div class="mainMenuContent">
+<div class="mainMenuContentLeft">
+<img src="/screens/main.jpg" alt="" height=244 width=350>
+</div>
+
+
+<div class="mainMenuContentRight">
+<!--
+<strong>Login to the Catalogue has changed.</strong><br>
+University Login now uses University Single Signon with Okta Verify.<br>
+Guest Login now uses Barcode and Library PIN. If you don't have a PIN  or want to change an existing PIN click <em>Reset your Library PIN</em> on the login screens.<br>
+Questions can be directed to <A HREF="https://library.unimelb.edu.au/contact_the_library#chat">Library Chat </A> or library-enquiries@unimelb.edu.au<br>
+-->
+  <ul>
+<li><a href="/search/y">A-Z eJournals and Databases</a></li>
+
+<li><a href="/ftlist">New Items & Lists</a></li>
+<li><a href="/feeds">RSS feeds</a></li>
+<li><a href="http://mcat2.lib.unimelb.edu.au/">Mobile Catalogue</a>
+<!--<br>or <em><a href="http://mcat2.lib.unimelb.edu.au/">Guest Version</a></em>-->
+</li>
+<li>
+<a href="/screens/self_registration.html">Register as borrower <br>(CAVAL, ULANZ & International Universities)</a>
+</li>
+</ul>
+
+</div>
+<div class="clear"></div>
+
+<div class="alert">
+
+
+<div class="news">
+<!--
+<p>
+<strong><font color="red">
+Note : University library services are now available through  <A HREF="https://students.unimelb.edu.au/student-support/coronavirus/information-for-all-students#libraries">virtual delivery.</A>
+</font></strong>
+</p>
+-->
+
+
+<!--
+<p><strong><font color="red">Important advice for Library patrons.</font></strong>
+</p>
+<p> Due to the closure of University of Melbourne Libraries,  please note the following  : 
+<ul>
+<li>Library loans due within the next month have been extended to be due on 23 April 2020. Loans due later are still due on the later date. </li>
+<li>Borrowers can still also renew most loans up to 10 times.</li>
+<li>Holds cannot be placed on Library items until further notice.</li>
+<li>New BONUS+ requests are unavailable  but existing loans can now be renewed 6 times.</li>
+<li>Electronic resources continue to be available  via the  <A HREF="http://cat.lib.unimelb.edu.au/search&searchscope=15">Catalogue</A> and  <A HREF="https://search.ebscohost.com/login.aspx?direct=true&scope=site&type=0&site=eds-live&custid=s2775460&groupid=main&profid=eds&lang=en&authtype=cookie,ip,shib">Discovery</A></li>
+</ul>
+
+<p>For further help, please  contact us <A HREF="https://library.unimelb.edu.au/#contact-us">here</A>
+
+<p>Apologies for any inconvenience.</p>
+--->
+
+</div>
+
+</div>
+
+</div>
+
+</div><!--pageContentInner -->
+
+
+<!-- begin botlogo.html file -->
+<!-- Rel 2009B Example Set -->
+<!-- Updated: Sept 2009 -->
+</div><!-- pageContent  -->
+
+<div style="clear:both">
+
+<div id="botlogo">
+<ul id="metalinks">
+
+		<li><a href="http://library.unimelb.edu.au/contact_the_library/">Contact the Library</a></li>
+		<li><a href="http://www.unimelb.edu.au/contact/" accesskey="c">Contact the University</a></li>
+		<li><a href="http://www.unimelb.edu.au/disclaimer/" accesskey="d">Disclaimer &amp; copyright</a></li>
+		<li><a href="http://www.unimelb.edu.au/governance/disclaimer#online-privacy" accesskey="p">Privacy</a></li>
+		<li>ABN 84 002 705 224</li>
+	</ul>
+</div>
+</div>
+
+</div><!-- fullPage -->
+
+</div><!-- min-height -->
+
+
+
+<!-- end botlogo.html file -->
+
+
+<!---
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+try { document.forms[0].searcharg.focus(); }
+catch(err) {}
+//--><!--]]></script>
+--->
+
+<span style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; visibility: visible; font-size: 85%; text-align: right; display: block; ">WebPAC PRO &copy; Innovative Interfaces, Inc.</span>
+</body>
+</html>
+
+

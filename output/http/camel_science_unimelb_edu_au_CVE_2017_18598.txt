@@ -1,0 +1,570 @@
+[CVE-2017-18598] Dumped HTTP request for https://camel.science.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2017-18598] Dumped HTTP response https://camel.science.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=3600, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:27 GMT
+Last-Modified: Wed, 06 Aug 2025 15:17:22 GMT
+Link: <https://camel.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://camel.science.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://camel.science.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: HIT
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://camel.science.unimelb.edu.au/xmlrpc.php
+
+<!DOCTYPE html>
+
+<html lang="en-AU" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://camel.science.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Biophysical Ecology Lab | The research group of Professor Michael Kearney</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[570,656] -->
+<meta name="description" itemprop="description" content="Welcome to the Biophysical Ecology Lab Surely the oldest scientific questions concerned the distribution and abundance of animals and plants. A predictive" />
+
+<link rel="canonical" href="https://camel.science.unimelb.edu.au/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Biophysical Ecology Lab &raquo; Feed" href="https://camel.science.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Biophysical Ecology Lab &raquo; Comments Feed" href="https://camel.science.unimelb.edu.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Biophysical Ecology Lab &raquo; Home page Comments Feed" href="https://camel.science.unimelb.edu.au/sample-page/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/camel\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://camel.science.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://camel.science.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='lean-captcha-css-css' href='https://camel.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/css/lean-captcha.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://camel.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.5.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.5.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://camel.science.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://camel.science.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://camel.science.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel='shortlink' href='https://camel.science.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://camel.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcamel.science.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://camel.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcamel.science.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://camel.science.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template-default page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://camel.science.unimelb.edu.au" title="Biophysical Ecology Lab" itemprop="item">
+					<span itemprop="name">Biophysical Ecology Lab</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://blogs.unimelb.edu.au/camel/files/2020/06/near_papunya-1.jpg)">
+						<div class="blurred">
+									<h1>Biophysical Ecology Lab</h1>
+											<p>The research group of Professor Michael Kearney</p>
+									</div>
+			</header>
+		
+
+	<div class="layout-sidebar layout-sidebar--right">
+
+		<div class="layout-sidebar__main box">
+
+			<div class="layout-sidebar__main__inner box">
+
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+	<h1 class="entry-header">Home page</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab167" role="tab">Models</a><a href="#tab174" role="tab">Research</a><a href="#tab19" role="tab">People</a><a href="#tab92" role="tab">Join us</a><a href="#tab17" role="tab">Contact us</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<h2 data-adtags-visited="true"><strong>Welcome to the Biophysical Ecology Lab<br />
+</strong></h2>
+<p data-adtags-visited="true">Surely the oldest scientific questions concerned the distribution and abundance of animals and plants. A predictive understanding of the habitats in which certain plants and animals occur, and where in their habitat they might be depending on the seasons, the weather and the time of day, were once critical to everyday human survival.</p>
+<p data-adtags-visited="true">Our research represents a modern take on these old questions, which remain highly significant for conservation, agriculture and human health. Understanding how animals make a living in diverse and changing climates and habitats is also a simply fascinating pure research question.</p>
+<p data-adtags-visited="true">We take a bottom-up approach to the problem, attempting to understand the basic thermodynamic constraints first – the temperature, water and nutritional requirements.</p>
+<p data-adtags-visited="true">To do this, we integrate physical data on climate, weather and terrain with knowledge of the behaviour, physiology, life history and morphology of organisms.</p>
+<p data-adtags-visited="true">To make this integration we use the theoretical principles of biophysical ecology and metabolic theory. In practice, this involves some combination of field work, laboratory measurements and computer simulations. We also integrate molecular tools to understand the phylogenetic and evolutionary context.</p>
+<p data-adtags-visited="true">Our empirical work is focused on terrestrial invertebrates, especially grasshoppers, but our modelling work spans plants and animals across terrestrial and aquatic biomes.</p>
+<p data-adtags-visited="true">To find out more, take a look around our site and get in touch if you are interested becoming part of our lab. <a href="https://camel.science.unimelb.edu.au/#tab92">Read more</a> about research opportunities in the Biophysical Ecology Lab.</p>
+			</div>
+
+							<div class="tab" id="tab167" role="tabpanel">
+				<p>We develop and maintain the NicheMapR software package for computing how organisms respond to climate. Click the links below to find out more.</p>
+<p><a href="https://camel.science.unimelb.edu.au/biological-forecasting-and-hindcasting-tools/" id="wmd-buttons-68937202f085a" class="wmd-buttons default button">Biological Forecasting and Hindcasting Tools</a></p>
+<p><a href="https://mrke.github.io/" id="wmd-buttons-68937202f086c" class="wmd-buttons default button">NicheMapR - Mechanistic Modelling Tools in R</a></p>
+				</div>					
+							<div class="tab" id="tab174" role="tabpanel">
+				<p><a href="https://camel.science.unimelb.edu.au/organisms/" id="wmd-buttons-68937202f0998" class="wmd-buttons default button">Organisms</a></p>
+<p><a href="https://camel.science.unimelb.edu.au/fieldwork/" id="wmd-buttons-68937202f09a6" class="wmd-buttons default button">Fieldwork</a></p>
+<p><a href="https://camel.science.unimelb.edu.au/laboratory/" id="wmd-buttons-68937202f09b1" class="wmd-buttons default button">Laboratory</a></p>
+				</div>					
+							<div class="tab" id="tab19" role="tabpanel">
+				<h2>Lab head: Professor Michael Kearney</h2>
+<p><img fetchpriority="high" decoding="async" class="wp-image-30 alignright" src="https://michaelkearneyresearch.files.wordpress.com/2014/05/michael-and-bluetongue.jpg" alt="Michael and Bluetongue" width="330" height="220" /></p>
+<p>Mike is a physiological ecologist in the School of BioSciences at The University of Melbourne. A childhood passion of looking for animals in the bush led him to wonder how they manage to survive in some places and not others, and hence to become an ecologist. His research is focused on ways to connect what we can measure about an organism&#8217;s basic survival skills and capabilities with what we can measure about their environments and how they change though space and time. From a theoretical point of view, this has led him to work in the fields of microclimate modelling, biophysical ecology and metabolic theory. He also has interests in the evolution of parthenogenetic organisms, palaeo-environments, life history and biogeography. Taxonomically his expertise is with reptiles and grasshoppers but he enjoys studying all kinds of organisms, including plants.</p>
+<p>More about Michael:</p>
+<ul>
+<li><a href="https://orcid.org/0000-0002-3349-8744">ORCID</a></li>
+<li><a href="https://scholar.google.com.au/citations?user=syZcRdgAAAAJ&amp;hl=en">Google Scholar</a></li>
+<li><a href="https://twitter.com/ecophys">Twitter</a></li>
+<li><a href="https://findanexpert.unimelb.edu.au/profile/100029-michael-kearney">Find an Expert</a></li>
+</ul>
+<p><a href="https://camel.science.unimelb.edu.au/fellows-and-associates/" id="wmd-buttons-68937202f0b37" class="wmd-buttons default button">Fellows and Associates</a></p>
+<p><a href="https://camel.science.unimelb.edu.au/masters-and-phd-students/" id="wmd-buttons-68937202f0b46" class="wmd-buttons default button">Graduate and Masters Students</a></p>
+<p><a href="https://camel.science.unimelb.edu.au/collaborators/" id="wmd-buttons-68937202f0b65" class="wmd-buttons default button">Collaborators</a></p>
+<p><a href="https://camel.science.unimelb.edu.au/past-members/" id="wmd-buttons-68937202f0b77" class="wmd-buttons default button">Past Members</a></p>
+				</div>					
+							<div class="tab" id="tab92" role="tabpanel">
+				<p class="entry-title">The research focus in the Biophysical Ecology Lab is on how physical constraints on heat, water and nutritional balances limit the behaviour, distribution and abundance of species. We tackle these issues with a combination of modelling, laboratory and field work. Most projects will involve some combination of these three approaches, all of which require strong quantitative skills in their implementation.</p>
+<div class="entry-content">
+<p data-adtags-visited="true">Projects can have different emphases – e.g. field observation, collecting laboratory data, or modelling. However, to find a place in the lab you must demonstrate that you have some enthusiasm for, and ability with, numbers and data! (the enthusiasm can be restricted to what we can learn about biology from the numbers – you don’t have to love maths for its own sake).</p>
+<p data-adtags-visited="true">Also, empirically, the lab is focusing on invertebrate models, specifically grasshoppers and spiders. There are a number of systems (morabines grasshoppers, the <em>Austroicetes</em> grasshopper genus, and wolf spiders) that we will focus on due to the substantial background information available on their taxonomy, ecology and genetics.</p>
+<p data-adtags-visited="true">In deciding upon student supervisions, I look for high communication skills (both written and oral), high enthusiasm, strong quantitative skills and the ability to work independently.</p>
+<h2 data-adtags-visited="true"><strong>Prospective Masters (MSc) Students</strong></h2>
+<p data-adtags-visited="true">The University of Melbourne now has a 2-year MSc Research Scheme in place of the previous Honours year. If you are interested in joining our lab as a MSc student and feel you fit the description above, please get in touch via email and include your CV and undergraduate marks.</p>
+<h2 data-adtags-visited="true"><strong>PhD Students</strong></h2>
+<p data-adtags-visited="true">I will only take students who can obtain a scholarship (more about <a href="http://studyassist.gov.au/sites/studyassist/scholarshipsandawards/pages/australian-postgraduate-awards">scholarships for Australian students</a> and <a href="http://services.unimelb.edu.au/scholarships/research/international/available">for international students</a>). If you are interested in doing a PhD research in our lab please contact me by email, including your CV.</p>
+</div>
+<h2 data-adtags-visited="true"><strong>Potential MSc/PhD Projects<br />
+</strong></h2>
+<p>I am open to students proposing their own research projects, as long as they fit within the general area described above and are logistically and financially feasible. In addition, some possible projects on offer are listed below.</p>
+<h3>Thermal ecology of grasshoppers of the genus <em>Austroicetes</em>: revisiting a classic study in the distribution and abundance of animals</h3>
+<p data-adtags-visited="true">This project is focused on the thermal ecology of different stages of the life cycle of <em>Austroicetes </em>grasshopers. One member of this genus, <em>A. cruciata </em>or the &#8216;small plague grasshopper&#8217;, was the subject of extensive studies by Andrewartha and Birch because of its status as a pest. They mainly focused on the requirements of the eggs from a temperature and moisture perspective. However, there are eight other species in the genus that vary in distribution, phenology and habitat requirements.</p>
+<p data-adtags-visited="true">This project would involve delving further into the thermal ecology of this group with the broad goal of understanding why their distributions and phenology differ. It could combine field work on habitat use and phenology, laboratory work on thermal and water requirements at different life stages, and modelling work to predict what we see in the field.</p>
+<h3>Nutritional ecology of matchstick grasshoppers</h3>
+<p data-adtags-visited="true">This project aims to explore some preliminary aspects of the nutritional ecology of matchstick grasshoppers, with a particular focus on the two species we are working on at the moment, <em>Keyacris scurra </em>and <em>Vandiemenella</em> viatica. They appear to be polyphagous, accepting a wide range of different plants as food. However, little is known beyond this.</p>
+<p data-adtags-visited="true">This project could involve field observations of foraging behaviour of this grasshopper together with laboratory experiments applying different diets. This information will be used to derive better protocols for maintaining captive populations as well as enhancing our understanding of their habitat requirements. The work would be put into the theoretical context of the geometric framework of nutrition.</p>
+<h3>A mechanistic niche model of the wolf spider <em>Tasmanicosa godefroyii</em>: predicting the dynamics of an abundant predator</h3>
+<p data-adtags-visited="true">This project aims to build a mechanistic niche model of a widespread spider and use it to predict fluctuations in their populations. This species was studied extensively by Bill Humphreys in the 1970s and 1980s and most of the information needed to construct such a model is contained within his papers. These spiders are extremely easy to survey due to their eye-shine at night. The project would involve a combination model development and field work to test the models. It would be highly quantitative in nature. The spiders dig burrows that are used by other organisms and are one of the most common invertebrate predators in many ecosystems in southern Australia. Thus a predictive understanding of their dynamics would contribute to an understanding of important community dynamics.</p>
+				</div>					
+							<div class="tab" id="tab17" role="tabpanel">
+				<p>Professor Michael Kearney<br />
+<a href="mailto:m.kearney@unimelb.edu.au">m.kearney@unimelb.edu.au</a><br />
+University of Melbourne<br />
+Parkville 3010<br />
+Victoria<br />
+Australia</p>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+			</div>
+
+		</div>
+
+			<div class="aside layout-sidebar__side box">
+
+		<div class="layout-sidebar__side__inner box">
+
+			<div id="search-2" class="widget widget_search"><form action="https://camel.science.unimelb.edu.au/" class="search" method="get">
+	<fieldset>
+		<div class="inline attached">
+			<span class="fill">
+				<input aria-label="Search" aria-required="true" autocomplete="off" data-error="Please enter a keyword" name="s" value="" placeholder="Search" type="search" />
+			</span>
+			<span>
+				<button class="inline-button" type="submit"><span class="small icon--hide-label" data-icon="search">Go</span></button>
+			</span>
+		</div>
+	</fieldset>
+</form>
+</div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://camel.science.unimelb.edu.au/2020/08/02/new-website-plus-biological-forecasting-and-hindcasting-tools-release/">New website, plus Biological Forecasting and Hindcasting tools release</a>
+									</li>
+											<li>
+					<a href="https://camel.science.unimelb.edu.au/2019/09/17/keyacris/">A Grave Situation for Key’s Matchstick Grasshopper?</a>
+									</li>
+											<li>
+					<a href="https://camel.science.unimelb.edu.au/2019/02/26/hunting-asexual-grasshoppers-in-western-nsw-and-retracing-some-famous-footsteps/">Hunting asexual grasshoppers in western NSW, and retracing some famous footsteps</a>
+									</li>
+					</ul>
+
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"></ul></div><div id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>
+			<ul>
+					<li><a href='https://camel.science.unimelb.edu.au/2020/08/'>August 2020</a></li>
+	<li><a href='https://camel.science.unimelb.edu.au/2019/09/'>September 2019</a></li>
+	<li><a href='https://camel.science.unimelb.edu.au/2019/02/'>February 2019</a></li>
+			</ul>
+
+			</div><div id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>
+			<ul>
+				<li class="cat-item-none">No categories</li>			</ul>
+
+			</div><div id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="https://blogs.unimelb.edu.au/camel/wp-login.php">Log in</a></li>
+			<li><a href="https://camel.science.unimelb.edu.au/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://camel.science.unimelb.edu.au/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.unimelb.edu.au/" title="Powered by WordPress publishing service">WordPress publishing service</a></li>
+						</ul>
+		</div><div id="categories-3" class="widget widget_categories"><h2 class="widget-title">Categories</h2>
+			<ul>
+				<li class="cat-item-none">No categories</li>			</ul>
+
+			</div>
+		</div>
+
+	</div>
+
+	</div>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-includes/js/comment-reply.min.js?ver=6.8.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/howler.min.js?ver=2015102605" id="lean-captcha-howler-js"></script>
+<script type="text/javascript" id="lean-captcha-js-extra">
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/camel.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","key":"lc_ZEJCpujCGQYI0Ra0Qn6KAg=="};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/lean-captcha.js?ver=201709035" id="lean-captcha-js"></script>
+<script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/camel.science.unimelb.edu.au\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/camel.science.unimelb.edu.au","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.5.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-AU","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/camel.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","security":"a3cfdc1e74","action":"wpa_stats_action","url":"https:\/\/camel.science.unimelb.edu.au\/","post_id":"2","continue":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://camel.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.5.10" id="wp-accessibility-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Biophysical Ecology Lab</h2>
+
+			<ul>
+				<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-80"><a href="https://camel.science.unimelb.edu.au/" aria-current="page">Home page</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-168"><a href="https://camel.science.unimelb.edu.au/sample-page/models/">Models</a>
+<div class="inner"><ul>
+	<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://camel.science.unimelb.edu.au/biological-forecasting-and-hindcasting-tools/">Forecasting and Hindcasting</a></li>
+</ul></div>
+</li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24"><a href="https://camel.science.unimelb.edu.au/sample-page/research/">People</a>
+<div class="inner"><ul>
+	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://camel.science.unimelb.edu.au/fellows-and-associates/">Fellows and Associates</a></li>
+	<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://camel.science.unimelb.edu.au/masters-and-phd-students/">Graduate, Masters and Hons Students</a></li>
+	<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://camel.science.unimelb.edu.au/collaborators/">Current Collaborators</a></li>
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://camel.science.unimelb.edu.au/past-members/">Past Members</a></li>
+</ul></div>
+</li>
+<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-175"><a href="https://camel.science.unimelb.edu.au/sample-page/research-2/">Research</a>
+<div class="inner"><ul>
+	<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-250"><a href="https://camel.science.unimelb.edu.au/organisms/">Organisms</a>
+	<div class="inner"><ul>
+		<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://camel.science.unimelb.edu.au/matchstick-grasshoppers-general-biology/">Matchstick Grasshoppers – General Biology</a></li>
+		<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://camel.science.unimelb.edu.au/keyacris-matchstick-grasshoppers/">Keyacris Matchstick Grasshoppers</a></li>
+		<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://camel.science.unimelb.edu.au/vandiemenella-matchstick-grasshoppers/">Vandiemenella Matchstick Grasshoppers</a></li>
+		<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://camel.science.unimelb.edu.au/warramaba-matchstick-grasshoppers/">Warramaba Matchstick Grasshoppers</a></li>
+		<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://camel.science.unimelb.edu.au/the-australian-plague-locust/">The Australian Plague Locust</a></li>
+		<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="https://camel.science.unimelb.edu.au/austroicetes-grasshoppers/">Austroicetes Grasshoppers</a></li>
+	</ul></div>
+</li>
+	<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="https://camel.science.unimelb.edu.au/fieldwork/">Fieldwork</a></li>
+	<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://camel.science.unimelb.edu.au/laboratory/">Laboratory</a></li>
+</ul></div>
+</li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://camel.science.unimelb.edu.au/sample-page/join-us/">Join us</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://camel.science.unimelb.edu.au/sample-page/contact/">Contact us</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://camel.science.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/camel/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/camel/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>

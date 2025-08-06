@@ -1,0 +1,33 @@
+[compalex-panel-detect] Dumped HTTP request for http://links.asialink.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: links.asialink.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response http://links.asialink.unimelb.edu.au
+
+HTTP/1.1 404 
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Wed, 06 Aug 2025 15:17:59 GMT
+Expires: 0
+Pragma: no-cache
+Server: openresty
+Vary: origin,access-control-request-method,access-control-request-headers,accept-encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{
+  "timestamp" : "2025-08-06T15:17:59.849+00:00",
+  "status" : 404,
+  "error" : "Not Found",
+  "message" : "",
+  "path" : "/"
+}

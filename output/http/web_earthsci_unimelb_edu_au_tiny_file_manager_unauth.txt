@@ -1,0 +1,23 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://web.earthsci.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: web.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://web.earthsci.unimelb.edu.au/index.php
+
+HTTP/1.0 502 Bad Gateway
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>502 Bad Gateway</h1>
+The server returned an invalid or incomplete response.
+</body></html>
+

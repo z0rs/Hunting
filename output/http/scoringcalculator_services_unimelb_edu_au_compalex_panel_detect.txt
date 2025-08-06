@@ -1,0 +1,76 @@
+[compalex-panel-detect] Dumped HTTP request for https://scoringcalculator.services.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: scoringcalculator.services.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://scoringcalculator.services.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:20 GMT
+Server: istio-envoy
+Set-Cookie: JSESSIONID=170A0D810784A5AA37206694A82F16B3; Path=/; HttpOnly
+Set-Cookie: BIGipServer~app_kubernetes_prod~pool_kubernetes_prod_imperva-ingress=643045292.38522.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_2852802=byEimREjQqaKOifBBZ0j/Dxyk2gAAAAAQUIPAAAAAAB2/9PznxKcmDQpxsCRssvo; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.services.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_2852802=pRzjf1fhcXnJZAan+MBemQAAAADK4aKMF8zBTWQ1rn0EIQs1; HttpOnly; path=/; Domain=.services.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_2852802=3YJtQxeL8nph/WxVQi5fFTxyk2gAAAAAn4bg9h2lAClaIfYlFq8dMA==; path=/; Domain=.services.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Envoy-Upstream-Service-Time: 0
+X-Iinfo: 14-12607037-12607039 NNYY CT(213 230 0) RT(1754493500163 12) q(0 0 0 -1) r(3 3) U12
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script src="/npres-recons-All-our-Feare-not-hargd-then-his-re" async></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>Search : Scoring Calculator : The University of Melbourne</title><link rel="stylesheet" type="text/css" href="https://scoringcalculator.services.unimelb.edu.au/styles/security.css" /><link rel="stylesheet" type="text/css" href="https://scoringcalculator.services.unimelb.edu.au/styles/custom.css" media="screen, projection, print" /><link rel="stylesheet" type="text/css" href="https://scoringcalculator.services.unimelb.edu.au/styles/custom-print.css" media="print" /></head><body><div id="page_header"><ol id="breadcrumb-menu">	<li><a href="http://www.unimelb.edu.au/">University Home</a></li></ol><div id="global-menu-align"><ol id="global-menu">	<li>Browse the university</li>	<li><a href="http://www.unimelb.edu.au/research/">Research</a></li>	<li><a href="//brand.unimelb.edu.au/global/community.html">Community</a></li>	<li><a href="//brand.unimelb.edu.au/global/contact-maps.html" class="last">Contact &amp; Maps</a></li></ol></div><div id="app_bar"><div class="headings"><h1><a href="https://scoringcalculator.services.unimelb.edu.au">Scholarships Scoring Calculator</a></h1></div><ul id="app_breadcrumbs"><li><a href="http://services.unimelb.edu.au/scholarships">Scholarships</a></li><li><a href="/index.jsp">Scoring calculator</a></li><li>Search</li></ul><div id="applinks"><ul><li><a href="https://scoringcalculator.services.unimelb.edu.au/signin">Sign in</a></li></ul></div></div></div><div id="page">
+
+<div id="content" class="content-wide">
+
+
+
+
+
+<h2>Scholarships Scoring Calculator</h2>
+
+<table style="width:25%">
+<tr>
+<td style="vertical-align: top;">
+<div id="sign_in_form">
+<form method="post" action="index.jsp" class="contentform" name="signin" id="signin">
+<h3>Sign in</h3>
+<label for="signin_username">
+		<span class="question">Username</span>
+		<span class="answer"><input type="text" name="signin_username" id="signin_username" value=""/></span>
+</label>
+<div>
+<label for="signin_password">
+		<span class="question">Password</span>
+		<span class="answer"><input type="password" name="signin_password" id="signin_password" value=""/></span>
+</label>
+</div>
+
+<div class="submit">
+	<input type="submit" value="Sign in"/>
+</div>
+
+<div class="release_tag">1.4.6</div>
+
+</form>
+</div>
+
+</tr></table>
+<p>For instructions on how to use the Scoring Calculator, please refer to the <a href = "https://wiki.unimelb.edu.au/pages/viewpage.action?pageId=80127655" target="_blank">Scholarships Staff WIKI</a></p>
+
+
+
+</div>
+</div><div id="topofpage"> <a href="#app_breadcrumbs">Back to top</a></div><div id="footer">  <dl>   <dt>Date created:</dt><dd>September 14, 2010</dd>   <dt>Authoriser:</dt><dd></dd>   <dt>Support:</dt><dd><a href="http://its.unimelb.edu.au/">Application Services, Information Technology Services</a></dd>  </dl>  <dl>   <dt>Phone:</dt><dd>13 MELB (13 6352) | International: +(61 3) 9035 5511</dd>   <dt>The University of Melbourne ABN:</dt><dd>84 002 705 224</dd>   <dt>CRICOS Provider Code:</dt><dd>00116K <a href="http://www.services.unimelb.edu.au/international/visas/index.html">(visa information)</a></dd>   <dt>Web brand guidelines created by</dt><dd><a href="http://marcom.unimelb.edu.au/">Marketing & Communications</a></dd>  </dl><br/></div></body></html>
+

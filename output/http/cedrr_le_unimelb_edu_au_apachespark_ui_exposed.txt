@@ -1,0 +1,41 @@
+[apachespark-ui-exposed] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/jobs/
+
+
+GET /jobs/ HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apachespark-ui-exposed] Dumped HTTP response https://cedrr.le.unimelb.edu.au/jobs/
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/jobs/
+Set-Cookie: visid_incap_3239149=hOzTdx4mS4qo5VuYYmu0YwRyk2gAAAAAQUIPAAAAAABQ9Ujpr4y8uLEbS67Xb1i1; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=KX8nWj3EfiLL37arov5JAwRyk2gAAAAAhz7sF/IrFD5HjkjLo1lhSA==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056060-0 0NNN RT(1754493445202 16) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[apachespark-ui-exposed] Dumped HTTP request for https://cedrr.le.unimelb.edu.au:4040/jobs/
+
+
+GET /jobs/ HTTP/1.1
+Host: cedrr.le.unimelb.edu.au:4040
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: visid_incap_3239149=hOzTdx4mS4qo5VuYYmu0YwRyk2gAAAAAQUIPAAAAAABQ9Ujpr4y8uLEbS67Xb1i1; incap_ses_237_3239149=KX8nWj3EfiLL37arov5JAwRyk2gAAAAAhz7sF/IrFD5HjkjLo1lhSA==; visid_incap_3239149=hOzTdx4mS4qo5VuYYmu0YwRyk2gAAAAAQUIPAAAAAABQ9Ujpr4y8uLEbS67Xb1i1; incap_ses_237_3239149=KX8nWj3EfiLL37arov5JAwRyk2gAAAAAhz7sF/IrFD5HjkjLo1lhSA==; visid_incap_3239149=hOzTdx4mS4qo5VuYYmu0YwRyk2gAAAAAQUIPAAAAAABQ9Ujpr4y8uLEbS67Xb1i1; incap_ses_237_3239149=KX8nWj3EfiLL37arov5JAwRyk2gAAAAAhz7sF/IrFD5HjkjLo1lhSA==
+Accept-Encoding: gzip
+
+

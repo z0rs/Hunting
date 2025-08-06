@@ -1,0 +1,54 @@
+[CVE-2022-4057] Dumped HTTP request for https://must.unimelb.edu.au/wp-content/uploads/ao_ccss/queuelog.html
+
+
+GET /wp-content/uploads/ao_ccss/queuelog.html HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-4057] Dumped HTTP response https://must.unimelb.edu.au/wp-content/uploads/ao_ccss/queuelog.html
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/html
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Etag: 33f7fdff794f735a661a4a3b9592f254
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/f/256/files/ao_ccss/queuelog.html
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+
+[CVE-2022-4057] Dumped HTTP request for https://must.unimelb.edu.au/blog/wp-content/uploads/ao_ccss/queuelog.html
+
+
+GET /blog/wp-content/uploads/ao_ccss/queuelog.html HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-4057] Dumped HTTP response https://must.unimelb.edu.au/blog/wp-content/uploads/ao_ccss/queuelog.html
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/html
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Etag: 33f7fdff794f735a661a4a3b9592f254
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/f/256/files/ao_ccss/queuelog.html
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

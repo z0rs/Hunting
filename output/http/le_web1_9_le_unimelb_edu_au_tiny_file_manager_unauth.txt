@@ -1,0 +1,42 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://le-web1-9.le.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: le-web1-9.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://le-web1-9.le.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:54 GMT
+Server: nginx/1.20.1
+Set-Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3239151=6fPlP9MoRrKixEiWa/D5aCFyk2gAAAAAQUIPAAAAAADelcU0NIrpQfZAxiXM6MQE; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3239151=QBfzNlLsTEOQ8reTKvIj2wAAAAAdYm38WKhjwwyEPczvGwz0; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239151=16ZpTPsyiD+ZBLerov5JAyFyk2gAAAAAaKe5lzVaIVISLbFnZhXfig==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 12-10112150-10112151 NNYY CT(215 233 0) RT(1754493473872 9) q(0 0 0 -1) r(3 3) U11
+
+<html>
+<head><script src="/ox-What-will-Enter-a-Profit-Why-Chambe-sicall-we" async></script><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.20.1</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

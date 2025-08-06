@@ -1,0 +1,59 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://policy.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: policy.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://policy.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Cookie, Origin
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Iinfo: 12-9374144-9374145 NNYY CT(208 213 0) RT(1754493491564 8) q(0 0 0 1) r(3 3) U24
+
+
+<!doctype html>
+<html lang="en">
+<head><script src="/isd-not-when-not-I-my-Lady-cornessent-in-yet-is-" async></script>
+  <title>Not Found</title>
+</head>
+<body>
+  <h1>Not Found</h1><p>The requested resource was not found on this server.</p>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1357089117" async></script></body>
+</html>
+
+[tiny-file-manager-unauth] Dumped HTTP response https://policy.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Location: /index.php/
+Referrer-Policy: same-origin
+Set-Cookie: visid_incap_3131542=3ItbLPPhSJicu3wiJ6n4cjNyk2gAAAAAQUIPAAAAAABao1Vsk5x4Ad8eTu8RyUO3; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3131542=5s+HUeOE2z6WTrSMJWqiAwAAAACidlQkEbJxg378FHU363Gr; HttpOnly; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3131542=yyJ1PRKRiAsT92xVQi5fFTNyk2gAAAAARA1fXyl7PryFjDie6tyXlg==; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Cookie, Origin
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Iinfo: 9-3455726-3455728 NNNY CT(211 215 0) RT(1754493491321 9) q(0 0 0 -1) r(2 2) U24
+Content-Length: 0
+
+

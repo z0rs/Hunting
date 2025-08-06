@@ -1,0 +1,240 @@
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/js../.git/config
+
+
+GET /js../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/js../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=DW2PvSQYTVCHEQFYFKJvBRxyk2gAAAAAQUIPAAAAAACZQ48kv1epJu4nPvz7kzBK; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=7XIYeNwalh/8/Larov5JAxxyk2gAAAAAf8EAA18WrwDKyfe/UCFL1A==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 10-8315666-0 0NNN RT(1754493468624 6) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=10-8315666-0%200NNN%20RT%281754493468624%206%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-42336897106512586&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-42336897106512586</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/media../.git/config
+
+
+GET /media../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/assets../.git/config
+
+
+GET /assets../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/media../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 830
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=9yU58MwPSpOYvzw4hlhPHxxyk2gAAAAAQUIPAAAAAACY+dq2JIy4i+7pRH6x9nds; expires=Thu, 06 Aug 2026 07:06:48 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=eZIsHPeldTv+/Larov5JAxxyk2gAAAAAlHu76tjYYbO3JQWEAHZZxw==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 1-1019215-0 0NNN RT(1754493468624 7) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=1-1019215-0%200NNN%20RT%281754493468624%207%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-11530758844648129&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-11530758844648129</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/css../.git/config
+
+
+GET /css../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/assets../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 830
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=lzzLVw6YQEqCzPkQnlg5Vhxyk2gAAAAAQUIPAAAAAAAlUf8OHqe7SaiYXEy1TGXA; expires=Thu, 06 Aug 2026 07:06:38 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=wPxhasUwrwr//Larov5JAxxyk2gAAAAAx1ppV+AepGTqLrcnB+P2Vg==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 9-6625020-0 0NNN RT(1754493468624 8) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=9-6625020-0%200NNN%20RT%281754493468624%208%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-34023949250398921&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-34023949250398921</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/css../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 832
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=CYPo0i3WQbCALatogO0qIhxyk2gAAAAAQUIPAAAAAAAIdqIAnKTjGAeGfNjaLGDT; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=VPhIf7oazUoA/barov5JAxxyk2gAAAAAqKNqoGKA+CFvv5sjDUjouQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 13-12385266-0 0NNN RT(1754493468624 7) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=13-12385266-0%200NNN%20RT%281754493468624%207%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-64274297269324493&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-64274297269324493</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/lib../.git/config
+
+
+GET /lib../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/lib../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=axJ8WRgdQsWWr8AmUCj28Rxyk2gAAAAAQUIPAAAAAACVFKkI/clp8dKq8HLTxsAS; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=C1PFbcb/O1MB/barov5JAxxyk2gAAAAATYaiVTddsxUsEm+To7t1IA==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 10-8315668-0 0NNN RT(1754493468624 9) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=10-8315668-0%200NNN%20RT%281754493468624%209%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-42336901401479882&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-42336901401479882</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/img../.git/config
+
+
+GET /img../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/img../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=Uctgd/tUQrirsg1y63l87hxyk2gAAAAAQUIPAAAAAADMJW+cHDfA/4he1qa3aizq; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=h/uHIsNVgQ8C/barov5JAxxyk2gAAAAAlZj7pI9w/TieLvJxsOQHrw==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 8-4190567-0 0NNN RT(1754493468624 10) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=8-4190567-0%200NNN%20RT%281754493468624%2010%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-20843957339359944&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-20843957339359944</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/content../.git/config
+
+
+GET /content../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/content../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 832
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=qAHU/zo2R4umpZcAd0L7Hhxyk2gAAAAAQUIPAAAAAADfz6e/TYPuEMlnNd4gTSxf; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=7/rCe06apSUF/barov5JAxxyk2gAAAAA2zI0Nh0oWEdVsNVczRyJHg==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 10-8315667-0 0NNN RT(1754493468624 11) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=10-8315667-0%200NNN%20RT%281754493468624%2011%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-42336905696447178&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-42336905696447178</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/static../.git/config
+
+
+GET /static../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/static../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=N9KNA/qBTLe/nw6rii16QRxyk2gAAAAAQUIPAAAAAAArJiaD+ML8wj6dLBYmFjGK; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=m9GWdRJg0DgG/barov5JAxxyk2gAAAAAXMMt2NrOuxm9XrLCHh+yuQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12105284-0 0NNN RT(1754493468624 14) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=14-12105284-0%200NNN%20RT%281754493468624%2014%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-61918211354725070&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-61918211354725070</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/images../.git/config
+
+
+GET /images../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/images../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=Ts9veAgzRMeJwLzsh2S3Txxyk2gAAAAAQUIPAAAAAAA1wrvj+9R9Mk85VBxUIosI; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=J3i+ad38HVIJ/barov5JAxxyk2gAAAAAKdkide9j8t2T/T1cxExCRA==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12105285-0 0NNN RT(1754493468624 16) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=14-12105285-0%200NNN%20RT%281754493468624%2016%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-61918215649692366&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-61918215649692366</iframe></body></html>
+[git-config-nginxoffbyslash] Dumped HTTP request for https://le-web1-1.le.unimelb.edu.au/events../.git/config
+
+
+GET /events../.git/config HTTP/1.1
+Host: le-web1-1.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://le-web1-1.le.unimelb.edu.au/events../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239152=WowthxYLS3yYuz8E5Fbcghxyk2gAAAAAQUIPAAAAAAAoD9q7IOXL1SseG3Z65jJ4; expires=Thu, 06 Aug 2026 07:06:38 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239152=RmMhdK0VwXoL/barov5JAxxyk2gAAAAAEwLiJlDupgNlOF+wrQhF/g==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 9-6625019-0 0NNN RT(1754493468624 17) q(0 -1 -1 -1) r(0 -1) B15(3,309140,0) U25
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/rgd-Good-Lenox-Rosse-cleaue-to-Nights-true-need-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=9-6625019-0%200NNN%20RT%281754493468624%2017%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c309140%2c0%29%20U25&incident_id=237000430032599262-34023962135300809&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032599262-34023962135300809</iframe></body></html>

@@ -1,0 +1,24 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://lms.vet.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: lms.vet.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://lms.vet.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:02 GMT
+Server: Apache/2.4.62 (Debian)
+Set-Cookie: BIGipServer~app_vetlive_prod~pool_vetlive_prod_live=2035554220.47873.0000; path=/; Httponly; Secure
+
+File not found.
+

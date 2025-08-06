@@ -1,0 +1,26 @@
+[CVE-2022-1595] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/wp-login.php
+
+
+HEAD /wp-login.php HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Cookie: valid_login_slug=1
+
+
+[CVE-2022-1595] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/wp-login.php
+
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:03 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: openresty
+Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path=/; domain=lecao-lab.science.unimelb.edu.au; secure; HttpOnly
+Set-Cookie: eb_Kuno0Hujut7Da=Zim9Deten6Zoh2
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+
+

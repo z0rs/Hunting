@@ -1,0 +1,420 @@
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/js../.git/config
+
+
+GET /js../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/js../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 1637e76f-02d4-4042-baf1-9003da2b909d
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/assets../.git/config
+
+
+GET /assets../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/assets../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 03858dc8-0a8a-47b4-9f90-f2ea14fddc41
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/static../.git/config
+
+
+GET /static../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/static../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: e0d2c71f-f13f-4717-af09-a9fe5397e034
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/media../.git/config
+
+
+GET /media../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/media../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: d46a54e0-6646-4901-ac2a-1cfe78d7113a
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/lib../.git/config
+
+
+GET /lib../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/lib../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: f1a9d33a-d1d9-4118-82c4-bdc3600e587b
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/content../.git/config
+
+
+GET /content../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/content../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 2be8941f-45b0-4637-8389-72a9d7fa25b7
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/events../.git/config
+
+
+GET /events../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/img../.git/config
+
+
+GET /img../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/events../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 5b82faf9-72ce-4ec0-bffb-5087a0447024
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/img../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: f3dc1de6-2ba9-42aa-a91e-e668ec2311fc
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/css../.git/config
+
+
+GET /css../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/css../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: bb33c2e9-cc8b-4551-a5fa-32a46f95c6d2
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/images../.git/config
+
+
+GET /images../.git/config HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/images../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: a5d633b5-3911-44ea-ad3f-364648ac955d
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

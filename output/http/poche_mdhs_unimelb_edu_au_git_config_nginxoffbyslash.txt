@@ -1,0 +1,420 @@
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/js../.git/config
+
+
+GET /js../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/js../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: b3e9c8c9-de76-4f6e-8127-22b816df25ad
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/css../.git/config
+
+
+GET /css../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/css../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: a8b2b395-7b66-441a-b280-4d2d59ef68f0
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/media../.git/config
+
+
+GET /media../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/media../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: a61b1d7d-1ad6-4bd0-80ec-19775c62f730
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/events../.git/config
+
+
+GET /events../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/events../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 58e580bf-ff62-4e79-ac0b-a70e4447902f
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/content../.git/config
+
+
+GET /content../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/content../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 18968366-92fe-4054-a881-720fdcc19d97
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/static../.git/config
+
+
+GET /static../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/static../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 9d1bfd67-f309-4f81-a777-a1929b210d6b
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/images../.git/config
+
+
+GET /images../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/images../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 4113366d-0b2c-42f6-8418-9f56ae38e7d7
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/lib../.git/config
+
+
+GET /lib../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/lib../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 3f27e21e-8f8f-4d92-9780-4cebf5f65783
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/img../.git/config
+
+
+GET /img../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/img../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: aff702c4-a739-40f5-a706-cf9491ce0ee7
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[git-config-nginxoffbyslash] Dumped HTTP request for https://poche.mdhs.unimelb.edu.au/assets../.git/config
+
+
+GET /assets../.git/config HTTP/1.1
+Host: poche.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response https://poche.mdhs.unimelb.edu.au/assets../.git/config
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:17 GMT
+Server: openresty
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Request-Id: 70e3db5b-861e-4745-9f5a-5eaaaecbe160
+X-Upgrade-Enabled: off
+
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

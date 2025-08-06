@@ -1,0 +1,26 @@
+[CVE-2000-0114] Dumped HTTP request for https://aaindex.app.unimelb.edu.au/_vti_inf.html
+
+
+GET /_vti_inf.html HTTP/1.1
+Host: aaindex.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2000-0114] Dumped HTTP response https://aaindex.app.unimelb.edu.au/_vti_inf.html
+
+HTTP/1.1 404 Not Found
+Connection: close
+Date: Wed, 06 Aug 2025 15:16:53 GMT
+Set-Cookie: visid_incap_3138227=Fog8z+p+QmqhpMqWRatOguVxk2gAAAAAQUIPAAAAAAD+3OV8VPxnFmmcsdqaJslN; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3138227=pwe3Nl0pt2PGxYNIfIsuhwAAAADLWakqk3VyGw07UpOl5A6G; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3138227=/XptSNHUNQjcvGxVQi5fFeVxk2gAAAAANcyfaI7hfoLcZpZxZLxAaA==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 5-3154369-3154370 NNNY CT(211 226 0) RT(1754493413603 8) q(0 0 0 -1) r(2 2) U24
+Content-Length: 0
+
+

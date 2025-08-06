@@ -1,0 +1,64 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://elections.union.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://elections.union.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:31 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache/2.4.52 (Ubuntu)
+Set-Cookie: PHPSESSID=kbcduickmfv293po6dqi09tqb8; path=/
+Set-Cookie: BIGipServer~app_icat_web_prod~pool_icat_web_prod_prod1_2=3259242412.20480.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3220071=p5qfK8x5QUGKCPim0JMCGwpyk2gAAAAAQUIPAAAAAADPo/+vc9SM8Ko1h7CliQI/; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3220071=oc8ATfAAywn/DPCtyn8OZQAAAADMVSj2tgZfyz6rY3UWjTl0; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=UaHXLYJh6GHY5rarov5JAwpyk2gAAAAAfcKDQEFOiw43s0iao2UCSg==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Cdn: Imperva
+X-Iinfo: 11-9879949-9879953 NNNY CT(212 226 0) RT(1754493451044 11) q(0 0 0 -1) r(2 2) U24
+
+
+<!DOCTYPE html>
+<html lang="en"> 
+<html>
+	<head><script src="/alband-Then-now-not-by-the-wortune-Vpon-his-Fee-" async></script>
+		<title>Welcome to UMSU Elections!</title>
+		<link href="styles.css" rel="stylesheet" type="text/css">
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  	<div id="main">
+			<div id='header'>
+				<h1>UMSU Electoral Roll - Polling Staff login</h1>
+			</div>
+			<div class='infobox'>
+				<form action="index.php" method="post">
+					<label class='inputlabel' for="username">Username:</label>
+					<input class="inputbox" id="username" type="text" name="username"><br>
+				
+					<label class='inputlabel' for="password">Password:</label>
+					<input class="inputbox" id="password" type="password" name="password"><br>
+				
+					<div id="warning"></div>
+				
+					<input class="button" type="submit" name="submit_login" value="log in">
+				</form>
+			</div>
+		</div>
+  </body>
+</html>
+

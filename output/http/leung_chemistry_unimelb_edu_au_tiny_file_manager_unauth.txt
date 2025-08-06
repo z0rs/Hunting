@@ -1,0 +1,1064 @@
+[tiny-file-manager-unauth] Dumped HTTP response https://leung.chemistry.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:57 GMT
+Link: <https://leung.chemistry.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://leung.chemistry.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://leung.chemistry.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://leung.chemistry.unimelb.edu.au/xmlrpc.php
+
+<!DOCTYPE html>
+
+<html lang="en-GB" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://leung.chemistry.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Leung Research Group | Structural and Mechanistic Enzymology</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[572,645] -->
+<meta name="description" itemprop="description" content="Leung Research Group at the University of Melbourne We are part of the School of Chemistry and the Bio21 Molecular Science and Biotechnology Institute at the" />
+
+<link rel="canonical" href="https://leung.chemistry.unimelb.edu.au/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Leung Research Group &raquo; Feed" href="https://leung.chemistry.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Leung Research Group &raquo; Comments Feed" href="https://leung.chemistry.unimelb.edu.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Leung Research Group &raquo; Home page Comments Feed" href="https://leung.chemistry.unimelb.edu.au/home/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/leung-group\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://leung.chemistry.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://leung.chemistry.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='lean-captcha-css-css' href='https://leung.chemistry.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/css/lean-captcha.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://leung.chemistry.unimelb.edu.au/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.5.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.5.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://leung.chemistry.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://leung.chemistry.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://leung.chemistry.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel='shortlink' href='https://leung.chemistry.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://leung.chemistry.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fleung.chemistry.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://leung.chemistry.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fleung.chemistry.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://leung.chemistry.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template-default page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://leung.chemistry.unimelb.edu.au" title="Leung Research Group" itemprop="item">
+					<span itemprop="name">Leung Research Group</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://blogs.unimelb.edu.au/leung-group/files/2021/07/CoverFig_300dpi.jpg)">
+						<div class="blurred">
+									<h1>Leung Research Group</h1>
+											<p>Structural and Mechanistic Enzymology</p>
+									</div>
+			</header>
+		
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+	<h1 class="entry-header">Home page</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab19" role="tab">Research</a><a href="#tab13" role="tab">Publications</a><a href="#tab2196" role="tab">Ivanhoe Leung</a><a href="#tab34" role="tab">People</a><a href="#tab5" role="tab">News</a><a href="#tab2221" role="tab">Opportunities</a><a href="#tab17" role="tab">Contact</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<h2>Leung Research Group at the University of Melbourne</h2>
+<p style="text-align: justify;">We are part of the School of Chemistry and the Bio21 Molecular Science and Biotechnology Institute at the University of Melbourne.</p>
+<p style="text-align: justify;">We conduct multidisciplinary research, drawing on the fields of chemistry, biochemistry, biophysical chemistry, enzymology, molecular biology and structural biology, to understand the complex relationships between protein structure, function and modulation. Our goal is to utilise the knowledge that we generate to help solve some of the world’s most urgent challenges.</p>
+<p><strong><span style="color: #000000;"><a href="https://findanexpert.unimelb.edu.au/profile/863541-ivanhoe-leung">Find an Expert</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://twitter.com/Leung_Group">X</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://orcid.org/0000-0003-0633-6771">ORCID</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.scopus.com/authid/detail.uri?authorId=6701823432">Scopus</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=TfUhMWEAAAAJ&#038;hl=en">Google Scholar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ivanhoe+leung">PubMed</a></span></strong></p>
+<p><img decoding="async" class="alignnone wp-image-2102 size-full" src="https://leung.chemistry.unimelb.edu.au/files/2024/08/IMG_6284.jpg" alt="" width="auto" /></p>
+			</div>
+
+							<div class="tab" id="tab19" role="tabpanel">
+				<h2>Our Research</h2>
+<p style="text-align: justify;">The Leung Research Group focuses on the enzymology that involves in protein function modulation. We apply a range of biophysical, chemical biology and structural biology techniques to enable our discoveries.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Metabolic regulation of protein functions</strong></span></p>
+<p style="text-align: justify;">The ability to maintain homeostasis is critical to all forms of life. One mechanism through which this is achieved is the fine-tuning of cellular enzyme activities. In our group, we study how posttranslational modifications and metabolites affect the structure, activity and function of proteins and enzymes. These allow us to understand how different biochemical pathways signal and interact with one another to maintain stability in response to stress conditions. We are currently studying the enzymes that are involved in the regulation of carbon metabolism in <em>Mycobacterium tuberculosis</em> to understand how the pathogen survives inside the infected host with limited nutrients. Another system that we are studying is the plant ethylene-forming enzyme. We are presently investigating the mechanisms and structures of the different enzyme isoforms with a view to developing a detailed understanding of their roles in plant growth and development.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Enzyme technology for bioremediation</strong></span></p>
+<p style="text-align: justify;">Enzymes are highly efficient catalysts that speed up chemical transformations under mild conditions. In our group, we study how we could harness the incredible catalytic prowess of enzymes as green biocatalysts to degrade environmental pollutants. We are especially interested in laccases, a class of multi-copper oxidase enzymes that catalyze one-electron oxidation of aromatic amine and phenolic substrates. Currently, we are studying how laccases mediate the degradation of organic pollutants at a molecular level to understand their mechanisms of catalysis. We also characterize the degradation products under different reaction conditions to investigate plausible degradation pathways.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Inhibitor discovery strategies and applications</strong></span></p>
+<p style="text-align: justify;">The ability to modulate the activity of enzymes using natural or synthetic compounds has enormous potential in areas such as medicine. An important step in the early stages of inhibitor development is the identification and characterization of ligands that bind to the target. Our laboratory specializes in the application of biophysical techniques, especially NMR spectroscopy, for ligand screening and to study protein-ligand interactions and enzyme inhibition. A current interest is the development of inhibitors for lipid A phosphoethanolamine transferases. Such compounds have potential to be used as adjuvants to reverse bacterial resistance to polymyxins, a class of last-line antibiotics to treat multidrug-resistant infections.</p></p>
+				</div>					
+							<div class="tab" id="tab13" role="tabpanel">
+				<h2>Publications</h2>
+<p>▪ <a href="#Journal Articles">Journal Articles</a><br />
+▪ <a href="#Book Chapters">Book Chapters</a><br />
+▪ <a href="#Edited Books">Edited Books</a><br />
+▪ <a href="#Statistics">Statistics</a></p>
+<p><a id="Journal Articles"></p>
+<h3>Journal Articles</h3>
+<p></a></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">80</span></strong><br />
+Yosaatmadja, Y.; Ung, V.; Liu, X.; Zhao, Y.; Wardega, J. K.; Shetty, A.; Schoensee, S.; Leung, I. K. H.; Keown, J. R.; Goldstone, D. C.; Baker, E. N.; Young, P. G.; Mercadante, D.; Squire, C. J. Protease Mimicry: Dissecting the Ester Bond Crosslinking Mechanics in Bacterial Adhesin Proteins. <i>Prot. Sci.</i> <strong>2025</strong>, <i>34</i>, e70238. DOI: <a href="https://doi.org/https://doi.org/10.1002/pro.70238">https://doi.org/10.1002/pro.70238</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/pro.70238" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/pro.70238" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">79</span></strong><br />
+Alghamdi, W.; Partington, J. M.; Leung, I. K. H.; Clarke, B. O. Premium Ultra-Trace Analytical Method for Part Per Quadrillion (ppq) PFAS Quantification in Drinking Water. <i>Anal. Chim. Acta</i> <strong>2025</strong>, <i>1368</i>, 344333. DOI: <a href="https://doi.org/10.1016/j.aca.2025.344333">10.1016/j.aca.2025.344333</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.aca.2025.344333" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.aca.2025.344333" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">78</span></strong><br />
+Huang, E. Y.-W.; Kuang, F.; Wu, H.; Yu, C. X.; Chen, X.; Vasku, G.; Nguyen, L. T. A.; Jeppe, K. J.; Coussens, A. K.; Kwai, B. X. C.; Leung, I. K. H. An Integrated Structural and Biophysical Approach to Study Carbon Metabolism in <i>Mycobacterium tuberculosis</i>. <i>QRB Discov.</i> <strong>2025</strong>, <i>6</i>, e15. DOI: <a href="https://doi.org/10.1017/qrd.2025.6">10.1017/qrd.2025.6</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1017/qrd.2025.6" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1017/qrd.2025.6" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">77</span></strong><br />
+Lyu, B.; Manna, B.; Zhou, X.; Leung, I. K. H.; Singhal, N. Microbial Metabolic Enzymes, Pathways and Microbial Hosts for Co-Metabolic Degradation of Organic Micropollutants in Wastewater. <i>Water Res.</i> <strong>2025</strong>, <i>276</i>, 123229. DOI: <a href="https://doi.org/10.1016/j.watres.2025.123229">10.1016/j.watres.2025.123229</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.watres.2025.123229" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.watres.2025.123229" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">76</span></strong><br />
+Nuske, M. R.; Zhong, J.; Huang, R.; Sarojini, V.; Chen, J. L. Y.; Squire, C. J.; Blaskovich, M. A. T.; Leung, I. K. H. Adjuvant Strategies to Tackle <i>Mcr</i>-Mediated Polymyxin Resistance. <i>RSC Med. Chem.</i> <strong>2025</strong>, <i>16</i>, 465–480. DOI: <a href="https://doi.org/10.1039/D4MD00654B">10.1039/D4MD00654B</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/D4MD00654B" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/D4MD00654B" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">75</span></strong><br />
+Harris, B. A.; Zhou, J.; Clarke, B. O.; Leung, I. K. H. Enzymatic Degradation of PFAS: Current Status and Ongoing Challenges. <i>ChemSusChem</i> <strong>2025</strong>, <i>18</i>, e202401122. DOI: <a href="https://doi.org/10.1002/cssc.202401122">10.1002/cssc.202401122</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/cssc.202401122" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/cssc.202401122" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">74</span></strong><br />
+Ghosh, S.; Melton, L. D.; Kihara, S.; Huang, R.; Leung, I. K. H.; Rekas, A.; Knott, R.; Seal, C.; Nieuwoudt, M.; McGillivray, D. J. Probing the Binding Sites of Bioactives with β-Lactoglobulin at Different Gastrointestinal pHs. <i>Food Hydrocoll.</i> <strong>2024</strong>, <i>153</i>, 110040. DOI: <a href="https://doi.org/10.1016/j.foodhyd.2024.110040">10.1016/j.foodhyd.2024.110040</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.foodhyd.2024.110040" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.foodhyd.2024.110040" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">73</span></strong><br />
+Eurtivong, C.; Leung, E.; Sharma, N.; Leung, I. K. H.; Reynisson, J. Phosphatidylcholine-Specific Phospholipase C as a Promising Drug Target. <i>Molecules</i> <strong>2023</strong>, <i>28</i>, 5637. DOI: <a href="https://doi.org/10.3390/molecules28155637">10.3390/molecules28155637</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/molecules28155637" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/molecules28155637" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">72</span></strong><br />
+Huang, E. Y.-W.; Kwai, B. X. C.; Bhusal, R. P.; Bashiri, G.; Leung, I. K. H. <i>Mycobacterium tuberculosis</i> Rv1916 is an Acetyl-CoA-Binding Protein. <i>ChemBioChem</i> <strong>2023</strong>, <i>24</i>, e202300162. DOI: <a href="https://doi.org/10.1002/cbic.202300162">10.1002/cbic.202300162</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/cbic.202300162" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/cbic.202300162" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">71</span></strong><br />
+Zhang, S.; De Leon Rodriguez, L. M.; Li, F. F.; Huang, R.; Leung, I. K. H.; Harris, P.; Brimble. M. A. A Novel Tyrosine Hyperoxidation Enables Selective Peptide Cleavage. <i>Chem. Sci.</i> <strong>2022</strong>, <i>13</i>, 2753–2763. DOI: <a href="https://doi.org/10.1039/D1SC06216F">10.1039/D1SC06216F</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/D1SC06216F" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/D1SC06216F" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">70</span></strong><br />
+Shishodia, S.; Demetriades, M.; Zhang, D.; Tam, N. Y.; Maheswaran, P.; Clunie-O’Connor, C.; Tumber, A.; Leung, I. K. H.; Ng, Y. M.; Leissing, T. M.; El-Sagheer, A. H.; Salah, E.; Brown, T.; Aik, W. S.; McDonough, M. A.; Schofield, C. J. Structure-Based Design of Selective Fat Mass and Obesity Associated Protein (FTO) Inhibitors. <i>J. Med. Chem.</i> <strong>2021</strong>, <i>64</i>, 16609–16625. DOI: <a href="https://doi.org/10.1021/acs.jmedchem.1c01204">10.1021/acs.jmedchem.1c01204</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/acs.jmedchem.1c01204" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/acs.jmedchem.1c01204" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">69</span></strong><br />
+Sharma, N.; Leung, I. K. H. Novel Thermophilic Bacterial Laccase for the Degradation of Aromatic Organic Pollutants. <i>Front. Chem.</i> <strong>2021</strong>, <i>9</i>, 711345. DOI:  <a href="https://doi.org/10.3389/fchem.2021.711345">10.3389/fchem.2021.711345</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fchem.2021.711345" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3389/fchem.2021.711345" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">68</span></strong><br />
+Sharma, N.; Leung, I. K. H. Characterisation and Optimisation of a Novel Laccase from <i>Sulfitobacter indolifex</i> for the Decolourisation of Organic Dyes. <i>Int. J. Biol. Macromol.</i> <strong>2021</strong>, <i>190</i>, 574–584. DOI:  <a href="https://doi.org/10.1016/j.ijbiomac.2021.09.003">10.1016/j.ijbiomac.2021.09.003</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijbiomac.2021.09.003" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.ijbiomac.2021.09.003" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">67</span></strong><br />
+Leung, E.; Patel, J.; Hollywood, J. A.; Zafar, A.; Tomek, P.; Barker, D.; Pilkington, L. I.; van Rensburg, M.; Langley, R. J.; Helsby, N. A.; Squire, C. J.; Baguley, B. C.; Denny, W. A.; Reynisson, J.; Leung, I. K. H. Validating TDP1 as an Inhibition Target for the Development of Chemosensitizers for Camptothecin-Based Chemotherapy Drugs. <i>Oncol. Ther.</i> <b>2021</b>, <i>9</i>, 541–556. DOI:  <a href="https://doi.org/10.1007/s40487-021-00158-0">10.1007/s40487-021-00158-0</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s40487-021-00158-0" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1007/s40487-021-00158-0" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">66</span></strong><br />
+Mbenza, N. M.; Nasarudin, N.; Vadakkedath, P. G.; Patel, K.; Ismail, A. Z.; Hanif, M.; Wright, L. J.; Sarojini, V.; Hartinger, C. G.; Leung, I. K. H. Carbon Monoxide is an Inhibitor of HIF Prolyl Hydroxylase Domain 2. <i>ChemBioChem</i> <b>2021</b>, <i>22</i>, 2521–2525. DOI: <a href="https://doi.org/10.1002/cbic.202100181">10.1002/cbic.202100181</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/cbic.202100181" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/cbic.202100181" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">65</span></strong><br />
+Mak, O. W.; Sharma, N.; Reynisson, J.; Leung, I. K. H. Discovery of Novel Hsp90 C-Terminal Domain Inhibitors that Disrupt Co-Chaperone Binding. <i>Bioorg. Med. Chem. Lett.</i> <b>2021</b>, <i>38</i>, 127857. DOI: <a href="https://doi.org/10.1016/j.bmcl.2021.127857">10.1016/j.bmcl.2021.127857</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bmcl.2021.127857" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.bmcl.2021.127857" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">64</span></strong><br />
+Sharma, N.; Langley, R. J.; Eurtivong, C.; Leung, E.; Dixon, R. J.; Paulin, E. K.; Rees, S. W. P.; Pilkington, L. I.; Barker, D.; Reynisson, J.; Leung, I. K. H. An Optimised MALDI-TOF Assay for Phosphatidylcholine-Specific Phospholipase C. <i>Anal. Methods</i> <b>2021</b>, <i>13</i>, 491–496. DOI: <a href="https://doi.org/10.1039/D0AY02208J">10.1039/D0AY02208J</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/D0AY02208J" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/D0AY02208J" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">63</span></strong><br />
+Kwai, B. X. C.; Collins, A. J.; Middleditch, M. J.; Sperry, J.; Bashiri, G.; Leung, I. K. H. Itaconate is a Covalent Inhibitor of the <i>Mycobacterium tuberculosis</i> Isocitrate Lyase. <i>RSC Med. Chem.</i> <b>2021</b>, <i>12</i>, 57–61. DOI: <a href="https://doi.org/10.1039/D0MD00301H">10.1039/D0MD00301H</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/D0MD00301H" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/D0MD00301H" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">62</span></strong><br />
+Correddu, D.; Sharma, N.; Kaur, S.; Varnava, K. G.; Mbenza, N. M.; Sarojini, V.; Leung, I. K. H. An Investigation into the Effect of Ribosomal Protein S15 Phosphorylation to its Intermolecular Interactions by Using Phosphomimetic Mutant. <i>Chem. Commun.</i> <b>2020</b>, <i>56</i>, 7857–7860. DOI: <a href="https://doi.org/10.1039/D0CC01618G">10.1039/D0CC01618G</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/D0CC01618G" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/D0CC01618G" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">61</span></strong><br />
+McLarin, M.-A.; Leung, I. K. H. Substrate Specificity of Polyphenol Oxidase. <i>Crit. Rev. Biochem. Mol. Biol.</i> <b>2020</b>, <i>55</i>, 274–308. DOI: <a href="https://doi.org/10.1080/10409238.2020.1768209">10.1080/10409238.2020.1768209</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1080/10409238.2020.1768209" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1080/10409238.2020.1768209" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">60</span></strong><br />
+Pilkington, L. I.; Sparrow, K.; Rees, S. W. P.; Paulin, E. K.; van Rensburg, M.; Xu, C. S.; Langley, R. J.; Leung, I. K. H.; Reynisson, J.; Leung, E.; Barker, D. Development, Synthesis and Biological Investigation of a Novel Class of Potent PC-PLC Inhibitors. <i>Eur. J. Med. Chem.</i> <b>2020</b>, <i>191</i>, 112162. DOI: <a href="https://doi.org/10.1016/j.ejmech.2020.112162">10.1016/j.ejmech.2020.112162</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ejmech.2020.112162" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.ejmech.2020.112162" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">59</span></strong><br />
+Mohan, A.; Hadi, J.; Gutierrez-Maddox, N.; Li, Y.; Leung, I. K. H.; Gao, Y.; Shu, Q.; Quek, S.-Y. Sensory, Microbiological and Physicochemical Characterisation of Functional Manuka Honey Yogurts Containing Probiotic <i>Lactobacillus reuteri</i> DPC16. <i>Foods</i> <b>2020</b>, <i>9</i>, 106. DOI: <a href="https://doi.org/10.3390/foods9010106">10.3390/foods9010106</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/foods9010106" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/foods9010106" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">58</span></strong><br />
+Eurtivong, C.; Pilkington, L. I.; van Rensburg, M.; White, R. M.; Brar, H. K.; Rees, S.; Paulin, E. K.; Xu, C. S.; Sharma, N.; Leung, I. K. H.; Leung, E.; Barker, D.; Reynisson, J. Discovery of Novel Phosphatidylcholine-Specific Phospholipase C Drug-like Inhibitors as Potential Anticancer Agents. <i>Eur. J. Med. Chem.</i> <b>2020</b>, <i>187</i>, 111919. DOI: <a href="https://doi.org/10.1016/j.ejmech.2019.111919">10.1016/j.ejmech.2019.111919</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ejmech.2019.111919" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.ejmech.2019.111919" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">57</span></strong><br />
+Correddu, D.; Montaño López, J. d. J.; Angermayr, S. A.; Middleditch, M. J.; Payne, L. S.; Leung, I. K. H. Effect of Consecutive Rare Codons on the Recombinant Production of Human Proteins in <i>Escherichia coli</i>. <i>IUBMB Life</i> <b>2020</b>, <i>72</i>, 266–274. DOI: <a href="https://doi.org/10.1002/iub.2162">10.1002/iub.2162</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/iub.2162" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/iub.2162" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">56</span></strong><br />
+Khomenko, T. M.; Zakharenko, A. L.; Chepanova, A. A.; Ilina, E. S.; Zakharova, O. D.; Kaledin, V. I.; Nikolin, V. P.; Popova, N. A.; Korchagina, D. V.; Reynisson, J.; Chand, R.; Ayine-Tora, D. M.; Patel, J.; Leung, I. K. H.; Volcho, K. P.; Salakhutdinov, N. F.; Lavrik, O. I. Promising New Inhibitors of Tyrosyl-DNA Phosphodiesterase I (Tdp 1) Combining 4-Arylcoumarin and Monoterpenoid Moieties as Components of Complex Antitumor Therapy. <i>Int. J. Mol. Sci.</i> <b>2020</b>, <i>21</i>, 126. DOI: <a href="https://doi.org/10.3390/ijms21010126">10.3390/ijms21010126</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/ijms21010126" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/ijms21010126" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">55</span></strong><br />
+Mak, O. W.; Chand, R.; Reynisson, J.; Leung, I. K. H. Identification of Isoform-Selective Ligands for the Middle Domain of Heat Shock Protein 90 (Hsp90). <i>Int. J. Mol. Sci.</i> <b>2020</b>, <i>20</i>, 5333. DOI: <a href="https://doi.org/10.3390/ijms20215333">10.3390/ijms20215333</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/ijms20215333" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/ijms20215333" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">54</span></strong><br />
+Filimonov, A. S.; Chepanova, A. A.; Luzina, O. A.; Zakharenko, A. L.; Zakharova, O. D.; Ilina, E. S.; Dyrkheeva, N. S.; Kuprushkin, M. S.; Kolotaev, A. V.; Khachatryan, D. S.; Patel, J.; Leung, I. K. H.; Chand, R.; Ayine‐Tora, D. M.; Reynisson, J.; Volcho, K. P.; Salakhutdinov, N. F.; Lavrik, O. I. New Hydrazinothiazole Derivatives of Usnic Acid as Potent Tdp1 Inhibitors. <i>Molecules</i> <b>2019</b>, <i>24</i>, 3711. DOI: <a href="https://doi.org/10.3390/molecules24203711">10.3390/molecules24203711</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/molecules24203711" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/molecules24203711" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">53</span></strong><br />
+Bhusal, R. P.; Jiao, W.; Kwai, B. X. C.; Reynisson, J.; Collins, A. J.; Sperry, J.; Bashiri, G.; Leung, I. K. H. Acetyl-CoA-Mediated Activation of <i>Mycobacterium tuberculosis</i> Isocitrate Lyase 2. <i>Nat. Commun.</i> <b>2019</b>, <i>10</i>, 4639. DOI: <a href="https://doi.org/10.1038/s41467-019-12614-7">10.1038/s41467-019-12614-7</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-019-12614-7" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1038/s41467-019-12614-7" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">52</span></strong><br />
+Li, Y.; McLarin, M.-A.; Middleditch, M. J.; Morrow, S. J.; Kilmartin, P. A.; Leung, I. K. H. An Approach to Recombinantly Produce Mature Grape Polyphenol Oxidase. <i>Biochimie</i> <b>2019</b>, <i>165</i>, 40–47. DOI: <a href="https://doi.org/10.1016/j.biochi.2019.07.002">10.1016/j.biochi.2019.07.002</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.biochi.2019.07.002" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.biochi.2019.07.002" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">51</span></strong><br />
+Chepanova, A. A.; Mozhaitsev, E. S.; Munkuev, A. A.; Suslov, E. V.; Korchagina, D. V.; Zakharova, O. D.; Zakharenko, A. L.; Patel, J.; Ayine-Tora, D. M.; Reynisson, J.; Leung, I. K. H.; Volcho, K. P.; Salakhutdinov, N. F.; Lavrik, O. I. The Development of Tyrosyl-DNA Phosphodiesterase 1 Inhibitors. Combination of Monoterpene and Adamantine Moieties via Amide or Thioamides Bridges. <i>Appl. Sci.</i> <b>2019</b>, <i>9</i>, 2767. DOI: <a href="https://doi.org/10.3390/app9132767">10.3390/app9132767</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/app9132767" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/app9132767" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">50</span></strong><br />
+Correddu, D.; Montaño López, J. d. J.; Vadakkedath, P. G.; Lai, A.; Pernes, J. I.; Watson, P. R.; Leung, I. K. H. An Improved Method for the Heterologous Production of Soluble Human Ribosomal Proteins in <i>Escherichia coli</i>. <i>Sci. Rep.</i> <b>2019</b>, <i>9</i>, 8884. DOI: <a href="https://doi.org/10.1038/s41598-019-45323-8">10.1038/s41598-019-45323-8</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-45323-8" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1038/s41598-019-45323-8" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">49</span></strong><br />
+Correddu, D.; Leung, I. K. H. Targeting mRNA Translation in Parkinson’s Disease. <i>Drug Discov. Today</i> <b>2019</b>, <i>24</i>, 1295–1303. DOI: <a href="https://doi.org/10.1016/j.drudis.2019.04.003">10.1016/j.drudis.2019.04.003</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.drudis.2019.04.003" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.drudis.2019.04.003" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">48</span></strong><br />
+Mozhaitsev, E. S.; Zakharenko, A. L.; Suslov, E. V.; Korchagina, D. V.; Zakharova, O. D.; Vasil’eva, I. A.; Chepanova, A. A.; Black, E.; Patel, J.; Chand, R.; Reynisson, J.; Leung, I. K. H.; Volcho, K. P.; Salakhutdinov, N. F.; Lavrik, O. I. Novel Inhibitors of DNA Repair Enzyme TDP1 Combining Monoterpenoid and Adamantane Fragments. <i>Anti-Cancer Agents Med. Chem.</i> <b>2019</b>, <i>19</i>, 463–472. DOI: <a href="https://doi.org/10.2174/1871520619666181207094243">10.2174/1871520619666181207094243</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.2174/1871520619666181207094243" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.2174/1871520619666181207094243" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">47</span></strong><br />
+Zakharenko, A. L.; Luzina, O. A.; Sokolov, D. N.; Kaledin, V. I.; Nikolin, V. P.; Popova, N. A.; Patel, J.; Zakharova, O. D.; Chepanova, A. A.; Zafar, A.; Reynisson, J.; Leung, E.; Leung, I. K. H.; Volcho, K. P.; Salakhutdinov, N. F.; Lavrik, O. I. Novel Tyrosyl-DNA Phosphodiesterase 1 Inhibitors Enhance the Therapeutic Impact of Topoteсan on <i>In Vivo</i> Tumor Models. <i>Eur. J. Med. Chem.</i> <b>2019</b>, <i>161</i>, 581–593. DOI: <a href="https://doi.org/10.1016/j.ejmech.2018.10.055">10.1016/j.ejmech.2018.10.055</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ejmech.2018.10.055" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.ejmech.2018.10.055" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">46</span></strong><br />
+Son, S. J.; Huang, R.; Squire, C. J.; Leung, I. K. H. MCR-1: A Promising Target for Structure-Based Design of Inhibitors to Tackle Polymyxin Resistance. <i>Drug Discov. Today</i> <b>2019</b>, <i>24</i>, 206–216. DOI: <a href="https://doi.org/10.1016/j.drudis.2018.07.004">10.1016/j.drudis.2018.07.004</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.drudis.2018.07.004" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.drudis.2018.07.004" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">45</span></strong><br />
+Abboud, M. I.; Chowdhury, R.; Leung, I. K. H.; Lippl, K.; Loenarz, C.; Claridge, T. D. W.; Schofield, C. J. Studies on the Substrate Selectivity of the Hypoxia-Inducible Factor Prolyl Hydroxylase 2 Catalytic Domain. <i>ChemBioChem</i> <b>2018</b>, <i>19</i>, 2262–2267. DOI: <a href="https://doi.org/10.1002/cbic.201800246">10.1002/cbic.201800246</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/cbic.201800246" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/cbic.201800246" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">44</span></strong><br />
+Li-Zhulanov, N. S.; Zakharenko, A. L.; Chepanova, A. A.; Patel, J.; Zafar, A.; Volcho, K. P.; Salakhutdinov, N. F.; Reynisson, J.; Leung, I. K. H.; Lavrik, O. I. A Novel Class of Tyrosyl-DNA Phosphodiesterase 1 Inhibitors That Contains the Octahydro-2H-chromen-4-ol Scaffold. <i>Molecules</i> <b>2018</b>, <i>23</i>, 2468. DOI: <a href="https://doi.org/10.3390/molecules23102468">10.3390/molecules23102468</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/molecules23102468" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/molecules23102468" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">43</span></strong><br />
+Zhang, S.; De Leon Rodriguez, L. M.; Huang, R.; Leung, I. K. H.; Harris, P. W. R.; Brimble, M. A. Total Synthesis of the Proposed Structure of Talarolide A. <i>Org. Biomol. Chem.</i> <b>2018</b>, <i>16</i>, 5286–5293. DOI: <a href="https://doi.org/10.1039/C8OB01230J">10.1039/C8OB01230J</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C8OB01230J" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C8OB01230J" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">42</span></strong><br />
+McAllister, T. E.; Yeh, T.-L.; Abboud, M. I.; Leung, I. K. H.; Hookway, E. S.; King, O. N. F.; Bhushan, B.; Williams, S. T.; Hopkinson, R. J.; Muenzel, M.; Loik, N. D.; Chowdhury, R.; Oppermann, U.; Claridge, T. D. W.; Goto, Y.; Suga, H.; Schofield, C. J.; Kawamura, A. Non-Competitive Cyclic Peptides for Targeting Enzyme-Substrate Complexes. <i>Chem. Sci.</i> <b>2018</b>, <i>9</i>, 4569–4578. DOI: <a href="https://doi.org/10.1039/C8SC00286J">10.1039/C8SC00286J</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C8SC00286J" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C8SC00286J data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">41</span></strong><br />
+Abboud, M. I.; McAllister, T. E.; Leung, I. K. H.; Chowdhury, R.; Jorgensen, C.; Domene, C.; Mecinović, J.; Lippl, K.; Hancock, R. L.; Hopkinson, R. J.; Kawamura, A.; Claridge, T. D. W.; Schofield, C. J. 2-Oxoglutarate Regulates Binding of Hydroxylated Hypoxia-Inducible Factor to Prolyl Hydroxylase Domain 2. <i>Chem. Commun.</i> <b>2018</b>, <i>54</i>, 3130–3133. DOI: <a href="https://doi.org/10.1039/c8cc00387d">10.1039/c8cc00387d</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/c8cc00387d" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/c8cc00387d data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">40</span></strong><br />
+Zhang, S.; De Leon Rodriguez, L. M.; Leung, I. K. H.; Cook, G. M.; Harris, P. W.; Brimble, M. A. Total Synthesis and Conformational Study of Callyaerin A: Anti-Tubercular Cyclic Peptide Bearing a Rare Rigidifying (<i>Z</i>)-2,3-Diaminoacrylamide Moiety. <i>Angew. Chem. Int. Ed.</i> <b>2018</b>, <i>57</i>, 3631–3635. DOI: <a href="https://doi.org/10.1002/anie.201712792">10.1002/anie.201712792</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/anie.201712792" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/anie.201712792 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">39</span></strong><br />
+Mbenza, N. M.; Vadakkedath, P. G.; McGillivray, D. J.; Leung, I. K. H. NMR Studies of the Non-Haem Fe(II) and 2-Oxoglutarate-Dependent Oxygenases. <i>J. Inorg. Biochem.</i> <b>2017</b>, <i>177</i>, 384–394. DOI: <a href="https://doi.org/10.1016/j.jinorgbio.2017.08.032">10.1016/j.jinorgbio.2017.08.032</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jinorgbio.2017.08.032" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.jinorgbio.2017.08.032 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">38</span></strong><br />
+Li, Y.; Zafar, A.; Kilmartin, P. A.; Reynisson, J.; Leung, I. K. H. Development and Application of an NMR-Based Assay for Polyphenol Oxidases. <i>ChemistrySelect</i> <b>2017</b>, <i>2</i>, 10435–10441. DOI: <a href="https://doi.org/10.1002/slct.201702144">10.1002/slct.201702144</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/slct.201702144" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/slct.201702144 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">37</span></strong><br />
+Bhusal, R. P.; Patel, K.; Kwai, B. X. C.; Swartjes, A.; Bashiri, G.; Reynisson, J.; Sperry, J.; Leung, I. K. H. Development of NMR and Thermal Shift Assays for the Evaluation of <i>Mycobacterium tuberculosis</i> Isocitrate Lyase Inhibitors. <i>Med. Chem. Commun.</i> <b>2017</b>, <i>8</i>, 2155–2163. DOI: <a href="https://doi.org/10.1039/C7MD00456G">10.1039/C7MD00456G</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C7MD00456G" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C7MD00456G data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">36</span></strong><br />
+Yeh, T.-L.; Leissing, T. M.; Abboud, M. I.; Thinnes, C. C.; Atasoylu, O.; Holt-Martyn, J. P.; Zhang, D.; Tumber, A.; Lippl, K.; Lohans, C. T.; Leung, I. K. H.; Morcrette, H.; Clifton, I. J.; Claridge, T. D. W.; Kawamura, A.; Flashman, E.; Lu, X.; Ratcliffe, P. J.; Chowdhury, R.; Pugh, C. W.; Schofield, C. J. Molecular and Cellular Mechanisms of HIF Prolyl Hydroxylase Inhibitors in Clinical Trials. <i>Chem. Sci.</i> <b>2017</b>, <i>8</i>, 7651–7668. DOI: <a href="https://doi.org/10.1039/C7SC02103H">10.1039/C7SC02103H</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C7SC02103H" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C7SC02103H data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">35</span></strong><br />
+Bhusal, R. P.; Bashiri, G.; Kwai, B. X. C.; Sperry, J.; Leung, I. K. H. Targeting Isocitrate Lyase for the Treatment of Latent Tuberculosis. <i>Drug Discov. Today</i> <b>2017</b>, <i>22</i>, 1008–1016. DOI: <a href="https://doi.org/10.1016/j.drudis.2017.04.012">10.1016/j.drudis.2017.04.012</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.drudis.2017.04.012" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.drudis.2017.04.012 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">34</span></strong><br />
+Santoso, B.; Yanaranop, P.; Kang, H.; Leung, I. K. H.; Jin, J. A Critical Update on the Synthesis of Carboxylated Polymers of Intrinsic Microporosity (C-PIMs). <i>Macromolecules</i> <b>2017</b>, <i>50</i>, 3043–3050. DOI: <a href="https://doi.org/10.1021/acs.macromol.7b00344">10.1021/acs.macromol.7b00344</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/acs.macromol.7b00344" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/acs.macromol.7b00344 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">33</span></strong><br />
+Kong, C. H. Z.; Leung, I. K. H.; Sarojini, V. Synthetic Insect Antifreeze Peptides Modify Ice Crystal Growth Habit. <i>CrystEngComm</i> <b>2017</b>, <i>19</i>, 2163–2167. DOI: <a href="https://doi.org/10.1039/C7CE00232G">10.1039/C7CE00232G</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C7CE00232G" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C7CE00232G data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">32</span></strong><br />
+Huang, R.; Bonnichon, A.; Claridge, T. D. W.; Leung, I. K. H. Protein-Ligand Binding Affinity Determination by the WaterLOGSY Method: An Optimised Approach Considering Ligand Rebinding. <i>Sci. Rep.</i> <b>2017</b>, <i>7</i>, 43727. DOI: <a href="https://doi.org/10.1038/srep43727">10.1038/srep43727</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1038/srep43727" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1038/srep43727 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">31</span></strong><br />
+Hanauer, T.; Hopkinson, R. J.; Patel, K.; Li, Y.; Correddu, D.; Kawamura, A.; Sarojini, V.; Leung, I. K. H.; Gruber, T. Selective Recognition of the Di/Trimethylammonium Motif by an Artificial Carboxycalixarene Receptor. <i>Org. Biomol. Chem.</i> <b>2017</b>, <i>15</i>, 1100–1105. DOI: <a href="https://doi.org/10.1039/C6OB02616H">10.1039/C6OB02616H</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C6OB02616H" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C6OB02616H data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">30</span></strong><br />
+Harris, P. W. R.; Cook, G. M.; Leung, I. K. H.; Brimble, M. A. An Efficient Chemical Synthesis of Lassomycin Enabled by an On-Resin Lactamisation/Off-Resin Methanolysis Strategy and Preparation of Chemical Variants. <i>Aust. J. Chem.</i> <b>2017</b>, <i>70</i>, 172–183. DOI: <a href="https://doi.org/10.1071/CH16499">10.1071/CH16499</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1071/CH16499" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1071/CH16499 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">29</span></strong><br />
+Young, P. G.; Yosaatmadja, Y.; Harris, P. W. R.; Leung, I. K. H.; Baker, E. N.; Squire, C. J. Harnessing Ester Bond Chemistry for Protein Ligation. <i>Chem. Commun.</i> <b>2017</b>, <i>53</i>, 1502–1505. DOI: <a href="https://doi.org/10.1039/C6CC09899A">10.1039/C6CC09899A</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C6CC09899A" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C6CC09899A data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">28</span></strong><br />
+Huang, R.; Ayine-Tora, D. M.; Muhammad Rosdi, M. N.; Li, Y.; Reynisson, J.; Leung, I. K. H. Virtual Screening and Biophysical Studies Lead to HSP90 Inhibitors. <i>Bioorg. Med. Chem. Lett.</i> <b>2017</b>, <i>27</i>, 277–281. DOI: <a href="https://doi.org/10.1016/j.bmcl.2016.11.059">10.1016/j.bmcl.2016.11.059</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bmcl.2016.11.059" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.bmcl.2016.11.059 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">27</span></strong><br />
+Zhang, S.; De Leon Rodriguez, L. M.; Lacey, E.; Piggott, A. M.; Leung, I. K. H.; Brimble, M. A. Cyclisation of Linear Tetrapeptides Containing N-Methylated Amino Acids Using 2-Propanephosphonic Acid Anhydride. <i>Eur. J. Org. Chem.</i> <b>2017</b>, <i>2017</i>, 149–158. DOI: <a href="https://doi.org/10.1002/ejoc.201601016">10.1002/ejoc.201601016</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ejoc.201601016" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/ejoc.201601016 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">26</span></strong><br />
+Lindsay, A. C.; Leung, I. K. H.; Sperry, J. Synthesis of the Azepinobisindole Alkaloid Iheyamine A Enabled by a Cross-Mannich Reaction. <i>Org. Lett.</i> <b>2016</b>, <i>18</i>, 5404–5407. DOI: <a href="https://doi.org/10.1021/acs.orglett.6b02798">10.1021/acs.orglett.6b02798</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/acs.orglett.6b02798" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/acs.orglett.6b02798 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">25</span></strong><br />
+Chowdhury, R.; Leung, I. K. H.; Tian, Y.-M.; Abboud, M. I.; Ge, W.; Domene, C.; Cantrelle, F.-X.; Landrieu, I.; Hardy, A. P.; Pugh, C. W.; Ratcliffe, P. J.; Claridge, T. D. W.; Schofield, C. J. Structural Basis for Oxygen Degradation Domain Selectivity of the HIF Prolyl Hydroxylases. <i>Nat. Commun.</i> <b>2016</b>, <i>7</i>, 12673. DOI: <a href="https://doi.org/10.1038/ncomms12673">10.1038/ncomms12673</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms12673" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1038/ncomms12673 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">24</span></strong><br />
+Huang, R.; Leung, I. K. H. Protein-Directed Dynamic Combinatorial Chemistry: A Guide to Protein Ligand and Inhibitor Discovery. <i>Molecules</i> <b>2016</b>, <i>21</i>, 910. DOI: <a href="https://doi.org/10.3390/molecules21070910">10.3390/molecules21070910</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.3390/molecules21070910" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.3390/molecules21070910 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">23</span></strong><br />
+Khan, A.; Leśniak, R. K.; Brem, J.; Rydzik, A. M.; Choi, H.; Leung, I. K. H.; McDonough, M. A.; Schofield, C. J.; Claridge, T. D. W. Development and Application of Ligand-Based NMR Screening Assays for γ-Butyrobetaine Hydroxylase. <i>Med. Chem. Commun.</i> <b>2016</b>, <i>7</i>, 873–880. DOI: <a href="https://doi.org/10.1039/C6MD00004E">10.1039/C6MD00004E</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C6MD00004E" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C6MD00004E data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">22</span></strong><br />
+Hopkinson, R. J.; Leung, I. K. H.; Smart, T. J.; Rose, N. R.; Henry, L.; Claridge, T. D. W.; Schofield, C. J. Studies on the Glutathione-Dependent Formaldehyde-Activating Enzyme from <i>Paracoccus denitrificans</i>. <i>PLoS ONE</i> <b>2015</b>, <i>10</i>, e0145085. DOI: <a href="https://doi.org/10.1371/journal.pone.0145085">10.1371/journal.pone.0145085</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0145085" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1371/journal.pone.0145085 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">21</span></strong><br />
+Chan, M. C.; Atasoylu, O.; Hodson, E.; Tumber, A.; Leung, I. K. H.; Chowdhury, R.; Gómez-Pérez, V.; Demetriades, M.; Rydzik, A. M.; Holt-Martyn, J.; Tian, Y.-M.; Bishop, T.; Claridge, T. D. W.; Kawamura, A.; Pugh, C. W.; Ratcliffe, P. J.; Schofield, C. J. Potent and Selective Triazole-Based Inhibitors of the Hypoxia-Inducible Factor Prolyl-Hydroxylases With Activity in the Murine Brain. <i>PLoS ONE</i> <b>2015</b>, <i>10</i>, e0132004. DOI: <a href="https://doi.org/10.1371/journal.pone.0132004">10.1371/journal.pone.0132004</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0132004" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1371/journal.pone.0132004 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">20</span></strong><br />
+Tarhonskaya, H.; Chowdhury, R.; Leung, I. K. H.; Loik, N. D.; McCullagh, J. S. O.; Claridge, T. D. W.; Schofield, C. J.; Flashman, E. Investigating the Contribution of the Active Site Environment to the Slow Reaction of Hypoxia-Inducible Factor Prolyl Hydroxylase Domain 2 With Oxygen. <i>Biochem. J.</i> <b>2014</b>, <i>463</i>, 363–372. DOI: <a href="https://doi.org/10.1042/BJ20140779">10.1042/BJ20140779</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1042/BJ20140779" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1042/BJ20140779 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">19</span></strong><br />
+Rydzik, A. M.; Leung, I. K. H.; Kochan, G. T.; McDonough, M. A.; Claridge, T. D. W.; Schofield, C. J. Oxygenase-Catalyzed Desymmetrization of <i>N</i>,<i>N</i>-Dialkyl-Piperidine-4-Carboxylic Acids. <i>Angew. Chem. Int. Ed.</i> <b>2014</b>, <i>53</i>, 10925–10927. DOI: <a href="https://doi.org/10.1002/anie.201406125">10.1002/anie.201406125</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/anie.201406125" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/anie.201406125 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">18</span></strong><br />
+Scotti, J. S.; Leung, I. K. H.; Ge, W.; Bentley, M. A.; Paps, J.; Kramer, H. B.; Lee, J.; Aik, W.; Choi, H.; Paulsen, S. M.; Bowman, L. A. H.; Loik, N. D.; Horita, S.; Ho, C.-h.; Kershaw, N. J.; Tang, C. M.; Claridge, T. D. W.; Preston, G. M.; McDonough, M. A.; Schofield, C. J. Human Oxygen Sensing May Have Origins in Prokaryotic Elongation Factor Tu Prolyl-Hydroxylation. <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>2014</b>, <i>111</i>, 13331–13336. DOI: <a href="https://doi.org/10.1073/pnas.1409916111">10.1073/pnas.1409916111</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1409916111" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1073/pnas.1409916111 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">17</span></strong><br />
+Rydzik, A. M.; Leung, I. K. H.; Kochan, G. T.; Loik, N. D.; Henry, L.; McDonough, M. A.; Claridge, T. D. W.; Schofield, C. J. Comparison of the Substrate Selectivity and Biochemical Properties of Human and Bacterial γ-Butyrobetaine Hydroxylase. <i>Org. Biomol. Chem.</i> <b>2014</b>, <i>12</i>, 6354–6358. DOI: <a href="https://doi.org/10.1039/C4OB01167H">10.1039/C4OB01167H</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C4OB01167H" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C4OB01167H data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">16</span></strong><br />
+Tarhonskaya, H.; Szöllössi, A.; Leung, I. K. H.; Bush, J. T.; Henry, L.; Chowdhury, R.; Iqbal, A.; Claridge, T. D. W.; Schofield, C. J.; Flashman, E. Studies on Deacetoxycephalosporin C Synthase Support a Consensus Mechanism for 2-Oxoglutarate Dependent Oxygenases. <i>Biochemistry</i> <b>2014</b>, <i>53</i>, 2483–2493. DOI: <a href="https://doi.org/10.1021/bi500086p">10.1021/bi500086p</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/bi500086p" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/bi500086p data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">15</span></strong><br />
+Lingard, H.; Han, J. T.; Thompson, A. L.; Leung, I. K. H.; Scott, R. T. W.; Thompson, S.; Hamilton, A. D. Diphenylacetylene-Linked Peptide Strands Induce Bidirectional β-Sheet Formation. <i>Angew. Chem. Int. Ed.</i> <b>2014</b>, <i>53</i>, 3650–3653. DOI: <a href="https://doi.org/10.1002/anie.201309353">10.1002/anie.201309353</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/anie.201309353" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/anie.201309353 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">14</span></strong><br />
+Tarhonskaya, H.; Rydzik, A. M.; Leung, I. K. H.; Loik, N. D.; Chan, M. C.; Kawamura, A.; McCullagh, J. S. O.; Claridge, T. D. W.; Flashman, E.; Schofield, C. J. Non-Enzymatic Chemistry Enables 2-Hydroxyglutarate-Mediated Activation of 2-Oxoglutarate Oxygenases. <i>Nat. Commun.</i> <b>2014</b>, <i>5</i>, 3423. DOI: <a href="https://doi.org/10.1038/ncomms4423">10.1038/ncomms4423</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1038/ncomms4423" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1038/ncomms4423 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">13</span></strong><br />
+Rydzik, A. M.; Leung, I. K. H.; Thalhammer, A.; Kochan, G. T.; Claridge, T. D. W.; Schofield, C. J. Fluoromethylated Derivatives of Carnitine Biosynthesis Intermediates – Synthesis and Applications. <i>Chem. Commun.</i> <b>2014</b>, <i>50</i>, 1175−1177. DOI: <a href="https://doi.org/10.1039/C3CC47581F">10.1039/C3CC47581F</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C3CC47581F" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C3CC47581F data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">12</span></strong><br />
+Bush, J. T.; Walport, L. J.; McGouran, J. F.; Leung, I. K. H.; Berridge, G.; van Berkel, S. S.; Basak, A.; Kessler, B. M.; Schofield, C. J. The Ugi Four-Component Reaction Enables Expedient Synthesis and Comparison of Photoaffinity Probes. <i>Chem. Sci.</i> <b>2013</b>, <i>4</i>, 4115−4120. DOI: <a href="https://doi.org/10.1039/C3SC51708J">10.1039/C3SC51708J</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C3SC51708J" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C3SC51708J data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">11</span></strong><br />
+van Berkel, S. S.; Nettleship, J. E.; Leung, I. K. H.; Brem, J.; Choi, H.; Stuart, D. I.; Claridge, T. D. W.; McDonough, M. A.; Owens, R. J.; Ren, J.; Schofield, C. J. Binding of (5<i>S</i>)-Penicilloic Acid to Penicillin Binding Protein 3. <i>ACS Chem. Biol.</i> <b>2013</b>, <i>8</i>, 2112–2116. DOI: <a href="https://doi.org/10.1021/cb400200h">10.1021/cb400200h</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/cb400200h" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/cb400200h data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">10</span></strong><br />
+Leung, I. K. H.; Demetriades, M.; Hardy, A. P.; Lejeune, C.; Smart, T. J.; Szöllössi, A.; Kawamura, A.; Schofield, C. J.; Claridge, T. D. W. Reporter Ligand NMR Screening Method for 2-Oxoglutarate Oxygenase Inhibitors. <i>J. Med. Chem.</i> <b>2013</b>, <i>56</i>, 547–555. DOI: <a href="https://doi.org/10.1021/jm301583m">10.1021/jm301583m</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/jm301583m" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/jm301583m data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">9</span></strong><br />
+Henry, L.; Leung, I. K. H.; Claridge, T. D. W.; Schofield, C. J. γ-Butyrobetaine Hydroxylase Catalyses a Stevens Type Rearrangement. <i>Bioorg. Med. Chem. Lett.</i> <b>2012</b>, <i>22</i>, 4975–4978. DOI: <a href="https://doi.org/10.1016/j.bmcl.2012.06.024">10.1016/j.bmcl.2012.06.024</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bmcl.2012.06.024" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.bmcl.2012.06.024 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">8</span></strong><br />
+Rose, N. R.; Woon, E. C.; Tumber, A.; Walport, L. J.; Chowdhury, R.; Li, X. S.; King, O. N. F.; Lejeune, C.; Ng, S. S.; Krojer, T.; Chan, M. C.; Rydzik, A. M.; Hopkinson, R. J.; Che, K. H.; Daniel, M.; Strain-Damerell, C.; Gileadi, C.; Kochan, G.; Leung, I. K. H.; Dunford, J.; Yeoh, K. K.; Ratcliffe, P. J.; Burgess-Brown, N.; von Delft, F.; Muller, S.; Marsden, B.; Brennan, P. E.; McDonough, M. A.; Oppermann, U.; Klose, R. J.; Schofield, C. J.; Kawamura, A. The Plant Growth Regulator Daminozide Is a Selective Inhibitor of the Human KDM2/7 Histone Demethylases. <i>J. Med. Chem.</i> <b>2012</b>, <i>55</i>, 6639–6643. DOI: <a href="https://doi.org/10.1021/jm300677j">10.1021/jm300677j</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/jm300677j" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/jm300677j data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">7</span></strong><br />
+Rydzik, A. M.; Leung, I. K. H.; Kochan, G. T.; Thalhammer, A.; Oppermann, U.; Claridge, T. D. W.; Schofield, C. J. Development and Application of a Fluoride-Detection-Based Fluorescence Assay for γ-Butyrobetaine Hydroxylase. <i>ChemBioChem</i> <b>2012</b>, <i>13</i>, 1559–1563. DOI: <a href="https://doi.org/10.1002/cbic.201200256">10.1002/cbic.201200256</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/cbic.201200256" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/cbic.201200256 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">6</span></strong><br />
+Demetriades, M.; Leung, I. K. H.; Chowdhury, R.; Chan, M. C.; McDonough, M. A.; Yeoh, K. K.; Tian, Y.-M.; Claridge, T. D. W.; Ratcliffe, P. J.; Woon, E. C. Y.; Schofield, C. J. Dynamic Combinatorial Chemistry Employing Boronic Acids/Boronate Esters Leads to Potent Oxygenase Inhibitors. <i>Angew. Chem. Int. Ed.</i> <b>2012</b>, <i>51</i>, 6672–6675. DOI: <a href="https://doi.org/10.1002/anie.201202000">10.1002/anie.201202000</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1002/anie.201202000" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1002/anie.201202000 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">5</span></strong><br />
+Rotili, D.; Altun, M.; Kawamura, A.; Wolf, A.; Fischer, R.; Leung, I. K. H.; Mackeen, M. M.; Tian, Y.-M.; Ratcliffe, P. J.; Mai, A.; Kessler, B. M.; Schofield, C. J. A Photoreactive Small-Molecule Probe for 2-Oxoglutarate Oxygenases. <i>Chem. Biol.</i> <b>2011</b>, <i>18</i>, 642–654. DOI: <a href="https://doi.org/10.1016/j.chembiol.2011.03.007">10.1016/j.chembiol.2011.03.007</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.chembiol.2011.03.007" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.chembiol.2011.03.007 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">4</span></strong><br />
+Leung, I. K. H.; Brown Jr, T.; Schofield, C. J.; Claridge, T. D. W. An Approach to Enzyme Inhibition Employing Reversible Boronate Ester Formation. <i>Med. Chem. Commun.</i> <b>2011</b>, <i>2</i>, 390–395. DOI: <a href="https://doi.org/10.1039/C1MD00011J">10.1039/C1MD00011J</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1039/C1MD00011J" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1039/C1MD00011J data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">3</span></strong><br />
+Chowdhury, R.; Yeoh, K. K.; Tian, Y.-M.; Hillringhaus, L.; Bagg, E. A.; Rose, N. R.; Leung, I. K. H.; Li, X. S.; Woon, E. C. Y.; Yang, M.; McDonough, M. A.; King, O. N.; Clifton, I. J.; Klose, R. J.; Claridge, T. D. W.; Ratcliffe, P. J.; Schofield, C. J. ; Kawamura, A. The Oncometabolite 2-Hydroxyglutarate Inhibits Histone Lysine Demethylases. <i>EMBO Rep.</i> <b>2011</b>, <i>12</i>, 463–469. DOI: <a href="https://doi.org/10.1038/embor.2011.43">10.1038/embor.2011.43</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1038/embor.2011.43" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1038/embor.2011.43 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">2</span></strong><br />
+Leung, I. K. H.; Krojer, T. J.; Kochan, G. T.; Henry, L.; von Delft, F.; Claridge, T. D. W.; Oppermann, U.; McDonough, M. A.; Schofield, C. J. Structural and Mechanistic Studies on γ-Butyrobetaine Hydroxylase. <i>Chem. Biol.</i> <b>2010</b>, <i>17</i>, 1316–1324. DOI: <a href="https://doi.org/10.1016/j.chembiol.2010.09.016">10.1016/j.chembiol.2010.09.016</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.chembiol.2010.09.016" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.chembiol.2010.09.016 data-condensed=" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">1</span></strong><br />
+Leung, I. K. H.; Flashman, E.; Yeoh, K. K.; Schofield, C. J.; Claridge, T. D. W. Using NMR Solvent Water Relaxation to Investigate Metalloenzyme–Ligand Binding Interactions. <i>J. Med. Chem.</i> <b>2010</b>, <i>53</i>, 867–875. DOI: <a href="https://doi.org/10.1021/jm901537q">10.1021/jm901537q</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1021/jm901537q" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1021/jm901537q" data-condensed="true"></span><br />
+</span></p>
+<p><a id="Book Chapters"></p>
+<h3>Book Chapters</h3>
+<p></a></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">5</span></strong><br />
+Bonnet, O.; Fa’aui, T.; Leung, I. K. H.; Yi, S.; Zhuang, W.-Q. Challenges and Applications of Laccase in Bioremediation. In <i>Laccase and Polyphenol Oxidase. Biochemistry and Biotechnological Applications</i>; Leung, I. K. H., Ed.; Foundations and Frontiers in Enzymology; Academic Press: London; San Diego, MA; Cambridge, MA, 2025; Chapter 7, pp 153–185.DOI: <a href="https://doi.org/10.1016/B978-0-443-13301-5.00007-X">10.1016/B978-0-443-13301-5.00007-X</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/B978-0-443-13301-5.00007-X" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/B978-0-443-13301-5.00007-X" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">4</span></strong><br />
+Le Viet, L. H.; Matsuda, T.; Leung, I. K. H. Laccases: Biological Functions and Potential Applications. In <i>Laccase and Polyphenol Oxidase. Biochemistry and Biotechnological Applications</i>; Leung, I. K. H., Ed.; Foundations and Frontiers in Enzymology; Academic Press: London; San Diego, MA; Cambridge, MA, 2025; Chapter 6, pp 133–152. DOI: <a href="https://doi.org/10.1016/B978-0-443-13301-5.00006-8">10.1016/B978-0-443-13301-5.00006-8</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/B978-0-443-13301-5.00006-8" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/B978-0-443-13301-5.00006-8" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">3</span></strong><br />
+Chan, Y. Y.; Mbenza, N. M.; Chan, M. C.; Leung, I. K. H. Assays to Study Hypoxia-Inducible Factor Prolyl Hydroxylase Domain 2 (PHD2), a Key Human Oxygen Sensing Protein. In <i>Oxygen Sensing, Methods and Protocol</i>; Weinert, E. E., Ed.; Methods in Molecular Biology; Humana: New York, NY, 2023; Vol. 2648, Chapter 12, pp 187–206. DOI: <a href="https://doi.org/10.1007/978-1-0716-3080-8_12">10.1007/978-1-0716-3080-8_12</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-1-0716-3080-8_12" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1007/978-1-0716-3080-8_12" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">2</span></strong><br />
+Huang, R.; Leung, I. K. H. Protein–Small Molecule Interactions by WaterLOGSY. In <i>Biological NMR Part B</i>; Wand, A. J., Ed.; Methods in Enzymology; Academic Press: Cambridge, MA, 2019; Vol. 615, Chapter 14, pp 477–500. DOI: <a href="https://doi.org/10.1016/bs.mie.2018.08.020">10.1016/bs.mie.2018.08.020</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/bs.mie.2018.08.020" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/bs.mie.2018.08.020" data-condensed="true"></span><br />
+</span></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">1</span></strong><br />
+Xiang, L.-W.; Melton, L. D.; Leung, I. K. H. Interactions of β-Lactoglobulin With Small Molecules. In <i>Encyclopedia of Food Chemistry</i>; Melton, L., Shahidi, F., Varelis, P., Eds.; Elsevier: Amsterdam, 2019; Vol. 2, pp 560–565. DOI: <a href="https://doi.org/10.1016/B978-0-08-100596-5.21488-1">10.1016/B978-0-08-100596-5.21488-1</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/B978-0-08-100596-5.21488-1" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/B978-0-08-100596-5.21488-1" data-condensed="true"></span><br />
+</span></p>
+<p><a id="Edited Books"></p>
+<h3>Edited Books</h3>
+<p></a></p>
+<p style="text-align: justify;"><strong><span style="color: #094183;">1</span></strong><br />
+<i>Laccase and Polyphenol Oxidase. Biochemistry and Biotechnological Applications</i>; Leung, I. K. H., Ed.; Foundations and Frontiers in Enzymology; Academic Press: London; San Diego, MA; Cambridge, MA, 2025. DOI: <a href="https://doi.org/10.1016/C2022-0-01789-X">10.1016/C2022-0-01789-X</a></p>
+<p><span style="float: right; display: flex; gap: 4px;"><br />
+<span class="__dimensions_badge_embed__" data-doi="10.1016/C2022-0-01789-X" data-style="large_rectangle"></span><span class="altmetric-embed" data-badge-type="1" data-doi="10.1016/C2022-0-01789-X" data-condensed="true"></span><br />
+</span></p>
+<p><a id="Statistics"></p>
+<h3>Statistics</h3>
+<p></a><br />
+<img decoding="async" class="wp-image-2173" src="https://leung.chemistry.unimelb.edu.au/files/2025/07/Statistics1.png" alt="" width="auto" height="auto"></p>
+<p><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><br />
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script></p>
+				</div>					
+							<div class="tab" id="tab2196" role="tabpanel">
+				<h2>Dr Ivanhoe Leung</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Senior Lecturer in Biological Chemistry</strong></span></p>
+<p style="text-align: justify;"><img fetchpriority="high" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2023/06/Ivanhoe-Leung-Website.jpg" alt="" width="280" height="280" />Dr Ivanhoe Leung is a Senior Lecturer in Biological Chemistry at the University of Melbourne. He attained his undergraduate and doctorate degrees in Chemistry and received postdoctoral training at the University of Oxford. In 2014, he joined the University of Auckland as a Lecturer in Chemical Biology. He was promoted to Senior Lecturer in 2017, and to Senior Lecturer (over the bar) in 2019. Dr Leung was recruited to the University of Melbourne through the Driving Research Momentum scheme in 2021.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Professional Appointments</strong></span><br />
+<strong>▪ 2021–:</strong> Senior Lecturer, The University of Melbourne<br />
+<strong>▪ 2014–2021:</strong> Lecturer/Senior Lecturer, The University of Auckland<br />
+<strong>▪ 2012–2014:</strong> Postdoctoral Research Assistant, University of Oxford</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Academic qualifications</strong></span><br />
+<strong>▪ 2008–2013:</strong> D.Phil Chemistry, University of Oxford<br />
+<strong>▪ 2003–2007:</strong> M.Chem Chemistry, University of Oxford</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Distinctions and Awards</strong></span><br />
+▪ <strong>2024:</strong> Welcome Award, Royal Australian Chemical Institute (RACI)<br />
+▪ <strong>2024:</strong> Supervisor of the Year Award, RACI Victoria Branch Chemistry<br />
+▪ <strong>2021:</strong> Selby Research Award, Selby Scientific Foundation<br />
+▪ <strong>2019:</strong> Early Career Research Excellence Award, The University of Auckland<br />
+▪ <strong>2019:</strong> JSPS Hope Fellow, Japan Society for the Promotion of Science<br />
+▪ <strong>2019:</strong> Associate Investigator, Maurice Wilkins Centre</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Research Leadership</strong></span><br />
+▪ Chair of Research, School of Chemistry, The University of Melbourne (2024–)<br />
+▪ Board of Directors, Australian &#038; New Zealand Society for Magnetic Resonance (2024–)<br />
+▪ President, Melbourne University Chemical Society (MUCS) (2023–)<br />
+▪ Committee Member, RACI Green and Sustainable Chemistry Division (2022–)<br />
+▪ Associate Editor, Frontiers in Chemistry (2022–)<br />
+▪ Deputy Director, Centre for Green Chemical Science (2018–2021)<br />
+▪ Chair, New Zealand Institute of Chemistry (NZIC) Auckland Branch (2018–2019)<br />
+▪ Editorial Board Member, Scientific Reports (2018–)</p>
+</p>
+<p><a href="https://findanexpert.unimelb.edu.au/profile/863541-ivanhoe-leung" id="wmd-buttons-689372259dbff" class="wmd-buttons brand button-small with-arrow">Find an expert</a></p></p>
+				</div>					
+							<div class="tab" id="tab34" role="tabpanel">
+				<h2>Dr Glenda Vasku</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Postdoctoral Research Fellow</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2024/11/DrGlendaVasku.jpg" alt="" width="280" height="280" />Glenda obtained her PhD in analytical chemistry from the Université de Bourgogne, where she developed her expertise in lipidomics, metabolomics and cutting-edge hyphenated techniques that include HPLC, UPLC, SFC MALDI, and GC mass spectrometry. She is now studying bacteria-host interactions between humans and <i>Mycobacterium tuberculosis</i>.</p>
+<hr />
+<p></p>
+<h2>Francis Kuang</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>PhD candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2022/01/Francis-Kuang.jpg" alt="" width="280" height="280" />Francis completed his Master of Drug Discovery and Development at the Victoria University of Wellington. In his MDDD project, Francis developed a genomic driven approach to identify biosynthetically gifted actinomycetes from New Zealand mangrove samples. His current project aims to decipher the mechanism and regulation of 1-aminocyclopropane-1-carboxylic acid oxidase.</p>
+<hr />
+<p></p>
+<h2>Madison Nuske</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>PhD candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2024/11/MadieNuske.png" alt="" width="280" height="280" />Madie obtained her Bachelor of Science and Master&#8217;s degree in Chemistry at the University of Melbourne. She is developing and utilising mass spectrometry and omics methods to explore biological questions about lipids, proteins and their interactions. </p>
+<hr />
+<p></p>
+<h2>Chai Xin Yu</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>PhD candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2024/11/ChaiXinYu.jpg" alt="" width="280" height="280" />Chai Xin completed her Master of Research in Medicinal Chemistry at the Universiti Putra Malaysia on repurposing drugs for dengue using computer-aided drug design methods. She also has some work experience at a pharmaceutical company in drug formulation development and provided technical support in upscale drug production. Her current project involves the study of post-translational regulation of isocitrate lyase and isocitrate dehydrogenase in <i>Mycobacteria tuberculosis</i>.</p>
+<hr />
+<p></p>
+<h2>Xiaoxu Chen</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>PhD candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2024/11/XiaoXuChen.png" alt="" width="280" height="280" />Xiaoxu completed her Master’s degree in Biochemistry and Molecular Biology at the University of Chinese Academy of Sciences, where she measured weak interactions within proteins and studied protein allostery in cells. Her current project focuses on the catalytic mechanisms of isocitrate lyase from <i>Mycobacteria tuberculosis</i>.</p>
+<hr />
+<p></p>
+<h2>Craeg Casals</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>MSc candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2024/11/CraegCasals.jpg" alt="" width="280" height="280" />Craeg completed his Bachelor of Science degree in Molecular Biology and Applied Chemistry in La Trobe University. Currently, he is pursuing his Master&#8217;s degree in Chemistry under the supervision of Drs John Karas and Ivanhoe Leung. His research investigates the stabilisation of enzymes for biocatalysis.</p>
+<hr />
+<p></p>
+<h2>Catur Kurniawan</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>MSc candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2024/11/CaturKurniawan.jpg" alt="" width="280" height="280" />Catur obtained his Bachelor&#8217;s degree from the State University of Medan, Indonesia. He is currently pursuing a Master&#8217;s degree in Chemistry under the joint supervision of Drs Ludovica Monti and Ivanhoe Leung. His research project focuses on finding inhibitors for the ACC oxidase enzyme.</p>
+<hr />
+<p></p>
+<h2>Mandy Wang</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>MSc candidate</strong></span></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-33 size-medium" src="https://leung.chemistry.unimelb.edu.au/files/2025/06/Meng-Wang.jpg" alt="" width="280" height="280" />Meng Wang completed her Bachelor of Applied Chemistry at the Anhui Jianzhu University. Currently, she is pursuing a Master&#8217;s degree in Chemistry. Her research focusses on understanding the function and regulation of the plant ethylene-forming enzymes, which is strongly linked to the ability of plants to respond to stress caused by climate change. </p>
+<hr />
+<p></p>
+<h2>Past members</h2>
+<p>Past members of the Leung Research Group and their completion years are listed below.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Postdoctoral Research Fellow</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Dr Brooke Kwai, <em>2022</em><br />
+<em>The University of Auckland</em><br />
+▪ Dr Aimee Son, <em>2019</em><br />
+▪ Dr Yu Li, <em>2018</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Doctor of Philosophy &#8211; PhD</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Dr Evelyn Huang, <em>2025</em><br />
+<em>The University of Auckland</em><br />
+▪ Dr Vicky Juan, <em>2023</em><br />
+▪ Dr Renjie Huang, <em>2023</em><br />
+▪ Dr Brooke Kwai, <em>2022</em><br />
+▪ Dr Eva Antony, <em>2022</em><br />
+▪ Dr Nabangshu Sharma, <em>2021</em><br />
+▪ Dr Ryan Dixon, <em>2021</em><br />
+▪ Dr Naasson Mbambi Mbenza, <em>2020</em><br />
+▪ Dr Jinal Patel, <em>2020</em><br />
+▪ Dr Dona Gunawardana, <em>2020</em><br />
+▪ Dr Praveen George Vadakkedath, <em>2020</em><br />
+▪ Dr Oi Wei Mak, <em>2020</em><br />
+▪ Dr Danilo Correddu, <em>2019</em><br />
+▪ Dr Ram Bhusal, <em>2018</em><br />
+▪ Dr Yu Li, <em>2017</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Master of Science &#8211; MSc</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Buster Wu, <em>2025</em><br />
+▪ Wenqiao Man, <em>2025</em><br />
+▪ Benjamin Harris, <em>2024</em><br />
+▪ Kallet Zhou, <em>2023</em><br />
+▪ Jinpeng Zhou, <em>2023</em><br />
+▪ Junlang Zhong, <em>2023</em><br />
+<em>The University of Auckland</em><br />
+▪ Simran Kaur, <em>2019</em><br />
+▪ Renjie Mike Huang, <em>2017</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Bachelor of Science (Honours) &#8211; BSc(Hons)</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Patrick Bajan, <em>2023</em><br />
+<em>The University of Auckland</em><br />
+▪ Mark-Anthony McLarin, <em>2019</em><br />
+▪ Brooke Kwai, <em>2017</em><br />
+▪ Nawal Nasarudin, <em>2016</em><br />
+▪ Dona Gunawardana, <em>2016</em><br />
+▪ M. Nasri Muhammad Rosdi, <em>2015</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Postgraduate Diploma in Science &#8211; PGDipSci</strong></span><br />
+<em>The University of Auckland</em><br />
+▪ Weijing Sun, <em>2020</em><br />
+▪ Renjie Mike Huang, <em>2015</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Summer Research Scholars</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Le Thao Anh Nguyen, <em>2024</em><br />
+▪ Sarah Tynan, <em>2023</em><br />
+▪ Tricia Lee, <em>2022</em><br />
+<em>The University of Auckland</em><br />
+▪ Daniel Bousfield, <em>2020</em><br />
+▪ José de Jesús Montaño López, <em>2018</em><br />
+▪ Jane Pernes, <em>2017</em><br />
+▪ Johanna Viluma, <em>2017</em><br />
+▪ Amy Lai, <em>2017</em><br />
+▪ Paris Watson, <em>2016</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Undergraduate Project Students</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Biechunzi Liu, <em>2024</em><br />
+▪ George Ye, <em>2024</em><br />
+▪ Gabriel Chan, <em>2023</em><br />
+▪ Andrew Yerondais, <em>2023</em><br />
+▪ YuTao Zhou, <em>2022</em><br />
+▪ Devia Rachmat Kurniawan, <em>2022</em></p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Visitors/Volunteers</strong></span><br />
+<em>The University of Melbourne</em><br />
+▪ Eugene Quang Le, <em>2025</em><br />
+▪ Yingqi Lai, <em>2024</em><br />
+▪ Ka Ki Leung, <em>2024</em><br />
+▪ Simran Kaur, <em>2023</em><br />
+▪ Lan Huong Le Viet, <em>2023</em><br />
+▪ Anu Sharma, <em>2023</em><br />
+▪ Dr Tianyang Liu, <em>2023</em><br />
+▪ Michael Valens Soegianto, <em>2023</em><br />
+<em>The University of Auckland</em><br />
+▪ Cathy Yin, <em>2020</em><br />
+▪ Misha van Merrienboer, <em>2019</em><br />
+▪ Esmée Van Tol, <em>2019</em><br />
+▪ Ravi Tej Allam, <em>2017</em><br />
+▪ Thomas Hanauer, <em>2015</em></p></p>
+				</div>					
+							<div class="tab" id="tab5" role="tabpanel">
+				<h2>News</h2>
+<p style="text-align: justify;">Stay updated with the latest news about our research by visiting our research group website or following us on X: <a href="https://twitter.com/Leung_Group" target="_blank" rel="noopener">@Leung_Group</a>.</p>
+				</div>					
+							<div class="tab" id="tab2221" role="tabpanel">
+				<h2>Opportunities and Funding</h2>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Postdoctoral Research</strong></span></p>
+<p style="text-align: justify;">At this time, we do not have any available postdoctoral positions. However, applicants interested in applying for their own funding are welcome to contact Dr Ivanhoe Leung for informal enquiries.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>PhD Studies</strong></span></p>
+<p style="text-align: justify;">For those considering PhD studies, informal enquiries can be directed to Dr Ivanhoe Leung via email. The University of Melbourne has stringent entry requirements for its PhD program. Detailed information can be found on the <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/" rel="noopener" target="_blank">University website</a>.</p>
+<p style="text-align: justify;">PhD candidates are typically funded by the Melbourne Research Scholarship (MRS) or the Research Training Program (RTP) Scholarship. If you are a new student and have applied for a graduate research course (e.g., PhD) by the application closing date, you will be automatically considered for these scholarships. Further details about these scholarships are available on the <a href="https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships" rel="noopener" target="_blank">University’s scholarship page</a>.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>MSc (Chemistry) and BSc (Honours) Studies</strong></span></p>
+<p style="text-align: justify;">If you are interested in pursuing your Honours or Master’s research project within our group, please reach out to Dr Ivanhoe Leung via email for more information. Please note that we generally do not accept MPhil students into our research group.</p>
+<p style="text-align: justify;"><span style="color: #094183;"><strong>Summer Projects</strong></span></p>
+<p style="text-align: justify;">Currently, we do not have any summer research positions available. However, applicants with their own funding may contact Dr Ivanhoe Leung for informal enquiries.</p>
+				</div>					
+							<div class="tab" id="tab17" role="tabpanel">
+				<h2>Contact Details</h2>
+<p>Bio21 Molecular Science &amp; Biotechnology Institute<br />
+The University of Melbourne<br />
+30 Flemington Rd<br />
+Melbourne<br />
+VIC 3010</p>
+<p>Email: <a href="mailto:ivanhoe.leung@unimelb.edu.au" target="_blank" rel="noopener">ivanhoe.leung@unimelb.edu.au</a><br />
+X: <a href="https://twitter.com/Leung_Group" target="_blank" rel="noopener">@Leung_Group</a></p>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.6620147606727!2d144.95135891531822!3d-37.79795987975532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d2ef31167d3%3A0x1ee7add47caa75d!2s30%20Flemington%20Rd%2C%20Parkville%20VIC%203052!5e0!3m2!1sen!2sau!4v1627001455914!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
+<h2>Useful Links and Information</h2>
+<p>▪ <a href="https://chemistry.unimelb.edu.au/" target="_blank" rel="noopener">School of Chemistry</a><br />
+▪ <a href="https://www.bio21.unimelb.edu.au/" target="_blank" rel="noopener">Bio21 Molecular Science &amp; Biotechnology Institute</a><br />
+▪ <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/" target="_blank" rel="noopener">Doctor of Philosophy &#8211; Science</a><br />
+▪ <a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-chemistry/" target="_blank" rel="noopener">Master of Science (Chemistry)</a><br />
+▪ <a href="https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours" target="_blank" rel="noopener">Bachelor of Science (Degree with Honours)</a><br />
+▪ <a href="https://scholarships.unimelb.edu.au/" target="_blank" rel="noopener">Scholarships at the University of Melbourne</a></p>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-includes/js/comment-reply.min.js?ver=6.8.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/howler.min.js?ver=2015102605" id="lean-captcha-howler-js"></script>
+<script type="text/javascript" id="lean-captcha-js-extra">
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/leung.chemistry.unimelb.edu.au\/wp-admin\/admin-ajax.php","key":"lc_MusE+1KZb3kzPUknyivDhA=="};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/lean-captcha.js?ver=201709035" id="lean-captcha-js"></script>
+<script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/leung.chemistry.unimelb.edu.au\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/leung.chemistry.unimelb.edu.au","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.5.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-GB","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/leung.chemistry.unimelb.edu.au\/wp-admin\/admin-ajax.php","security":"a3cfdc1e74","action":"wpa_stats_action","url":"https:\/\/leung.chemistry.unimelb.edu.au\/","post_id":"2","continue":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leung.chemistry.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.5.10" id="wp-accessibility-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Leung Research Group</h2>
+
+			<ul>
+							<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://leung.chemistry.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+							</ul>
+
+		</div>
+		
+	</body>
+	
+</html>
+[tiny-file-manager-unauth] Dumped HTTP response https://leung.chemistry.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:56 GMT
+Location: https://leung.chemistry.unimelb.edu.au/
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://leung.chemistry.unimelb.edu.au/xmlrpc.php
+X-Redirect-By: WordPress
+
+

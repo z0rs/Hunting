@@ -1,0 +1,19 @@
+[CVE-2022-1595] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-login.php
+
+
+HEAD /wp-login.php HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Cookie: valid_login_slug=1
+
+
+[CVE-2022-1595] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-login.php
+
+HTTP/1.1 577 
+Connection: close
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Server: openresty
+Content-Length: 0
+
+

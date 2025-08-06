@@ -1,0 +1,44 @@
+[age-gate-open-redirect] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-post.php
+
+
+POST /wp-admin/admin-post.php HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 205
+Accept: */*
+Accept-Language: en
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+age_gate%5Bd%5D=10&age_gate%5Bm%5D=10&age_gate%5By%5D=1990&age_gate%5Bremember%5D=1&age_gate%5Bage%5D=TVRnPQ%3D%3D&action=age_gate_submit&age_gate%5Bnonce%5D=48f2b89fed&_wp_http_referer=https://interact.sh
+[age-gate-open-redirect] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-post.php
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 eafa30ac9eebc826d698b6b51868b24a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: SCzA75yBg1ngXwDJlNYiOIhpPBGXyvB8yybHeFHnUwnQaRsakonbEw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: YT0X3GXN6BB6V72Y</li>
+<li>HostId: nGiFIRBj58cHdC9SnARvGk9se7KmMwn2NQ+IHdUSbyYqK24QhgOHGvJYt9Y2pYvneKMM9Ef+/2g=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

@@ -1,0 +1,1457 @@
+[CVE-2022-1580] Dumped HTTP request for https://must.unimelb.edu.au/wp-content/plugins/site-offline/readme.txt
+
+
+GET /wp-content/plugins/site-offline/readme.txt HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-1580] Dumped HTTP response https://must.unimelb.edu.au/wp-content/plugins/site-offline/readme.txt
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Wed, 06 Aug 2025 15:18:08 GMT
+Link: <https://must.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Server: openresty
+Vary: Cookie
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-AU">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-AU">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-AU">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-AU">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Page not found | Melbourne University Student Theatre Archive</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+  
+  
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <!--[if lt IE 9]><script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script><![endif]-->
+<!-- 
+  <link rel="stylesheet" href="//uom-templates.s3.amazonaws.com/templates/0.2/uom.css" media="all" rel="stylesheet" /> -->
+  <!--[if lt IE 9]><script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script><![endif]-->
+<link rel="stylesheet" href="//uom-design-system.s3.amazonaws.com/v3.3.1/uom.css">
+
+<script src="//uom-design-system.s3.amazonaws.com/v3.3.1/uom.js"></script>
+
+  <script async="" src="//www.google-analytics.com/analytics.js"></script>
+  <script type="text/javascript" async="" src="//www.google-analytics.com/ga.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+ 
+  <meta content="authenticity_token" name="csrf-param">
+  
+<link rel="stylesheet" type="text/css" media="all" href="https://must.unimelb.edu.au/wp-content/themes/unimelb-student-theatre/style.css?ver=2" />
+<link rel="pingback" href="https://must.unimelb.edu.au/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://must.unimelb.edu.au/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Melbourne University Student Theatre Archive &raquo; Feed" href="https://must.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Melbourne University Student Theatre Archive &raquo; Comments Feed" href="https://must.unimelb.edu.au/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/must\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://must.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://must.unimelb.edu.au/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://must.unimelb.edu.au/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #1982d1;--wp--preset--color--dark-gray: #373737;--wp--preset--color--medium-gray: #666;--wp--preset--color--light-gray: #e2e2e2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='twentyeleven-block-style-css' href='https://must.unimelb.edu.au/wp-content/themes/twentyeleven/blocks.css?ver=20240703' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<link rel='stylesheet' id='wp-featherlight-css' href='https://must.unimelb.edu.au/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.4' type='text/css' media='all' />
+<script type="text/javascript" src="https://must.unimelb.edu.au/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/jquery-1.12.4-wp.js?ver=1.12.4-wp" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://must.unimelb.edu.au/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://must.unimelb.edu.au/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://must.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://must.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30888490-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+  
+  <style type="text/css">
+ 
+.acf-map {
+	width: 100%;
+	height: 300px;
+	border: #ccc solid 1px;
+	margin: 20px 0;
+}
+ 
+</style>
+  <link rel="stylesheet" type="text/css" src="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" />
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script type="text/javascript">
+(function($) {
+ 
+/*
+*  render_map
+*
+*  This function will render a Google Map onto the selected jQuery element
+*
+*  @type	function
+*  @date	8/11/2013
+*  @since	4.3.0
+*
+*  @param	$el (jQuery element)
+*  @return	n/a
+*/
+ 
+function render_map( $el ) {
+ 
+	// var
+	var $markers = $el.find('.marker');
+ 
+	// vars
+	var args = {
+		zoom		: 16,
+		center		: new google.maps.LatLng(0, 0),
+		mapTypeId	: google.maps.MapTypeId.ROADMAP
+	};
+ 
+	// create map	        	
+	var map = new google.maps.Map( $el[0], args);
+ 
+	// add a markers reference
+	map.markers = [];
+ 
+	// add markers
+	$markers.each(function(){
+ 
+    	add_marker( $(this), map );
+ 
+	});
+ 
+	// center map
+	center_map( map );
+ 
+}
+ 
+/*
+*  add_marker
+*
+*  This function will add a marker to the selected Google Map
+*
+*  @type	function
+*  @date	8/11/2013
+*  @since	4.3.0
+*
+*  @param	$marker (jQuery element)
+*  @param	map (Google Map object)
+*  @return	n/a
+*/
+ 
+function add_marker( $marker, map ) {
+ 
+	// var
+	var latlng = new google.maps.LatLng( $marker.attr('data-lat'), $marker.attr('data-lng') );
+ 
+	// create marker
+	var marker = new google.maps.Marker({
+		position	: latlng,
+		map			: map
+	});
+ 
+	// add to array
+	map.markers.push( marker );
+ 
+	// if marker contains HTML, add it to an infoWindow
+	if( $marker.html() )
+	{
+		// create info window
+		var infowindow = new google.maps.InfoWindow({
+			content		: $marker.html()
+		});
+ 
+		// show info window when marker is clicked
+		google.maps.event.addListener(marker, 'click', function() {
+ 
+			infowindow.open( map, marker );
+ 
+		});
+	}
+ 
+}
+ 
+/*
+*  center_map
+*
+*  This function will center the map, showing all markers attached to this map
+*
+*  @type	function
+*  @date	8/11/2013
+*  @since	4.3.0
+*
+*  @param	map (Google Map object)
+*  @return	n/a
+*/
+ 
+function center_map( map ) {
+ 
+	// vars
+	var bounds = new google.maps.LatLngBounds();
+ 
+	// loop through all markers and create bounds
+	$.each( map.markers, function( i, marker ){
+ 
+		var latlng = new google.maps.LatLng( marker.position.lat(), marker.position.lng() );
+ 
+		bounds.extend( latlng );
+ 
+	});
+ 
+	// only 1 marker?
+	if( map.markers.length == 1 )
+	{
+		// set center of map
+	    map.setCenter( bounds.getCenter() );
+	    map.setZoom( 16 );
+	}
+	else
+	{
+		// fit to bounds
+		map.fitBounds( bounds );
+	}
+ 
+}
+ 
+/*
+*  document ready
+*
+*  This function will render each map when the document is ready (page has loaded)
+*
+*  @type	function
+*  @date	8/11/2013
+*  @since	5.0.0
+*
+*  @param	n/a
+*  @return	n/a
+*/
+ 
+$(document).ready(function(){
+ 
+	$('.acf-map').each(function(){
+ 
+		render_map( $(this) );
+ 
+	});
+ 
+});
+ 
+})(jQuery);
+</script>
+  
+</head>
+
+<body class="error404 wp-embed-responsive wp-theme-twentyeleven wp-child-theme-unimelb-student-theatre wp-featherlight-captions two-column right-sidebar">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59625504-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <div class="uomcontent">
+    <div class="page-inner">
+      <div class="page-local-history">
+        <a class="root" href="https://must.unimelb.edu.au/" title="Website Home">Theatre Archive</a>
+        <!--
+        <span>/</span>
+        <a class="last" href="" title="A sub-page">A sub-page</a>
+        -->
+              </div>
+    <div role="main">
+	
+	
+			
+		
+
+
+<header id="branding" class="image" style="background-image: url(https://must.unimelb.edu.au/files/2019/08/cropped-theatre1-2-1.jpg)">  <div class="mid-align"> <section><h1></h1></section>
+	<form method="get" id="searchform" action="https://must.unimelb.edu.au/">
+	  <fieldset>
+		
+		<div class="inline">
+      		<input data-required="" placeholder="Search the archive" name="s" id="s" type="search" title="Search the arcive" aria-label="Search the archive" value="">
+      		<button type="submit" value="Go" class="search-button" name="submit" id="searchsubmit"><svg class="icon" role="img"><use xlink:href="#icon-search"></use></svg></button>
+		  
+		  
+		  
+			<!--<label for="s" class="assistive-text">Search</label>
+			<input type="text" class="field" name="s" id="s" placeholder="Search" />
+			<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+-->
+
+		</div>
+		
+	  </fieldset>
+	</form>
+</div></header> 
+	<div id="primary">
+		<div id="content" role="main">
+
+			<article id="post-0" class="post error404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">This is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help.</p>
+
+					
+	<form method="get" id="searchform" action="https://must.unimelb.edu.au/">
+	  <fieldset>
+		
+		<div class="inline">
+      		<input data-required="" placeholder="Search the archive" name="s" id="s" type="search" title="Search the arcive" aria-label="Search the archive" value="">
+      		<button type="submit" value="Go" class="search-button" name="submit" id="searchsubmit"><svg class="icon" role="img"><use xlink:href="#icon-search"></use></svg></button>
+		  
+		  
+		  
+			<!--<label for="s" class="assistive-text">Search</label>
+			<input type="text" class="field" name="s" id="s" placeholder="Search" />
+			<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+-->
+
+		</div>
+		
+	  </fieldset>
+	</form>
+
+					
+		<div class="widget widget_recent_entries">
+		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://must.unimelb.edu.au/2021/05/13/galileo-1984/">Galileo &#8211; 1984?</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2021/05/06/saint-joan/">Saint Joan</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/12/08/between-here-and-when-i-tell-you-2020/">between here and when i tell you (2020)</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/09/10/inter-varsity-drama-festival-1964/">Inter-varsity Drama Festival (1964)</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/03/16/a-clockwork-orange/">A Clockwork Orange</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/03/16/the-history-boys-2012/">The History Boys (2012)</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/03/16/nine-2011/">Nine (2011)</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/02/10/the-importance-of-being-vulgar/">The Importance of Being Vulgar</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/01/23/mysterious-mysteries/">Mysterious Mysteries</a>
+									</li>
+											<li>
+					<a href="https://must.unimelb.edu.au/2020/01/23/five-finger-exercise-1961/">Five Finger Exercise (1961)</a>
+									</li>
+					</ul>
+
+		</div>
+					<div class="widget">
+						<h2 class="widgettitle">Most Used Categories</h2>
+						<ul>
+							<li class="cat-item cat-item-169337"><a href="https://must.unimelb.edu.au/category/plays/">Plays</a> (2,608)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://must.unimelb.edu.au/category/uncategorized/">Uncategorized</a> (59)
+</li>
+	<li class="cat-item cat-item-168904"><a href="https://must.unimelb.edu.au/tag/musical/">musical</a> (38)
+</li>
+	<li class="cat-item cat-item-168657"><a href="https://must.unimelb.edu.au/category/lost-and-found/">Lost And Found</a> (13)
+</li>
+	<li class="cat-item cat-item-416"><a href="https://must.unimelb.edu.au/category/articles/">Articles</a> (5)
+</li>
+	<li class="cat-item cat-item-169129"><a href="https://must.unimelb.edu.au/category/play-updated-from-2014/">Play updated from 2014</a> (3)
+</li>
+	<li class="cat-item cat-item-168330"><a href="https://must.unimelb.edu.au/category/front-page/">Front Page</a> (1)
+</li>
+						</ul>
+					</div>
+
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives. 🙂</p>		<label class="screen-reader-text" for="archives-dropdown--1">Archives</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://must.unimelb.edu.au/2021/05/'> May 2021 </option>
+	<option value='https://must.unimelb.edu.au/2020/12/'> December 2020 </option>
+	<option value='https://must.unimelb.edu.au/2020/09/'> September 2020 </option>
+	<option value='https://must.unimelb.edu.au/2020/03/'> March 2020 </option>
+	<option value='https://must.unimelb.edu.au/2020/02/'> February 2020 </option>
+	<option value='https://must.unimelb.edu.au/2020/01/'> January 2020 </option>
+	<option value='https://must.unimelb.edu.au/2019/12/'> December 2019 </option>
+	<option value='https://must.unimelb.edu.au/2019/10/'> October 2019 </option>
+	<option value='https://must.unimelb.edu.au/2019/09/'> September 2019 </option>
+	<option value='https://must.unimelb.edu.au/2019/08/'> August 2019 </option>
+	<option value='https://must.unimelb.edu.au/2019/05/'> May 2019 </option>
+	<option value='https://must.unimelb.edu.au/2018/10/'> October 2018 </option>
+	<option value='https://must.unimelb.edu.au/2018/09/'> September 2018 </option>
+	<option value='https://must.unimelb.edu.au/2018/06/'> June 2018 </option>
+	<option value='https://must.unimelb.edu.au/2018/03/'> March 2018 </option>
+	<option value='https://must.unimelb.edu.au/2017/12/'> December 2017 </option>
+	<option value='https://must.unimelb.edu.au/2017/10/'> October 2017 </option>
+	<option value='https://must.unimelb.edu.au/2017/09/'> September 2017 </option>
+	<option value='https://must.unimelb.edu.au/2017/08/'> August 2017 </option>
+	<option value='https://must.unimelb.edu.au/2016/11/'> November 2016 </option>
+	<option value='https://must.unimelb.edu.au/2016/07/'> July 2016 </option>
+	<option value='https://must.unimelb.edu.au/2016/06/'> June 2016 </option>
+	<option value='https://must.unimelb.edu.au/2016/03/'> March 2016 </option>
+	<option value='https://must.unimelb.edu.au/2016/02/'> February 2016 </option>
+	<option value='https://must.unimelb.edu.au/2015/12/'> December 2015 </option>
+	<option value='https://must.unimelb.edu.au/2015/11/'> November 2015 </option>
+	<option value='https://must.unimelb.edu.au/2015/09/'> September 2015 </option>
+	<option value='https://must.unimelb.edu.au/2015/08/'> August 2015 </option>
+	<option value='https://must.unimelb.edu.au/2015/07/'> July 2015 </option>
+	<option value='https://must.unimelb.edu.au/2015/03/'> March 2015 </option>
+	<option value='https://must.unimelb.edu.au/2014/11/'> November 2014 </option>
+	<option value='https://must.unimelb.edu.au/2014/10/'> October 2014 </option>
+	<option value='https://must.unimelb.edu.au/2012/07/'> July 2012 </option>
+	<option value='https://must.unimelb.edu.au/2012/06/'> June 2012 </option>
+	<option value='https://must.unimelb.edu.au/2012/01/'> January 2012 </option>
+	<option value='https://must.unimelb.edu.au/2011/05/'> May 2011 </option>
+	<option value='https://must.unimelb.edu.au/2011/04/'> April 2011 </option>
+	<option value='https://must.unimelb.edu.au/2011/03/'> March 2011 </option>
+	<option value='https://must.unimelb.edu.au/2010/09/'> September 2010 </option>
+	<option value='https://must.unimelb.edu.au/2010/08/'> August 2010 </option>
+	<option value='https://must.unimelb.edu.au/2010/05/'> May 2010 </option>
+	<option value='https://must.unimelb.edu.au/2010/04/'> April 2010 </option>
+	<option value='https://must.unimelb.edu.au/2010/03/'> March 2010 </option>
+	<option value='https://must.unimelb.edu.au/2010/02/'> February 2010 </option>
+	<option value='https://must.unimelb.edu.au/2009/10/'> October 2009 </option>
+	<option value='https://must.unimelb.edu.au/2009/08/'> August 2009 </option>
+	<option value='https://must.unimelb.edu.au/2009/05/'> May 2009 </option>
+	<option value='https://must.unimelb.edu.au/2008/09/'> September 2008 </option>
+	<option value='https://must.unimelb.edu.au/2008/05/'> May 2008 </option>
+	<option value='https://must.unimelb.edu.au/2008/01/'> January 2008 </option>
+	<option value='https://must.unimelb.edu.au/2007/09/'> September 2007 </option>
+	<option value='https://must.unimelb.edu.au/2007/08/'> August 2007 </option>
+	<option value='https://must.unimelb.edu.au/2007/05/'> May 2007 </option>
+	<option value='https://must.unimelb.edu.au/2007/02/'> February 2007 </option>
+	<option value='https://must.unimelb.edu.au/2007/01/'> January 2007 </option>
+	<option value='https://must.unimelb.edu.au/2006/09/'> September 2006 </option>
+	<option value='https://must.unimelb.edu.au/2006/05/'> May 2006 </option>
+	<option value='https://must.unimelb.edu.au/2006/01/'> January 2006 </option>
+	<option value='https://must.unimelb.edu.au/2005/01/'> January 2005 </option>
+	<option value='https://must.unimelb.edu.au/2004/01/'> January 2004 </option>
+	<option value='https://must.unimelb.edu.au/2003/10/'> October 2003 </option>
+	<option value='https://must.unimelb.edu.au/2003/06/'> June 2003 </option>
+	<option value='https://must.unimelb.edu.au/2003/01/'> January 2003 </option>
+	<option value='https://must.unimelb.edu.au/2002/12/'> December 2002 </option>
+	<option value='https://must.unimelb.edu.au/2002/10/'> October 2002 </option>
+	<option value='https://must.unimelb.edu.au/2002/03/'> March 2002 </option>
+	<option value='https://must.unimelb.edu.au/2002/01/'> January 2002 </option>
+	<option value='https://must.unimelb.edu.au/2001/12/'> December 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/11/'> November 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/10/'> October 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/09/'> September 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/08/'> August 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/06/'> June 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/05/'> May 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/04/'> April 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/03/'> March 2001 </option>
+	<option value='https://must.unimelb.edu.au/2001/01/'> January 2001 </option>
+	<option value='https://must.unimelb.edu.au/2000/12/'> December 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/10/'> October 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/09/'> September 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/08/'> August 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/07/'> July 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/06/'> June 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/05/'> May 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/04/'> April 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/03/'> March 2000 </option>
+	<option value='https://must.unimelb.edu.au/2000/01/'> January 2000 </option>
+	<option value='https://must.unimelb.edu.au/1999/11/'> November 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/10/'> October 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/09/'> September 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/08/'> August 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/07/'> July 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/05/'> May 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/04/'> April 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/03/'> March 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/02/'> February 1999 </option>
+	<option value='https://must.unimelb.edu.au/1999/01/'> January 1999 </option>
+	<option value='https://must.unimelb.edu.au/1998/12/'> December 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/11/'> November 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/10/'> October 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/09/'> September 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/08/'> August 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/07/'> July 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/06/'> June 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/05/'> May 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/04/'> April 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/03/'> March 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/02/'> February 1998 </option>
+	<option value='https://must.unimelb.edu.au/1998/01/'> January 1998 </option>
+	<option value='https://must.unimelb.edu.au/1997/10/'> October 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/09/'> September 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/08/'> August 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/07/'> July 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/06/'> June 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/05/'> May 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/04/'> April 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/03/'> March 1997 </option>
+	<option value='https://must.unimelb.edu.au/1997/01/'> January 1997 </option>
+	<option value='https://must.unimelb.edu.au/1996/12/'> December 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/11/'> November 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/10/'> October 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/09/'> September 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/08/'> August 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/07/'> July 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/06/'> June 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/05/'> May 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/04/'> April 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/03/'> March 1996 </option>
+	<option value='https://must.unimelb.edu.au/1996/01/'> January 1996 </option>
+	<option value='https://must.unimelb.edu.au/1995/12/'> December 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/10/'> October 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/09/'> September 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/08/'> August 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/07/'> July 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/05/'> May 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/04/'> April 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/03/'> March 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/02/'> February 1995 </option>
+	<option value='https://must.unimelb.edu.au/1995/01/'> January 1995 </option>
+	<option value='https://must.unimelb.edu.au/1994/10/'> October 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/08/'> August 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/07/'> July 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/06/'> June 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/05/'> May 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/04/'> April 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/03/'> March 1994 </option>
+	<option value='https://must.unimelb.edu.au/1994/01/'> January 1994 </option>
+	<option value='https://must.unimelb.edu.au/1993/11/'> November 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/10/'> October 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/09/'> September 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/08/'> August 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/07/'> July 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/05/'> May 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/04/'> April 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/03/'> March 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/02/'> February 1993 </option>
+	<option value='https://must.unimelb.edu.au/1993/01/'> January 1993 </option>
+	<option value='https://must.unimelb.edu.au/1992/10/'> October 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/09/'> September 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/08/'> August 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/07/'> July 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/06/'> June 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/05/'> May 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/04/'> April 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/03/'> March 1992 </option>
+	<option value='https://must.unimelb.edu.au/1992/01/'> January 1992 </option>
+	<option value='https://must.unimelb.edu.au/1991/10/'> October 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/09/'> September 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/08/'> August 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/07/'> July 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/06/'> June 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/05/'> May 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/04/'> April 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/03/'> March 1991 </option>
+	<option value='https://must.unimelb.edu.au/1991/01/'> January 1991 </option>
+	<option value='https://must.unimelb.edu.au/1990/11/'> November 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/10/'> October 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/09/'> September 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/08/'> August 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/07/'> July 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/06/'> June 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/05/'> May 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/04/'> April 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/03/'> March 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/02/'> February 1990 </option>
+	<option value='https://must.unimelb.edu.au/1990/01/'> January 1990 </option>
+	<option value='https://must.unimelb.edu.au/1989/11/'> November 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/10/'> October 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/09/'> September 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/08/'> August 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/07/'> July 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/06/'> June 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/05/'> May 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/04/'> April 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/03/'> March 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/02/'> February 1989 </option>
+	<option value='https://must.unimelb.edu.au/1989/01/'> January 1989 </option>
+	<option value='https://must.unimelb.edu.au/1988/11/'> November 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/10/'> October 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/09/'> September 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/08/'> August 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/07/'> July 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/06/'> June 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/05/'> May 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/04/'> April 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/03/'> March 1988 </option>
+	<option value='https://must.unimelb.edu.au/1988/01/'> January 1988 </option>
+	<option value='https://must.unimelb.edu.au/1987/10/'> October 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/09/'> September 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/08/'> August 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/07/'> July 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/06/'> June 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/05/'> May 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/04/'> April 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/03/'> March 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/02/'> February 1987 </option>
+	<option value='https://must.unimelb.edu.au/1987/01/'> January 1987 </option>
+	<option value='https://must.unimelb.edu.au/1986/10/'> October 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/09/'> September 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/07/'> July 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/06/'> June 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/05/'> May 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/04/'> April 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/03/'> March 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/02/'> February 1986 </option>
+	<option value='https://must.unimelb.edu.au/1986/01/'> January 1986 </option>
+	<option value='https://must.unimelb.edu.au/1985/12/'> December 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/10/'> October 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/09/'> September 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/08/'> August 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/07/'> July 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/06/'> June 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/05/'> May 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/04/'> April 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/03/'> March 1985 </option>
+	<option value='https://must.unimelb.edu.au/1985/01/'> January 1985 </option>
+	<option value='https://must.unimelb.edu.au/1984/12/'> December 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/10/'> October 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/09/'> September 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/08/'> August 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/07/'> July 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/06/'> June 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/05/'> May 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/04/'> April 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/03/'> March 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/02/'> February 1984 </option>
+	<option value='https://must.unimelb.edu.au/1984/01/'> January 1984 </option>
+	<option value='https://must.unimelb.edu.au/1983/11/'> November 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/09/'> September 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/08/'> August 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/07/'> July 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/04/'> April 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/03/'> March 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/02/'> February 1983 </option>
+	<option value='https://must.unimelb.edu.au/1983/01/'> January 1983 </option>
+	<option value='https://must.unimelb.edu.au/1982/12/'> December 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/10/'> October 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/09/'> September 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/08/'> August 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/07/'> July 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/06/'> June 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/05/'> May 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/04/'> April 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/03/'> March 1982 </option>
+	<option value='https://must.unimelb.edu.au/1982/01/'> January 1982 </option>
+	<option value='https://must.unimelb.edu.au/1981/12/'> December 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/10/'> October 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/09/'> September 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/08/'> August 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/07/'> July 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/06/'> June 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/05/'> May 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/04/'> April 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/03/'> March 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/02/'> February 1981 </option>
+	<option value='https://must.unimelb.edu.au/1981/01/'> January 1981 </option>
+	<option value='https://must.unimelb.edu.au/1980/12/'> December 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/11/'> November 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/10/'> October 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/09/'> September 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/08/'> August 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/07/'> July 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/06/'> June 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/05/'> May 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/04/'> April 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/03/'> March 1980 </option>
+	<option value='https://must.unimelb.edu.au/1980/01/'> January 1980 </option>
+	<option value='https://must.unimelb.edu.au/1979/11/'> November 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/10/'> October 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/09/'> September 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/08/'> August 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/07/'> July 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/06/'> June 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/05/'> May 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/04/'> April 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/03/'> March 1979 </option>
+	<option value='https://must.unimelb.edu.au/1979/01/'> January 1979 </option>
+	<option value='https://must.unimelb.edu.au/1978/11/'> November 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/10/'> October 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/09/'> September 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/08/'> August 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/07/'> July 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/06/'> June 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/05/'> May 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/04/'> April 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/03/'> March 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/02/'> February 1978 </option>
+	<option value='https://must.unimelb.edu.au/1978/01/'> January 1978 </option>
+	<option value='https://must.unimelb.edu.au/1977/11/'> November 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/10/'> October 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/09/'> September 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/08/'> August 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/07/'> July 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/06/'> June 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/05/'> May 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/04/'> April 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/03/'> March 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/02/'> February 1977 </option>
+	<option value='https://must.unimelb.edu.au/1977/01/'> January 1977 </option>
+	<option value='https://must.unimelb.edu.au/1976/11/'> November 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/10/'> October 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/09/'> September 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/08/'> August 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/07/'> July 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/06/'> June 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/05/'> May 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/04/'> April 1976 </option>
+	<option value='https://must.unimelb.edu.au/1976/01/'> January 1976 </option>
+	<option value='https://must.unimelb.edu.au/1975/11/'> November 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/10/'> October 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/09/'> September 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/08/'> August 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/07/'> July 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/06/'> June 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/05/'> May 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/04/'> April 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/02/'> February 1975 </option>
+	<option value='https://must.unimelb.edu.au/1975/01/'> January 1975 </option>
+	<option value='https://must.unimelb.edu.au/1974/12/'> December 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/10/'> October 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/09/'> September 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/08/'> August 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/07/'> July 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/06/'> June 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/05/'> May 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/04/'> April 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/03/'> March 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/02/'> February 1974 </option>
+	<option value='https://must.unimelb.edu.au/1974/01/'> January 1974 </option>
+	<option value='https://must.unimelb.edu.au/1973/11/'> November 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/10/'> October 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/09/'> September 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/08/'> August 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/07/'> July 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/06/'> June 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/05/'> May 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/04/'> April 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/03/'> March 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/02/'> February 1973 </option>
+	<option value='https://must.unimelb.edu.au/1973/01/'> January 1973 </option>
+	<option value='https://must.unimelb.edu.au/1972/12/'> December 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/11/'> November 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/10/'> October 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/09/'> September 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/08/'> August 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/07/'> July 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/06/'> June 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/05/'> May 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/04/'> April 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/03/'> March 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/02/'> February 1972 </option>
+	<option value='https://must.unimelb.edu.au/1972/01/'> January 1972 </option>
+	<option value='https://must.unimelb.edu.au/1971/11/'> November 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/10/'> October 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/09/'> September 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/08/'> August 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/07/'> July 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/06/'> June 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/05/'> May 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/04/'> April 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/03/'> March 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/02/'> February 1971 </option>
+	<option value='https://must.unimelb.edu.au/1971/01/'> January 1971 </option>
+	<option value='https://must.unimelb.edu.au/1970/11/'> November 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/10/'> October 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/09/'> September 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/08/'> August 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/07/'> July 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/06/'> June 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/05/'> May 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/04/'> April 1970 </option>
+	<option value='https://must.unimelb.edu.au/1970/01/'> January 1970 </option>
+	<option value='https://must.unimelb.edu.au/1969/11/'> November 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/10/'> October 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/09/'> September 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/08/'> August 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/06/'> June 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/05/'> May 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/03/'> March 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/02/'> February 1969 </option>
+	<option value='https://must.unimelb.edu.au/1969/01/'> January 1969 </option>
+	<option value='https://must.unimelb.edu.au/1968/10/'> October 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/08/'> August 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/07/'> July 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/06/'> June 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/05/'> May 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/04/'> April 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/03/'> March 1968 </option>
+	<option value='https://must.unimelb.edu.au/1968/01/'> January 1968 </option>
+	<option value='https://must.unimelb.edu.au/1967/10/'> October 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/09/'> September 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/08/'> August 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/07/'> July 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/06/'> June 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/05/'> May 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/04/'> April 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/03/'> March 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/02/'> February 1967 </option>
+	<option value='https://must.unimelb.edu.au/1967/01/'> January 1967 </option>
+	<option value='https://must.unimelb.edu.au/1966/09/'> September 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/07/'> July 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/06/'> June 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/05/'> May 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/04/'> April 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/03/'> March 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/02/'> February 1966 </option>
+	<option value='https://must.unimelb.edu.au/1966/01/'> January 1966 </option>
+	<option value='https://must.unimelb.edu.au/1965/10/'> October 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/08/'> August 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/07/'> July 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/06/'> June 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/05/'> May 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/04/'> April 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/03/'> March 1965 </option>
+	<option value='https://must.unimelb.edu.au/1965/01/'> January 1965 </option>
+	<option value='https://must.unimelb.edu.au/1964/11/'> November 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/08/'> August 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/07/'> July 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/05/'> May 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/04/'> April 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/03/'> March 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/02/'> February 1964 </option>
+	<option value='https://must.unimelb.edu.au/1964/01/'> January 1964 </option>
+	<option value='https://must.unimelb.edu.au/1963/11/'> November 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/10/'> October 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/09/'> September 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/08/'> August 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/06/'> June 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/05/'> May 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/04/'> April 1963 </option>
+	<option value='https://must.unimelb.edu.au/1963/01/'> January 1963 </option>
+	<option value='https://must.unimelb.edu.au/1962/10/'> October 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/09/'> September 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/08/'> August 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/07/'> July 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/06/'> June 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/05/'> May 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/04/'> April 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/03/'> March 1962 </option>
+	<option value='https://must.unimelb.edu.au/1962/01/'> January 1962 </option>
+	<option value='https://must.unimelb.edu.au/1961/11/'> November 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/10/'> October 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/09/'> September 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/08/'> August 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/07/'> July 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/06/'> June 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/05/'> May 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/04/'> April 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/03/'> March 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/02/'> February 1961 </option>
+	<option value='https://must.unimelb.edu.au/1961/01/'> January 1961 </option>
+	<option value='https://must.unimelb.edu.au/1960/12/'> December 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/11/'> November 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/10/'> October 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/09/'> September 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/08/'> August 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/07/'> July 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/06/'> June 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/05/'> May 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/04/'> April 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/03/'> March 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/02/'> February 1960 </option>
+	<option value='https://must.unimelb.edu.au/1960/01/'> January 1960 </option>
+	<option value='https://must.unimelb.edu.au/1959/12/'> December 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/10/'> October 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/09/'> September 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/08/'> August 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/06/'> June 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/05/'> May 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/04/'> April 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/03/'> March 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/02/'> February 1959 </option>
+	<option value='https://must.unimelb.edu.au/1959/01/'> January 1959 </option>
+	<option value='https://must.unimelb.edu.au/1958/10/'> October 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/08/'> August 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/07/'> July 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/06/'> June 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/05/'> May 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/04/'> April 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/02/'> February 1958 </option>
+	<option value='https://must.unimelb.edu.au/1958/01/'> January 1958 </option>
+	<option value='https://must.unimelb.edu.au/1957/12/'> December 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/11/'> November 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/10/'> October 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/09/'> September 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/08/'> August 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/07/'> July 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/06/'> June 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/05/'> May 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/04/'> April 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/03/'> March 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/02/'> February 1957 </option>
+	<option value='https://must.unimelb.edu.au/1957/01/'> January 1957 </option>
+	<option value='https://must.unimelb.edu.au/1956/12/'> December 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/10/'> October 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/09/'> September 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/08/'> August 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/07/'> July 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/06/'> June 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/04/'> April 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/03/'> March 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/02/'> February 1956 </option>
+	<option value='https://must.unimelb.edu.au/1956/01/'> January 1956 </option>
+	<option value='https://must.unimelb.edu.au/1955/12/'> December 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/11/'> November 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/10/'> October 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/09/'> September 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/08/'> August 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/07/'> July 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/06/'> June 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/05/'> May 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/04/'> April 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/03/'> March 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/02/'> February 1955 </option>
+	<option value='https://must.unimelb.edu.au/1955/01/'> January 1955 </option>
+	<option value='https://must.unimelb.edu.au/1954/12/'> December 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/10/'> October 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/09/'> September 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/08/'> August 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/07/'> July 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/06/'> June 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/05/'> May 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/04/'> April 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/03/'> March 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/02/'> February 1954 </option>
+	<option value='https://must.unimelb.edu.au/1954/01/'> January 1954 </option>
+	<option value='https://must.unimelb.edu.au/1953/12/'> December 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/10/'> October 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/09/'> September 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/08/'> August 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/07/'> July 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/06/'> June 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/05/'> May 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/04/'> April 1953 </option>
+	<option value='https://must.unimelb.edu.au/1953/01/'> January 1953 </option>
+	<option value='https://must.unimelb.edu.au/1952/12/'> December 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/09/'> September 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/07/'> July 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/06/'> June 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/05/'> May 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/04/'> April 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/03/'> March 1952 </option>
+	<option value='https://must.unimelb.edu.au/1952/01/'> January 1952 </option>
+	<option value='https://must.unimelb.edu.au/1951/12/'> December 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/11/'> November 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/09/'> September 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/08/'> August 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/07/'> July 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/05/'> May 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/04/'> April 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/03/'> March 1951 </option>
+	<option value='https://must.unimelb.edu.au/1951/01/'> January 1951 </option>
+	<option value='https://must.unimelb.edu.au/1950/11/'> November 1950 </option>
+	<option value='https://must.unimelb.edu.au/1950/08/'> August 1950 </option>
+	<option value='https://must.unimelb.edu.au/1950/07/'> July 1950 </option>
+	<option value='https://must.unimelb.edu.au/1950/06/'> June 1950 </option>
+	<option value='https://must.unimelb.edu.au/1950/05/'> May 1950 </option>
+	<option value='https://must.unimelb.edu.au/1950/03/'> March 1950 </option>
+	<option value='https://must.unimelb.edu.au/1950/01/'> January 1950 </option>
+	<option value='https://must.unimelb.edu.au/1949/10/'> October 1949 </option>
+	<option value='https://must.unimelb.edu.au/1949/08/'> August 1949 </option>
+	<option value='https://must.unimelb.edu.au/1949/07/'> July 1949 </option>
+	<option value='https://must.unimelb.edu.au/1949/06/'> June 1949 </option>
+	<option value='https://must.unimelb.edu.au/1949/05/'> May 1949 </option>
+	<option value='https://must.unimelb.edu.au/1949/01/'> January 1949 </option>
+	<option value='https://must.unimelb.edu.au/1948/12/'> December 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/09/'> September 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/08/'> August 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/07/'> July 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/06/'> June 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/05/'> May 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/03/'> March 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/02/'> February 1948 </option>
+	<option value='https://must.unimelb.edu.au/1948/01/'> January 1948 </option>
+	<option value='https://must.unimelb.edu.au/1947/12/'> December 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/10/'> October 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/09/'> September 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/08/'> August 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/07/'> July 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/06/'> June 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/04/'> April 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/03/'> March 1947 </option>
+	<option value='https://must.unimelb.edu.au/1947/01/'> January 1947 </option>
+	<option value='https://must.unimelb.edu.au/1946/12/'> December 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/11/'> November 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/10/'> October 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/09/'> September 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/08/'> August 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/07/'> July 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/06/'> June 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/05/'> May 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/04/'> April 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/03/'> March 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/02/'> February 1946 </option>
+	<option value='https://must.unimelb.edu.au/1946/01/'> January 1946 </option>
+	<option value='https://must.unimelb.edu.au/1945/12/'> December 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/10/'> October 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/09/'> September 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/08/'> August 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/07/'> July 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/06/'> June 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/04/'> April 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/03/'> March 1945 </option>
+	<option value='https://must.unimelb.edu.au/1945/01/'> January 1945 </option>
+	<option value='https://must.unimelb.edu.au/1944/12/'> December 1944 </option>
+	<option value='https://must.unimelb.edu.au/1944/09/'> September 1944 </option>
+	<option value='https://must.unimelb.edu.au/1944/08/'> August 1944 </option>
+	<option value='https://must.unimelb.edu.au/1944/07/'> July 1944 </option>
+	<option value='https://must.unimelb.edu.au/1944/06/'> June 1944 </option>
+	<option value='https://must.unimelb.edu.au/1944/04/'> April 1944 </option>
+	<option value='https://must.unimelb.edu.au/1944/01/'> January 1944 </option>
+	<option value='https://must.unimelb.edu.au/1943/12/'> December 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/10/'> October 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/09/'> September 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/08/'> August 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/07/'> July 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/05/'> May 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/04/'> April 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/03/'> March 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/02/'> February 1943 </option>
+	<option value='https://must.unimelb.edu.au/1943/01/'> January 1943 </option>
+	<option value='https://must.unimelb.edu.au/1942/12/'> December 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/11/'> November 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/10/'> October 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/09/'> September 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/06/'> June 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/05/'> May 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/03/'> March 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/02/'> February 1942 </option>
+	<option value='https://must.unimelb.edu.au/1942/01/'> January 1942 </option>
+	<option value='https://must.unimelb.edu.au/1941/12/'> December 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/11/'> November 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/10/'> October 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/08/'> August 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/07/'> July 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/06/'> June 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/05/'> May 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/04/'> April 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/03/'> March 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/02/'> February 1941 </option>
+	<option value='https://must.unimelb.edu.au/1941/01/'> January 1941 </option>
+	<option value='https://must.unimelb.edu.au/1940/12/'> December 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/10/'> October 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/07/'> July 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/06/'> June 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/05/'> May 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/04/'> April 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/03/'> March 1940 </option>
+	<option value='https://must.unimelb.edu.au/1940/01/'> January 1940 </option>
+	<option value='https://must.unimelb.edu.au/1939/09/'> September 1939 </option>
+	<option value='https://must.unimelb.edu.au/1939/08/'> August 1939 </option>
+	<option value='https://must.unimelb.edu.au/1939/07/'> July 1939 </option>
+	<option value='https://must.unimelb.edu.au/1939/05/'> May 1939 </option>
+	<option value='https://must.unimelb.edu.au/1939/01/'> January 1939 </option>
+	<option value='https://must.unimelb.edu.au/1938/09/'> September 1938 </option>
+	<option value='https://must.unimelb.edu.au/1938/08/'> August 1938 </option>
+	<option value='https://must.unimelb.edu.au/1938/07/'> July 1938 </option>
+	<option value='https://must.unimelb.edu.au/1938/06/'> June 1938 </option>
+	<option value='https://must.unimelb.edu.au/1938/04/'> April 1938 </option>
+	<option value='https://must.unimelb.edu.au/1938/03/'> March 1938 </option>
+	<option value='https://must.unimelb.edu.au/1938/01/'> January 1938 </option>
+	<option value='https://must.unimelb.edu.au/1937/07/'> July 1937 </option>
+	<option value='https://must.unimelb.edu.au/1937/06/'> June 1937 </option>
+	<option value='https://must.unimelb.edu.au/1937/05/'> May 1937 </option>
+	<option value='https://must.unimelb.edu.au/1937/04/'> April 1937 </option>
+	<option value='https://must.unimelb.edu.au/1937/03/'> March 1937 </option>
+	<option value='https://must.unimelb.edu.au/1936/05/'> May 1936 </option>
+	<option value='https://must.unimelb.edu.au/1935/07/'> July 1935 </option>
+	<option value='https://must.unimelb.edu.au/1935/05/'> May 1935 </option>
+	<option value='https://must.unimelb.edu.au/1934/04/'> April 1934 </option>
+	<option value='https://must.unimelb.edu.au/1933/05/'> May 1933 </option>
+	<option value='https://must.unimelb.edu.au/1925/07/'> July 1925 </option>
+	<option value='https://must.unimelb.edu.au/1924/01/'> January 1924 </option>
+	<option value='https://must.unimelb.edu.au/1922/01/'> January 1922 </option>
+	<option value='https://must.unimelb.edu.au/1920/01/'> January 1920 </option>
+	<option value='https://must.unimelb.edu.au/1918/08/'> August 1918 </option>
+	<option value='https://must.unimelb.edu.au/1914/07/'> July 1914 </option>
+	<option value='https://must.unimelb.edu.au/1914/01/'> January 1914 </option>
+	<option value='https://must.unimelb.edu.au/1913/01/'> January 1913 </option>
+	<option value='https://must.unimelb.edu.au/1909/01/'> January 1909 </option>
+	<option value='https://must.unimelb.edu.au/1907/07/'> July 1907 </option>
+	<option value='https://must.unimelb.edu.au/1906/04/'> April 1906 </option>
+	<option value='https://must.unimelb.edu.au/1903/01/'> January 1903 </option>
+	<option value='https://must.unimelb.edu.au/1901/01/'> January 1901 </option>
+	<option value='https://must.unimelb.edu.au/1900/06/'> June 1900 </option>
+	<option value='https://must.unimelb.edu.au/1898/06/'> June 1898 </option>
+	<option value='https://must.unimelb.edu.au/1898/05/'> May 1898 </option>
+	<option value='https://must.unimelb.edu.au/1897/09/'> September 1897 </option>
+	<option value='https://must.unimelb.edu.au/1897/01/'> January 1897 </option>
+	<option value='https://must.unimelb.edu.au/1896/06/'> June 1896 </option>
+	<option value='https://must.unimelb.edu.au/1896/04/'> April 1896 </option>
+	<option value='https://must.unimelb.edu.au/1891/07/'> July 1891 </option>
+	<option value='https://must.unimelb.edu.au/1890/07/'> July 1890 </option>
+
+		</select>
+
+			<script type="text/javascript">
+/* <![CDATA[ */
+
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+
+/* ]]> */
+</script>
+</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><ul class='wp-tag-cloud' role='list'>
+	<li><a href="https://must.unimelb.edu.au/tag/1940s/" class="tag-cloud-link tag-link-199480 tag-link-position-1" style="font-size: 15.479452054795pt;" aria-label="1940s (91 items)">1940s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1950s/" class="tag-cloud-link tag-link-199478 tag-link-position-2" style="font-size: 17.397260273973pt;" aria-label="1950s (115 items)">1950s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1954/" class="tag-cloud-link tag-link-182959 tag-link-position-3" style="font-size: 8.7671232876712pt;" aria-label="1954 (40 items)">1954</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1956/" class="tag-cloud-link tag-link-183755 tag-link-position-4" style="font-size: 8.3835616438356pt;" aria-label="1956 (38 items)">1956</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1960s/" class="tag-cloud-link tag-link-199479 tag-link-position-5" style="font-size: 18.931506849315pt;" aria-label="1960s (137 items)">1960s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1964/" class="tag-cloud-link tag-link-185991 tag-link-position-6" style="font-size: 8.3835616438356pt;" aria-label="1964 (38 items)">1964</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1967/" class="tag-cloud-link tag-link-186856 tag-link-position-7" style="font-size: 8.1917808219178pt;" aria-label="1967 (37 items)">1967</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1970s/" class="tag-cloud-link tag-link-223610 tag-link-position-8" style="font-size: 20.082191780822pt;" aria-label="1970s (157 items)">1970s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1971/" class="tag-cloud-link tag-link-188134 tag-link-position-9" style="font-size: 8.5753424657534pt;" aria-label="1971 (39 items)">1971</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1972/" class="tag-cloud-link tag-link-188312 tag-link-position-10" style="font-size: 12.027397260274pt;" aria-label="1972 (59 items)">1972</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1973/" class="tag-cloud-link tag-link-188483 tag-link-position-11" style="font-size: 11.068493150685pt;" aria-label="1973 (53 items)">1973</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1978/" class="tag-cloud-link tag-link-190059 tag-link-position-12" style="font-size: 8pt;" aria-label="1978 (36 items)">1978</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1979/" class="tag-cloud-link tag-link-190420 tag-link-position-13" style="font-size: 8pt;" aria-label="1979 (36 items)">1979</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1980/" class="tag-cloud-link tag-link-190731 tag-link-position-14" style="font-size: 9.9178082191781pt;" aria-label="1980 (46 items)">1980</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1980s/" class="tag-cloud-link tag-link-2312 tag-link-position-15" style="font-size: 21.232876712329pt;" aria-label="1980s (182 items)">1980s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1982/" class="tag-cloud-link tag-link-191284 tag-link-position-16" style="font-size: 8.1917808219178pt;" aria-label="1982 (37 items)">1982</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1984/" class="tag-cloud-link tag-link-191789 tag-link-position-17" style="font-size: 8.5753424657534pt;" aria-label="1984 (39 items)">1984</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1985/" class="tag-cloud-link tag-link-191937 tag-link-position-18" style="font-size: 8pt;" aria-label="1985 (36 items)">1985</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1987/" class="tag-cloud-link tag-link-192518 tag-link-position-19" style="font-size: 9.5342465753425pt;" aria-label="1987 (44 items)">1987</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1988/" class="tag-cloud-link tag-link-192622 tag-link-position-20" style="font-size: 10.301369863014pt;" aria-label="1988 (48 items)">1988</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1989/" class="tag-cloud-link tag-link-192973 tag-link-position-21" style="font-size: 10.493150684932pt;" aria-label="1989 (49 items)">1989</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1990/" class="tag-cloud-link tag-link-193390 tag-link-position-22" style="font-size: 11.643835616438pt;" aria-label="1990 (57 items)">1990</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1990s/" class="tag-cloud-link tag-link-2313 tag-link-position-23" style="font-size: 22pt;" aria-label="1990s (200 items)">1990s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1991/" class="tag-cloud-link tag-link-193785 tag-link-position-24" style="font-size: 11.452054794521pt;" aria-label="1991 (55 items)">1991</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1993/" class="tag-cloud-link tag-link-194320 tag-link-position-25" style="font-size: 9.3424657534247pt;" aria-label="1993 (43 items)">1993</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1995/" class="tag-cloud-link tag-link-194577 tag-link-position-26" style="font-size: 9.3424657534247pt;" aria-label="1995 (43 items)">1995</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1996/" class="tag-cloud-link tag-link-194686 tag-link-position-27" style="font-size: 9.1506849315068pt;" aria-label="1996 (42 items)">1996</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1997/" class="tag-cloud-link tag-link-194912 tag-link-position-28" style="font-size: 9.5342465753425pt;" aria-label="1997 (44 items)">1997</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1998/" class="tag-cloud-link tag-link-195169 tag-link-position-29" style="font-size: 8.1917808219178pt;" aria-label="1998 (37 items)">1998</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/1999/" class="tag-cloud-link tag-link-195568 tag-link-position-30" style="font-size: 8.3835616438356pt;" aria-label="1999 (38 items)">1999</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/2000s/" class="tag-cloud-link tag-link-223809 tag-link-position-31" style="font-size: 17.972602739726pt;" aria-label="2000s (123 items)">2000s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/2001/" class="tag-cloud-link tag-link-195852 tag-link-position-32" style="font-size: 10.493150684932pt;" aria-label="2001 (49 items)">2001</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/2010s/" class="tag-cloud-link tag-link-218200 tag-link-position-33" style="font-size: 18.547945205479pt;" aria-label="2010s (130 items)">2010s</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/american/" class="tag-cloud-link tag-link-199390 tag-link-position-34" style="font-size: 10.876712328767pt;" aria-label="american (52 items)">american</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/australian/" class="tag-cloud-link tag-link-199371 tag-link-position-35" style="font-size: 12.794520547945pt;" aria-label="australian (65 items)">australian</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/british/" class="tag-cloud-link tag-link-199407 tag-link-position-36" style="font-size: 14.520547945205pt;" aria-label="british (80 items)">british</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/college/" class="tag-cloud-link tag-link-27478 tag-link-position-37" style="font-size: 11.643835616438pt;" aria-label="college (56 items)">college</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/comedy/" class="tag-cloud-link tag-link-199387 tag-link-position-38" style="font-size: 15.86301369863pt;" aria-label="comedy (95 items)">comedy</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/drama/" class="tag-cloud-link tag-link-199389 tag-link-position-39" style="font-size: 8.5753424657534pt;" aria-label="drama (39 items)">drama</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/elizabethan/" class="tag-cloud-link tag-link-199411 tag-link-position-40" style="font-size: 9.9178082191781pt;" aria-label="elizabethan (46 items)">elizabethan</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/female-director/" class="tag-cloud-link tag-link-199373 tag-link-position-41" style="font-size: 18.931506849315pt;" aria-label="female director (137 items)">female director</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/female-writer/" class="tag-cloud-link tag-link-199372 tag-link-position-42" style="font-size: 12.219178082192pt;" aria-label="female writer (60 items)">female writer</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/musical/" class="tag-cloud-link tag-link-168904 tag-link-position-43" style="font-size: 8.3835616438356pt;" aria-label="musical (38 items)">musical</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/original-work/" class="tag-cloud-link tag-link-199368 tag-link-position-44" style="font-size: 13.178082191781pt;" aria-label="Original work (68 items)">Original work</a></li>
+	<li><a href="https://must.unimelb.edu.au/tag/revue/" class="tag-cloud-link tag-link-199475 tag-link-position-45" style="font-size: 9.7260273972603pt;" aria-label="revue (45 items)">revue</a></li>
+</ul>
+</div>
+</div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+
+
+	<div id="colophon" role="contentinfo" style="position: absolute;bottom: 0;width: 100%;">
+			<div id="site-generator">
+				This website is currently under review and improvement. Some features may be missing or incomplete. Please check back later, or make an enquiry if you have a specific request.
+			  				
+			</div>
+	</div><!-- #colophon -->
+
+</div><!-- role=main -->
+
+<div class="no-js" id="sitemap" role="navigation">
+  <h2>Theatre Archive Home</h2>
+    <ul id="menu-primary-navigation" class=""><li id="menu-item-25337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25337"><a href="https://must.unimelb.edu.au/play-list/">Full Production List</a></li>
+<li id="menu-item-25334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25334"><a href="https://must.unimelb.edu.au/articles/">Theatre History</a></li>
+<li id="menu-item-25335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25335"><a href="https://must.unimelb.edu.au/theatre-groups/">Theatre Groups</a></li>
+<li id="menu-item-25345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25345"><a href="https://must.unimelb.edu.au/about-us/">About Us</a></li>
+<li id="menu-item-30981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30981"><a href="https://must.unimelb.edu.au/about-us/resources/">Resources</a></li>
+<li id="menu-item-25338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25338"><a href="https://must.unimelb.edu.au/feedback/">Contact Us</a></li>
+</ul></div>
+
+</div> <!-- page-inner -->
+
+</div> <!-- uoncontent -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb-student-theatre\/*","\/wp-content\/themes\/twentyeleven\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://must.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" src="https://must.unimelb.edu.au/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.4" id="wp-featherlight-js"></script>
+
+<script>
+// cheeky hide search because it is confusing for the user (am I searching the database or the university wide site?)
+//$('.page-header-tools > :nth-child(1)').hide()
+</script>
+
+<script>
+  // bootstrap modals 
+  if("undefined"==typeof jQuery)throw new Error("Bootstrap's JavaScript requires jQuery");+function(t){"use strict";function e(e,i){return this.each(function(){var o=t(this),n=o.data("bs.modal"),a=t.extend({},s.DEFAULTS,o.data(),"object"==typeof e&&e);n||o.data("bs.modal",n=new s(this,a)),"string"==typeof e?n[e](i):a.show&&n.show(i)})}var s=function(e,s){this.options=s,this.$body=t(document.body),this.$element=t(e),this.$backdrop=this.isShown=null,this.scrollbarWidth=0,this.options.remote&&this.$element.find(".modal-content").load(this.options.remote,t.proxy(function(){this.$element.trigger("loaded.bs.modal")},this))};s.VERSION="3.2.0",s.DEFAULTS={backdrop:!0,keyboard:!0,show:!0},s.prototype.toggle=function(t){return this.isShown?this.hide():this.show(t)},s.prototype.show=function(e){var s=this,i=t.Event("show.bs.modal",{relatedTarget:e});this.$element.trigger(i),this.isShown||i.isDefaultPrevented()||(this.isShown=!0,this.checkScrollbar(),this.$body.addClass("modal-open"),this.setScrollbar(),this.escape(),this.$element.on("click.dismiss.bs.modal",'[data-dismiss="modal"]',t.proxy(this.hide,this)),this.backdrop(function(){var i=t.support.transition&&s.$element.hasClass("fade");s.$element.parent().length||s.$element.appendTo(s.$body),s.$element.show().scrollTop(0),i&&s.$element[0].offsetWidth,s.$element.addClass("in").attr("aria-hidden",!1),s.enforceFocus();var o=t.Event("shown.bs.modal",{relatedTarget:e});i?s.$element.find(".modal-dialog").one("bsTransitionEnd",function(){s.$element.trigger("focus").trigger(o)}).emulateTransitionEnd(300):s.$element.trigger("focus").trigger(o)}))},s.prototype.hide=function(e){e&&e.preventDefault(),e=t.Event("hide.bs.modal"),this.$element.trigger(e),this.isShown&&!e.isDefaultPrevented()&&(this.isShown=!1,this.$body.removeClass("modal-open"),this.resetScrollbar(),this.escape(),t(document).off("focusin.bs.modal"),this.$element.removeClass("in").attr("aria-hidden",!0).off("click.dismiss.bs.modal"),t.support.transition&&this.$element.hasClass("fade")?this.$element.one("bsTransitionEnd",t.proxy(this.hideModal,this)).emulateTransitionEnd(300):this.hideModal())},s.prototype.enforceFocus=function(){t(document).off("focusin.bs.modal").on("focusin.bs.modal",t.proxy(function(t){this.$element[0]===t.target||this.$element.has(t.target).length||this.$element.trigger("focus")},this))},s.prototype.escape=function(){this.isShown&&this.options.keyboard?this.$element.on("keyup.dismiss.bs.modal",t.proxy(function(t){27==t.which&&this.hide()},this)):this.isShown||this.$element.off("keyup.dismiss.bs.modal")},s.prototype.hideModal=function(){var t=this;this.$element.hide(),this.backdrop(function(){t.$element.trigger("hidden.bs.modal")})},s.prototype.removeBackdrop=function(){this.$backdrop&&this.$backdrop.remove(),this.$backdrop=null},s.prototype.backdrop=function(e){var s=this,i=this.$element.hasClass("fade")?"fade":"";if(this.isShown&&this.options.backdrop){var o=t.support.transition&&i;if(this.$backdrop=t('<div class="modal-backdrop '+i+'" />').appendTo(this.$body),this.$element.on("click.dismiss.bs.modal",t.proxy(function(t){t.target===t.currentTarget&&("static"==this.options.backdrop?this.$element[0].focus.call(this.$element[0]):this.hide.call(this))},this)),o&&this.$backdrop[0].offsetWidth,this.$backdrop.addClass("in"),!e)return;o?this.$backdrop.one("bsTransitionEnd",e).emulateTransitionEnd(150):e()}else if(!this.isShown&&this.$backdrop){this.$backdrop.removeClass("in");var n=function(){s.removeBackdrop(),e&&e()};t.support.transition&&this.$element.hasClass("fade")?this.$backdrop.one("bsTransitionEnd",n).emulateTransitionEnd(150):n()}else e&&e()},s.prototype.checkScrollbar=function(){document.body.clientWidth>=window.innerWidth||(this.scrollbarWidth=this.scrollbarWidth||this.measureScrollbar())},s.prototype.setScrollbar=function(){var t=parseInt(this.$body.css("padding-right")||0,10);this.scrollbarWidth&&this.$body.css("padding-right",t+this.scrollbarWidth)},s.prototype.resetScrollbar=function(){this.$body.css("padding-right","")},s.prototype.measureScrollbar=function(){var t=document.createElement("div");t.className="modal-scrollbar-measure",this.$body.append(t);var e=t.offsetWidth-t.clientWidth;return this.$body[0].removeChild(t),e};var i=t.fn.modal;t.fn.modal=e,t.fn.modal.Constructor=s,t.fn.modal.noConflict=function(){return t.fn.modal=i,this},t(document).on("click.bs.modal.data-api",'[data-toggle="modal"]',function(s){var i=t(this),o=i.attr("href"),n=t(i.attr("data-target")||o&&o.replace(/.*(?=#[^\s]+$)/,"")),a=n.data("bs.modal")?"toggle":t.extend({remote:!/#/.test(o)&&o},n.data(),i.data());i.is("a")&&s.preventDefault(),n.one("show.bs.modal",function(t){t.isDefaultPrevented()||n.one("hidden.bs.modal",function(){i.is(":visible")&&i.trigger("focus")})}),e.call(n,a,this)})}(jQuery),+function(t){"use strict";function e(e){return this.each(function(){var i=t(this),o=i.data("bs.affix"),n="object"==typeof e&&e;o||i.data("bs.affix",o=new s(this,n)),"string"==typeof e&&o[e]()})}var s=function(e,i){this.options=t.extend({},s.DEFAULTS,i),this.$target=t(this.options.target).on("scroll.bs.affix.data-api",t.proxy(this.checkPosition,this)).on("click.bs.affix.data-api",t.proxy(this.checkPositionWithEventLoop,this)),this.$element=t(e),this.affixed=this.unpin=this.pinnedOffset=null,this.checkPosition()};s.VERSION="3.2.0",s.RESET="affix affix-top affix-bottom",s.DEFAULTS={offset:0,target:window},s.prototype.getPinnedOffset=function(){if(this.pinnedOffset)return this.pinnedOffset;this.$element.removeClass(s.RESET).addClass("affix");var t=this.$target.scrollTop(),e=this.$element.offset();return this.pinnedOffset=e.top-t},s.prototype.checkPositionWithEventLoop=function(){setTimeout(t.proxy(this.checkPosition,this),1)},s.prototype.checkPosition=function(){if(this.$element.is(":visible")){var e=t(document).height(),i=this.$target.scrollTop(),o=this.$element.offset(),n=this.options.offset,a=n.top,r=n.bottom;"object"!=typeof n&&(r=a=n),"function"==typeof a&&(a=n.top(this.$element)),"function"==typeof r&&(r=n.bottom(this.$element));var l=null!=this.unpin&&i+this.unpin<=o.top?!1:null!=r&&o.top+this.$element.height()>=e-r?"bottom":null!=a&&a>=i?"top":!1;if(this.affixed!==l){null!=this.unpin&&this.$element.css("top","");var h="affix"+(l?"-"+l:""),c=t.Event(h+".bs.affix");this.$element.trigger(c),c.isDefaultPrevented()||(this.affixed=l,this.unpin="bottom"==l?this.getPinnedOffset():null,this.$element.removeClass(s.RESET).addClass(h).trigger(t.Event(h.replace("affix","affixed"))),"bottom"==l&&this.$element.offset({top:e-this.$element.height()-r}))}}};var i=t.fn.affix;t.fn.affix=e,t.fn.affix.Constructor=s,t.fn.affix.noConflict=function(){return t.fn.affix=i,this},t(window).on("load",function(){t('[data-spy="affix"]').each(function(){var s=t(this),i=s.data();i.offset=i.offset||{},i.offsetBottom&&(i.offset.bottom=i.offsetBottom),i.offsetTop&&(i.offset.top=i.offsetTop),e.call(s,i)})})}(jQuery),+function(t){"use strict";function e(e){return this.each(function(){var i=t(this),o=i.data("bs.collapse"),n=t.extend({},s.DEFAULTS,i.data(),"object"==typeof e&&e);!o&&n.toggle&&"show"==e&&(e=!e),o||i.data("bs.collapse",o=new s(this,n)),"string"==typeof e&&o[e]()})}var s=function(e,i){this.$element=t(e),this.options=t.extend({},s.DEFAULTS,i),this.transitioning=null,this.options.parent&&(this.$parent=t(this.options.parent)),this.options.toggle&&this.toggle()};s.VERSION="3.2.0",s.DEFAULTS={toggle:!0},s.prototype.dimension=function(){var t=this.$element.hasClass("width");return t?"width":"height"},s.prototype.show=function(){if(!this.transitioning&&!this.$element.hasClass("in")){var s=t.Event("show.bs.collapse");if(this.$element.trigger(s),!s.isDefaultPrevented()){var i=this.$parent&&this.$parent.find("> .panel > .in");if(i&&i.length){var o=i.data("bs.collapse");if(o&&o.transitioning)return;e.call(i,"hide"),o||i.data("bs.collapse",null)}var n=this.dimension();this.$element.removeClass("collapse").addClass("collapsing")[n](0),this.transitioning=1;var a=function(){this.$element.removeClass("collapsing").addClass("collapse in")[n](""),this.transitioning=0,this.$element.trigger("shown.bs.collapse")};if(!t.support.transition)return a.call(this);var r=t.camelCase(["scroll",n].join("-"));this.$element.one("bsTransitionEnd",t.proxy(a,this)).emulateTransitionEnd(350)[n](this.$element[0][r])}}},s.prototype.hide=function(){if(!this.transitioning&&this.$element.hasClass("in")){var e=t.Event("hide.bs.collapse");if(this.$element.trigger(e),!e.isDefaultPrevented()){var s=this.dimension();this.$element[s](this.$element[s]())[0].offsetHeight,this.$element.addClass("collapsing").removeClass("collapse").removeClass("in"),this.transitioning=1;var i=function(){this.transitioning=0,this.$element.trigger("hidden.bs.collapse").removeClass("collapsing").addClass("collapse")};return t.support.transition?void this.$element[s](0).one("bsTransitionEnd",t.proxy(i,this)).emulateTransitionEnd(350):i.call(this)}}},s.prototype.toggle=function(){this[this.$element.hasClass("in")?"hide":"show"]()};var i=t.fn.collapse;t.fn.collapse=e,t.fn.collapse.Constructor=s,t.fn.collapse.noConflict=function(){return t.fn.collapse=i,this},t(document).on("click.bs.collapse.data-api",'[data-toggle="collapse"]',function(s){var i,o=t(this),n=o.attr("data-target")||s.preventDefault()||(i=o.attr("href"))&&i.replace(/.*(?=#[^\s]+$)/,""),a=t(n),r=a.data("bs.collapse"),l=r?"toggle":o.data(),h=o.attr("data-parent"),c=h&&t(h);r&&r.transitioning||(c&&c.find('[data-toggle="collapse"][data-parent="'+h+'"]').not(o).addClass("collapsed"),o[a.hasClass("in")?"addClass":"removeClass"]("collapsed")),e.call(a,l)})}(jQuery),+function(t){"use strict";function e(s,i){var o=t.proxy(this.process,this);this.$body=t("body"),this.$scrollElement=t(t(s).is("body")?window:s),this.options=t.extend({},e.DEFAULTS,i),this.selector=(this.options.target||"")+" .nav li > a",this.offsets=[],this.targets=[],this.activeTarget=null,this.scrollHeight=0,this.$scrollElement.on("scroll.bs.scrollspy",o),this.refresh(),this.process()}function s(s){return this.each(function(){var i=t(this),o=i.data("bs.scrollspy"),n="object"==typeof s&&s;o||i.data("bs.scrollspy",o=new e(this,n)),"string"==typeof s&&o[s]()})}e.VERSION="3.2.0",e.DEFAULTS={offset:10},e.prototype.getScrollHeight=function(){return this.$scrollElement[0].scrollHeight||Math.max(this.$body[0].scrollHeight,document.documentElement.scrollHeight)},e.prototype.refresh=function(){var e="offset",s=0;t.isWindow(this.$scrollElement[0])||(e="position",s=this.$scrollElement.scrollTop()),this.offsets=[],this.targets=[],this.scrollHeight=this.getScrollHeight();var i=this;this.$body.find(this.selector).map(function(){var i=t(this),o=i.data("target")||i.attr("href"),n=/^#./.test(o)&&t(o);return n&&n.length&&n.is(":visible")&&[[n[e]().top+s,o]]||null}).sort(function(t,e){return t[0]-e[0]}).each(function(){i.offsets.push(this[0]),i.targets.push(this[1])})},e.prototype.process=function(){var t,e=this.$scrollElement.scrollTop()+this.options.offset,s=this.getScrollHeight(),i=this.options.offset+s-this.$scrollElement.height(),o=this.offsets,n=this.targets,a=this.activeTarget;if(this.scrollHeight!=s&&this.refresh(),e>=i)return a!=(t=n[n.length-1])&&this.activate(t);if(a&&e<=o[0])return a!=(t=n[0])&&this.activate(t);for(t=o.length;t--;)a!=n[t]&&e>=o[t]&&(!o[t+1]||e<=o[t+1])&&this.activate(n[t])},e.prototype.activate=function(e){this.activeTarget=e,t(this.selector).parentsUntil(this.options.target,".active").removeClass("active");var s=this.selector+'[data-target="'+e+'"],'+this.selector+'[href="'+e+'"]',i=t(s).parents("li").addClass("active");i.parent(".dropdown-menu").length&&(i=i.closest("li.dropdown").addClass("active")),i.trigger("activate.bs.scrollspy")};var i=t.fn.scrollspy;t.fn.scrollspy=s,t.fn.scrollspy.Constructor=e,t.fn.scrollspy.noConflict=function(){return t.fn.scrollspy=i,this},t(window).on("load.bs.scrollspy.data-api",function(){t('[data-spy="scroll"]').each(function(){var e=t(this);s.call(e,e.data())})})}(jQuery),+function(t){"use strict";function e(){var t=document.createElement("bootstrap"),e={WebkitTransition:"webkitTransitionEnd",MozTransition:"transitionend",OTransition:"oTransitionEnd otransitionend",transition:"transitionend"};for(var s in e)if(void 0!==t.style[s])return{end:e[s]};return!1}t.fn.emulateTransitionEnd=function(e){var s=!1,i=this;t(this).one("bsTransitionEnd",function(){s=!0});var o=function(){s||t(i).trigger(t.support.transition.end)};return setTimeout(o,e),this},t(function(){t.support.transition=e(),t.support.transition&&(t.event.special.bsTransitionEnd={bindType:t.support.transition.end,delegateType:t.support.transition.end,handle:function(e){return t(e.target).is(this)?e.handleObj.handler.apply(this,arguments):void 0}})})}(jQuery);
+</script>
+
+</body>
+</html>

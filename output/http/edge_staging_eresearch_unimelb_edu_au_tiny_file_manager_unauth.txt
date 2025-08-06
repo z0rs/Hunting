@@ -1,0 +1,33 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://edge-staging.eresearch.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: edge-staging.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://edge-staging.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 58
+Access-Control-Allow-Origin: *
+Content-Security-Policy: script-src 'self' 'unsafe-inline' edge-staging.eresearch.unimelb.edu.au;default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+Content-Type: application/json; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:27 GMT
+Etag: W/"3a-ULKFJH3UbruMCO6Pt8phAHAWnaY"
+Expect-Ct: max-age=0
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+
+{"status":"fail","data":{"message":"Resource not found."}}

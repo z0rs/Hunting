@@ -1,0 +1,25 @@
+[CVE-2022-1595] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-login.php
+
+
+HEAD /wp-login.php HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Cookie: valid_login_slug=1
+
+
+[CVE-2022-1595] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-login.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Date: Wed, 06 Aug 2025 15:19:01 GMT
+Server: AmazonS3
+Via: 1.1 0e9d65763124ffd5921e616a7b0081ce.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: yUxTKTyspNMr9zMdcpRb3eQgDlel5hjUvnPYrUQ-ZOAKNPtmmrkHWA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Amz-Error-Code: NoSuchKey
+X-Amz-Error-Detail-Key: 404.html
+X-Amz-Error-Message: The specified key does not exist.
+X-Cache: Error from cloudfront
+
+

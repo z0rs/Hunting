@@ -1,0 +1,26 @@
+[wordpress-social-metrics-tracker] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1
+
+
+GET /wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1 HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wordpress-social-metrics-tracker] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Server: openresty
+Vary: Cookie
+X-Robots-Tag: noindex
+
+0

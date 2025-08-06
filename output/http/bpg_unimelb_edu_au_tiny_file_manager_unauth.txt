@@ -1,0 +1,39 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://bpg.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: bpg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://bpg.unimelb.edu.au/index.php
+
+HTTP/1.1 404 
+Connection: close
+Content-Length: 332
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:19 GMT
+Set-Cookie: BIGipServer~app_bpg_uom_prod~pool_bpg_uom_prod=2857703340.47873.0000; path=/; Httponly; Secure
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>BPG</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Not Found.</h1>
+<p>Sorry, the request was not successful.<br/>
+Please check the address and try again later.</p>
+</body>
+</html>

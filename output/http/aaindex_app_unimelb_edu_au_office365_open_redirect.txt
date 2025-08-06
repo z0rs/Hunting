@@ -1,0 +1,26 @@
+[office365-open-redirect] Dumped HTTP request for https://aaindex.app.unimelb.edu.au/autodiscover/autodiscover.json/v1.0/30v0wAdKMKTo3b4SepyIfWJG2Va@interact.sh?Protocol=Autodiscoverv1
+
+
+GET /autodiscover/autodiscover.json/v1.0/30v0wAdKMKTo3b4SepyIfWJG2Va@interact.sh?Protocol=Autodiscoverv1 HTTP/1.1
+Host: aaindex.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[office365-open-redirect] Dumped HTTP response https://aaindex.app.unimelb.edu.au/autodiscover/autodiscover.json/v1.0/30v0wAdKMKTo3b4SepyIfWJG2Va@interact.sh?Protocol=Autodiscoverv1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Date: Wed, 06 Aug 2025 15:16:53 GMT
+Set-Cookie: visid_incap_3138227=HyePUqWyRzW9+WbCpvSh0uVxk2gAAAAAQUIPAAAAAACEXLr+mfhZBpSrPzl1JAB8; expires=Thu, 06 Aug 2026 08:08:46 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3138227=6mGdZAI9j0m/V2a/fIsuhwAAAABeuWZQCMSA6c1HiuXgow9n; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3138227=w2f/a6RutyLdvGxVQi5fFeVxk2gAAAAA2d2UDLdk+iCQesxD1KrFGQ==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 11-7255974-7255978 NNNY CT(208 222 0) RT(1754493413603 7) q(0 0 0 -1) r(2 2) U24
+Content-Length: 0
+
+

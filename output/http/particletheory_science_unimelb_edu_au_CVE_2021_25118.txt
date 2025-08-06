@@ -1,0 +1,34 @@
+[CVE-2021-25118] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-json/wp/v2/posts?per_page=1
+
+
+GET /wp-json/wp/v2/posts?per_page=1 HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-25118] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-json/wp/v2/posts?per_page=1
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages, Link
+Allow: GET
+Content-Type: application/json; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Link: <https://particletheory.science.unimelb.edu.au/wp-json/wp/v2/posts?per_page=1&page=2>; rel="next"
+Server: openresty
+Vary: Cookie
+Vary: Origin
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex
+X-Wp-Total: 75
+X-Wp-Totalpages: 75
+
+[{"id":1536,"date":"2025-08-05T11:38:36","date_gmt":"2025-08-05T01:38:36","guid":{"rendered":"https:\/\/blogs.unimelb.edu.au\/particletheory\/?p=1536"},"modified":"2025-08-05T11:38:36","modified_gmt":"2025-08-05T01:38:36","slug":"elena-pinetti-flatiron-institute","status":"publish","type":"post","link":"https:\/\/particletheory.science.unimelb.edu.au\/2025\/08\/05\/elena-pinetti-flatiron-institute\/","title":{"rendered":"Elena Pinetti (Flatiron Institute)"},"content":{"rendered":"<p>10:00am Wednesday Oct 29, 2025<br \/>\nWebinar<\/p>\n<p><strong>TBA<\/strong><\/p>\n<p><em><\/em><\/p>\n","protected":false},"excerpt":{"rendered":"<p>10:00am Oct 29, 2025: TBA<\/p>\n","protected":false},"author":4850,"featured_media":0,"comment_status":"closed","ping_status":"open","sticky":false,"template":"","format":"standard","meta":{"footnotes":""},"categories":[402230],"tags":[],"class_list":["post-1536","post","type-post","status-publish","format-standard","hentry","category-future-seminars"],"_links":{"self":[{"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts\/1536","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/users\/4850"}],"replies":[{"embeddable":true,"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/comments?post=1536"}],"version-history":[{"count":1,"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts\/1536\/revisions"}],"predecessor-version":[{"id":1537,"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts\/1536\/revisions\/1537"}],"wp:attachment":[{"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/media?parent=1536"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/categories?post=1536"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/particletheory.science.unimelb.edu.au\/wp-json\/wp\/v2\/tags?post=1536"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}]

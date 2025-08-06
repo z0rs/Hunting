@@ -1,0 +1,28 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://careersonline.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: careersonline.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://careersonline.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 06 Aug 2025 15:17:24 GMT
+Permissions-Policy: geolocation=(self), fullscreen=*, autoplay=*, camera=(self), sync-xhr=*
+Referrer-Policy: no-referrer-when-downgrade
+Server: Microsoft-IIS/10.0
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: IE=edge
+X-Xss-Protection: 0
+Content-Length: 0
+
+

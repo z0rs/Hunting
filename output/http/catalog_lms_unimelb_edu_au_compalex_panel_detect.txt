@@ -1,0 +1,161 @@
+[compalex-panel-detect] Dumped HTTP response https://catalog.lms.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:24 GMT
+Etag: W/"520267016540540b9f2127aa80cd475e"
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx + Phusion Passenger(R)
+Set-Cookie: _gallery_session=SThSMFNsSytsWDh1ZlB3RU5nZzA5Nk5YSW0zYlpPV2F4SXpwUnoyTjdtN3FDbm1IbWtCR2R0ZWhVWTRuL0xreFMrQkhGMEVvUDNQaURka3lRR2s4OGxlQzlyM2pGbVFELzlGd1FDS1dSQlo2aTdEM3BzeStnYTVXV01uQXlsRm1mTmFFa2xYL3cwRTJNYUE5c3l0emFrTWxYRjJGWlljN2NQdkNxRmxwSFBVMHNEN1I0UkNwYXBIRzFmd3I1WGdMLS04MUZ5U1l3RU9XelVocHBKMElRYWVBPT0%3D--a224ccf2a16f4344ff815b851b6ded47b76c65d2; path=/; secure; HttpOnly
+Status: 200 OK
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept
+X-Content-Type-Options: nosniff
+X-Csrf-Token: /e1qgmd0USxz27nDNOM8ISb51t1AW9WU3TFSVv3ZmF8kk3OrRuq+Uq69eb/XN+oIpxG2wgDVKw33oRqTudTT4Q==
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: b993d9ca9eddd6f9b3edb1efdbea7c3d
+X-Runtime: 0.093008
+X-Xss-Protection: 1; mode=block
+
+
+
+<!DOCTYPE html>
+<html dir="" lang="en-au-x-unimelb">
+  <head>
+    <title>University of Melbourne&#39;s Catalogue</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <link rel="preconnect" href="https://fonts.bunny.net">
+    <link href="https://fonts.bunny.net/css?family=lato:400,400i,700" rel="stylesheet" />
+    
+
+
+    <link rel="stylesheet" media="all" href="https://d1pn3s0es5erpf.cloudfront.net/assets/application-9ea34cbec5cf28c8e7597c9f74e9cb273c0bb380dfb83e052eb1860c8445a8c6.css" />
+    <link rel="stylesheet" media="screen" href="https://d1pn3s0es5erpf.cloudfront.net/production/themes/9200095079080ea1285cd38ad459cd85d39c8796.css?1736202078" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://d1pn3s0es5erpf.cloudfront.net/production/favicons/03208bb04dc527fcbe28b68c444124048d832129.ico?1736202078" />
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="41wve3hFRqEU8nijSxWBkem/81Xqz+oWctl1iV/kSGw6IjZSWdup38mUuN+owVe4aFeTSqpBFI9YST1MG+kD0g==" />
+
+
+
+
+    <script>window.recaptchaOptions = { useRecaptchaNet: true };</script>
+
+    
+    
+  </head>
+  <body>
+
+    
+    
+    <div id='checkout-header' role="region"></div>
+    <a name="top"></a>
+
+      <div class='sr-only' id='screen-reader-announce-polite' aria-live='polite'></div>
+<div class='sr-only' id='screen-reader-announce-assertive' aria-live='assertive'></div>
+
+<div id='flash-messages' role='alert'></div>
+<div id='flash-alerts-base'></div>
+
+
+<a href="#content" id="skip_navigation_link">Skip To Content</a>
+
+  <header id="app-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-7">
+          <div class="header-branding">
+            <div class="logo-customized"><a href="/"><img alt="University of Melbourne&#39;s Catalogue" src="https://d1pn3s0es5erpf.cloudfront.net/production/header_images/87df437c05cb6a0d1e7e5951a9fc8eba0cca93d4.svg?1736202078" /></a></div>
+          </div>
+        </div>
+        <div id="header-menu" class="col-xs-12 col-sm-6 col-md-5 AccountDropdown--margin-top">
+          <div id="header-menu-container"></div>
+          <div id="cart"></div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12">
+        </div>
+      </div>
+    </div>
+
+  </header>
+
+
+
+    <div id='flash-alerts-base'></div>
+    <div id="content" tabindex="-1" role="main">
+        
+        <div id="home-page">
+</div>
+  <script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"ItemList","itemListElement":[]}
+  </script>
+
+    </div>
+
+        <footer id="app-footer" class="app-footer" role="contentinfo">
+    <div class="container">
+      <div class="col-md-12">
+        <div>
+          <ul class="piped-list">
+            <li><a href="/">Subject Catalogue</a></li>
+            <li>
+              <a target="_blank" href="https://www.instructure.com/policies/acceptable-use">Terms of Use</a>
+            </li>
+            <li>
+              <a target="_blank" href="https://www.instructure.com/policies/privacy/">Privacy Policy</a>
+            </li>
+            <li>
+              <a target="_blank" href="https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Keyboard-Shortcuts/ta-p/387069">Keyboard Shortcuts</a>
+            </li>
+          </ul>
+        </div>
+        <p class="small">
+          &copy; 2025 University of Melbourne&#39;s Catalogue All Rights Reserved.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+
+
+    <div id='preview-banner' style='position: sticky; bottom: 0; z-index: 10'></div>
+
+    <script>
+      ENV = {"user":{},"authenticityToken":"RlPb+nusi2twxzalUi7w0nvoQGVrioA55v6mTmu53yefLcLTWjJkFa2h9tmx+ib7+gAgeisEfqDMbu6LL7SUmQ==","shopping_cart_enabled":true,"bulk_purchase_enabled":false,"enrollment_history_enabled":true,"registration_separate_name_fields_enabled":true,"enable_credentials":false,"enable_credentials_ff":true,"enable_recommendations":false,"enable_recommendations_for_product_page":false,"enable_login_auth_providers":false,"hide_self_paced_label":false,"enable_multiple_promo_codes_feature":true,"multiple_promo_codes_enabled":true,"enable_instructor":false,"enable_pathways":false,"hide_missing_pathway":false,"account_header_image":"https://d1pn3s0es5erpf.cloudfront.net/production/header_images/87df437c05cb6a0d1e7e5951a9fc8eba0cca93d4.svg?1736202078","account_name":"University of Melbourne's Catalogue","has_sso_warning":false,"default_time_zone":"Australia/Melbourne","managed_accounts":null,"urls":{"admin_home":"/listings","canvas_courses":"//canvas.lms.unimelb.edu.au/","dashboard":"/dashboard","enrollment_history":"/order_items/history","login":"/login","logout":"/logout","privacy_policy":"https://www.instructure.com/policies/privacy/","terms":"https://www.instructure.com/policies/acceptable-use","keyboard_shortcuts":"https://community.canvaslms.com/t5/Canvas-Resource-Documents/Canvas-Keyboard-Shortcuts/ta-p/387069"},"sentry_dsn":"https://eed8d2dc6d324ba295378228ac35a0dd:4889f824f9d24c5fb49eb724c39c01a1@relay-syd.sentry.insops.net/13","sentry_release":"99cfc085c80ddd07732587bd6a4d0588ad48c966","sentry_sample_rate":0.05,"asset_host":"d1pn3s0es5erpf.cloudfront.net","login_auth_providers":[],"usage_metrics":null,"text_overrides":{},"new_storefront":false,"lolcalize":0,"products_initial_data":{"products":[],"totalPages":0,"totalRows":0},"recommendations_initial_data":{},"available_badges":[],"homepage":true}
+      ENV.flashAlerts = []
+    </script>
+
+    <script>
+//<![CDATA[
+window.webpackChunkManifest = {}
+//]]>
+</script>
+    <script src="//d1pn3s0es5erpf.cloudfront.net:443/assets/react-9fc9e3108abdea3d11f7.js"></script>
+    <script src=""></script>
+    
+    <script src="//d1pn3s0es5erpf.cloudfront.net:443/assets/common-00ddf6761d3ee5f2ee4e.js"></script>
+    <script>I18n.locale = "en-au-x-unimelb";</script>
+    <script src="//d1pn3s0es5erpf.cloudfront.net:443/assets/jquery_setup-b6d672cc74ca0bf9c853.js"></script>
+    <script src="//d1pn3s0es5erpf.cloudfront.net:443/assets/flash_alerts-4b5208851077536401ea.js"></script>
+    <script src="//d1pn3s0es5erpf.cloudfront.net:443/assets/app_header-b027ca44adaed1df8c6d.js"></script>
+    
+    <script src="//d1pn3s0es5erpf.cloudfront.net:443/assets/homepage-918099cc660a3aec9e84.js"></script>
+    <script src="https://d1pn3s0es5erpf.cloudfront.net/production/themes/9f3633d620866b3ba5c0b2987fcf22a6a4976663.js?1736202078"></script>
+
+
+
+    
+  </body>
+</html>
+
+

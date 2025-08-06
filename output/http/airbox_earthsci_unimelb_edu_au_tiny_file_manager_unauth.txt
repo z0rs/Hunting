@@ -1,0 +1,879 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://airbox.earthsci.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: airbox.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://airbox.earthsci.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=3600, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:19 GMT
+Last-Modified: Wed, 06 Aug 2025 15:17:19 GMT
+Link: <https://airbox.earthsci.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://airbox.earthsci.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://airbox.earthsci.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://airbox.earthsci.unimelb.edu.au/xmlrpc.php
+
+<!DOCTYPE html>
+
+<html lang="en-US" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://airbox.earthsci.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>AIRBOX &#8211; A Mobile Air Chemistry Laboratory</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="AIRBOX &raquo; Feed" href="https://airbox.earthsci.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AIRBOX &raquo; Comments Feed" href="https://airbox.earthsci.unimelb.edu.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AIRBOX &raquo; Home Comments Feed" href="https://airbox.earthsci.unimelb.edu.au/sample-page/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/airbox-mobile-laboratory\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://airbox.earthsci.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://airbox.earthsci.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='lean-captcha-css-css' href='https://airbox.earthsci.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/css/lean-captcha.css?ver=1' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<link rel="https://api.w.org/" href="https://airbox.earthsci.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://airbox.earthsci.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://airbox.earthsci.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel="canonical" href="https://airbox.earthsci.unimelb.edu.au/" />
+<link rel='shortlink' href='https://airbox.earthsci.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://airbox.earthsci.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fairbox.earthsci.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://airbox.earthsci.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fairbox.earthsci.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://airbox.earthsci.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template-default page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://airbox.earthsci.unimelb.edu.au" title="AIRBOX" itemprop="item">
+					<span itemprop="name">AIRBOX</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://blogs.unimelb.edu.au/airbox-mobile-laboratory/files/2019/01/IMG_6520-233et7t.jpg)">
+						<div class="blurred">
+									<h1>AIRBOX</h1>
+											<p>A Mobile Air Chemistry Laboratory</p>
+									</div>
+			</header>
+		
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+	<h1 class="entry-header">Home</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab12" role="tab">About Us</a><a href="#tab179" role="tab">Instruments</a><a href="#tab19" role="tab">Campaigns</a><a href="#tab149" role="tab">News & Blogs</a><a href="#tab634" role="tab">Partners and Affiliates</a><a href="#tab221" role="tab">Gallery</a><a href="#tab684" role="tab">Contact us</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<h2><img loading="lazy" decoding="async" class="wp-image-49 alignleft" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX_logo-222wvfq-300x198.jpg" alt="" width="200" height="130" />Atmospheric Integrated Research facility for Boundaries and Oxidative eXperiments</h2>
+<p>&nbsp;</p>
+<p>A custom-built laboratory in a shipping container to carry out comprehensive atmospheric monitoring and take campaign measurements in hard to access places, such as near the Great Barrier Reef and the Southern Ocean.</p>
+<p><em><strong>&#8220;Taking atmospheric chemistry science where it needs to go&#8221;</strong></em></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-421" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w-1024x576.jpg" alt="" width="700" height="394" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w-1024x576.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w-300x169.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">We are an ARC, University and partner organisation funded $1.49M Linkage Infrastructure Equipment Facility for understanding aerosol and atmospheric composition anywhere.</p>
+<div style="margin: auto; width: 120%;">
+<div style="width: 60%; float: left; padding-right: 30px;">
+<p><a href="" id="wmd-buttons-689371ff544de" class="wmd-buttons default button-small with-arrow">Where has Airbox been?</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/experts" id="wmd-buttons-689371ff544f3" class="wmd-buttons default button-small with-arrow">Meet Our Experts</a></p>
+<p><em>See AIRBOX in action below:</em></p>
+<ul id='gallery-3' class='image-gallery gallery galleryid-2 gallery-columns-4 gallery-size-large'><li class='item'><a data-size='1086x724' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='1600x900' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Exterior-1mv5dxe.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Exterior-1mv5dxe-300x169.jpg" /><figcaption>Rainforest to reef campaign</figcaption></figure></a></li><li class='item'><a data-size='4032x3024' href='https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co-300x225.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='1086x724' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn-300x200.jpg" /><figcaption>Sailing up the Derwent</figcaption></figure></a></li><li class='item'><a data-size='1086x724' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg-300x200.jpg" /><figcaption>Departing Hobart</figcaption></figure></a></li><li class='item'><a data-size='1920x1280' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='1920x1281' href='https://airbox.earthsci.unimelb.edu.au/files/2019/01/DSC_9486-1rdpzux.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2019/01/DSC_9486-1rdpzux-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3968x2232' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w-300x169.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='4128x2322' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/20171014_171556-1fllkud.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/20171014_171556-1fllkud-300x169.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='1531x937' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3-300x184.jpg" /><figcaption>Rainforest to reef campaign</figcaption></figure></a></li><li class='item'><a data-size='1086x724' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='5184x3888' href='https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn-300x225.jpg" /><figcaption></figcaption></figure></a></li>
+		</ul>
+
+</div>
+</div>
+<div></div>
+			</div>
+
+							<div class="tab" id="tab12" role="tabpanel">
+				<h1>About Us</h1>
+<p>Our container laboratory is certified by Lloyd’s international shipping standards with fire rating and Occupational Health and Safety standards. It can operate on land with 3 phase power or on ships as a module.</p>
+<p>We have 9 instruments purchased as Airbox instruments and capacity to take guest instruments.</p>
+<p><img fetchpriority="high" decoding="async" class="wp-image-135" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3-300x184.jpg" alt="" width="326" height="200" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3-300x184.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3-1024x627.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3.jpg 1531w" sizes="(max-width: 326px) 100vw, 326px" /> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0638-18hm9q2.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-561" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0638-18hm9q2-1024x683.jpg" alt="" width="300" height="200" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0638-18hm9q2-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0638-18hm9q2-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0638-18hm9q2-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0638-18hm9q2.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
+<p><em>Photos by Dr Robyn Schofield</em></p>
+<p>Unique community facility with open data (coming soon)</p>
+<p>Have an idea of how you&#8217;d like to use this facility to assist your research or community? We can help test:</p>
+<ul>
+<li>Meteorology</li>
+<li>Radiation, clouds and aerosols</li>
+<li>Atmospheric chemistry and air quality</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="wp-image-380" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5637-1lb1ui4-1024x683.jpg" alt="" width="450" height="300" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5637-1lb1ui4-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5637-1lb1ui4-300x200.jpg 300w" sizes="auto, (max-width: 450px) 100vw, 450px" /> <img loading="lazy" decoding="async" class="wp-image-318" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0583-1tjq65h-225x300.jpg" alt="" width="225" height="300" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0583-1tjq65h-225x300.jpg 225w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0583-1tjq65h-768x1024.jpg 768w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0583-1tjq65h-300x400.jpg 300w" sizes="auto, (max-width: 225px) 100vw, 225px" /></p>
+<h1>Our Experts</h1>
+<table style="height: 541px;" width="696">
+<tbody>
+<tr>
+<td>
+<p><a href="https://findanexpert.unimelb.edu.au/profile/433184-robyn-schofield">Dr Robyn Schofield</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540.jpeg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="alignnone wp-image-709 size-medium" src="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540-263x300.jpeg" alt="" width="263" height="300" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540-263x300.jpeg 263w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540-768x875.jpeg 768w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540-300x342.jpeg 300w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540-527x600.jpeg 527w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Schofield_medium-Portrait2930-e1589022156540.jpeg 874w" sizes="auto, (max-width: 263px) 100vw, 263px" /></a></td>
+<td>
+<p>Director of Environmental Science hub</p>
+<p>Senior Lecturer</p>
+<p>The University of Melbourne</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://scholars.uow.edu.au/display/clare_murphy">Prof Clare Murphy</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/04/thumbnail_murphycfoyer1-5-09.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-665" src="https://airbox.earthsci.unimelb.edu.au/files/2020/04/thumbnail_murphycfoyer1-5-09.jpg" alt="" width="200" height="200" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/04/thumbnail_murphycfoyer1-5-09.jpg 200w, https://airbox.earthsci.unimelb.edu.au/files/2020/04/thumbnail_murphycfoyer1-5-09-150x150.jpg 150w" sizes="auto, (max-width: 200px) 100vw, 200px" /></a></td>
+<td>Director &#8211; Centre for Atmospheric Chemistry<br />
+Professor &#8211; School of Earth, Atmospheric and Life Sciences,Faculty of Science, Medicine and HealthUniversity of Woolongong</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<p><a href="https://www.researchgate.net/profile/Melita_Keywood">Dr Melita Keywood</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Melita_Keywood.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-696" src="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Melita_Keywood-300x300.jpg" alt="" width="214" height="214" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Melita_Keywood-300x300.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Melita_Keywood-150x150.jpg 150w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Melita_Keywood.jpg 512w" sizes="auto, (max-width: 214px) 100vw, 214px" /></a></td>
+<td>
+<p>Principal Research Scientist</p>
+<p>CSIRO Marine And Atmospheric Research</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://staff.qut.edu.au/staff/z.ristovski">Prof Zoran Ristovski</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Zoran_Ristovski.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-699" src="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Zoran_Ristovski-300x300.jpg" alt="" width="213" height="213" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Zoran_Ristovski-300x300.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Zoran_Ristovski-150x150.jpg 150w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Zoran_Ristovski.jpg 512w" sizes="auto, (max-width: 213px) 100vw, 213px" /></a></td>
+<td>Acting Head of School, Earth and Atmospheric SciencesProfessorScience and Engineering Faculty,<br />
+School of Earth &amp; Atmospheric SciencesQueensland University of Technology</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://researchers.mq.edu.au/en/persons/peter-nelson/projects/?status=FINISHED">Prof Peter Nelson</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Peter-nelson.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-700" src="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Peter-nelson-256x300.jpg" alt="" width="177" height="207" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/05/Peter-nelson-256x300.jpg 256w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Peter-nelson-300x351.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/Peter-nelson.jpg 359w" sizes="auto, (max-width: 177px) 100vw, 177px" /></a></td>
+<td>
+<p>Professor, Pro Vice Chancellor (Research Performance and Innovation)</p>
+<p>Professor of Environmental Studies</p>
+<p>Macquarie University</p>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://scholars.uow.edu.au/display/dave_griffith">Prof Dave Griffith</a></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/05/David-Griffith.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-706" src="https://airbox.earthsci.unimelb.edu.au/files/2020/05/David-Griffith.jpg" alt="" width="200" height="200" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/05/David-Griffith.jpg 200w, https://airbox.earthsci.unimelb.edu.au/files/2020/05/David-Griffith-150x150.jpg 150w" sizes="auto, (max-width: 200px) 100vw, 200px" /></a></td>
+<td>Senior Professor<br />
+Centre for Atmospheric Chemistry<br />
+Faculty of Science, Medicine and Health<br />
+School of Chemistry and Molecular BioscienceUniversity of Wollongong</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;</p>
+<p>&nbsp;</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://staff.qut.edu.au/staff/b.miljevic">Dr Branka Miljevic</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/#tab684" id="wmd-buttons-689371ff28c9a" class="wmd-buttons brand button with-arrow">Contact us</a></p>
+				</div>					
+							<div class="tab" id="tab179" role="tabpanel">
+				<h1>AIRBOX</h1>
+<p>AIRBOX is a modified shipping container (<a href="https://airbox.earthsci.unimelb.edu.au/files/2017/11/15452-Uni-of-Melb-air-sample-lab-Lloyds-Certification-1vjlhr2.pdf" target="_blank" rel="noopener">Lloyd&#8217;s Certification</a>, <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/11/15452-013-Electrical-schematic-2gjianc.pdf" target="_blank" rel="noopener">3 Phase Electrical wiring diagram</a> and <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/11/15452-009-Air-Chemistry-Lab-GA-copy-ynfqyv.pdf" target="_blank" rel="noopener">AIRBOX engineering diagrams</a>) weighing 7960kg with dimensions in mm of 6058L x 2438W x 2591H.</p>
+<h1>Our Instruments</h1>
+<h2><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/instruments/airbox-instruments/" target="_blank" rel="noopener">AIRBOX Instruments</a></h2>
+<table style="border-color: #ffffff;">
+<tbody>
+<tr>
+<th style="background-color: #6095c9; color: #ffffff;">Instrument</th>
+<th style="background-color: #6095c9; color: #ffffff;">Observations</th>
+<th style="background-color: #6095c9; color: #ffffff;">Contact</th>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">CIMS: Chemical Ionization Mass Spectrometer</td>
+<td style="background-color: #d9e0ed;">Real-time chemical analysis of trace gases, aerosols and atmospheric ions. Interchangeable inlets and ionization sources allow detection of a great range of compounds. An Atmospheric Pressure Drift Tube Reaction Chamber in combination with nitrate reagent is used to detect sulfuric acid, amines and highly oxidized organic compounds, thereby capturing the gas to particle formation processes and the nucleation cluster composition. Filter Inlet for Gas and Aerosols (FIGAERO) enables simultaneous real-time chemical analysis of trace gases and aerosols.</td>
+<td style="background-color: #d9e0ed;">
+<p>&nbsp;</p>
+<p><a href="mailto:b.miljevic@qut.edu.au">Branka Miljevic</a></p>
+<p><a href="mailto:z.ristovski@qut.edu.au">Zoran Ristovski</a></p>
+<p><a href="mailto:peter.nelson@mq.edu.au">Peter Nelson</a></p>
+<p>&nbsp;</td>
+</tr>
+<tr>
+<td>Spectronus: Ecotech-UoW FTIR in-situ trace gas analyser</td>
+<td>In-situ continuous measurement of CO<sub>2</sub>, CH<sub>4</sub>, CO, N<sub>2</sub>O, δ<sup>13</sup>C in CO<sub>2</sub>, δD-H<sub>2</sub>O, δ<sup>18</sup>O in H<sub>2</sub>O</td>
+<td>
+<p><a href="mailto:griffith@uow.edu.au">Dave Griffith</a></p>
+<p><a href="mailto:clarem@uow.edu.au">Clare Murphy</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">MAXDOAS with direct sun: Two high grade Avantes UV/Vis Spectrometer</td>
+<td style="background-color: #d9e0ed;">Solar Spectra in UV/Vis (daytime only): many oxidants and oxidation products BrO, IO, NO<sub>2</sub>, O<sub>3</sub>, HCHO, CHOCHO, OClO, SO<sub>2</sub>, H<sub>2</sub>O, O<sub>4</sub>, aerosol</td>
+<td style="background-color: #d9e0ed;">
+<p><a href="mailto:robyn.schofield@unimelb.edu.au">Robyn Schofield</a></p>
+<p><a href="mailto:swilson@uow.edu.au">Steve Wilson</a></td>
+</tr>
+<tr>
+<td>Thomson WS800 &#8211; Meteorological package</td>
+<td>High resolution winds and meteorological data of temperature, pressure, relative humidity, radiation and lightning strikes.</td>
+<td>
+<p><a href="mailto:steven.siems@monash.edu">Steve Siems</a></p>
+<p><a href="mailto:robyn.schofield@unimelb.edu.au">Robyn Schofield</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">
+<p>Mini-Micro Pulse Lidar (MPL) System</p>
+<p>Wavelength 532 nm, 3-4uJ@2500 Hz PRF, 80mm beam diameter</td>
+<td style="background-color: #d9e0ed;">Continuous aerosol and cloud profiles up to 10km. Boundary layer height defined continuously.</td>
+<td style="background-color: #d9e0ed;">
+<p><a href="mailto:robyn.schofield@unimelb.edu.au">Robyn Schofield</a></p>
+<p><a href="mailto:Simon.Alexander@aad.gov.au">Simon Alexander</a></td>
+</tr>
+<tr>
+<td>
+<p class="p1">Dual flow loop, two-filter radon detector</p>
+</td>
+<td>
+<p class="p1"><span class="s1"><sup>222</sup></span>Rn (radon) &#8211; A reliable radioactive natural tracer of land contact</p>
+</td>
+<td><a href="mailto:agw@ansto.gov.au">Alastair Williams</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">Aurora 4000 Nephelometer with PM2.5 Inlet and accessories</td>
+<td style="background-color: #d9e0ed;">Measures the concentration of particulates within aerosols using the reflective properties (in-situ)</td>
+<td style="background-color: #d9e0ed;"><a href="mailto:Melita.Keywood@csiro.au">Melita Keywood</a></td>
+</tr>
+<tr>
+<td>Thermo Scientific Model 5012 MAAP Multi-Angle Absorption Photometer</td>
+<td>Measures the in-situ aerosol optical absorption properties of PM2.5 and PM10 particles</td>
+<td><a href="mailto:Melita.Keywood@csiro.au">Melita Keywood</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">The HIVOL 3000 particulate sampler</td>
+<td style="background-color: #d9e0ed;">The HIVOL 3000 particulate sampler collects PM2.5, PM10 or TSP particles that are subsequently analyzed using ICPMS for trace elements such as iron, silicate etc linking terrestrial dusts with oceanic fertilization processes along with a rain gauge for deposition rates (weekly resolution)</td>
+<td style="background-color: #d9e0ed;"><a href="mailto:Andrew.Bowie@utas.edu.au">Andy Bowie</a></td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/instruments/airbox-instruments/" id="wmd-buttons-689371ff2c46d" class="wmd-buttons brand button with-arrow">See More</a></p>
+<p>&nbsp;</p>
+<h2><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/instruments/guest-instruments/" target="_blank" rel="noopener">Guest Instruments</a></h2>
+<table style="border-color: #ffffff;">
+<tbody>
+<tr>
+<th style="background-color: #6095c9; color: #ffffff;">Instrument</th>
+<th style="background-color: #6095c9; color: #ffffff;">Observations</th>
+<th style="background-color: #6095c9; color: #ffffff;">Contact</th>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">NO<sub>x</sub></td>
+<td style="background-color: #d9e0ed;">In-situ NO<sub><sub>x</sub></sub></p>
+<p class="p1">ThermoFisher 42i-TL NO<sub>x</sub> analyser draws at 7.5 litres per minute; logs 1 minute averages, dimensions are: 550x490x270mm, weighs 22kg and draws 200W of power</p>
+</td>
+<td style="background-color: #d9e0ed;"><a href="mailto:clarem@uow.edu.au">Clare Murphy</a></td>
+</tr>
+<tr>
+<td>Ozone</td>
+<td>In-situ Ozone</p>
+<p class="p1">ThermoFisher O<sub>3 </sub>monitor draws at 7.5 litres per minute; logs 1 minute averages, dimensions are: 550x490x230mm, weighs 18kg and draws 200W of power</p>
+</td>
+<td><a href="clarem@uow.edu.au">Clare Murphy</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">Mercury suite</td>
+<td style="background-color: #d9e0ed;">Elemental, reactive and particulate mercury</td>
+<td style="background-color: #d9e0ed;">
+<p><a href="mailto:peter.nelson@mq.edu.au">Peter Nelson</a></p>
+<p><a href="mailto: grant.edwards@mq.edu.au">Grant Edwards</a></td>
+</tr>
+<tr>
+<td>FTS &#8211; direct sun</td>
+<td>CO<sub>2</sub>, CH<sub>4</sub>, HDO, HCl etc total column measurements</td>
+<td><a href="mailto:griffith@uow.edu.au">Dave Griffith</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">Time-of-Flight Aerosol Mass Spectrometer (ToF-AMS)</td>
+<td style="background-color: #d9e0ed;">Provides real time size and chemical mass composition (Organics, SO<sub>4</sub><sup>2-</sup>, NO<sub>3</sub><sup>&#8211;</sup>, NH<sub>4</sub><sup>+</sup>, Cl<sup>&#8211;</sup>) of non-refractory sub-micron aerosol particles</td>
+<td style="background-color: #d9e0ed;"><a href="mailto:b.miljevic@qut.edu.au">Branka Miljevic</a></td>
+</tr>
+<tr>
+<td>NAIS</td>
+<td>Aerosol composition &#8211; particles: ~2 to 40nm, ions: 3.2 to 0.0013 cm<sup>2</sup>/V/s, (equivalent size range: 0.8 to 40 nm)</td>
+<td><a href="mailto:z.ristovski@qut.edu.au">Zoran Ristovski</a></td>
+</tr>
+<tr>
+<td style="background-color: #d9e0ed;">Sonic 3D anemometer and humidity / temperature sensor</td>
+<td style="background-color: #d9e0ed;">
+<p class="p1">Wind speed, temperature and humidity measurements at high sampling frequencies up to 60 Hz. These eddy covariance observations are used in the calculation of sensible heat, latent heat and gas surface fluxes.</p>
+</td>
+<td style="background-color: #d9e0ed;"><a href="mailto:montyjp@unimelb.edu.au">Jason Monty</a></td>
+</tr>
+<tr>
+<td>Sodar</td>
+<td>Vertical profiles of wind and temperature</td>
+<td><a href="mailto:Melita.Keywood@csiro.au">Melita Keywood</a></td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/instruments/guest-instruments/" id="wmd-buttons-689371ff2c47e" class="wmd-buttons brand button with-arrow">See More</a></p>
+				</div>					
+							<div class="tab" id="tab19" role="tabpanel">
+				<h1>Our Future Campaigns</h1>
+<h2>RV Investigator up to Cape Grim: August 2020</h2>
+<p>Researchers from CSIRO are undertaking a project which takes the RV Investigator up to Cape Grim, Tasmania &#8211; home to one of the world’s <a href="https://protect-au.mimecast.com/s/GAhOC1WZKqhMpgqxwTL_Qry?domain=research.csiro.au">premier baseline air pollution stations</a>. Cape Grim has been running for over 40 years and is a world-class station of the <a href="https://protect-au.mimecast.com/s/DJheC2xZLrcpkr8Wos1B2ng?domain=public.wmo.int">WMO’s Global Atmosphere Watch Programme</a>. It has provided key data in global, international and regional studies of climate change, air quality and the environment. The RV Investigator was commissioned in 2014, and hosts world-class atmospheric monitoring facilities modelled after the success of Cape Grim. In 2018, the Investigator was <a href="https://protect-au.mimecast.com/s/Jb94C3Q8MvCpm32oYs2tPI7?domain=research.csiro.au">recognised as the world’s first mobile GAW station</a>.</p>
+<p>An integral part of running a GAW network, is making sure an instrument measuring in one part of the world, is measuring the same as that in another part of the world. To ensure this, regular calibrations are undertaken, and as well as instrument inter-comparisons – running multiple instruments alongside one another to verify their performance. But these activities can only account for part of the sampling system, and is not a complete verification of the station’s measurements. Utilising the inherent mobility of the RV Investigator, we will park the ship alongside the well-characterised and world-class facility that is Cape Grim, to be able to perform a full-station inter-comparison – the first such experiment every performed. Instrumentation from the AIRBOX will be utilised to help understand any differences that may be observed, and to characterise the vertical structure of the atmosphere as it moves over the cliffs at Cape Grim.</p>
+<p>The voyage will take place in August 2020 – the wildest time to be in the Southern Ocean – and will include researchers from CSIRO, the Bureau of Meteorology, ANSTO and both Australian and international universities.</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2020/04/Grim.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-677" src="https://airbox.earthsci.unimelb.edu.au/files/2020/04/Grim-300x175.jpg" alt="" width="300" height="175" data-wp-editing="1" srcset="https://airbox.earthsci.unimelb.edu.au/files/2020/04/Grim-300x175.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2020/04/Grim-768x448.jpg 768w, https://airbox.earthsci.unimelb.edu.au/files/2020/04/Grim-600x350.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2020/04/Grim.jpg 840w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
+<hr />
+<h2></h2>
+<h1>Our Past Campaigns</h1>
+<h2>COALA campaign: Jan &#8211; Mar – Emmerson / Murphy</h2>
+<p>Australia has unique biomass &#8211; lots of Eucalypts and lots of isoprene emissions. Largely our climate and air quality models use emissions from Northern Hemispheric studies. But as we all know the Southern hemisphere is unique and with AIRBOX observations we hope to understand natural VOCs better. <a href="https://www2.acom.ucar.edu/sites/default/files/accord/COALA_whitepaper_20160707.pdf" target="_blank" rel="noopener noreferrer">COALA</a> (Characterizing Organics and Aerosol Loading over Australia) is an IGAC supported initiative and endorsed by iCACGP. COALA is in the planning stages working with NCAR&#8217;s Atmospheric Chemistry Observations and Modelling Laboratory.</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/COALA_images-q36thx.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-265 size-medium" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/COALA_images-q36thx-300x160.jpg" alt="" width="300" height="160" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/COALA_images-q36thx-300x160.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/COALA_images-q36thx.jpg 717w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="https://www2.acom.ucar.edu/campaigns/coala" id="wmd-buttons-689371ff2c773" class="wmd-buttons brand button with-arrow">Read About it</a></p>
+<hr />
+<h2>Year of the Maritime Continent: Darwin to Christmas Island Return RV Investigator Oct-Dec 2019</h2>
+<p>Matthew Wheeler from the Bureau of Meteorology has pulled together a team including AIRBOX partners <a href="https://www.climatescience.org.au/content/793-maritime-continent-initiative-linking-scientists-nationally-and-internationally" target="_blank" rel="noopener noreferrer">to understand the Maritime Continent region</a> better. Predicting weather for Australia is very challenged by this region and we hope to gather some observations to improve our predictions. We have been allocated a 61 day <a href="http://mnf.csiro.au/Voyages/Investigator-schedules.aspx" target="_blank" rel="noopener noreferrer">voyage of the RV Investigator</a> for 2019/2020 &#8211; IN2019_v06. Alain Protat is the Chief Scientist and the dates are 19th October to the 18th December 2019 &#8211; essentially 2 x 30 day voyages Darwin to Christmas Island, and Christmas Island to Darwin.</p>
+<p><img loading="lazy" decoding="async" class="wp-image-120" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/vortex-qfgnu9-300x200.jpg" alt="" width="300" height="200" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/vortex-qfgnu9-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/vortex-qfgnu9.jpg 940w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+<hr />
+<h2>Aurora Australis resupply voyages in 2018-2019</h2>
+<p>The Southern Ocean and the sea-ice zone are poorly sampled for atmospheric chemistry. In a study led by Robyn Schofield an <a href="http://www.antarctica.gov.au/about-us/australian-antarctic-program" target="_blank" rel="noopener noreferrer">Australian Antarctic Program</a> (Project #4431) &#8220;<em>CAMMPCAN – Chemical and Mesoscale Mechanisms of Polar Cell Aerosol Nucleation</em>&#8221; saw AIRBOX head to the Southern Ocean and Antarctica.</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/airbox-instruments/">AIRBOX</a> and <a href="https://airbox.earthsci.unimelb.edu.au/guest-instruments/" target="_blank" rel="noopener noreferrer">guest instruments</a> have been measuring atmospheric chemistry over the Southern Ocean and through the sea-ice as the <em>Aurora Australis</em> resupplied Australia&#8217;s Antarctic bases this summer. Starting in mid-October 2018 until late March 2018-2019, AIRBOX and the <em>Aurora Australis</em> visited Davis, Casey, Mawson and MacQuarie Island stations.</p>
+<p>&nbsp;</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0040-tc618a.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-555" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0040-tc618a.jpg" alt="" width="1920" height="1280" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0040-tc618a.jpg 1920w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0040-tc618a-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0040-tc618a-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0040-tc618a-600x400.jpg 600w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></a>This picture of AIRBOX on the Aurora Australis was taken by Dr Robyn Schofield at Casey Station during Voyage 2</p>
+<p>&nbsp;</p>
+<hr />
+<h2>Near sea surface aerosol characterisation using AIRBOX at HMAS STIRLING: April-May 2018</h2>
+<p>Understanding aerosols in the marine environment is complex around coastlines where sea-breeze and land-breezes alter the aerosol composition daily. Measuring clean marine air with large fetches from the Indian ocean we will be investigating the optical and compositional properties of aerosols with the Defence Science and Technology group on <a href="http://www.navy.gov.au/establishments/hmas-stirling" target="_blank" rel="noopener noreferrer">HMAS Stirling</a>.</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/hmasstirling-2lg1nd9.jpeg"><img loading="lazy" decoding="async" class="alignnone wp-image-267 size-medium" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/hmasstirling-2lg1nd9-300x168.jpeg" alt="" width="300" height="168" data-build-figure="full-width" /></a></p>
+<hr />
+<h2> CAPRICORN Southern Ocean RV Investigator: Jan-Feb 2018</h2>
+<p>Clouds over the Southern Ocean are one of the major sources of radiation bias between observations and climate models. With sparse observations and challenging conditions &#8211; Alain Protat of the Bureau of Meteorology is leading a RV Investigator voyage that aims to improve our understanding of aerosols and clouds in this region. AIRBOX&#8217;s team, the <a href="https://airbox.earthsci.unimelb.edu.au/airbox-instruments/">mini-MPL</a> and <a href="https://airbox.earthsci.unimelb.edu.au/airbox-instruments/">CIMS</a> are facing the Southern Ocean very soon. Capricorn is coordinated with the international <a href="https://www.eol.ucar.edu/field_projects/socrates" target="_blank" rel="noopener noreferrer">SOCRATES</a> flights.</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/south_front-17jtn9u.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-204 size-medium" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/south_front-17jtn9u-212x300.jpg" alt="" width="212" height="300" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/south_front-17jtn9u-212x300.jpg 212w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/south_front-17jtn9u-722x1024.jpg 722w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/south_front-17jtn9u-300x426.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/south_front-17jtn9u.jpg 870w" sizes="auto, (max-width: 212px) 100vw, 212px" /></a></p>
+<p><a href="https://atmos.washington.edu/socrates/socrates_edov9.pdf" id="wmd-buttons-689371ff2c77f" class="wmd-buttons brand button with-arrow">Read About SOCRATES</a></p>
+<hr />
+<h2> Aurora Australis resupply voyages in 2017-2018</h2>
+<p>The Southern Ocean and the sea-ice zone are poorly sampled for atmospheric chemistry. In a study led by Robyn Schofield an <a href="http://www.antarctica.gov.au/about-us/australian-antarctic-program" target="_blank" rel="noopener noreferrer">Australian Antarctic Program</a> (Project #4431) &#8220;<em>CAMMPCAN – Chemical and Mesoscale Mechanisms of Polar Cell Aerosol Nucleation</em>&#8221; will see AIRBOX head to the ice.</p>
+<p>The AIRBOX&#8217;s <a href="https://airbox.earthsci.unimelb.edu.au/airbox-instruments/">MAXDOAS</a> and <a href="https://airbox.earthsci.unimelb.edu.au/guest-instruments/" target="_blank" rel="noopener noreferrer">Mercury instruments</a> from Macquarie University are measuring during 2017-2018 while the ARM facility and Simon Alexander&#8217;s <a href="https://www.arm.gov/research/campaigns/amf2017marcus" target="_blank" rel="noopener noreferrer">MARCUS project</a> is onboard the Aurora Australis. AIRBOX will measure atmospheric chemistry over the Southern Ocean and through the sea-ice as the Aurora Australis resupplies Australia&#8217;s Antarctic bases from October to March 2018-2019 (see future campaigns below).</p>
+<p>To see where the Aurora Australis is in 2017/2018 season <a href="https://secure3.aad.gov.au/public/schedules/voyageTrack.cfm?season=1718" target="_blank" rel="noopener noreferrer">click here</a>. Follow the MAXDOAS&#8217; Max Desservettaz&#8217;s V1 adventures <a href="https://airbox.earthsci.unimelb.edu.au/2017/11/14/maxs-v1-resupply-blog/">here</a>. Sonya tweeted about her V2 Casey resupply experience (check out our Twitter feed <a href="https://twitter.com/airboxaus?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Fairbox.earthsci.unimelb.edu.au%2F">here</a>). Follow V3 to Mawson and then to Davis with Neil Page <a href="https://airbox.earthsci.unimelb.edu.au/2018/02/13/neils-v3-blog/">here</a>.</p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/auroraaustralis-2fymblb.jpg"><img loading="lazy" decoding="async" class="alignnone wp-image-262 size-medium" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/auroraaustralis-2fymblb-300x225.jpg" alt="" width="300" height="225" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/auroraaustralis-2fymblb-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/auroraaustralis-2fymblb.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
+<h2><a href="https://airbox.earthsci.unimelb.edu.au/reef-to-rainforest/" target="_blank" rel="noopener noreferrer">Reef to Rainforest: September to October 2016</a></h2>
+<p>Non sea-salt marine aerosol is produced by algae and corals in our oceans. In a study led by Zoran Ristovski the reef to rainforest campaign measured the aerosol production from the Great Barrier Reef to understand its role in climate. AIRBOX was located at Mission beach while the RV Investigator had the <a href="https://airbox.earthsci.unimelb.edu.au/airbox-instruments/">CIMS</a> onboard and measured around the reef system.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-199" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_rtor-2j3ujdu-300x200.jpg" alt="" width="300" height="200" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_rtor-2j3ujdu-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_rtor-2j3ujdu-1024x683.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" /> <img loading="lazy" decoding="async" class="wp-image-316" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Interior-Door-Side-16gw6vq-300x200.jpg" alt="" width="300" height="200" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Interior-Door-Side-16gw6vq-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Interior-Door-Side-16gw6vq-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Interior-Door-Side-16gw6vq.jpg 1458w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/reef-to-rainforest/" id="wmd-buttons-689371ff2c787" class="wmd-buttons brand button with-arrow">Read About it</a></p>
+<hr />
+<p>&nbsp;</p>
+<h1>Campaign proposal</h1>
+<p>Have a proposal to use AIRBOX &#8211; please complete a <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIR-BOX-Campaign-Proposal-2017_03_16a1-2ihte1f.docx">AIRBOX Campaign Proposal </a>to be considered by the steering committee. The committee meets quarterly, but will consider proposals with a faster turn around if required.</p>
+<hr />
+				</div>					
+							<div class="tab" id="tab149" role="tabpanel">
+				<p>The role of AIRBOX in understanding Southern Ocean clouds has received considerable publicity of late. In December 2018, the <a href="http://www.antarctica.gov.au/news/2018/seeding-southern-clouds">Australian Antarctic Division website ran a story</a> on the AIRBOX project prior to the commencement of V2 to Casey Station. Around the same time the AIRBOX project was <a href="https://www.abc.net.au/news/2018-12-16/cloud-researchers-using-new-technology-in-antarctica/10623752">featured on ABC news online</a> and in television news bulletins. In each case, project leader Dr Robyn Schofield and other scientists involved provided insight into the important role of Southern Ocean aerosols and clouds in global climate.</p>
+<ul class="wmd-block-news block-listing"  id="wmd-block-news-689371ff2f76b">                    <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2019/11/05/deep-seascapes-of-the-great-barrier-reef/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2019/11/download.jpg);"></div>
+                                                        <strong>Deep seascapes of the Great Barrier Reef</strong>
+                            <p>Uncovering submarine canyons and landslides along the continental margin of the Great Barrier Reef.
+
+
+
+Transit voyage from Brisbane to Darwin to relocate the vessel in preparation for IN2019_V06. During the transit, a number of research, education and outreach projects will be undertaken.
+
+The Chief Scientist on this voyage will lead a project to map the seafloor along the Great Barrier Reef continental …</p>
+                            <div class="meta">
+                                <span class="meta-left">November 5, 2019</span>
+                                <span class="meta-right">Articles, News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2019/06/19/airbox-to-study-the-polar-atmosphere/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2020/04/antarctic-600x400.jpg);"></div>
+                                                        <strong>AIRBOX to study the polar atmosphere</strong>
+                            <p>AIRBOX to study the polar atmosphere
+
+A mobile air chemistry laboratory called AIRBOX travelled on the Aurora Australis this summer to measure trace gases, aerosols and clouds, as the ship plied the Southern Ocean.
+
+Read the article by the Australian Antarctic Division: AIRBOX to study the polar atmosphere
+
+&nbsp;</p>
+                            <div class="meta">
+                                <span class="meta-left">June 19, 2019</span>
+                                <span class="meta-right">Articles, News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2019/01/28/studying-the-air-in-antarctica/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2019/01/ice-731329-610x400-1-600x393.jpg);"></div>
+                                                        <strong>Studying the air in Antarctica</strong>
+                            <p>Every day our atmosphere has to find a way to clean itself of the air, sea and soil pollution we throw at it.
+
+
+
+So, in order to study how this cleaning process works, the University of Melbourne’s Dr Robyn Schofield is sailing through the pristine environment of the Southern Ocean to our most untouched continent, Antarctica – an environment with the …</p>
+                            <div class="meta">
+                                <span class="meta-left">January 28, 2019</span>
+                                <span class="meta-right">Articles, News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2018/02/18/alexs-rv-investigator-blog/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2018/02/AlexNortonsIceberg-23lyyui-600x399.jpg);"></div>
+                                                        <strong>Alex&#8217;s RV Investigator blog</strong>
+                            <p>The Slow Journey South
+
+&nbsp;
+
+Here we are on the Australian Research Vessel Investigator in the great swells of the Southern Ocean. It is day 33 of 43. We are 65 degrees South, 132 degrees East, and about 100 km north of the Antarctic coastline. To get here we have passed through the roaring forties and furious fifties and entered into the …</p>
+                            <div class="meta">
+                                <span class="meta-left">February 18, 2018</span>
+                                <span class="meta-right">News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2018/02/13/phd-scholarship-atmospheric-chemistry-at-university-of-wollongong/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2018/02/2018_CAC_PhD_Ad_2-18uloie-424x600.jpg);"></div>
+                                                        <strong>PhD Scholarship: Atmospheric Chemistry at University of Wollongong</strong>
+                            <p>The Centre for Atmospheric Chemistry (CAC) in the Faculty of Science, Medicine and Health (SMAH) at the University of Wollongong offers opportunities for up to two highly motivated PhD students to work on the project Tackling Atmospheric Chemistry Grand Challenges in the Southern Hemisphere. The project(s) will sit within a 5-year program looking at the Southern Hemisphere atmosphere using a …</p>
+                            <div class="meta">
+                                <span class="meta-left">February 13, 2018</span>
+                                <span class="meta-right">News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2018/02/13/neils-v3-blog/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn-600x450.jpg);"></div>
+                                                        <strong>Neil&#8217;s V3 blog</strong>
+                            <p>After months of waiting and preparation, which included paperwork, training on scientific equipment and a medical examination, I had finally arrived in Hobart where in two day’s time I would be boarding the ship, the Aurora Australis bound for Mawson Station in Antarctica. For me, the journey to Hobart had been a long one, I had flown from Munich Airport …</p>
+                            <div class="meta">
+                                <span class="meta-left">February 13, 2018</span>
+                                <span class="meta-right">News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2017/11/14/maxs-v1-resupply-blog/">
+                                                            <div class="block-listing__img" style="background-image: url(https://airbox.earthsci.unimelb.edu.au/files/2017/11/MAXDOA_small-24g27yu.jpg);"></div>
+                                                        <strong>Max&#8217;s V1 resupply blog</strong>
+                            <p>Maximilien Desservettaz is on V1 - diary from the Aurora Australis!
+Today, Saturday 4th of November 2017, is day 7 on voyage 1 from Hobart to Davis and back onboard the Aurora Australis. It is the first day I have been able to sit down at my computer because of sea-sickness or the side effects of the sea-sickness patches and tablets.
+On …</p>
+                            <div class="meta">
+                                <span class="meta-left">November 14, 2017</span>
+                                <span class="meta-right">Articles, News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://airbox.earthsci.unimelb.edu.au/2017/11/13/phdopportunity/">
+                                                        <strong>PhD in Southern Ocean aerosols</strong>
+                            <p>
+
+Check out the PhD opportunity offered at the University of Melbourne's Australian German college to study Southern Ocean aerosol. Working with AIRBOX partners and KIT this is an exciting opportunity for those wishing to model and observe natural aerosols in the background atmosphere.</p>
+                            <div class="meta">
+                                <span class="meta-left">November 13, 2017</span>
+                                <span class="meta-right">Announcements, ...</span>
+                            </div>
+                        </a>
+                    </li>
+                    </ul>
+				</div>					
+							<div class="tab" id="tab634" role="tabpanel">
+				<p>We are an ARC, University and partner organisation funded $1.49M Linkage Infrastructure Equipment Facility for understanding aerosol and atmospheric composition anywhere.</p>
+<p><img loading="lazy" decoding="async" class="wp-image-342 aligncenter" style="padding-left: 20px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/ARC_stacked-2gnwwti-300x240.jpg" alt="" width="181" height="136" data-build-figure="full-width" /><span style="color: #666; font-size: 80%;"><em><b>AIRBOX was funded by the Australian Government under the Australian Research Council Linkage Infrastructure, Equipment and Facilities scheme.</b></em></span></p>
+<h2>Core Partners</h2>
+<p>9 partner organisations all over Australia are involved: University of Melbourne, Queensland University of Technology, Macquarie University, University of Wollongong, CSIRO, Monash University, ANSTO,  University of Tasmania and Australian Antarctic Division.</p>
+<p style="text-align: center;"><img loading="lazy" decoding="async" class="alignnone wp-image-108 size-full" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/Uni_of_Melb_logo-1f17atr.jpg" alt="" width="225" height="75" data-build-figure="full-width" /> <img loading="lazy" decoding="async" class="alignnone wp-image-104 size-full" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/macquarie_uni_logo-219aol4.png" alt="" width="100" height="100" data-build-figure="full-width" /> <img loading="lazy" decoding="async" class="wp-image-115" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/QUT-logo-2ek1wzr.png" alt="" width="154" height="50" data-build-figure="full-width" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/QUT-logo-2ek1wzr.png 154w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/QUT-logo-2ek1wzr-150x50.png 150w" sizes="auto, (max-width: 154px) 100vw, 154px" />  <img loading="lazy" decoding="async" class="wp-image-112" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/tasmania_uni_logo-2j2gb06.png" alt="" width="194" height="44" data-build-figure="full-width" /><img loading="lazy" decoding="async" class="alignnone wp-image-102 size-full" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/ansto_logo-1zufnsh.jpg" alt="" width="130" height="110" data-build-figure="full-width" />  <img loading="lazy" decoding="async" class="alignnone wp-image-103 size-full" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/CSIRO_Logo-zl3rbf.png" alt="" width="75" height="75" data-build-figure="full-width" /> <img loading="lazy" decoding="async" class="alignnone wp-image-105 size-full" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/monash-university-logo-1vt16wx.png" alt="" width="100" height="75" data-build-figure="full-width" /> <img loading="lazy" decoding="async" class="alignnone wp-image-109 " style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/wollo_uni_logo-1yfgvl4.jpg" alt="" width="192" height="73" data-build-figure="full-width" />   <img loading="lazy" decoding="async" class="alignnone wp-image-101 size-full" style="padding: 10px;" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/aad_logo-2g5nc63.png" alt="" width="120" height="100" data-build-figure="full-width" /></p>
+<h2>Affiliates</h2>
+<p>Airbox Affiliates and networks:</p>
+<p><a href="https://www.environment.nsw.gov.au/">The Environment, Energy and Science (EES) Group, Environment NSW</a></p>
+<p><a href="http://www.bom.gov.au/">Bureau of Meteorology </a></p>
+<p style="text-align: center;">
+				</div>					
+							<div class="tab" id="tab221" role="tabpanel">
+				<h1>Gallery</h1>
+<h2>Photos from Casey Station &#8211; CAMMPCAN Voyage 2 &#8211; December 2018</h2>
+<ul>
+<li><em>Photo credit: Dr Robyn Schofield</em></li>
+</ul>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0019-1c50i52.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-566" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0019-1c50i52-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0019-1c50i52-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0019-1c50i52-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0019-1c50i52-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0019-1c50i52.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0041-135iwm3.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-567" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0041-135iwm3-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0041-135iwm3-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0041-135iwm3-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0041-135iwm3-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0041-135iwm3.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0060-17or9yl.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-568" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0060-17or9yl-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0060-17or9yl-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0060-17or9yl-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0060-17or9yl-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0060-17or9yl.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0075-18frmrv.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-569" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0075-18frmrv-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0075-18frmrv-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0075-18frmrv-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0075-18frmrv-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0075-18frmrv.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0076-r27l8d.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-570" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0076-r27l8d-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0076-r27l8d-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0076-r27l8d-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0076-r27l8d-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0076-r27l8d.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0078-25usk87.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-571" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0078-25usk87-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0078-25usk87-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0078-25usk87-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0078-25usk87-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0078-25usk87.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0103-1mte7bt.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-572" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0103-1mte7bt-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0103-1mte7bt-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0103-1mte7bt-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0103-1mte7bt-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0103-1mte7bt.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0104-28hra8l.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-573" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0104-28hra8l-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0104-28hra8l-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0104-28hra8l-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0104-28hra8l-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0104-28hra8l.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0107-1q08nvr.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-574" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0107-1q08nvr-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0107-1q08nvr-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0107-1q08nvr-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0107-1q08nvr-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0107-1q08nvr.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-575" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0158-1c08lzp.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0465-1o8johc.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-576" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0465-1o8johc-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0465-1o8johc-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0465-1o8johc-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0465-1o8johc-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0465-1o8johc.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0578-2ilbzob.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-577" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0578-2ilbzob-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0578-2ilbzob-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0578-2ilbzob-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0578-2ilbzob-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0578-2ilbzob.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0662-1en3taa.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-578" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0662-1en3taa-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0662-1en3taa-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0662-1en3taa-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0662-1en3taa-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0662-1en3taa.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0666-21j75ne.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-579" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0666-21j75ne-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0666-21j75ne-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0666-21j75ne-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0666-21j75ne-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0666-21j75ne.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0784-1ai180l.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-580" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0784-1ai180l-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0784-1ai180l-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0784-1ai180l-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0784-1ai180l-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0784-1ai180l.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0865-25tlf5n.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-581" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0865-25tlf5n-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0865-25tlf5n-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0865-25tlf5n-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0865-25tlf5n-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/DSC_0865-25tlf5n.jpg 1920w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a></p>
+<p>&nbsp;</p>
+<h2>Photos from the Southern Tasmanian Coast &#8211; <em>Aurora Australis</em> trial voyage &#8211; October 2018</h2>
+<ul>
+<li><em>Photo credit: Rob Ryan</em></li>
+</ul>
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg.jpg"><img loading="lazy" decoding="async" class="wp-image-583" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b0-2ns5hbg.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn.jpg"><img loading="lazy" decoding="async" class="wp-image-584" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26b8-2al1whn.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26c6-24xozyd.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-585" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26c6-24xozyd-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26c6-24xozyd-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26c6-24xozyd-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26c6-24xozyd-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_26c6-24xozyd.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26ce-1f86qg8.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-586" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26ce-1f86qg8-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26ce-1f86qg8-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26ce-1f86qg8-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26ce-1f86qg8-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26ce-1f86qg8.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26e3-162xow8.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-587" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26e3-162xow8-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26e3-162xow8-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26e3-162xow8-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26e3-162xow8-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_26e3-162xow8.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_271d-xw9ul7.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-588" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_271d-xw9ul7-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_271d-xw9ul7-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_271d-xw9ul7-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_271d-xw9ul7-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_271d-xw9ul7.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-589" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2730-1xbag4l.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-590" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_2738-21szotu.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_273f-11htluu.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-591" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_273f-11htluu-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_273f-11htluu-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_273f-11htluu-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_273f-11htluu-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDRAW_thumb_273f-11htluu.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_274f-21cn1g8.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-592" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_274f-21cn1g8-1024x683.jpg" alt="" width="330" height="220" srcset="https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_274f-21cn1g8-1024x683.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_274f-21cn1g8-300x200.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_274f-21cn1g8-600x400.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2017/09/UNADJUSTEDNONRAW_thumb_274f-21cn1g8.jpg 1086w" sizes="auto, (max-width: 330px) 100vw, 330px" /></a></p>
+<p>&nbsp;</p>
+<h2>Rainforest to Reef campaign</h2>
+<div style="width: 700px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-2-1" width="700" height="394" preload="metadata" controls="controls"><source type="video/mp4" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/ABC_news_clip-2m89mq5.mp4?_=1" /><a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/ABC_news_clip-2m89mq5.mp4">https://airbox.earthsci.unimelb.edu.au/files/2017/09/ABC_news_clip-2m89mq5.mp4</a></video></div>
+<p><strong><em>RV Investigator in the Great Barrier Reef &#8211; ABC News</em></strong></p>
+<ul id='gallery-1' class='image-gallery gallery galleryid-2 gallery-columns-3 gallery-size-full'><li class='item'><a data-size='3870x2270' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6025-10abcge.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6025-10abcge-300x176.jpg" /><figcaption>Mission Beach</figcaption></figure></a></li><li class='item'><a data-size='3876x2407' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6100-sagzob.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6100-sagzob-300x186.jpg" /><figcaption>Mission Beach</figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5637-1lb1ui4.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5637-1lb1ui4-300x200.jpg" /><figcaption>AIRBOX arrives</figcaption></figure></a></li><li class='item'><a data-size='1600x900' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Exterior-1mv5dxe.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Exterior-1mv5dxe-300x169.jpg" /><figcaption>Rainforest to reef campaign</figcaption></figure></a></li><li class='item'><a data-size='1458x972' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Interior-Door-Side-16gw6vq.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIRBOX-Interior-Door-Side-16gw6vq-300x200.jpg" /><figcaption>Airbox</figcaption></figure></a></li><li class='item'><a data-size='1307x980' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0588-2grnyjj.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0588-2grnyjj-300x225.jpg" /><figcaption>Coral reefs</figcaption></figure></a></li><li class='item'><a data-size='2448x3264' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0583-1tjq65h.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/IMG_0583-1tjq65h-300x400.jpg" /><figcaption>Coral reefs</figcaption></figure></a></li><li class='item'><a data-size='2200x1467' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_rtor-2j3ujdu.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_rtor-2j3ujdu-300x200.jpg" /><figcaption>Rainforest to reef campaign</figcaption></figure></a></li><li class='item'><a data-size='600x768' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_instr2-2cxs9sz.png'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_instr2-2cxs9sz-300x384.png" /><figcaption>Airbox</figcaption></figure></a></li><li class='item'><a data-size='600x768' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_instr1-1x864zx.png'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_instr1-1x864zx-300x384.png" /><figcaption>Airbox</figcaption></figure></a></li><li class='item'><a data-size='1531x937' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_container-2n6p1s3-300x184.jpg" /><figcaption>Rainforest to reef campaign</figcaption></figure></a></li><li class='item'><a data-size='1080x1920' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_man-1vatr2e.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/airbox_man-1vatr2e-300x533.jpg" /><figcaption>Rainforest to reef campaign</figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6084-23064cg.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6084-23064cg-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='2592x3888' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6073-2lkus3m.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6073-2lkus3m-300x450.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='2592x3888' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6071-1sdjsps.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6071-1sdjsps-300x450.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5890-14iwr84.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5890-14iwr84-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5888-29thsl1.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5888-29thsl1-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6009-1xirl5d.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_6009-1xirl5d-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5880-2n32kaa.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5880-2n32kaa-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5872-1-194phkm.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5872-1-194phkm-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5690-1hrwmxt.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5690-1hrwmxt-300x200.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3888x2592' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5866-19hu60t.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/IMG_5866-19hu60t-300x200.jpg" /><figcaption>An unexpected visitor</figcaption></figure></a></li><li class='item'><a data-size='2232x3968' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1090088-1o9fr0z.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1090088-1o9fr0z-300x533.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='2232x3968' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1090087-2n9ws76.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1090087-2n9ws76-300x533.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3968x2232' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1090077-schtar.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1090077-schtar-300x169.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='2232x3968' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080982-23unf6l.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080982-23unf6l-300x533.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='2232x3968' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080950-1kd60p1.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080950-1kd60p1-300x533.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='3968x2232' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080947-rbxu2w-300x169.jpg" /><figcaption></figcaption></figure></a></li><li class='item'><a data-size='2232x3968' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080948-1rcmf30.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/P1080948-1rcmf30-300x533.jpg" /><figcaption></figcaption></figure></a></li>
+		</ul>
+
+<h2>Aurora Australis Southern Ocean voyages</h2>
+<ul id='gallery-2' class='image-gallery gallery galleryid-2 gallery-columns-3 gallery-size-full'><li class='item'><a data-size='1024x768' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/MAXDOASinIce_MD-1az8rx8.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/MAXDOASinIce_MD-1az8rx8-300x225.jpg" /><figcaption>Southern Ocean</figcaption></figure></a></li><li class='item'><a data-size='1024x768' href='https://airbox.earthsci.unimelb.edu.au/files/2017/11/Icebergs-2i9ldig.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/11/Icebergs-2i9ldig-300x225.jpg" /><figcaption>Antarctica in sight!</figcaption></figure></a></li><li class='item'><a data-size='4128x2322' href='https://airbox.earthsci.unimelb.edu.au/files/2017/09/20171014_171556-1flll71.jpg'><figure><img decoding="async" alt="" src="https://airbox.earthsci.unimelb.edu.au/files/2017/09/20171014_171556-1flll71-300x169.jpg" /><figcaption>Aurora Australis</figcaption></figure></a></li>
+		</ul>
+
+<p><a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0246-21i742s.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-483" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0246-21i742s-300x225.jpg" alt="" width="299" height="224" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0246-21i742s-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0246-21i742s-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0246-21i742s-600x450.jpg 600w" sizes="auto, (max-width: 299px) 100vw, 299px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-482" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0051-170q9wn-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171120_193515-111fudm.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-481" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171120_193515-111fudm-300x267.jpg" alt="" width="300" height="267" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171120_193515-111fudm-300x267.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171120_193515-111fudm-1024x910.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171120_193515-111fudm-600x533.jpg 600w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171120_193515-111fudm.jpg 1816w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171123_215236-q9sp5d.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-479" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171123_215236-q9sp5d-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171123_215236-q9sp5d-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171123_215236-q9sp5d-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171123_215236-q9sp5d-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171122_225216-2ijf7j6.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-478" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171122_225216-2ijf7j6-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171122_225216-2ijf7j6-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171122_225216-2ijf7j6-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171122_225216-2ijf7j6-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-476" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/20171115_212152-1asz7co-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0171-20m7wyx.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-475" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0171-20m7wyx-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0171-20m7wyx-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0171-20m7wyx-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0171-20m7wyx-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0177-z88c7t.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-474" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0177-z88c7t-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0177-z88c7t-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0177-z88c7t-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0177-z88c7t-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a> <a href="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0189-1ijmblg.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-473" src="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0189-1ijmblg-300x225.jpg" alt="" width="300" height="225" srcset="https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0189-1ijmblg-300x225.jpg 300w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0189-1ijmblg-1024x768.jpg 1024w, https://airbox.earthsci.unimelb.edu.au/files/2018/02/DSCN0189-1ijmblg-600x450.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></p>
+				</div>					
+							<div class="tab" id="tab684" role="tabpanel">
+				<h1>Campaign proposal?</h1>
+<p>Have a proposal to use AIRBOX &#8211; please complete a <a href="https://airbox.earthsci.unimelb.edu.au/files/2017/09/AIR-BOX-Campaign-Proposal-2017_03_16a1-2ihte1f.docx">AIRBOX Campaign Proposal </a>to be considered by the steering committee. The committee meets quarterly, but will consider proposals with a faster turn around if required.</p>
+<p>&nbsp;</p>
+<h1 style="text-align: left;">Contact us</h1>
+<p><strong>Dr Robyn Schofield</strong></p>
+<p>Mccoy Building/Earth Sciences, Parkville,</p>
+<p>The University of Melbourne</p>
+<p>Email: <a class="email" title="email" href="mailto:robyn.schofield@unimelb.edu.au">robyn.schofield@unimelb.edu.au</a></p>
+<p>Ph: +61 3 8344 1661</p>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><link rel='stylesheet' id='mediaelement-css' href='https://airbox.earthsci.unimelb.edu.au/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://airbox.earthsci.unimelb.edu.au/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.2' type='text/css' media='all' />
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/comment-reply.min.js?ver=6.8.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/howler.min.js?ver=2015102605" id="lean-captcha-howler-js"></script>
+<script type="text/javascript" id="lean-captcha-js-extra">
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/airbox.earthsci.unimelb.edu.au\/wp-admin\/admin-ajax.php","key":"lc_AEb6fZsSN+FSTkZ9LEtRNQ=="};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/lean-captcha.js?ver=201709035" id="lean-captcha-js"></script>
+<script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.8.2" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"https\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.8.2" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://airbox.earthsci.unimelb.edu.au/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17" id="mediaelement-vimeo-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>AIRBOX</h2>
+
+			<ul>
+				<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/about-us/">About Us</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://airbox.earthsci.unimelb.edu.au/airbox-instruments/">Instruments</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/campaigns/">Campaigns</a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/news-and-articles/">News &#038; Blogs</a></li>
+<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/gallery/">Gallery</a></li>
+<li id="menu-item-635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-635"><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/partners-and-affiliates/">Partners and Affiliates</a></li>
+<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="https://airbox.earthsci.unimelb.edu.au/experts/">Meet Our Experts</a></li>
+<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://airbox.earthsci.unimelb.edu.au/sample-page/contact-us/">Contact us</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://airbox.earthsci.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/airbox-mobile-laboratory/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/airbox-mobile-laboratory/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>
+[tiny-file-manager-unauth] Dumped HTTP response https://airbox.earthsci.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:18 GMT
+Location: https://airbox.earthsci.unimelb.edu.au/
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://airbox.earthsci.unimelb.edu.au/xmlrpc.php
+X-Redirect-By: WordPress
+
+

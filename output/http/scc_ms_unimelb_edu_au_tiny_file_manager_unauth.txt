@@ -1,0 +1,341 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://scc.ms.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: scc.ms.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://scc.ms.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:20 GMT
+Expires: Wed, 06 Aug 2025 15:18:17 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=d369959fe6b3f4a5260eaad092b1e733; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 912c0417-b221-418b-ba5f-4abffb60aadc
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: science-web@unimelb.edu.au
+Last updated by: Nathan Dorey on 21 Mar 2025 4:26pm
+Last published by: Jimmy Porich on 23 Apr 2018 1:02pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #2754483
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-03-21">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://ms.unimelb.edu.au/404">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Nathan Dorey">
+<meta name="DC.Date" content="21 Mar 2025 4:26pm">
+<meta name="MCE.Template" content="Inside page with no header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://ms.unimelb.edu.au/404">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="School of Mathematics and Statistics">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:19
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"School of Mathematics and Statistics","external":false,"facultyHref":"https://ms.unimelb.edu.au",
+        "navItems":[
+{"title":" About us","href":"https://ms.unimelb.edu.au/about?in_c=mega","navItems":[{"title":"Our people","href":"https://ms.unimelb.edu.au/people?in_c=mega","navItems":[{"title":"Academic staff","href":"https://ms.unimelb.edu.au/people/academic-staff?in_c=mega"},{"title":"Professional staff","href":"https://ms.unimelb.edu.au/people/professional-staff?in_c=mega"},{"title":"Honorary staff","href":"https://ms.unimelb.edu.au/people/honorary-staff?in_c=mega"}]},{"title":"News and events","href":"https://ms.unimelb.edu.au/about/news-and-events?in_c=mega"},{"title":"Employment opportunities","href":"https://ms.unimelb.edu.au/about/jobs?in_c=mega"},{"title":"Diversity and inclusion","href":"https://ms.unimelb.edu.au/about/equity-and-diversity?in_c=mega"},{"title":"Contact us","href":"https://ms.unimelb.edu.au/about/contact-us?in_c=mega"}]},{"title":" Our research","href":"https://ms.unimelb.edu.au/research?in_c=mega","navItems":[{"title":"Research areas","href":"#","navItems":[{"title":"Applied mathematics","href":"https://ms.unimelb.edu.au/research/applied-mathematics?in_c=mega"},{"title":"Data science","href":"https://ms.unimelb.edu.au/research/data-science?in_c=mega"},{"title":"Discrete mathematics","href":"https://ms.unimelb.edu.au/research/discrete-mathematics?in_c=mega"},{"title":"Learning and teaching innovation","href":"https://ms.unimelb.edu.au/research/learning-and-teaching-innovation?in_c=mega"},{"title":"Mathematical biology","href":"https://ms.unimelb.edu.au/research/mathematical-biology?in_c=mega"},{"title":"Mathematical physics","href":"https://ms.unimelb.edu.au/research/mathematical-physics?in_c=mega"},{"title":"Operations research","href":"https://ms.unimelb.edu.au/research/operations-research?in_c=mega"},{"title":"Pure mathematics","href":"https://ms.unimelb.edu.au/research/pure-mathematics?in_c=mega"},{"title":"Statistics","href":"https://ms.unimelb.edu.au/research/statistics?in_c=mega"},{"title":"Stochastic processes","href":"https://ms.unimelb.edu.au/research/stochastic-processes?in_c=mega"}]},{"title":"Research partnerships","href":"https://ms.unimelb.edu.au/research/partnerships?in_c=mega"},{"title":"Research opportunities","href":"https://ms.unimelb.edu.au/study/supervisors-list?in_c=mega"},{"title":"Research seminars","href":"https://ms.unimelb.edu.au/research/seminars?in_c=mega"}]},{"title":" Study with us","href":"https://ms.unimelb.edu.au/study?in_c=mega","navItems":[{"title":"Undergraduate studies","href":"https://ms.unimelb.edu.au/study/undergraduate-studies?in_c=mega","navItems":[{"title":"Course advice","href":"https://ms.unimelb.edu.au/study/undergraduate-studies/course-advice?in_c=mega"},{"title":"Vacation Scholarships Program","href":"https://ms.unimelb.edu.au/engage/vacation-scholarships?in_c=mega"},{"title":"Resources for students","href":"https://ms.unimelb.edu.au/study/undergraduate-studies/student-resources?in_c=mega"}]},{"title":"Masters, diplomas and certificates","href":"https://ms.unimelb.edu.au/study/masters-studies?in_c=mega"},{"title":"PhD degrees","href":"https://ms.unimelb.edu.au/study/phd-degrees?in_c=mega","navItems":[{"title":"PhD scholarship opportunities","href":"https://ms.unimelb.edu.au/study/phd-degrees/phd-and-scholarship-opportunities?in_c=mega"}]},{"title":"Careers in mathematics and statistics","href":"https://ms.unimelb.edu.au/study/careers?in_c=mega"}]},{"title":" Engage with us","href":"https://ms.unimelb.edu.au/engage?in_c=mega","navItems":[{"title":"Our initiatives","href":"#?in_c=mega","navItems":[{"title":"School outreach","href":"https://ms.unimelb.edu.au/engage/outreach?in_c=mega"},{"title":"Women in Maths and Stats","href":"https://ms.unimelb.edu.au/engage/women-in-maths-stats?in_c=mega"},{"title":"Vacation Scholarships Program","href":"https://ms.unimelb.edu.au/engage/vacation-scholarships?in_c=mega"},{"title":"Student awards","href":"https://ms.unimelb.edu.au/engage/student-awards?in_c=mega"}]},{"title":"Student societies","href":"#"},{"title":"School alumni","href":"https://ms.unimelb.edu.au/engage/alumni?in_c=mega"},{"title":"Support Mathematics and Statistics","href":"https://ms.unimelb.edu.au/engage/support?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+ 
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://ms.unimelb.edu.au" itemprop="item"><span itemprop="name">School of Mathematics and Statistics</span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+ 
+
+    
+           
+
+                    <h1 class="aligned-title">Page not found</h1>
+        
+         
+    	        	    
+
+        
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://ms.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:ms.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://scc.ms.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/index.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="science-web@unimelb.edu.au">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>scc.ms.unimelb.edu.au</span><span>/index.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>If you know you are going to fail, then fail gloriously.</p>
+		<p><cite>Cate Blanchett </cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://ms.unimelb.edu.au/404/reported";
+   eventposted=1;
+ }
+}
+
+</script>
+
+    
+
+
+
+
+            
+            <!-- custom site footer start -->
+<footer class="cta">
+ <ul class="quicklinks">
+  
+ 	<a href="https://science.unimelb.edu.au"><svg class="icon" role="img"><use xlink:href="#icon-home"/></svg>Faculty of Science</a></li>
+ 	<li><a href="https://www.linkedin.com/showcase/faculty-of-science-unimelb" target="_blank"><svg aria-hidden="true" class="icon" role="img"><use xlink:href="#icon-linkedin"/></svg>Science LinkedIn</a></li>
+ 		<li><a href="https://www.facebook.com/SciMelb" target="_blank"><svg class="icon" role="img"><use xlink:href="#icon-facebook"/></svg>Science Facebook</a></li>
+ 		<li><a href="https://www.instagram.com/scimelb/" target="_blank"><svg aria-hidden="true" class="icon" role="img"><use xlink:href="#icon-instagram"/></svg>Science Instagram</a></li>
+ 	<li><a href="https://staff.unimelb.edu.au/science/our-schools/school-of-mathematics-and-statistics/?in_c=msweb_intranet_footer" target="_blank"><svg class="icon" role="img"><use xlink:href="#icon-lock"/></svg>School Intranet</a></li>
+  </ul>
+  <hr />
+  	<p class="center"><a class="button button--secondary" href="https://ms.unimelb.edu.au/about/contact-us/?in_c=msweb_contact_footer" target="_blank"><span data-hide-label="true" data-size="md" data-icon="mail"></span>Contact Maths &amp; Stats</a> <a class="button button--secondary" href="https://giving.unimelb.edu.au/mathematics-and-statistics-fund-1/?in_c=msweb_support_footer"><span data-hide-label="true" data-size="md" data-icon="idea"></span>Support Maths and Stats</a></p>
+</footer>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+

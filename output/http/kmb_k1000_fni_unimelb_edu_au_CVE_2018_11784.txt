@@ -1,0 +1,108 @@
+[CVE-2018-11784] Dumped HTTP request for https://kmb-k1000.fni.unimelb.edu.au//interact.sh
+
+
+GET //interact.sh HTTP/1.1
+Host: kmb-k1000.fni.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2018-11784] Dumped HTTP response https://kmb-k1000.fni.unimelb.edu.au//interact.sh
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: x-kace-auth-timestamp, x-kace-auth-key, x-kace-auth-signature, accept, origin, content-type
+Access-Control-Allow-Methods: PUT, DELETE, POST, GET, OPTIONS
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:43 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: kboxid=a999eb3ca72985bf13eee49f79577f1e; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Kace-Appliance: K1000
+X-Ua-Compatible: IE=9,EDGE
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html  lang="en" ><head><script>var csrf_token = "769f633519bce671b051c7cacfa7b8e3dc85290af64fa72265360ef3c1b93de2b61f6d8263b577e75763b98eaa18deddf899953520bb4e1424432402e399302f";var area = "common";</script>
+        <script id="fr-fek">try{(function (k){localStorage.FEK=k;t=document.getElementById('fr-fek');t.parentNode.removeChild(t);})('mIBEVFBOHC1d2UNYVM==')}catch(e){}</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=9; IE=EDGE" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, initial-scale=1"><title>KACE Systems Management Appliance Administrator Console</title><link rel="shortcut icon" href="/favicon.ico"><link type="text/css" rel="stylesheet" href="/common/css/minified/vendor/select2.css?build=14.1.102" /><link type="text/css" rel="stylesheet" media="print" href="/common/css/minified/print.css?build=14.1.102" /><!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/common/css/minified/kace-theme-ie.css?build=14.1.102" /><![endif]--><link type="text/css" rel="stylesheet" href="/common/css/minified/kace-theme-light.css?build=14.1.102" /><!--[if IE]><script type="text/javascript" src="/common/js/minified/vendor/html5.js?build=14.1.102"></script><![endif]--><script type="text/javascript" src="/common/js/minified/kpolyfills.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/jquery.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/jquery.fixes.js?build=14.1.102"></script><script type="text/javascript">jQuery.noConflict();</script><script type="text/javascript" src="/common/js/minified/vendor/jquery.cookie.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/jquery-ui.custom.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/jquery.json.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/bootstrap.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/select2.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/jquery.form.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/jquery.wheelmouse.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/bootbox.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/google.html-sanitizer.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/kaccordion.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/vendor/clipboard.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/lang.php?locale=en&build=14.1.102&cacheid="></script><script type="text/javascript" src="/common/js/scw.php?locale=en&build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/functions.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/kinfinite_scroll_menu.js?build=14.1.102"></script></head><body id="common"  data-page-type="kpage" data-template="404" data-area="common"  class="">
+<header>                    
+    <div id="k_header_logo" >
+                <img src="/common/images/logos/k-logo.svg" alt="KACE Systems Management Appliance" title="KACE Systems Management Appliance" />
+    </div>
+    <div>
+        <div class="k-product-name"><h3>KACE Systems Management Appliance</h3></div>
+        
+                            <ul class="k-header-nav">
+                
+                
+                
+            </ul>
+            <ul class="k-header-nav clear-right">
+                <li>
+                    
+                </li>
+                                <li>
+                    
+                </li>
+            </ul>
+            </div>
+    
+    <div class="k-secondary-bar">
+        <div class="k-menu-slider-button k-icon-menu k-icon-x20" onclick="toggle_main_nav();">
+        </div>
+
+        <ul class="k-secondary-bar-nav">
+                                </ul>
+        
+    </div>
+
+
+    
+</header>
+<div class="k-main"   >
+<div class="k-page-message-box-container" style="visibility:collapse; display:none;">
+            <div class="k-page-message-box k-error" style="display:none;" >
+                </div>
+    
+            <div class="k-page-message-box k-warning" style="display:none;" >
+                </div>
+    
+            <div class="k-page-message-box k-success" style="display:none;" >
+                </div>
+    
+            <div class="k-page-message-box k-info" style="display:none;" >
+                </div>
+    
+    <input type="hidden" name="error_tabs" id="error_tabs" value='[]' />
+
+</div>
+
+<div class="k-error-page">
+    <h2>Oops! File not found.</h2>
+    <div class="k-error-message">
+      <h4>What happened:</h4>
+      The requested URL //interact.sh was not found on this server.        
+      <h4>What to try next:</h4>
+      <p>Contact support and let them know what you were doing when this happened.</p>
+      <p></p>
+    </div>
+</div>
+</div>
+
+<footer class="k-footer k-footer-collapsed"></footer>
+<div id="alert-div"></div><script type="text/javascript" src="/common/js/minified/nav.js?build=14.1.102"></script><script type="text/javascript" src="/common/js/minified/core.js?build=14.1.102"></script>
+<script type="text/javascript">ShowMessageBox();</script>
+
+<script type="text/javascript">jQuery(document).ready(function(){ var $form=jQuery('.k-main form');if($form.length&&(jQuery('body').data('page-type')=="kpage"||jQuery('body').data('page-type').endsWith("assetpage"))){ jQuery(document).keypress(function(e){ var node=(e)?e.target||e.srcElement:null;if((e.which==13)&&(node.nodeName=="INPUT")&&(node.type!="file")&&(node.type!="color")){ if($form.attr('name')===jQuery(':focus').closest('form').attr('name')){ e.preventDefault();jQuery('input.k-btn-success:visible, input.k-btn-dark:visible, input.k-btn-danger:visible').filter(':first').click();}}});jQuery(document).off('click','#k_button_bar > div > .k-btn, #k_button_bar > .k-btn-link, a:not([href*=mailto])a:not([class*=modal]):not([class*=modal] a)');jQuery(document).on('click','#k_button_bar > div > .k-btn, #k_button_bar > .k-btn-link, a:not([href*=mailto])a:not([class*=modal]):not([class*=modal] a)',function(e){ if(jQuery('#k_button_bar').is(':visible')&&$form.length){ var $button=jQuery(this);var id=$button.prop('id');if(id==='k_notification_btn_dismiss_all'){ return true;}if($button.is('a')&&!$button.hasClass('k-btn')&&!$button.hasClass('k-btn-link')){ var target=$button.attr('target')||'';var href=$button.attr('href')||'';if(!target.match(/blank/)&&href&&!href.match(/^#|^javascript:/)&&!e.ctrlKey&&!e.metaKey){ id='k_btn_navigation';}else{ return true;}}e.preventDefault();disableButtons();switch(id){ case'k_btn_apply':case'k_btn_save':case'k_btn_save_and_continue':case'k_btn_save_and_new':case'k_btn_finish':case'k_btn_search':case'k_btn_next':case'k_btn_test':case'k_btn_preview':case'k_btn_add':case'k_btn_remove':validateAndSubmitForm($form,this);break;case'k_btn_runnow':confirmRunNow(this,$form,true);break;case'k_btn_delete':confirmDelete(this,$form);break;case'k_btn_archive':confirmArchive(this,$form);break;case'k_btn_restore':confirmRestore(this,$form);break;case'k_btn_unmerged':confirmUnmerged(this,$form);break;case'k_btn_reboot':confirmReboot(this,$form);break;case'k_btn_save_and_reboot':confirmSaveAndReboot(this,$form,true);break;case'k_btn_reboot_and_check_database':confirmRebootAndCheckDatabase(this,$form);break;case'k_btn_shutdown':confirmShutdown(this,$form);break;case'k_btn_reset_to_factory':confirmFactoryReset(this,$form);break;case'k_btn_save_and_restart_services':confirmSaveAndRestartServices(this,$form,true,function(){ kbootbox_please_wait({ message:"Restarting Services"});submitForm($form,$button);});break;case'k_btn_restore_to_defaults':confirmRestoreToDefaults(this,$form);break;case'k_btn_restore_from_backup':confirmRestoreFromBackup(this,$form,true);break;case'k_btn_run_nightly_backup':confirmRunNightlyBackup(this,$form);break;case'k_btn_cancel':case'k_btn_navigation':case'k_btn_new':handleButtonBarNavigationEvent(e);break;case'k_btn_previous':window.history.back();break;case'k_btn_back':case'k_btn_duplicate':case'k_btn_refresh':case'k_btn_approve':case'k_btn_reject':case'k_btn_enable':case'k_btn_disable':case'k_btn_import':case'k_btn_export':case'k_btn_done':case'k_btn_rebuild':case'k_btn_refresh':default:submitForm($form,$button);break;}}});}});</script>
+</body></html>

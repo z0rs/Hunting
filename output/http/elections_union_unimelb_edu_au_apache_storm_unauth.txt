@@ -1,0 +1,28 @@
+[apache-storm-unauth] Dumped HTTP request for https://elections.union.unimelb.edu.au/api/v1/cluster/summary
+
+
+GET /api/v1/cluster/summary HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apache-storm-unauth] Dumped HTTP response https://elections.union.unimelb.edu.au/api/v1/cluster/summary
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/api/v1/cluster/summary
+Set-Cookie: visid_incap_3220071=ZPGIqyUpT1u2mZg2TS8Cggtyk2gAAAAAQUIPAAAAAAAWCMZnl0zoEkPZmJ0ffvbm; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=opaTOH5u6zMj57arov5JAwtyk2gAAAAAKoVHSt7BTWMyMREwTONHYw==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056354-0 0NNN RT(1754493451428 54) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

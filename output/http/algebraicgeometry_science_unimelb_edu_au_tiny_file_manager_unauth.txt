@@ -1,0 +1,759 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://algebraicgeometry.science.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: algebraicgeometry.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://algebraicgeometry.science.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=3599, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:20 GMT
+Last-Modified: Wed, 06 Aug 2025 15:17:19 GMT
+Link: <https://algebraicgeometry.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://algebraicgeometry.science.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://algebraicgeometry.science.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+
+<!DOCTYPE html>
+
+<html lang="en-AU" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://algebraicgeometry.science.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Algebraic Geometry |</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[582,607] -->
+<meta name="description" itemprop="description" content="Home page for the Algebraic Geometry group at the University of Melbourne." />
+
+<link rel="canonical" href="https://algebraicgeometry.science.unimelb.edu.au/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Algebraic Geometry &raquo; Feed" href="https://algebraicgeometry.science.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Algebraic Geometry &raquo; Comments Feed" href="https://algebraicgeometry.science.unimelb.edu.au/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/algebraicgeometry\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://algebraicgeometry.science.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://algebraicgeometry.science.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpa-style-css' href='https://algebraicgeometry.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.5.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://algebraicgeometry.science.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://algebraicgeometry.science.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<script type="text/javascript" src="https://algebraicgeometry.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.5.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://algebraicgeometry.science.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://algebraicgeometry.science.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://algebraicgeometry.science.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel='shortlink' href='https://algebraicgeometry.science.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://algebraicgeometry.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falgebraicgeometry.science.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://algebraicgeometry.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falgebraicgeometry.science.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://algebraicgeometry.science.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template-default page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://algebraicgeometry.science.unimelb.edu.au" title="Algebraic Geometry" itemprop="item">
+					<span itemprop="name">Algebraic Geometry</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url()">
+						<div>
+									<h1>Algebraic Geometry</h1>
+									</div>
+			</header>
+		
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+	<h1 class="entry-header"></h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab171" role="tab">Members</a><a href="#tab13" role="tab">Seminars</a><a href="#tab5" role="tab">MSc</a><a href="#tab17" role="tab">Support</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				
+<p>Algebraic geometry has a long history. Its origins are the geometry of the set of solutions to systems of polynomial equations in several variables. While such down-to-earth problems remain the focus of algebraic geometry today, the language and techniques have changed enormously.</p> 
+
+<p>One of the advantages of algebraic geometry over other types of geometries is its ability to handle singularities and its computability. This is because its roots lie in algebra, as opposed to differential equations.</p>
+
+<p>The Algebraic Geometry group at the University of Melbourne is broad, with interests in number theory, representation theory, K-theory, moduli theory and elsewhere.</p>
+
+<h3>Algebraic geometry is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=32%22">Pure Mathematics Research Group</a></h3>
+			</div>
+
+							<div class="tab" id="tab171" role="tabpanel">
+				
+<h2 class="wp-block-heading">Academic Staff</h2>
+
+
+
+<h3 class="wp-block-heading"><a href="https://blogs.unimelb.edu.au/christian-haesemeyer/">Prof Christian Haesemeyer</a></h3>
+
+
+
+<h5 class="wp-block-heading">Professor</h5>
+
+
+
+<p>Motives, algebraic cycles, K-theory</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://blogs.unimelb.edu.au/jack-hall/">A/Prof Jack Hall</a></h3>
+
+
+
+<h5 class="wp-block-heading">Associate Professor and ARC Future Fellow</h5>
+
+
+
+<p>Algebraic stacks, moduli spaces, formal and analytic geometry, deformation theory</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=2664">Dr Johanna Knapp</a></h3>
+
+
+
+<h5 class="wp-block-heading">Senior Lecturer and ARC Future Fellow</h5>
+
+
+
+<p>String theory, algebraic geometry, Gauge theory</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=1122">Dr Peter McNamara</a></h3>
+
+
+
+<h5 class="wp-block-heading">Senior Lecturer</h5>
+
+
+
+<p>Representation theory</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=54">Prof Paul Norbury</a></h3>
+
+
+
+<h5 class="wp-block-heading">Professor</h5>
+
+
+
+<p>Gauge theory, mathematical physics, algebraic geometry, moduli spaces</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=498">Prof Arun Ram</a></h3>
+
+
+
+<h5 class="wp-block-heading">Professor</h5>
+
+
+
+<p>Combinatorics, Representation Theory, algebraic geometry, number theory,<br>algebraic topology and mathematical physics</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=1263">Prof Kari Vilonen</a></h3>
+
+
+
+<h5 class="wp-block-heading">Professor and ARC Laureate Fellow</h5>
+
+
+
+<p>Representation theory, algebraic geometry, algebraic analysis</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=2382">Dr Chenyan Wu</a></h3>
+
+
+
+<h5 class="wp-block-heading">Senior Lecturer</h5>
+
+
+
+<p>Representation theory, algebraic geometry, algebraic number theory</p>
+
+
+
+<h2 class="wp-block-heading">Postdocs</h2>
+
+
+
+<h3 class="wp-block-heading"></h3>
+
+
+
+<h3 class="wp-block-heading"><a href="https://sites.google.com/view/dougal-davis/home" data-type="URL" data-id="https://sites.google.com/view/dougal-davis/home">Dr Dougal Davis</a></h3>
+
+
+
+<h5 class="wp-block-heading">Research Fellow (2022 &#8211; present)</h5>
+
+
+
+<p>Algebraic geometry and representation theory</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://findanexpert.unimelb.edu.au/profile/888209-lance-gurney" data-type="URL" data-id="https://findanexpert.unimelb.edu.au/profile/888209-lance-gurney">Dr Lance Gurney</a></h3>
+
+
+
+<h5 class="wp-block-heading">Research Fellow (2021 &#8211; present)</h5>
+
+
+
+<p>Number theory, arithmetic geometry, cohomology</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://sites.google.com/site/scottfmullane/home">Dr Scott Mullane</a></h3>
+
+
+
+<h5 class="wp-block-heading">ARC DECRA Fellow (2023 &#8211; present)</h5>
+
+
+
+<p>Algebraic geometry and the geometry of moduli spaces</p>
+
+
+
+<h2 class="wp-block-heading">Graduate Researchers</h2>
+
+
+
+<p>Oliver Li (Hall)</p>
+
+
+
+<p>Fei Peng (Hall)</p>
+
+
+
+<p>Tianqi Feng (Hall)</p>
+
+
+
+<p>Adam Monteleone (Hall)</p>
+
+
+
+<h2 class="wp-block-heading">Affiliates</h2>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=663">A/Prof Alex Ghitza</a></h3>
+
+
+
+<h5 class="wp-block-heading">Associate Professor</h5>
+
+
+
+<p>computational number theory, Galois representations, Shimura varieties, Automorphic forms</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=2268">Dr Yaping Yang</a></h3>
+
+
+
+<h5 class="wp-block-heading">Senior Lecturer</h5>
+
+
+
+<p>Geometric representation theory, Quantum groups</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=2383">Dr Gufang Zhao</a></h3>
+
+
+
+<h5 class="wp-block-heading">Senior Lecturer</h5>
+
+
+
+<p>Algebra, Geometry &amp; Topology</p>
+
+
+
+<h2 class="wp-block-heading">Previous Members</h2>
+
+
+
+<h4 class="wp-block-heading"><a href="https://ms.unimelb.edu.au/people/profile?id=1713">Dr Daniel Murfet</a></h4>
+
+
+
+<h5 class="wp-block-heading">Lecturer (2015 &#8211; 2025) </h5>
+
+
+
+<h3 class="wp-block-heading"></h3>
+
+
+
+<h4 class="wp-block-heading"><a href="https://namesjune.github.io" data-type="URL" data-id="https://namesjune.github.io">Dr June Park</a></h4>
+
+
+
+<h5 class="wp-block-heading">Research Fellow (2022 &#8211; 2024)</h5>
+
+
+
+<h4 class="wp-block-heading">Dr Mehdi Tavakol</h4>
+
+
+
+<h5 class="wp-block-heading">Research Fellow (2018-2021)</h5>
+				</div>					
+							<div class="tab" id="tab13" role="tabpanel">
+				<h2>Algebraic Geometry Seminar, 2025</h2>
+<h3>Semester 2, 2025</h3>
+<h4>Organizers: Lance Gurney, Jack Hall, Oliver Li, and Fei Peng</h4>
+<p><strong>Time: </strong>Tuesday, 11am-12 noon, Peter Hall 162</p>
+<p><em>August 12 <strong>NO SEMINAR</strong></em></p>
+<p><em>August 5 </em><strong>Jack Hall </strong>(Melbourne), <em>Finiteness of integral transforms</em></p>
+<p>If X is a smooth projective variety over a field k, then Beilinson (1978) showed that the bounded derived category of X could be identified as the subcategory of the unbounded derived category of quasi-coherent sheaves on X satisfying natural finiteness conditions. I will discuss some generalizations of this result to certain types of algebraic stacks with infinite stabilizers.</p>
+<h3>Semester 1, 2025</h3>
+<h4>Organizers: Jack Hall and Lance Gurney</h4>
+<p><strong>Time:</strong> Wednesday, 10-11am, Peter Hall 162</p>
+<p><em>May 28 </em><strong>Chris Hone </strong>(Sydney) <em>Geometric extensions</em></p>
+<p>The six functor formalism is a powerful tool for understanding the topology of algebraic varieties, and is especially suited to dealing with singular spaces. One such construction arising from this formalism is intersection cohomology, widely used throughout algebraic geometry and representation theory. In this talk I&#8217;ll introduce geometric extensions, formally defined objects in any suitable six functor formalism on algebraic varieties. These may be viewed as a generalisation of intersection cohomology to the setting of any suitable six functor formalism (eg, p-completed K theory), recovering the usual notion for constructible Q sheaves, and parity sheaves for finite coefficients on Schubert-type varieties. This work forms part of my PhD thesis, and is joint with Geordie Williamson (and the main theorem was also noted by Peter McNamara).</p>
+<p><em>May 21 </em><strong>Gufang Zhao </strong>(Melbourne) <em>Line Operators from a 3-Calabi–Yau Category</em></p>
+<p class="p1">Starting from a symmetric 3-Calabi–Yau category equipped with additional structure, we construct a triangulated monoidal category with a weak braiding. When the 3-Calabi–Yau category arises from the root datum of a simple algebraic group, we compare the resulting category with the equivariant derived category of coherent sheaves on the affine Grassmannian—namely, coherent sheaves on the Hecke stack.</p>
+<p class="p1">We further examine monoidal categories associated to an algebraic group together with a representation, known as categorified Coulomb branches, or equivalently, categories of line operators in 4d \mathcal{N}=2 gauge theories. Finally, we discuss the abelian heart of the perverse t-structure on coherent sheaves and its cluster structure as studied by Cautis and Williams.</p>
+<p class="p1">This talk is based on ongoing joint work with Fujita, Yang, and Soibelman.</p>
+<p><em>May 14</em> <strong>Will Troiani</strong> (Melbourne) <em>Linear logic and the Hilbert scheme</em></p>
+<p>In the recent pure maths seminar I presented a model of linear logic in a category of schemes where the interpretation of the exponential connective &#8216;!&#8217; involved the Hilbert scheme. This work extended previous work by Murfet and Troiani which determined a commuting diagram where one of the arrows is given by the dynamics of linear logic, cut-reduction, and another arrow involving the Buchberger algorithm. This algorithm can be used to calculate images of closed maps, and so is of interest to algebraic geometers. It seems as though the extended model involving the Hilbert scheme also admits connections to Elimination Theory, and so in this talk I will present a particularly compelling example and compare it to the original theorem for the restricted logic.</p>
+<p><em>May</em> 7 <strong>Dougal Davis</strong> (Melbourne) <em>Archimedean zeta functions, singularities, and Hodge theory</em></p>
+<p style="font-weight: 400;">Given a holomorphic function f on a complex manifold, the Archimedean zeta function is a meromorphic distribution defined by analytic continuation of integrals of powers of f. Although difficult to compute, its poles are natural singularity invariants for the hypersurface {f = 0}; for example, the largest pole is the negative of the log canonical threshold. In this talk, I will explain joint work with András Lörincz and Ruijie Yang, in which we give tight relationships between the poles of the zeta function and several other singularity invariants, such as the minimal exponent, the Hodge ideals of Mustaţă-Popa, and the cohomology of Milnor fibres. Our main idea is to relate residues at these poles to polarisations in Sabbah and Schnell’s theory of complex Hodge modules (a complex-coefficient recapitulation of Saito’s mixed Hodge modules). This leads to simple proofs of more general results than previously available.</p>
+<p><em>April 30</em> <strong>Scott Mullane </strong>(Melbourne) <em>Residues and rigidity in moduli space</em></p>
+<p>Teichmüller dynamics has been a fruitful source for defining algebraic cycles in the moduli space of pointed curves with interesting rigidity properties. These cycles usually come from projections of strata of differentials. In this talk, I will discuss work in progress that aims to extend this idea to the genus zero case where no such cycles exist, via linear manifolds in the strata defined by residue conditions.</p>
+<p><em>April 23</em> <strong>NO SEMINAR</strong></p>
+<p><em>April 16 </em><strong>Bregje Pauwels </strong>(Macquarie) <em>From local to global, via approximability</em></p>
+<p>Given a module over a ring, it is standard to replace it by a projective resolution, and it is classical that doing so can be very useful.  In other words, every object in the derived category of a ring has a sequence of ‘simpler’ objects converging to it.</p>
+<p>In general, a triangulated category is called approximable if this type of ‘approximation by simpler objects’ is possible. The notion of metrics and approximability in triangulated categories (due to Amnon Neeman) is fairly new and not very well understood yet. But the early evidence is that the new techniques, while at first sight purely categorical, are very powerful.</p>
+<p>In this talk, I will discuss some applications of this technique. In particular, I will explain how approximability shows certain properties are local, meaning they can be glued along (co)covers in the sense of Rouquier.</p>
+<p><em>April 9 </em><strong>Oliver Li </strong>(Melbourne) <em>Weighted blowups and derived categories</em></p>
+<p>Weighted (stacky) blowups have been in the spotlight in recent years, primarily because they yield a more efficient algorithm for resolutions of singularities in characteristic zero compared to the classical one due to Hironaka. In this talk, I will describe what weighted blowups are and report on recent results for their derived category.</p>
+<p><em>April 2 </em><strong>Fei Peng</strong> (Melbourne) <em>Regularity and t-structures for algebraic stacks</em></p>
+<p>Let $X$ a Noetherian scheme of finite Krull dimension. A conjecture of Antieau, Gepner, and Heller states that $X$ is regular if and only if $\operatorname{Perf}(X)$ admits a bounded t-structure. This conjecture was proven recently by Neeman. In this talk, I will briefly explain how to extend Neeman’s theorem to the case of algebraic stacks with quasifinite and separated diagonal. This is based on joint work with Timothy De Deyn, Pat Lank, and Kabeer Manali Rahul.</p>
+<p><em>March 26</em> <strong>Lance Gurney </strong>(Melbourne) <em>Elliptic Witt vectors</em></p>
+<p style="font-weight: 400;">The usual Witt vector construction can be viewed as coming from the isogenies of the multiplicative group G_m. This suggests that there might exist analogous constructions which, in the same way, come from isogenies of other commutative algebraic groups. In this talk, I&#8217;ll explain how this works for elliptic curves. I&#8217;ll also explain what the corresponding elliptic analogues of lambda-rings and delta-rings are. I’ll finish with a conjectural elliptic analogue of Chebotarev plus Kronecker-Weber.</p>
+<p style="font-weight: 400;">This was inspired by (and no doubt overlaps) the work of Charles Rezk. This is joint with James Borger.</p>
+<p><em>March 19 </em><strong>Christian Haesemeyer</strong> (Melbourne) <em>K-theory of singularities, revisited once more</em></p>
+<p><span data-ogsc="black">&#8220;K-regularity&#8221; is a measure of how close to homotopy invariant algebraic K-theory of a ring or algebraic variety is. For example, a regular ring or scheme is K_n &#8211; regular for all n. Vorst&#8217;s conjecture about how much K-regularity is needed to imply regularity for affine algebras is now a theorem over perfect fields. However, many questions remain open, for example: Do weaker K-regularity conditions imply algebraic properties weaker than regularity, as is the case for K_0 and K_1-regularity? Is the bound given in the conjecture sharp in any dimension bigger than 1?  </span></p>
+<p><span data-ogsc="black">I</span><span data-ogsc="black"> will report on recent work with C. Weibel giving one answer to the first question using classical K-theoretic arguments that could have been made 40 years ago. I also will discuss intriguing evidence regarding the second question obtained with Weibel, and even more recent results by Wanshun Chen, both using Hodge-theoretic arguments developed by Mustata, Popa, and other algebraic geometers. </span></p>
+<h2>Derived Algebraic Geometry Learning Seminar, 2024</h2>
+<h3>Semester 2, 2024</h3>
+<h4>Organizers: Lance Gurney and Oliver Li</h4>
+<p><strong>Time: </strong>Tuesday, 10-11am, Peter Hall 162</p>
+<p>The topic of this seminar is to work through Adeel Khan&#8217;s notes.</p>
+<h2>Moduli and Stacks Learning Seminar, 2023</h2>
+<h3>Semester 2, 2023: Alper&#8211;Halpern-Leinster&#8211;Heinloth</h3>
+<h4>Organizer: Fei Peng</h4>
+<p><strong>Time:</strong> Wednesdays 2-3pm, Peter Hall 162</p>
+<p>The topic of the seminar is to work through <a href="https://doi.org/10.1007/s00222-023-01214-4">Existence of moduli spaces for algebraic stacks</a>.</p>
+<h3>Semester 1, 2023: The Picard Stack</h3>
+<h4>Organizers: Jack Hall and Fei Peng</h4>
+<p><strong>Time:</strong> Tuesdays, 3:15-4:15pm, Peter Hall 162</p>
+<p>The topic of this seminar is to prove that the Picard stack and functor are algebraic.</p>
+<h2>Arithmetic Geometry Seminar, 2021</h2>
+<p>If you would like to attend or be added to the mailing list please email <a href="mailto:lance.gurney@unimelb.edu.au">lance.gurney@unimelb.edu.au</a>.</p>
+<h3>Semester 2, 2021: oo-categories</h3>
+<h4>Organiser: Lance Gurney</h4>
+<p><strong>Time:</strong> Fridays 5-6pm.</p>
+<p>The topic of the seminar is to work through the foundations of oo-categories.</p>
+<h3>Semester 1, 2021: Prismatic Cohomology</h3>
+<h4>Organisers: Lance Gurney, Jack Hall, Christian Haesemeyer</h4>
+<p><strong>Time: </strong>Fridays 3:15pm-5:00pm<br />
+The topic of the seminar is the recent prismatic cohomology of <a href="https://arxiv.org/abs/1905.08229">Bhatt-Scholze</a> and its interpretation via stacks due to Drinfeld <a href="https://arxiv.org/abs/2005.04746">here</a> and <a href="http://math.uchicago.edu/~drinfeld/Seminar-2019/Spring/">here</a>. [At some point this <a href="http://people.math.harvard.edu/~kisin/dvifiles/wam.dvi">paper</a> by Kisin will probably pop-up].</p>
+<p>The talks will hopefully have notes posted afterwards. A more detailed reference for some things will be found in the evolving <a href="https://algebraicgeometry.science.unimelb.edu.au/files/2021/04/notes-on-prisms.pdf">notes on prisms (draft)</a> which also covers the case of DVRs other than <strong>Z</strong><em><sub>p</sub></em>.</p>
+<p>21 May <strong>Jack Hall</strong> <em>Lefschetz theorems via localization</em><br />
+I will discuss a new approach to Lefschetz style hyperplane theorems using localizations of triangulated categories. The approach is also applicable to the Fargues&#8211;Fontaine curve, an object of recent interest in arithmetic geometry.</p>
+<p>14 May <strong>Lance Gurney</strong> <em>Prismatization</em> <a href="https://algebraicgeometry.science.unimelb.edu.au/files/2021/05/week-04.pdf">Notes</a><br />
+The aim is to define prismatization and (time permitting) prismatic cohomology.</p>
+<p>7 May <strong>Lance Gurney</strong> <em>Some computations</em> <a href="https://algebraicgeometry.science.unimelb.edu.au/files/2021/05/week-03.pdf">Notes</a><br />
+I gave an explicit description of the divisor in Sigma and of fibre products over Sigma.</p>
+<p>30 April <strong>Lance Gurney </strong><em>What is a prism? (continued)</em> <a href="https://algebraicgeometry.science.unimelb.edu.au/files/2021/05/week-02.pdf">Notes</a></p>
+<p>24 April <strong>Lance Gurney </strong><em>What is a prism?</em> <a href="https://algebraicgeometry.science.unimelb.edu.au/files/2021/04/week-01.pdf">Notes</a><br />
+I will begin with some motivational remarks about prismatic cohomology. After this I’ll explain the definition of a prism and of Drinfeld&#8217;s stack $\Sigma$. Time permitting some associated analogies from the theory of curves over finite fields (and shtukas).</p>
+<p><strong>Previous Seminars</strong></p>
+<p><a href="https://ms.unimelb.edu.au/events/all/moduli-spaces">Moduli spaces seminar</a></p>
+				</div>					
+							<div class="tab" id="tab5" role="tabpanel">
+				
+<p>Please contact a member of our group if you are interested in an MSc project in Algebraic Geometry.</p>
+
+
+<h2>Relevant Coursework</h2>
+<h3>Semester 1</h3>
+<p><a href="https://handbook.unimelb.edu.au/2020/subjects/mast90136">MAST90136 Algebraic Number Theory</a> (even years)<br /><a href="https://handbook.unimelb.edu.au/2020/subjects/mast90023">MAST90023 Algebraic Topology</a> (even years)</p>
+<h3>Semester 2</h3>
+<p><a href="https://handbook.unimelb.edu.au/2020/subjects/mast90068">MAST90068 Groups, Categories &amp; Homological Algebra</a> (even years)<br /><a href="https://handbook.unimelb.edu.au/2020/subjects/mast90097">MAST90097 Algebraic Geometry</a> (even years)<br /><a href="https://handbook.unimelb.edu.au/2020/subjects/mast90056">MAST90056 Riemann Surfaces and Complex Analysis</a> (odd years)<br /><a href="https://handbook.unimelb.edu.au/2019/subjects/mast90017">MAST90017 Representation theory</a> (odd years)</p>
+
+
+<h2 class="wp-block-heading"></h2>
+
+
+
+<p></p>
+				</div>					
+							<div class="tab" id="tab17" role="tabpanel">
+				<h3><a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/FT210100405">FT210100405</a></h3>
+<p>Integral transforms and moduli theory (Hall)</p>
+<h3><a href="https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP210103397">DP210103397</a></h3>
+<p>Moduli, invariants, and algebraisation (Gepner, Haesemeyer, Hall, Neeman)</p>
+<h3><a href="https://findanexpert.unimelb.edu.au/project/103209-frobenius-manifolds-from-a-geometrical-and-categorical-viewpoint">DP180103891</a></h3>
+<p>Frobenius Manifolds From A Geometrical And Categorical Viewpoint (Murfet, Norbury)</p>
+<h3><a href="https://findanexpert.unimelb.edu.au/project/103240-real-groups--hodge-theory--and-the-langlands-program">DP180101445</a></h3>
+<p>Real Groups, Hodge Theory, And The Langlands Program (Vilonen)</p>
+<h3><a href="https://findanexpert.unimelb.edu.au/project/102405-algebraic-invariants-of-singularities">DP170102328</a></h3>
+<p>Algebraic Invariants Of Singularities (Haesemeyer)</p>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://algebraicgeometry.science.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/algebraicgeometry.science.unimelb.edu.au\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/algebraicgeometry.science.unimelb.edu.au","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://algebraicgeometry.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.5.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-AU","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/algebraicgeometry.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","security":"a3cfdc1e74","action":"wpa_stats_action","url":"https:\/\/algebraicgeometry.science.unimelb.edu.au\/","post_id":"2","continue":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://algebraicgeometry.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.5.10" id="wp-accessibility-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Algebraic Geometry</h2>
+
+			<ul>
+				<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="https://algebraicgeometry.science.unimelb.edu.au/home-page/members/">Members</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="https://algebraicgeometry.science.unimelb.edu.au/home-page/publications/">Seminars</a></li>
+<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="https://algebraicgeometry.science.unimelb.edu.au/home-page/news/">MSc</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://algebraicgeometry.science.unimelb.edu.au/home-page/contact/">Support</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://algebraicgeometry.science.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/algebraicgeometry/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/algebraicgeometry/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>
+[tiny-file-manager-unauth] Dumped HTTP response https://algebraicgeometry.science.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:19 GMT
+Location: https://algebraicgeometry.science.unimelb.edu.au/
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Redirect-By: WordPress
+
+

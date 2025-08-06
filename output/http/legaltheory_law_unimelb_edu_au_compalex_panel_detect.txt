@@ -1,0 +1,20 @@
+[compalex-panel-detect] Dumped HTTP response https://legaltheory.law.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:56 GMT
+Etag: "6cd1bcdcb6fad61:0"
+Last-Modified: Thu, 04 Feb 2021 05:30:34 GMT
+Server: Microsoft-IIS/10.0
+Set-Cookie: BIGipServer~app_coldfusion_law_prod~pool_coldfusion_law_prod_loadbalancer_qs2=3628406700.20480.0000; path=/; Httponly; Secure
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET
+
+<script>
+window.onload = function() {
+    window.location.replace("https://sites.google.com/site/legaltheoryworkshop/");
+}
+</script>
+

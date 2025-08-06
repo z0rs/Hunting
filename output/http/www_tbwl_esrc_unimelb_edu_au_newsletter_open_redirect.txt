@@ -1,0 +1,262 @@
+[newsletter-open-redirect] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo
+
+
+GET /?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[newsletter-open-redirect] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 17745
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:03 GMT
+Etag: "f5fcf7b59c5d5fe45abb1266c420ccfd"
+Last-Modified: Mon, 24 Aug 2020 04:46:35 GMT
+Server: AmazonS3
+Via: 1.1 0e9d65763124ffd5921e616a7b0081ce.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: oI__d8Qo8Gsf6c3dr2edwnaLHzzhWz0nwsKHPg5eakaNBb9BMWTf5w==
+X-Amz-Cf-Pop: IAD55-P6
+X-Amz-Version-Id: GlkW9LnB.9U5d3b8yaYArLwyJwaceR6T
+X-Cache: Miss from cloudfront
+
+﻿<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+
+	<title></title>
+	
+	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=device-width" />
+				
+	<!-- Favicon and Feed -->
+	<link rel="shortcut icon" type="image/png" href="/wp-content/themes/esrc-project/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="The Trailblazing Women and the Law Project Feed" href="/feed/">
+	
+	<!--  iPhone Web App Home Screen Icon -->
+	<link rel="apple-touch-icon" sizes="72x72" href="/wp-content/themes/esrc-project/images/devices/reverie-icon-ipad.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/wp-content/themes/esrc-project/images/devices/reverie-icon-retina.png" />
+	<link rel="apple-touch-icon" href="/wp-content/themes/esrc-project/images/devices/reverie-icon.png" />
+	
+	<!-- Enable Startup Image for iOS Home Screen Web App -->
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="apple-touch-startup-image" href="/wp-content/themes/esrc-project/mobile-load.png" />
+
+	<!-- Startup Image iPad Landscape (748x1024) -->
+	<link rel="apple-touch-startup-image" href="/wp-content/themes/esrc-project/images/devices/reverie-load-ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)" />
+	<!-- Startup Image iPad Portrait (768x1004) -->
+	<link rel="apple-touch-startup-image" href="/wp-content/themes/esrc-project/images/devices/reverie-load-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
+	<!-- Startup Image iPhone (320x460) -->
+	<link rel="apple-touch-startup-image" href="/wp-content/themes/esrc-project/images/devices/reverie-load.png" media="screen and (max-device-width: 320px)" />
+	
+	<link rel="alternate" type="application/rss+xml" title="The Trailblazing Women and the Law Project &raquo; Home Comments Feed" href="/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.tbwl.esrc.unimelb.edu.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.24"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='foundation-css'  href='/wp-content/themes/esrc-project/css/foundation.css?ver=4.3.24' type='text/css' media='all' />
+<link rel='stylesheet' id='app-css'  href='/wp-content/themes/esrc-project/css/app.css?ver=4.3.24' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='/wp-content/themes/esrc-project/style.css?ver=4.3.24' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/jquery.min.js?ver=4.3.24'></script>
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/modernizr.foundation.js?ver=4.3.24'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.24" />
+<link rel='canonical' href='/' />
+<link rel='shortlink' href='/' />
+<!--[if lt IE 9]><link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/ie.css"><![endif]-->
+        <script src="http://www.esrc.unimelb.edu.au/lib/contact.js"></script>
+</head>
+
+<body class="home page page-id-25 page-template-default">
+	
+	<header role="banner">
+		<div class="strip-global">
+			<div class="row">
+				<div class="twelve columns">
+					<ul id="menu-global-menu" class="global-nav eight columns"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="http://www.esrc.unimelb.edu.au/">eSRC Home</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a href="http://www.esrc.unimelb.edu.au/about-us">About Us</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a href="http://www.esrc.unimelb.edu.au/staff">Staff</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a href="http://www.esrc.unimelb.edu.au/projects">Projects</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="http://www.esrc.unimelb.edu.au/archival-guides">Archival Guides</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="http://www.esrc.unimelb.edu.au/publications">Featured Publications</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63"><a href="http://www.esrc.unimelb.edu.au/news">News</a></li>
+</ul>				</div>
+			</div>
+		</div>
+		
+		<div class="bg-header">
+			<div class="row">
+				<div class="twelve columns">
+					<a href="http://www.unimelb.edu.au/"><img class="logo" alt="The Trailblazing Women and the Law Project" src="/wp-content/themes/esrc-project/images/logo.png" width="150" height="131"></a>
+					<div class="site-header">
+						<h4 class="subheader">Australian National University and The University of Melbourne</h4>
+						<h1><a href="/" title="The Trailblazing Women and the Law Project">The Trailblazing Women and the Law Project</a></h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="nav-main">	
+			<div class="row">	
+				<div class="twelve columns">
+					<nav role="navigation">
+						<ul class="nav-bar"><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-25 current_page_item menu-item-39 active"><a href="/">Home</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="/about/">About</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="/research-team/">Research Team</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="/methods/">Methods</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="/outcomes/">Outcomes</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="/blog/">Blog</a></li>
+</ul>					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+
+			<div class="hero">
+			<img src="/wp-content/themes/esrc-project/images/trailblazing.jpg">
+		</div>
+	
+	<div id="container" class="container" role="document">
+		<!-- Row for main content area -->
+		<div id="main" class="row">
+		<!-- Row for main content area -->
+		<div id="content" class="eight columns" role="main">
+		
+			<div class="post-box">
+											<h1>Home</h1>
+		<p>The Trailblazing Women and the Law Project (ARC Linkage LP120200367) will create, showcase and analyse the experiences of seven decades of Australia&#8217;s pioneer, &#8216;trailblazing&#8217;, women lawyers.</p>
+<p>In bringing together the interdisciplinary expertise of the CIs in the fields of gender, oral history, biography, law, citizenship, social networks, cultural informatics, digital publishing and women&#8217;s history archiving, this work will fill the well-noted absence of leading women lawyers&#8217; lives from national history and Australian scholarly analysis.</p>
+<p>It will enhance the capacities of women lawyers across the country, whose potential societal and economic contributions are presently underutilised in the Australian civic and professional landscape.</p>
+<p>Our exhibition <a href="http://www.womenaustralia.info/lawyers/">Australian Women Lawyers as Active Citizens</a> was launched in November 2016.</p>
+<div id="featurelist">
+<h2>Project Partners</h2>
+<ul class="xoxo blogroll">
+<li><a title="Project partner" href="http://www.anu.edu.au/">Australian National University</a></li>
+<li><a title="Project partner" href="http://www.australianwomenlawyers.com.au/">Australian Women Lawyers</a></li>
+<li><a title="Project partner" href="http://www.esrc.unimelb.edu.au/">eScholarship Research Centre, The University of Melbourne</a></li>
+<li><a title="Project partner" href="http://www.familycourt.gov.au/">Family Court of Australia</a></li>
+<li><a title="Project partner" href="http://www.fedcourt.gov.au/">Federal Court of Australia</a></li>
+<li><a title="Project partner" href="http://www.nfaw.org/">National Foundation for Australian Women</a></li>
+<li><a title="Project partner" href="http://www.nla.gov.au/">National Library of Australia</a></li>
+</ul>
+</div>
+<h2>Image credits</h2>
+<p>Images left to right:</p>
+<ol>
+<li>Flos Greig</li>
+<li>Eve Mahlab being interviewed by Kim Rubenstein (Cooper, Samuel &amp; National Library of Australia (issuing body) (2010). Eve Mahlab during an oral history interview at the National Library of Australia, Canberra, 30 August 2010. <a href="http://trove.nla.gov.au/work/181759552">http://trove.nla.gov.au/work/181759552</a>)</li>
+<li>Joan Rosanove</li>
+</ol>
+					</div>
+
+		</div><!-- End Content row -->
+		
+		<aside id="sidebar" class="four columns" role="complementary">
+	<div class="sidebar-box">
+	  
+<script async src="https://cse.google.com/cse.js?cx=bf8d28c2f3fe22625"></script>
+<div class="gcse-search"></div>
+<P> CONTENT WARNING:   Depending of the search term used, you may or may not get ads at the top of the search results!</P>
+
+
+	</div>
+
+<article id="text-4" class="row widget widget_text"><div class="sidebar-section twelve columns"><h2>Donate Now!</h2>			<div class="textwidget"><p>Support a permanent record of achievement by Australian Trailblazing Women Lawyers. Your financial contribution to the Trailblazing Women Lawyers Project’s online exhibition will allow us to realize our aims and include all the women nominated in the online exhibition’s data.</p>
+<h3><a href="/2015/03/10/donate-now-support-a-permanent-record-of-achievement-by-australian-trailblazing-women-lawyers/">Read more about donating</a></h3>
+</div>
+		</div></article><article id="dmc_recent_posts_widget-5" class="row widget widget_dmc_recent_posts_widget"><div class="sidebar-section twelve columns"><h2>Posts</h2>
+					<time class="updated" datetime="2016-11-30T11:46:45+00:00" pubdate>30th November 2016</time>			<h3><a href="/2016/11/30/kiefel-appointment-is-refreshing-but-greater-diversity-is-an-ongoing-task/">Kiefel appointment is refreshing, but greater diversity is an ongoing task</a></h3>
+			<p>Members of the Trailblazing Women and the Law project team are delighted by the appointment of Susan Kiefel as Chief Justice of the High Court of Australia. But as Kim Rubenstein reminds us, her cleaving of this judicial glass ceiling she not be regarded as an endpoint in the quest for greater diversity on the bench, [&hellip;]</p>
+					<time class="updated" datetime="2016-11-29T11:37:51+00:00" pubdate>29th November 2016</time>			<h3><a href="/2016/11/29/susan-kiefel-becomes-australias-first-female-high-court-chief-justice/">Susan Kiefel becomes Australia&#8217;s first female High Court chief justice</a></h3>
+			<p>Susan Kiefel has been named as the next Chief Justice of the High Court, the first woman to take on the role. She replace Chief Justice Robert French who will stand down in January, ahead of his 70th birthday and in order to allow his successor to be in place for the start of the new year sittings on January [&hellip;]</p>
+					<time class="updated" datetime="2016-11-29T11:31:20+00:00" pubdate>29th November 2016</time>			<h3><a href="/2016/11/29/australian-women-lawyers-as-active-citizens-exhibition-launched/">Australian Women Lawyers As Active Citizens Exhibition Launched.</a></h3>
+			<p>Australian Women Lawyers As Active Citizens is the newest exhibition to be supported by the Australian Women&#8217;s Archives Project. It was launched at the National Library of Australia on November 16, 2016 with the help of over 100 guests, many of them women, or the relatives of women, who were featured in the exhibition. The launch was [&hellip;]</p>
+		
+</div></article>		
+					</div>
+</aside>
+		
+		</div><!-- End Main row -->
+		
+			<footer id="content-info" role="contentinfo">
+			<div class="row">
+				<article id="text-2" class="four columns widget widget_text"><div class="footer-section"><h5>eScholarship Research Centre</h5>			<div class="textwidget"><p>Level 2, Thomas Cherry Building<br />
+The University of Melbourne<br />
+Parkville, VIC 3010</p>
+<p>Phone +61 (03) 8344 2670</p>
+<p>See <a href="/research-team">Research Team</a> for further contact details</p>
+</div>
+		</div></article><article id="nav_menu-2" class="four columns widget widget_nav_menu"><div class="footer-section"><h5>Trailblazing Women and the Law</h5><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="/about/">About</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="/research-team/">Research Team</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="/methods/">Methods</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="/outcomes/">Outcomes</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="/blog/">Blog</a></li>
+</ul></div></div></article><article id="text-3" class="four columns widget widget_text"><div class="footer-section">			<div class="textwidget"><p><strong>Authorised by</strong><br />
+<a href="/author/kim-rubenstein/">Kim Rubenstein</a><br /> Principal Investigator</p>
+<p><strong>Maintained by </strong><br />
+<a href="/author/helen-morgan/">Helen Morgan</a><br /> Chief Investigator</p>
+</div>
+		</div></article>			</div>
+		</footer>
+		<footer id="site-footer" >
+			<div class="row">
+				<div class="six columns">
+					<a href="http://www.unimelb.edu.au/"><img alt="logo-footer" src="/wp-content/themes/esrc-project/images/logo-footer.png" width="300" height="70" /></a>
+				</div>
+				<div class="six columns">
+					<p>Phone: 13 MELB (13 6352) | International: +(61 3) 9035 5511<br />
+					The University of Melbourne ABN: 84 002 705 224<br />
+					CRICOS Provider Code: 00116K (<a href="http://services.unimelb.edu.au/international/visas">visa information</a>)<br />
+					Web brand guidelines created by <a href="http://marketing.unimelb.edu.au/">Marketing</a></p>				
+			        </div>
+                        </div>
+		</footer>
+			
+	</div><!-- Container End -->
+	
+	<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+	     chromium.org/developers/how-tos/chrome-frame-getting-started -->
+	<!--[if lt IE 7]>
+		<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+		<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+	<![endif]-->
+	
+	<script type='text/javascript' src='/wp-content/themes/esrc-project/js/jquery.reveal.js?ver=4.3.24'></script>
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/jquery.orbit-1.4.0.js?ver=4.3.24'></script>
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/jquery.customforms.js?ver=4.3.24'></script>
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/jquery.placeholder.min.js?ver=4.3.24'></script>
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/jquery.tooltips.js?ver=4.3.24'></script>
+<script type='text/javascript' src='/wp-content/themes/esrc-project/js/app.js?ver=4.3.24'></script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.303 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-08-19 17:02:08 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

@@ -1,0 +1,165 @@
+[compalex-panel-detect] Dumped HTTP request for https://_db.mac101-15.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: _db.mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://sql.mac101-15.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: sql.mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://db.mac101-15.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: db.mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://compalex.mac101-15.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: compalex.mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://dbdiff.mac101-15.acadreg.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: dbdiff.mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au/db/
+
+
+GET /db/ HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au/_db/
+
+
+GET /_db/ HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au/dbdiff/
+
+
+GET /dbdiff/ HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au/compalex/
+
+
+GET /compalex/ HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au/sql/
+
+
+GET /sql/ HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://mac101-15.acadreg.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: mac101-15.acadreg.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

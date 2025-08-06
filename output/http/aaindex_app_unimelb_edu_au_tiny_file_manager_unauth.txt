@@ -1,0 +1,26 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://aaindex.app.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: aaindex.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://aaindex.app.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Date: Wed, 06 Aug 2025 15:16:53 GMT
+Set-Cookie: visid_incap_3138227=FN4lQ0pgRReINUr3BtRqj+Vxk2gAAAAAQUIPAAAAAADBPrxeMj0kAoQj7WLjenlR; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3138227=lIMmDUVdwRNkgOrqfIsuhwAAAAC4FxzG1GpwexmdJ0ZhYM1G; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3138227=0RllOWMu1RGKvGxVQi5fFeVxk2gAAAAAgAubXNmB/SJpI6tWEVd4WQ==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 12-9364830-9364832 NNNN CT(206 215 0) RT(1754493412848 7) q(0 0 4 -1) r(6 6) U24
+Content-Length: 0
+
+

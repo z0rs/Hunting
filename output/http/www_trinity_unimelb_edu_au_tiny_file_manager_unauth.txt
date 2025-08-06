@@ -1,0 +1,1066 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://www.trinity.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: www.trinity.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://www.trinity.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:03 GMT
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head id="head">
+    <title>404 Page Not Found</title>
+
+    <meta name="viewport" id="ViewportMetaTag" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" />
+    <meta name="format" content="text/html" />
+
+        <meta property="og:title" content="404 Page Not Found">
+        <meta property="og:description" content="404 Page Not Found">
+        <meta property="og:url" content="https://www.trinity.unimelb.edu.au/special-pages/404">
+
+    <link rel="canonical" href="https://www.trinity.unimelb.edu.au/special-pages/404" />
+    <link href="/assets/Source/Sites/Trinity/Templates/Default/images/favicon.ico" type="image/x-icon" rel="icon" />
+
+    <link rel="stylesheet" media="screen" href="/assets/compiled/DDSN/Css/ED420AB4BE9C27A49F447B5583F26FCB_combined__screen_250703102237.css">
+
+
+    <link href="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemPageComponents.min.css" rel="stylesheet" />
+
+        <script>
+            blnLiveSite = true; 
+        </script>   
+
+    <script type="text/javascript" src="/Kentico.Resource/ABTest/KenticoABTestLogger/en-AU/ConversionLogger.js" async></script>
+    <script type="text/javascript" src="/Kentico.Resource/Activities/KenticoActivityLogger/Logger.js?pageIdentifier=4400" async></script>
+    <script type="text/javascript" src="/Kentico.Resource/WebAnalytics/Logger.js?Culture=en-AU&amp;HttpStatus=200&amp;Value=0" async></script>
+    	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-P0X67CE0RH"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-P0X67CE0RH');
+	</script>
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});	
+		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})	
+		(window,document,'script','dataLayer','GTM-5TBC8D8');
+	</script>
+
+    
+
+
+    
+
+	<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '850319635366563');
+	  fbq('track', 'PageView');
+	</script>
+	<noscript>
+	  <img height="1" width="1" style="display:none" 
+		   src="https://www.facebook.com/tr?id=850319635366563&ev=PageView&noscript=1"/>
+	</noscript>
+
+    
+
+
+
+</head>
+
+<body id="5345ab15-5400-4e85-baa7-e0be690fdd27" class="theme-default   template-id-onecol1 page-type-WebPage">
+    <a name="TemplateTop" aria-hidden="true"></a>
+    <!--<div id="PageType">PageType WebPage /assets/Source/Sites/Trinity/Templates/onecol1/Css/onecol1.css</div>-->
+    <!--<div id="RedirectURL">RedirectURL </div>-->
+    <div id="TemplateWrapper">      
+            <div id="AccessibilityToolbar">
+                <ul id="AccessibilityMenu">
+                    <li id="JumpToContent"><a href="#PageContent">Skip to Content</a></li>
+                    <li id="JumpToMenu"><a href="#MainMenuNav">Main Menu</a></li>
+                    <li id="JumpToSearch"><a href="#SearchSite">Search</a></li>
+                </ul>
+            </div>
+        <div id="Template">
+                <header id="Header" data-ktc-search-exclude>
+                    <div id="HeaderContent">
+                        <div class="site-header">
+                            <div id="Logo">
+                                <a href="/" title="Return to home page"><img class="logo-image" alt="Trinity College - The University of Melbourne logo" src="/assets/source/sites/trinity/templates/default/images/trinity_logo.png" /></a>
+                            </div>
+                            <div class="anchorMenu">
+                                <ul class="horizontal menu">
+                                    <li><a href="/about/indigenous-programs">Indigenous Programs</a></li>
+                                    <li><a href="/alumni-and-friends/giving">Donations &amp; Support</a></li>
+                                    <li><a href="/about/the-college/contact-us">Contact Us</a></li>
+                                    <li><a class="link-lightbox apply" href="/apply">Apply</a></li>
+                                    <li>|</li>
+                                    <li>
+                                        <div class="user-links">
+                                                <a href="/signin?returnurl=%7E%2Fspecial-pages%2F404">Sign In</a>
+                                        </div>
+                                    </li>
+                                    <li id="SearchPaneLink"><a data-toggle="SearchPane" href="#" onclick="toggleSearch()"><span class="fal fa-search">&nbsp;</span> <span class="searchLabel">Search</span></a></li>
+                                </ul>
+                            </div>
+                                <div id="SearchSite" class="site-search hidden">
+                                    <div id="SearchPane">
+                                        <form method="get" class="searchBox" action="/search">
+                                            <label for="searchtext">Search:</label>
+                                            <input name="searchtext" id="searchtext" type="text" placeholder="Search" autocomplete="off" />
+                                            <input type="submit" value="Search"/>
+                                        </form>
+                                    </div>
+                                </div>
+
+<div class="mainMenu">
+    <nav id="MainMenuNav">
+        <ul class="menuList">
+                        <li class="level1">
+                            <a href="/residential-college">Residential College </a>
+                            <ul class="megamenu side-content">
+                                    <li class="level2">
+                                            <a href="/residential-college/apply">Apply</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/choose-trinity">Living at Trinity</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/rooms-facilities">Rooms &amp; Facilities</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/food">Dining &amp; Meals</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/health-and-wellbeing">Health &amp; Wellbeing</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/sport">Sport &amp; Fitness</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/music-opportunities">Music &amp; Choir</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/clubs-and-societies">Clubs &amp; Societies</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/choose-trinity/what-our-students-say">What our students say</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/residential-college-scholarships">Scholarships</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/residential-college-scholarships/postgraduate-scholarships">AGL Shaw Postgraduate Scholarship</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/residential-college-scholarships/narrm-scholarships">Narrm Scholarships</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/residential-college-scholarships/transforming-lives">Scholarship Stories</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/why-we-love-trinity">Why we love Trinity</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/academic-program">Academic Program</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/academic-program/prizes-awards">Prizes &amp; Awards</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/leadership-opportunities">Leadership Opportunities</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/indigenous-support">Indigenous Support</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/trinity-college-campus-tours">Campus &amp; Virtual Tours</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/residential-fees">Fees</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/residential-college-key-dates">Key Dates</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/news-stories">News &amp; Stories</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/faqs">FAQs</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/residential-college/current-students">Current Students</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/current-students/update-your-information">Update Your Information</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/residential-college/current-students/make-a-payment">Make a Payment</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                <li class="contentBottom"><div class="cols-3 menu-cards">
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Trinity College Students" loading="lazy" src="/getmedia/5d7352a3-7877-4040-a3c8-95d66c6d2e0a/RC-why-we-love-Trinity.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/residential-college/why-we-love-trinity">Why we love Trinity</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Residential College students walking" loading="lazy" src="/getmedia/b128b609-3b9f-446e-bb76-5ce9832b5427/RC-living-at-Trinity.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/residential-college/choose-trinity">Living at Trinity</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Residential College students clapping" loading="lazy" src="/getmedia/68b74212-0f24-4a0e-b8ca-b4c3e8214493/RC-apply.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/residential-college/apply">Apply now</a></h3>
+</div>
+</div>
+</div>
+</div>
+</li>
+                            </ul>
+                    </li>
+                        <li class="level1">
+                            <a href="/pathways-school">Pathways School </a>
+                            <ul class="megamenu side-content">
+                                    <li class="level2">
+                                            <a href="/pathways-school/foundation-studies-program">What is Foundation Studies</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/foundation-studies-program/melbourne-model-7b6b20259c54a0f118dfe2eca42c50ed">The Melbourne Curriculum</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/foundation-studies-program/course-information">Course Information</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/who-can-apply">Who Can Apply</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/who-can-apply/entry-requirements">Entry Requirements</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/dates-fees">Dates &amp; Fees</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/apply">How to apply &amp; enrol</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/apply/tcfs-application-form">Application Form</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/apply/how-to-accept-your-offer">Accept Your Offer</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/apply/students-under-18">Information for students under 18</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/apply/accommodation">Find Accommodation in Melbourne</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/apply/student-visas">Apply for a Student Visa</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/apply/airport-reception-transfers">Airport Reception &amp; Pick Up</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/student-life">Student Life at Trinity</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/student-life/wellbeing-and-personal-support">Wellbeing &amp; Support</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/student-life/clubs-and-activities">Clubs &amp; Activities</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/student-life/student-testimonials">Meet Our Students</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/student-life/meet-your-teachers">Meet Your Teachers</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/living-in-melbourne">Living in Melbourne</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/living-in-melbourne/living-expenses">Living Expenses</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/living-in-melbourne/safety">Safety</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/living-in-melbourne/climate-culture-food">Climate, Culture &amp; Food</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/pathways-school/living-in-melbourne/religion">Religion</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/meet-us-in-your-country">Meet us in your country</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="https://eap.ascentone.com/trinity">Find an agent in your country</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/tours-pathways-school">Campus &amp; Online Tours</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/foundation-studies-scholarships">Scholarships</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/policies-1">Policies</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/prospectus">Our Brochure</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/pathways-school/faqs">Frequently Asked Questions</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="https://china.trinity.unimelb.edu.au/">&#x4E2D;&#x6587;&#x5B98;&#x7F51;</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/apps/pathways-school/enquiries">Enquiries</a>
+                                    </li>
+                                <li class="contentBottom"><div class="cols-3 menu-cards">
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Foundations studies school students studying" loading="lazy" src="/getmedia/c916653b-1b6d-4501-8715-ebba19cb6181/Pathways-What-is-FS.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/pathways-school/foundation-studies-program">What is Foundation Studies?</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Pathways school students talking" loading="lazy" src="/getmedia/e79d18bd-b926-457c-a41d-83d87ef5d977/Pathways-who-can-apply.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/pathways-school/who-can-apply">Who can apply?</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Pathways school student typing" loading="lazy" src="/getmedia/a831fd06-4ce7-47d8-88d7-22f935ab4176/Pathways-application-steps.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/pathways-school/apply">How to apply</a></h3>
+</div>
+</div>
+</div>
+</div>
+</li>
+                            </ul>
+                    </li>
+                        <li class="level1">
+                            <a href="/theological-school">Theological School </a>
+                            <ul class="megamenu side-content">
+                                    <li class="level2">
+                                            <a href="/theological-school/about-the-school">About the School</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/open-house">Open House</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/faculty-and-staff">Our People</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/faculty-and-staff/student-profiles">Staff, Student &amp; Alumni Profiles</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/courses">Courses &amp; Further Study</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/courses/units">Units</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/courses/continuing-education">Continuing Education</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/courses/ministry-education">Ministry Education</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/courses/sharwood-lectures-in-church-law">Lectures</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/apply-and-enrol">Apply &amp; Enrol</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/apply-and-enrol/international-students">International Students</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/apply-and-enrol/theological-school-scholarships">Theological School Scholarships</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/research">Our Research</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/trinity-in-sydney">Trinity in Sydney</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/news-and-media">News &amp; Stories</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/theological-school/news-and-media/meditations">Meditations</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/theological-school/student-resources">Student Resources</a>
+                                    </li>
+                                <li class="contentBottom"><div class="cols-3 menu-cards">
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Theological school building" loading="lazy" src="/getmedia/a3f828da-ff15-4b0e-a1cb-2d3c06b35444/TS-about.png" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/theological-school/about-the-school">About the Theological School</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Students attending class" loading="lazy" src="/getmedia/57ac6119-1adb-48df-a3d9-78ef0d341bd3/TS-courses-further-study.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/theological-school/courses">Courses &amp; Further Study</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Theological staff having a discussion" loading="lazy" src="/getmedia/1377ef1a-77c6-4629-9496-092f28f6b45c/TS-apply-and-enrol.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/theological-school/apply-and-enrol">Apply &amp; Enrol</a></h3>
+</div>
+</div>
+</div>
+</div>
+</li>
+                            </ul>
+                    </li>
+                        <li class="level1">
+                            <a href="/alumni-and-friends">Alumni &amp; Friends </a>
+                            <ul class="megamenu side-content">
+                                    <li class="level2">
+                                            <a href="/alumni-and-friends/get-involved">Get Involved</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/alumni-and-friends/giving">Donations &amp; Support</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/alumni-and-friends/giving/areas-you-can-support">Areas You Can Support</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/alumni-and-friends/giving/bequests">Bequests</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/alumni-and-friends/alumni-network">Committees</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/alumni-and-friends/alumni-awards">Alumni Awards</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/alumni-and-friends/alumni-awards/alum-of-year">Alum Of The Year Award Nomination</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/alumni-and-friends/trinity-college-foundation">Trinity College Foundation</a>
+                                    </li>
+                                <li class="contentBottom"><div class="cols-3 menu-cards">
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Students acting on stage" loading="lazy" src="/getmedia/0a3769f5-fba1-4352-bb99-893c4c6d7607/AF-donations.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/alumni-and-friends/giving">Donations &amp; Support</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Alumni supporter plaque" loading="lazy" src="/getmedia/515b7a8b-f77d-4619-a713-3d2c342fb68e/AF-areas-to-support.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/alumni-and-friends/giving/areas-you-can-support">Areas to Support</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="students posing for a photo in corridor" loading="lazy" src="/getmedia/5353e7d9-a0fe-4c0f-9ee3-3aa64ba9a411/AF-get-involved.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/alumni-and-friends/get-involved">Get Involved</a></h3>
+</div>
+</div>
+</div>
+</div>
+</li>
+                            </ul>
+                    </li>
+                        <li class="level1">
+                            <a href="/whats-happening">What&#x27;s Happening </a>
+                            <ul class="megamenu side-content">
+                                    <li class="level2">
+                                            <a href="/whats-happening/news">News &amp; Stories</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/events">Events</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/events/biennial-barry-marshall-lecture-2025">Biennial Barry Marshall Lecture</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/art">Art</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/art/burke-gallery">The Burke Gallery</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/art/exhibitions">Exhibitions</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/art/collections">Collections</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/art/archives">Archives &amp; Heritage</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/music">Music &amp; Choir</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/campus-development">Campus Development Projects</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/campus-development/kitchens-redevelopment">Kitchens Redevelopment</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/visiting-scholars">Visiting Scholars &amp; Lectureships</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/visiting-scholars/visiting-scholars-and-lectureships">Visiting Scholars</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/whats-happening/visiting-scholars/endowed-lectureships">Endowed Lectureships</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/accommodation-for-visitors">Accommodation for Visitors</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/short-programs">Short Programs</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/whats-happening/careers">Work at Trinity</a>
+                                    </li>
+                                <li class="contentBottom"><div class="cols-3 menu-cards">
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Trinity choir" loading="lazy" src="/getmedia/adc61700-96ce-4e4d-9bb4-9d38c5d9733b/whats-happening-music-choir.png" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/whats-happening/music">Music &amp; Choir</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Trinity College art exhibition" loading="lazy" src="/getmedia/7a6f3575-d9aa-441f-b24d-d7b7d40122b0/whats-happening-art.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/whats-happening/art">Art</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="" src="/getmedia/21fbf81b-6cb1-4a0d-b64c-42590200473b/students-supporting-Rowing-competition.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/whats-happening/news">News &amp; Stories</a></h3>
+</div>
+</div>
+</div>
+</div>
+</li>
+                            </ul>
+                    </li>
+                        <li class="level1">
+                            <a href="/about">About Trinity College </a>
+                            <ul class="megamenu side-content">
+                                    <li class="level2">
+                                            <a href="/about/history-of-the-college">History of the College</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="https://trinity-college.shorthandstories.com/timeline-150-years-of-trinity/index.html">Timeline</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/history-of-the-college/constitution">Constitution</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/history-of-the-college/trinity-coat-of-arms">Coat of Arms &amp; Crest</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/history-of-the-college/anglican-nature-of-the-college">Anglican nature of the College</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/about/values-vision">Values &amp; Vision</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/about/values-vision/community-of-respect">A Community of Respect</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/about/our-campus">Our Campus</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/about/our-campus/virtual-tours">Online Tours &amp; Maps</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/our-campus/trinity-and-buildings">Buildings &amp; Grounds</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/about/people">Our People</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/about/people/board">Board</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/people/college-management">Senior Management</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/people/council">Council</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/people/committees">Committees</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/people/academic-and-teaching-fellows">Academic and Teaching Fellows</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/people/fellows-and-senior-fellows">Fellows and Senior Fellows</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="/about/people/organisational-chart">Organisational Chart</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/about/library">Libraries</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/about/chapel-and-chaplaincy">Chapel &amp; Chaplaincy</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="/about/chapel-and-chaplaincy/events-in-trinity-chapel">Events in the Trinity Chapel</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                    <li class="level2">
+                                            <a href="/about/publications">Publications</a>
+                                    </li>
+                                    <li class="level2">
+                                            <a href="https://trinity-college.shorthandstories.com/celebrating-150-years/index.html">Trinity 150</a>
+                                            <ul>
+                                                    <li class="level3">
+                                                            <a href="https://trinity-college.shorthandstories.com/celebrating-150-years/index.html">150 years of Trinity</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="https://trinity-college.shorthandstories.com/our-memories/index.html">Memories</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="https://trinity-college.shorthandstories.com/our-stories/index.html">Stories</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="https://trinity-college.shorthandstories.com/events/index.html">Events</a>
+                                                    </li>
+                                                    <li class="level3">
+                                                            <a href="https://trinity-college.shorthandstories.com/oakleaf-awardees/index.html">Oakleaf Awards</a>
+                                                    </li>
+                                            </ul>                                                
+                                    </li>
+                                <li class="contentBottom"><div class="cols-3 menu-cards">
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Overhead view of the Trinity College campus" loading="lazy" src="/getmedia/06a5ac7b-94f1-40ec-aaad-95134c96a465/about-campus.png" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/about/our-campus">Campus</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Trinity college chapel building" loading="lazy" src="/getmedia/8402bcf7-d7f9-46c6-b8bc-3a8bb02fe7f0/about-chapel.png" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/about/chapel-and-chaplaincy">Chapel &amp; Chaplaincy</a></h3>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="item link-cover">
+<div class="thumbnail"><img alt="Trinity college historical image" loading="lazy" src="/getmedia/1457e508-74a0-4101-9b14-4b6b31ee335c/about-history.jpg" /></div>
+
+<div class="text">
+<h3 class="title"><a href="/about/history-of-the-college">History of the College</a></h3>
+</div>
+</div>
+</div>
+</div>
+</li>
+                            </ul>
+                    </li>
+        </ul>
+    </nav>
+</div>                            <div class="hamburger" id="hamburger-10">
+                                <span class="line"></span>
+                                <span class="line"></span>
+                                <span class="line"></span>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <main id="PageContainer">
+
+                        <div id="SubHeader">
+                                    <div id="PageIntro" class="page-intro">
+                                        <div class="text">
+                                                <h1 id="PageTitle" class="page-title">404 Page Not Found</h1>
+                                        </div>
+                                    </div>
+                            
+
+<div class="section">
+    <div class="content">
+        
+    </div>
+</div>
+                        </div>
+
+                        <div id="PageTop" class="page-top">
+                            
+
+
+
+
+<div class="trail-nav">
+	<nav arial-label="Breadcrumb"  data-ktc-search-exclude>
+		<ol>
+<li class="item"><a href="https://www.trinity.unimelb.edu.au">Home</a></li>
+<li class="item"><a href="https://www.trinity.unimelb.edu.au/special-pages">Special Pages</a></li>
+<li class="item page-current">404 Page Not Found</li>
+        </ol>
+        </nav>
+</div>
+
+    
+
+
+                            <div id="PageFunctionsTop" class="pageFunctions">
+                                <ul>
+                                    <li class="pagePrint"><a class="link-print">Print Page</a></li>
+                                    <li class="pageShare"><a class="linke-share-page st_sharethis" displaytext="">Share Page</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    <div id="Content">
+                            <div id="Page">
+                                <div id="PageContent">
+                                    <div id="Primary">
+                                        <div id="PrimaryContent">
+
+                                                <div id="PublishInfo" class="publish-info">
+                                                        <div class="date" data-date="0001-01-01">
+                                                            0001-01-01
+                                                        </div>
+                                                </div>
+
+                                            <div id="PageBody">
+                                                
+
+<div class="section">
+    <div class="content">
+        
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <p>Oops! The page you're trying to access cannot be found. Please check your URL.</p>
+    </div>
+
+
+    
+
+
+    </div>
+</div>
+
+                                                
+    
+
+
+
+                                                
+    
+
+
+
+                                                <div id="SignInWrapper">
+    
+
+
+</div>
+                                                
+    
+
+
+
+                                                
+    
+
+
+                                                
+    
+
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="Secondary">
+                                        <div id="SecondaryContent">
+
+<div class="section">
+    <div class="content">
+        
+    </div>
+</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        
+
+
+
+ 
+                            <div id="Tertiary">
+                                <div id="TertiaryContent"></div>
+                            </div>
+                    </div>
+                </main>
+                        <footer id="Footer">
+                            <div id="FooterContent">
+                                <div class="section bg-color-1 padding-vertical-thicker">
+<div class="content">
+<div class="image"><img height="" loading="lazy" src="/getmedia/91981b60-1cc2-442e-a179-793ed7f2d257/indigenous-artwork-banner.png" style="width: 100%; " width="" /></div>
+</div>
+</div>
+
+<div class="section bg-color-1 padding-bottom">
+<div class="content maxwidth-mid">
+<div class="fr-view">
+<p class="margin-bottom-none" style="text-align: center"><img alt="Australian Aboriginal Flag" class="margin-right-thin" src="/getmedia/e6b78fe5-0ef9-4107-9cac-5c4655c31968/Australian-Aboriginal-Flag.png" style="margin-right: 5px; height: 72px; width: 120px" /><img alt="Flag of Torres Strait Islands" class="margin-right-thin" src="/getmedia/a4998eba-7d44-42f6-bcc9-23a8ae239b76/Flag-of-Torres-Strait-Islands.png" style="height: 72px; width: 120px" /></p>
+
+<h2 class="margin-top-thin" style="text-align: center">Acknowledgement of country</h2>
+
+<p style="text-align: center">We acknowledge and pay respect to the Wurundjeri people of the Kulin Nation, the Traditional Owners of the land upon which our college is situated.<br />
+We pay our respects to all the Elders of Indigenous students who call Trinity home. We also acknowledge all Aboriginal and Torres Strait Islander<br />
+stakeholders, members of the Trinity College community, the University of Melbourne and the wider World.</p>
+</div>
+</div>
+</div>
+
+<div class="site-footer padding-bottom-thick">
+<div class="cols-2 padding-bottom padding-bottom-none-large margin-bottom-none-large stack-large">
+<div class="col">
+<div class="logo"><a href="/" title="Return to home page"><img alt="Trinity College - The University of Melbourne logo" class="logo-image" src="/assets/source/sites/trinity/templates/default/images/trinity_logo_white.png" /> </a></div>
+</div>
+
+<div class="col company-details"><span class="copyright">&copy; Copyright 2025 Trinity College </span> <span class="abn"> ABN: 39 485 211 746 </span> <span class="cricos"> CRICOS Provider No: 00709G </span></div>
+</div>
+
+<div class="cols-5">
+<div class="col">
+<h5>Address</h5>
+
+<p class="location"><span>100 Royal Parade<br />
+Parkville VIC<br />
+3052 Australia</span><br />
+<span><a href="/about/our-campus/virtual-tours">View campus map</a></span></p>
+</div>
+
+<div class="col">
+<h5>Contact Us</h5>
+
+<p class="phone"><a href="tel:+61393487100">+61 3 9348 7100</a></p>
+
+<p class="email"><a href="/about/the-college/contact-us">Email Enquiries</a></p>
+
+<p class="phone"><a href="tel:+61405193853">Media Enquiries:<br />
++61 405 193 853 </a></p>
+</div>
+
+<div class="col">
+<h5>Website</h5>
+
+<ul class="nav">
+	<li class="nav-item"><a href="/sitemap">Site Map</a></li>
+	<li class="nav-item"><a href="/privacy-policy">Privacy Statement</a></li>
+	<li class="nav-item"><a href="/pathways-school/policies-1/privacy-policy/child-safe-policy">Child Safe Policy</a></li>
+	<li class="nav-item"><a href="/disclaimer">Disclaimer</a></li>
+	<li class="nav-item"><a href="https://trinityunimelb.sharepoint.com/sites/SharePoint/SitePages/Trinity-College-Home-Page.aspx">Portal</a></li>
+	<li class="nav-item"><a href="/about/careers">Work at Trinity</a></li>
+	<li class="nav-item"><a href="/about/the-college/contact-us">Contact Us</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h5>Support Us</h5>
+
+<ul class="nav">
+	<li class="nav-item"><a href="/alumni-and-friends/donate">Donate</a></li>
+	<li class="nav-item"><a href="/alumni-and-friends/support">Support the College</a></li>
+	<li class="nav-item"><a href="/alumni-and-friends/get-involved">Get Involved</a></li>
+	<li class="nav-item"><a href="/alumni-and-friends">Stay Connected</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h5>Follow Us</h5>
+
+<ul class="nav social-media">
+	<li class="nav-item"><a class="fab fa-facebook" href="https://www.facebook.com/trinityunimelb"><span class="link-label">Facebook</span></a></li>
+	<li class="nav-item"><a class="fab fa-linkedin" href="https://www.linkedin.com/school/trinityunimelb/"><span class="link-label">LinkedIn</span></a></li>
+	<li class="nav-item"><a class="fab fa-flickr" href="https://www.flickr.com/photos/trinityunimelb/"><span class="link-label">Flickr</span></a></li>
+	<li class="nav-item"><a class="fab fa-youtube" href="https://www.youtube.com/user/trinityunimelb"><span class="link-label">Youtube</span></a></li>
+	<li class="nav-item"><a class="fab fa-instagram" href="https://www.instagram.com/trinityunimelb/"><span class="link-label">Instagram</span></a></li>
+	<li class="nav-item"><a class="fas fa-envelope-square" href="https://www.trinity.unimelb.edu.au/about/contact-us"><span class="link-label">Email</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+                            </div>
+                        </footer>
+        </div>
+    </div>
+
+    
+        <script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery-3.5.1.js"></script>
+        <script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery.unobtrusive-ajax.js"></script>
+        <script type="text/javascript">
+            window.kentico = window.kentico || {};
+            window.kentico.builder = {};
+            window.kentico.builder.useJQuery = true;
+        </script>
+        <script src="/PageBuilder/Public/NewsletterSubscriptionWidget/replace-form.js"></script>
+        <script src="/assets/Source/Core/Javascript/Website/form-components/systemFormComponents.js?v=1.0"></script>
+
+
+    	<script src="/assets/compiled/DDSN/Javascript/70C807EE8CD0F9D5AD9FC81E01FECC55_combined_global__250703132319.js" defer></script>
+
+
+    <script>
+        var getCartUrl = '/api/cart';
+    </script>
+
+ 
+
+</body>
+</html>
+

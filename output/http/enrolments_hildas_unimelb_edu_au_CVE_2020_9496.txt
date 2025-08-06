@@ -1,0 +1,28 @@
+[CVE-2020-9496] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/webtools/control/xmlrpc
+
+
+POST /webtools/control/xmlrpc HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 145
+Content-Type: application/xml
+Origin: http://enrolments.hildas.unimelb.edu.au
+Accept-Encoding: gzip
+
+<?xml version="1.0"?><methodCall><methodName>ProjectDiscovery</methodName><params><param><value>dwisiswant0</value></param></params></methodCall>
+[CVE-2020-9496] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/webtools/control/xmlrpc
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://enrolments.hildas.unimelb.edu.au/webtools/control/xmlrpc
+Set-Cookie: visid_incap_3211538=uSU02u0eRoKCCyKTgrDR1Qxyk2gAAAAAQUIPAAAAAABGUh8O+a/bcenUb63LgudN; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=y4nJDhZdNBCd6barov5JAwxyk2gAAAAATxhGLo/gUHYiEUt6lUz3Nw==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 8-4189727-0 0NNN RT(1754493453270 49) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U6
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

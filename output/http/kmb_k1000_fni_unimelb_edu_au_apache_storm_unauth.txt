@@ -1,0 +1,31 @@
+[apache-storm-unauth] Dumped HTTP request for https://kmb-k1000.fni.unimelb.edu.au/api/v1/cluster/summary
+
+
+GET /api/v1/cluster/summary HTTP/1.1
+Host: kmb-k1000.fni.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apache-storm-unauth] Dumped HTTP response https://kmb-k1000.fni.unimelb.edu.au/api/v1/cluster/summary
+
+HTTP/1.1 404 Not Found
+Connection: close
+Access-Control-Allow-Headers: x-kace-auth-timestamp, x-kace-auth-key, x-kace-auth-signature, accept, origin, content-type
+Access-Control-Allow-Methods: PUT, DELETE, POST, GET, OPTIONS
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:43 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Kace-Appliance: K1000
+X-Ua-Compatible: IE=9,EDGE
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+
+

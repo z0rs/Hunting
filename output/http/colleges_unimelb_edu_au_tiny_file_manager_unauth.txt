@@ -1,0 +1,28 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://colleges.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: colleges.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://colleges.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:27 GMT
+Expires: Mon, 04 Aug 2025 20:06:38 GMT
+Location: http://www.colleges.unimelb.edu.au/
+Server: LiteSpeed
+X-Litespeed-Cache: hit
+X-Powered-By: PHP/7.4.33
+X-Redirect-By: WordPress
+Content-Length: 0
+
+

@@ -1,0 +1,34 @@
+[CVE-2021-25118] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-json/wp/v2/posts?per_page=1
+
+
+GET /wp-json/wp/v2/posts?per_page=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-25118] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-json/wp/v2/posts?per_page=1
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages, Link
+Allow: GET
+Content-Type: application/json; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:41 GMT
+Link: <https://ess.science.unimelb.edu.au/wp-json/wp/v2/posts?per_page=1&page=2>; rel="next"
+Server: openresty
+Vary: Cookie
+Vary: Origin
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex
+X-Wp-Total: 14
+X-Wp-Totalpages: 14
+
+[{"id":502,"date":"2024-01-19T11:01:17","date_gmt":"2024-01-19T00:01:17","guid":{"rendered":"https:\/\/blogs.unimelb.edu.au\/ess\/?p=502"},"modified":"2024-01-19T11:01:17","modified_gmt":"2024-01-19T00:01:17","slug":"introducing-a-new-practice-guide-contemplative-nature-engagement-practices-to-support-individuals-and-communities-facing-ecological-distress","status":"publish","type":"post","link":"https:\/\/ess.science.unimelb.edu.au\/2024\/01\/19\/introducing-a-new-practice-guide-contemplative-nature-engagement-practices-to-support-individuals-and-communities-facing-ecological-distress\/","title":{"rendered":"Introducing a new practice guide: Contemplative nature engagement practices to support individuals and communities facing ecological distress"},"content":{"rendered":"<p>University of Melbourne researchers &#8211; including ESS researchers, Rose Macaulay and Kathryn Williams &#8211; have partnered with experts of diverse contemplative practices to provide a practice guide to support individuals facing ecological distress. Aimed at group leaders and teachers working with people experiencing eco-distress, this resource bridges scientific understanding and contemplative wisdom to foster adaptive responses in the face of ecological change.<\/p>\n<p><strong>Understanding eco-distress<\/strong>: Acknowledging the wide-reaching impacts of climate and ecological crises on mental health, personal relationships, and society, the guide considers how individuals can adaptively respond to these impacts while experiencing &#8220;eco-distress&#8221;. Eco-distress encompasses a range of feelings triggered by present or anticipated ecological changes, from fear and frustration to hope and motivation.<\/p>\n<p><strong>Adaptive responses to ecological change<\/strong>: Building on academic research and wisdom from contemplative traditions, the guide identifies three key dimensions of adaptive responses to ecological change: fostering a healthier relationship with oneself, cultivating connections with others for collective action, and acting with, for, and as nature. These dimensions intertwine to create a holistic approach to navigating ecological challenges.<\/p>\n<p><strong>Contemplative nature engagement practices<\/strong>: The practice guide focuses on contemplative nature engagement practices as a strategy to help individuals experiencing eco-distress. By integrating practices such as meditation, reflection, and sensory interaction with nature, contemplative nature engagement has the potential to encourage healthy outcomes for individuals, communities, and the natural world.<\/p>\n<p>In the guide, five types of contemplative nature engagement activities are identified: formal meditation, attention to nature through the senses, movement through landscape, visualisation and imagination, and sharing with others. The guide provides practical steps and principles so that these activities can be integrated into new or existing contemplative nature practices.<\/p>\n<p><strong>Who can benefit<\/strong>: Primarily targeted at group leaders and teachers, the guide extends its reach to community leaders of eco-activist groups, practitioners of contemplative and nature-based practices, therapists, faith leaders, and individuals seeking resources for personal growth.<\/p>\n<p>&nbsp;<\/p>\n<h3>Download the guide <em><a href=\"https:\/\/psychologicalsciences.unimelb.edu.au\/__data\/assets\/pdf_file\/0008\/4831397\/Practice-Guide-Final.pdf\">here<\/a>.<\/em><\/h3>\n<p>&nbsp;<\/p>\n<p>This work is supported by the Contemplative Studies Centre via their <a href=\"https:\/\/psychologicalsciences.unimelb.edu.au\/CSC\/news\/seed-funding-success\/integrating-nature\">seed funding program<\/a>.<\/p>\n","protected":false},"excerpt":{"rendered":"<p>University of Melbourne researchers &#8211; including ESS researchers, Rose Macaulay and Kathryn Williams &#8211; have partnered with experts of diverse contemplative practices to provide a practice &hellip;<\/p>\n","protected":false},"author":6437,"featured_media":503,"comment_status":"closed","ping_status":"open","sticky":false,"template":"","format":"standard","meta":{"footnotes":""},"categories":[952],"tags":[],"class_list":["post-502","post","type-post","status-publish","format-standard","has-post-thumbnail","hentry","category-article"],"_links":{"self":[{"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts\/502","targetHints":{"allow":["GET"]}}],"collection":[{"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/users\/6437"}],"replies":[{"embeddable":true,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/comments?post=502"}],"version-history":[{"count":2,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts\/502\/revisions"}],"predecessor-version":[{"id":505,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/posts\/502\/revisions\/505"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/media\/503"}],"wp:attachment":[{"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/media?parent=502"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/categories?post=502"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/tags?post=502"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}]

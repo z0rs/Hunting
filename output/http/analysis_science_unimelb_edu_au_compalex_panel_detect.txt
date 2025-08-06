@@ -1,0 +1,1102 @@
+[compalex-panel-detect] Dumped HTTP request for https://analysis.science.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: analysis.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://analysis.science.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:18 GMT
+Link: <https://analysis.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://analysis.science.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://analysis.science.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+
+<!DOCTYPE html>
+
+<html lang="en-AU" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://analysis.science.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Analysis | Analysis, Geometry, and PDE at Melbourne</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[573,637] -->
+<meta name="description" itemprop="description" content="The analysis group is broadly interested in the areas partial differential equations, differential geometry and geometric analysis. It is part of the pure" />
+
+<link rel="canonical" href="https://analysis.science.unimelb.edu.au/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Analysis &raquo; Feed" href="https://analysis.science.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Analysis &raquo; Comments Feed" href="https://analysis.science.unimelb.edu.au/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/analysis\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://analysis.science.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://analysis.science.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpa-style-css' href='https://analysis.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.5.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://analysis.science.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://analysis.science.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<script type="text/javascript" src="https://analysis.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.5.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://analysis.science.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://analysis.science.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://analysis.science.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel='shortlink' href='https://analysis.science.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://analysis.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanalysis.science.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://analysis.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanalysis.science.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://analysis.science.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template page-template-page-templates page-template-page-small-image page-template-page-templatespage-small-image-php page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://analysis.science.unimelb.edu.au" title="Analysis" itemprop="item">
+					<span itemprop="name">Analysis</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://blogs.unimelb.edu.au/analysis/files/2021/04/cropped-IMG_20191108_131422.jpg)">
+						<div>
+									<h1>Analysis</h1>
+											<p>Analysis, Geometry, and PDE at Melbourne</p>
+									</div>
+			</header>
+		
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+	<h1 class="entry-header">Home page</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab34" role="tab">Members</a><a href="#tab5" role="tab">News</a><a href="#tab19" role="tab">Analysis Seminar</a><a href="#tab13" role="tab">MSc Students</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<p>The analysis group is broadly interested in the areas <strong>partial differential equations</strong>, <strong>differential geometry</strong> and <strong>geometric analysis</strong>. It is part of the <a href="https://ms.unimelb.edu.au/research/groups/details?gid=32%22">pure mathematics research group</a>.</p>
+<p><em>Follow the tabs above </em>to find more information about the members of the analysis group, and the <strong>PDE Seminar</strong> we are running.</p>
+<p>Students who are interested in taking courses in analysis, geometry, and PDE, are encouraged to look at the information page for MSc students, and should contact us directly for <strong>MSc thesis topics</strong>. </p>
+<p><!--
+
+
+<em>Add content here. Below are examples of text styles and layout options available. </em>
+
+
+<h2>Heading 2 style - use for headings</h2>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+<h3>Heading 3 style - use for subheadings</h3>
+
+
+<a href="https://blogs.unimelb.edu.au/science-template/files/2020/09/photo-1563089145-599997674d42-pink-purple-abstract-e1599098675526.jpg"><img loading="lazy" decoding="async" class="alignright wp-image-38" src="https://blogs.unimelb.edu.au/science-template/files/2020/09/photo-1563089145-599997674d42-pink-purple-abstract-e1599098675526-300x300.jpg" alt="" width="300" height="300" /></a>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+<ol>
+ 	
+
+<li>Item A</li>
+
+
+ 	
+
+<li>Item B</li>
+
+
+ 	
+
+<li>Item C</li>
+
+
+</ol>
+
+
+
+
+<ul>
+ 	
+
+<li>Item A</li>
+
+
+ 	
+
+<li>Item B</li>
+
+
+ 	
+
+<li>Item C</li>
+
+
+</ul>
+
+
+
+
+<blockquote>Blockquote: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</blockquote>
+
+
+
+
+<h2>Examples of layout options available</h2>
+
+
+
+
+<h3>Buttons</h3>
+
+
+Buttons of various colours (two sizes, with or without arrow). Insert using the 'Add Shortcodes' button.
+
+[wmd-buttons label="Button" link="#" style="brand" size="button-small" ls-id="5f5051397b455"/]
+
+[wmd-buttons label="Button" link="#" style="default" size="button-small" show_arrow="1" ls-id="5f5050f461d5f"/]
+
+[wmd-buttons label="Button" link="#" style="soft" size="button" show_arrow="1" ls-id="5f50512cce36f"/]
+
+[wmd-buttons label="Button" link="#" style="cta" size="button" ls-id="5f505148b951f"/]
+
+
+<h3>Pathfinder</h3>
+
+
+[wmd-pathfinder styling="default" ls-id="5f504fee0aa5c"][wmd-pathfinder-tab title="title" button_title="call to action" link="#" box_type="default"]This component is called the %5C%27Pathfinder%5C%27. Insert using %5C%27Insert shortcodes%5C%27 button. Use when you want to direct the user to one of several important pages.[/wmd-pathfinder-tab][wmd-pathfinder-tab title="Title" button_title="Button" link="#"]Description[/wmd-pathfinder-tab][wmd-pathfinder-tab title="Title" button_title="Button" link="#" box_type="default"]Description[/wmd-pathfinder-tab][/wmd-pathfinder]
+
+
+<h3>Accordion</h3>
+
+
+[wmd-accordion ls-id="5f5050c00dda5"][wmd-accordion-tab title="Heading"]This is the %5C%27Accordion%5C%27. Insert using the %5C%27Insert shortcodes%5C%27 button. Use it when you have a small number of headings %2B text%2C each with only a small amount of text%2C where the user is only likely to need to read one or two of the sections.    [/wmd-accordion-tab][wmd-accordion-tab title="Heading"]Lorem ipsum dolor sit amet%2C consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. [/wmd-accordion-tab][wmd-accordion-tab title="Heading"]Lorem ipsum dolor sit amet%2C consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. [/wmd-accordion-tab][/wmd-accordion]
+
+
+<h3>Table</h3>
+
+
+
+
+<table>
+
+
+<thead>
+
+
+<tr>
+
+
+<th>Heading</th>
+
+
+
+
+<th>Heading</th>
+
+
+
+
+<th>Heading</th>
+
+
+</tr>
+
+
+</thead>
+
+
+
+
+<tbody>
+
+
+<tr>
+
+
+<td>1</td>
+
+
+
+
+<td>2</td>
+
+
+
+
+<td>3</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td>4</td>
+
+
+
+
+<td>5</td>
+
+
+
+
+<td>6</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td>7</td>
+
+
+
+
+<td>8</td>
+
+
+
+
+<td>9</td>
+
+
+</tr>
+
+
+</tbody>
+
+
+</table>
+
+
+
+
+<h3>Horizontal rule</h3>
+
+
+
+
+
+<hr />
+
+
+
+&nbsp;
+
+--></p>
+			</div>
+
+							<div class="tab" id="tab34" role="tabpanel">
+				<h2>Jesse Gell-Redman</h2>
+<p><strong>Senior Lecturer in Pure Mathematics</strong></p>
+<p><img fetchpriority="high" decoding="async" class="alignright wp-image-132" src="https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER-225x300.jpg" alt="" width="225" height="300" data-build-figure="full-width" srcset="https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER-225x300.jpg 225w, https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER-768x1024.jpg 768w, https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER-1152x1536.jpg 1152w, https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER-300x400.jpg 300w, https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER-450x600.jpg 450w, https://analysis.science.unimelb.edu.au/files/2022/01/00100lPORTRAIT_00100_BURST20190221153534103_COVER.jpg 1440w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+<p><em>Office:</em> Peter Hall 202</p>
+<p><strong>Research interests:</strong> Microlocal analysis, differential geometry, index theory, spectral asymptotics, singular spaces, scattering theory.</p>
+<p><a href="https://sites.google.com/site/jessegellredman/" id="wmd-buttons-689371fee9726" class="wmd-buttons brand button-small with-arrow">Personal Website</a></p>
+<hr />
+<h2>Brian Krummel</h2>
+<p><strong>Lecturer in Pure Mathematics</strong></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-192" src="https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2-300x200.jpg" alt="" width="300" height="200" data-build-figure="full-width" srcset="https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2-300x200.jpg 300w, https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2-1024x683.jpg 1024w, https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2-768x512.jpg 768w, https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2-1536x1025.jpg 1536w, https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2-600x400.jpg 600w, https://analysis.science.unimelb.edu.au/files/2022/08/Brian-Krummel-2.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+<p><em>Office:</em> Peter Hall G28</p>
+<p><strong>Research interests:</strong> Minimal surfaces, isoperimetry, elliptic and parabolic differential equations, geometric measure theory, geometric analysis</p>
+<hr />
+<h2>Volker Schlue</h2>
+<p><strong>Lecturer in Pure Mathematics</strong></p>
+<p><img loading="lazy" decoding="async" class="alignright wp-image-78 size-medium" src="https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-300x300.jpg" alt="" width="300" height="300" srcset="https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-300x300.jpg 300w, https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-1024x1024.jpg 1024w, https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-150x150.jpg 150w, https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-768x768.jpg 768w, https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-1536x1536.jpg 1536w, https://analysis.science.unimelb.edu.au/files/2021/04/VS_square-600x600.jpg 600w, https://analysis.science.unimelb.edu.au/files/2021/04/VS_square.jpg 1920w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
+<p><em>Office:</em> Peter Hall 204</p>
+<p><strong>Research interests:</strong> General relativity, global evolution problems for hyperbolic partial differential equations, geometric analysis.</p>
+<p><a href="https://blogs.unimelb.edu.au/volker-schlue/" id="wmd-buttons-689371fee9734" class="wmd-buttons brand button-small with-arrow">Personal Website</a></p>
+<hr />
+<h2>Postdoctoral researchers</h2>
+<h3>Moritz Doll</h3>
+<p><strong>Research Fellow</strong></p>
+<p><em>Office:</em> Peter Hall G61</p>
+<p><strong>Research interests:</strong> Microlocal analysis, spectral and scattering theory.</p>
+<p><a href="https://mcdoll.github.io/" id="wmd-buttons-689371fee973c" class="wmd-buttons brand button-small with-arrow">Personal Website</a></p>
+<h2>Graduate researchers</h2>
+<h3>Current PhD students</h3>
+<table style="width:500px">
+<tr>
+<th>Student</th>
+<th></th>
+</tr>
+<tr>
+<td><strong>Louie Bernhardt</strong> </td>
+<td>
+<p><img loading="lazy" decoding="async" class="wp-image-295" src="https://analysis.science.unimelb.edu.au/files/2025/02/IMG_1486-150x150.jpg" alt="" width="150" height="150" data-build-figure="full-width"><br />
+<p><a href="https://sites.google.com/view/louiebernhardt/home" id="wmd-buttons-689371fee9743" class="wmd-buttons default button-small">Personal Website</a></p>
+</td>
+</tr>
+<tr>
+<td><strong>Alice Savvinos</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Jayson Liu</strong></td>
+<td></td>
+</tr>
+</table>
+<p><!--
+
+
+<h3>Current MPHIL students</h3>
+
+
+
+
+
+<ul>
+	
+
+</ul>
+
+
+--></p>
+				</div>					
+							<div class="tab" id="tab5" role="tabpanel">
+				<ul class="wmd-block-news block-listing"  id="wmd-block-news-689371fee9fd1">                    <li class="news">
+                        <a class="block-container" href="https://analysis.science.unimelb.edu.au/2023/11/23/lecturer-in-geometry-and-topology/">
+                                                        <strong>Lecturer in geometry and topology</strong>
+                            <p>There are currently two positions advertised in the School:
+
+Lecturer in Geometry/Topology
+
+Lecturer in Pure Mathematics
+
+As the name suggests, the first is a search in geometry and topology, broadly construed, and the second is open to all areas in pure mathematics.
+
+We are looking forward to applications which close on December 18 this year.
+
+Please do no hesitate to reach out to us if …</p>
+                            <div class="meta">
+                                <span class="meta-left">23 November, 2023</span>
+                                <span class="meta-right"></span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://analysis.science.unimelb.edu.au/2022/09/27/analysis-seminar-resumes/">
+                                                        <strong>Analysis seminar resumes</strong>
+                            <p>The Analysis seminar resumes in November.
+
+Serena Dipierro and Enrico Valdinoci are visiting us from the University of Western Australia.
+
+There will be talks on both Thursday, 3 November, and Friday, 4 November. Please check the page Analysis Seminar  for the times TBA.
+
+Serena will talk about The strange behaviour of nonlocal minimal surfaces:
+
+Abstract: Surfaces which minimize a nonlocal perimeter functional exhibit …</p>
+                            <div class="meta">
+                                <span class="meta-left">27 September, 2022</span>
+                                <span class="meta-right"></span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://analysis.science.unimelb.edu.au/2022/04/03/matrix-workshop/">
+                                                        <strong>MATRIX Workshop</strong>
+                            <p>We are very excited that the MATRIX workshop on Hyperbolic Differential Equations in Geometry and Physics begins today!</p>
+                            <div class="meta">
+                                <span class="meta-left">3 April, 2022</span>
+                                <span class="meta-right"></span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://analysis.science.unimelb.edu.au/2022/03/01/informal-lectures-on-general-relativity/">
+                                                        <strong>Informal lectures on general relativity</strong>
+                            <p>We are offering a few informal lectures on general relativity,
+
+Thursdays, Evan Williams Theatre (Peter Hall G03), 4:15-5:15pm,
+
+starting this Thursday, March 3.
+
+This will not be a formal lecture course at all, instead I am hoping to give a loose introduction to a few research topics in mathematical general relativity, which are accessible to Master's students with interests in analysis, differential geometry, …</p>
+                            <div class="meta">
+                                <span class="meta-left">1 March, 2022</span>
+                                <span class="meta-right"></span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://analysis.science.unimelb.edu.au/2022/02/28/analysis-seminar/">
+                                                        <strong>Analysis Seminar</strong>
+                            <p>
+
+We're launching an Analysis Seminar at the University of Melbourne this year. We are hoping for many talks to happen in person, maybe even en plein air, like the seminar given by our first speaker, Zoe Wyatt. Others will be online, like by our second speaker this Friday, Allen Fang.
+
+Either follow these pages, or contact us directly, to be sure …</p>
+                            <div class="meta">
+                                <span class="meta-left">28 February, 2022</span>
+                                <span class="meta-right"></span>
+                            </div>
+                        </a>
+                    </li>
+                    </ul>
+<p>&nbsp;</p>
+				</div>					
+							<div class="tab" id="tab19" role="tabpanel">
+				<h2> <strong>Eva-Maria Hekkelman (UNSW)</strong></h2>
+<p><em> Thursday, August 14, 2025, New Seminar Room 162 <strong>2 PM</strong> </em></p>
+<h3>Title: The sound of the scattering cosphere bundle</h3>
+<p></p>
+<p>Abstract: The spectrum of a (pseudo)differential operator contains a wealth of geometrical information. One example is a fascinating theorem by Alain Connes from 1988, which shows that the integral of any smooth function over a compact manifold can be computed from the spectral asymptotics of a pseudodifferential operator. This result has taken on deep philosophical meaning in the field of Noncommutative Geometry, and nowadays Connes&#8217; formula has many cousins and generalisations. In very recent work, my co-authors and I have shown that the so-called scattering PsDO calculus (or G-calculus) seems to be exactly the right flavour of PsDOs to extend Connes&#8217; result to the non-compact case. In my talk I hope to give an entry-level explanation of this result, its context, and its ingredients. Joint work with Galina Levitina, Edward McDonald, Fedor Sukochev and Dmitriy Zanin.</p>
+<hr>
+<h2> <strong>Leo Tzou (Melbourne)</strong></h2>
+<p><em> Tuesday, May 27, 2025, Peter Hall 107 <strong>11 AM</strong> </em></p>
+<h3>Title: Inverse Problems for Minimal Surfaces</h3>
+<p></p>
+<p>Abstract:<br />
+  This talk explores a class of inverse problems where the goal is to determine the geometry of a minimal surface—and in some cases, the surrounding ambient space—from area data. These problems arise naturally in differential geometry and also appear in mathematical models inspired by theoretical physics, such as the AdS/CFT correspondence. We show how resolving such problems draws on a rich toolkit of methods, including nonlinear PDEs, integral geometry, and microlocal analysis. Time permitting, we conclude with a brief look at how recent machine learning techniques can be used to infer geometric structure from minimal surface data.  </p>
+<hr>
+<h2> <strong>Volker Schlue (Melbourne)</strong></h2>
+<p><em> Tuesday, May 6, 2025, Peter Hall 162 <strong>2 PM</strong> </em></p>
+<h3> Title: Stability of Kerr de Sitter cosmologies   </h3>
+<p></p>
+<p>Abstract: The topic of this seminar is the global nonlinear stability problem for Kerr de Sitter spacetimes. Following a discussion of the results of P Hintz and A Vasy, on the nonlinear stability of the stationary black hole exterior, and those of H Friedrich for de Sitter spacetimes, we turn to the so-called cosmological, or expanding region of Kerr de Sitter spacetimes. I will present recent work with G Fournodavlos, which establishes global existence and asymptotics in this region, compatible with de Sitter like degrees of freedom. Our work can be combined with the results of P Hintz and A Vasy, to yield the global nonlinear stability of Kerr de Sitter spacetimes, featuring both aspects of an asymptotic and orbital stability result.</p>
+<hr>
+<h2> <strong>Sylvie Monniaux (Marseille)</strong></h2>
+<p><em> Tuesday, April 29, 2025, Peter Hall 107 <strong>11 AM</strong> </em></p>
+<h3> Title: The magneto-hydrodynamical system in 3D bounded Lipschitz domains</p>
+</h3>
+<p></p>
+<hr>
+<h2> <strong>Justin Forlano (Monash)</strong></h2>
+<p><em> Tuesday, April 8, 2025, Peter Hall 162 <strong>11 AM</strong> </em></p>
+<h3> Title:  Invariant measures for mKdV and KdV on the line<br />
+   </h3>
+<p></p>
+<p>Abstract:<br />
+I will discuss a result on the invariance of the Gibbs measure on the line for the real-valued defocusing modified Korteweg de-Vries equation (mKdV). This involves building a global-in-time flow for mKdV with initial data that grows at infinity, which is a major difficulty in this work. Furthermore, by applying the Miura transform, we also discover a new invariant probability measure for KdV on the line, whose samples have the same local regularity as the white noise but are non-Gaussian. The proofs combine the complete integrability of mKdV, PDE theory, stochastic analysis, spectral theory and some statistical mechanics. This talk is based on joint work with R. Killip and M. Visan (UCLA).</p>
+<hr>
+<h2> <strong>Marco Carfagnini (Melbourne)</strong></h2>
+<p><em> Tuesday, April 1, 2025, Peter Hall 162 <strong>11 AM</strong> </em></p>
+<h3> Title: Spectral gaps via small fluctuations<br />
+   </h3>
+<p>
+Abstract: In this talk we will discuss spectral gaps of second order differential operators and their connection to limit laws such as small deviations and Chung’s laws of the iterated logarithm. The main focus is on hypoelliptic diffusions such as horizontal Brownian motions on Carnot groups. If time permits, we will discuss spectral properties and existence of spectral gaps on general Dirichlet metric measure spaces. This talk is based on joint works with Maria (Masha) Gordina and Alexander (Sasha) Teplyaev.</p>
+<hr>
+<h2> <strong>Maarten V. de Hoop (Rice)</strong></h2>
+<p><em> Tuesday, March 25, 2025, Peter Hall 162 <strong>11 AM</strong> </em></p>
+<h3> Title: Geometry, spectral analysis and inverse problems on gas giants<br />
+   </h3>
+<p></p>
+<p>Abstract: On gas giant planets the speed of sound is isotropic and goes to zero at the surface. Geometrically, this corresponds to a Riemannian manifold whose metric tensor has a conformal blow-up near the boundary. The blow-up is tamer than in asymptotically hyperbolic geometry: the boundary is at a finite distance. We study the basic geometry of gas giant Riemannian metrics, including properties of geodesics near the boundary, the Hausdorff dimension of the boundary, and discreteness of the spectrum of the Laplace–Beltrami operator. We present the spectral analysis of this operator and derive the Weyl law. The involved exponents depend on the Hausdorff dimension which, in the supercritical case (which is the relevant case for Jupiter and Saturn), is larger than the topological dimension. We solve two inverse problems for simple gas giant planets, proving that the metric is uniquely determined by its boundary distance data and that the geodesic ray transform is injective. The study of Weyl asymptotics, which reflects some properties of the singular metric and determines the blow-up in the supercitical case, is a preliminary step towards analyzing other inverse problems. We conclude with some remarks on inertia-gravity modes on gas planets.</p>
+<p>Joint research with Y. Colin de Verdìère, C. Dietze, J. Ilmavirta, A. Kykkänen, R. Mazzeo and E. Trélat.</p>
+<hr>
+<h2> <strong>Lionel Mason (Oxford)</strong></h2>
+<p><em> Thursday, February 13, 2025, Peter Hall 162 <strong>11:15 AM</strong> </em></p>
+<h3> Title: Asymptotically de Sitter Einstein-Weyl structures and scattering maps<br />
+   </h3>
+<p></p>
+<p>Abstract: We show that in 2+1 dimensions, for a solution to the Einstein-Weyl equations that is asymptotically anti-deSitter, one can define a scattering map from points of past infinity to future infinity (both naturally isomorphic to the Riemann sphere) by following light rays from one to the other. We show that, in a neighbourhood of the scattering map being the antipodal map, every small deformation corresponds to a solution to an asymptotically de Sitter solution to the Einstein-Weyl equations.   The construction is driven by holomorphic discs in the complex quadric formed from the cartesian product of past and future infinity, with boundary on the totally real 2-sphere determined by the scattering map. This based on joint work with Claude Lebrun in Maths Res Lett from 2008 and is part of ongoing work with Adam Kmec.</p>
+<hr>
+<h2> <strong>Richard Melrose (MIT)</strong></h2>
+<p><em> Tuesday, October 29, 2024, Peter Hall 162 <strong>3:15 PM</strong> </em></p>
+<h3> Title: Monopoles, moduli spaces and compactification<br />
+   </h3>
+<p></p>
+<p>Abstract: The moduli space of magnetic monopoles of charge k on R^3, for the gauge group SU(2), is a smooth, non-compact, hyperkaehler manifold of dimension 4k. To approach the Hodge theory (Sen conjecture) and other analytic properties of this space the asymptotic behaviour of the metric is described in terms of a compactification, introducing idealized monopole data. I will discuss how this in turn is closely related to asymptotic translations and quantization of configuration spaces. Based in part on joint work with Chris Kottke and Michael Singer.</p>
+<hr>
+<h2> <strong>Louie Bernhardt (Melbourne University)</strong></h2>
+<p><em> Tuesday, September 10, 2024, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title: Linear waves on the expanding region of Schwarzschild de Sitter spacetimes: forward asymptotics and scattering from infinity<br />
+   </h3>
+<p></p>
+<p>Abstract: In this talk I will discuss several new results relating to the linear wave equation on Schwarzschild-de Sitter spacetime. We establish a finite-order asymptotic expansion for solutions in the expanding region. This is accomplished by introducing new higher-order weighted energy estimates that capture the higher-order asymptotics of solutions. We also prove the existence and uniqueness of scattering solutions from data at infinity which possess asymptotics consistent with the forward problem. I will explain how this is achieved via the construction of approximate solutions that capture the desired asymptotics, as well as a new weighted energy estimate suitable for the backward problem. Time permitting, I will discuss how these results generalise to a class of expanding spacetimes which do not necessarily converge back to Schwarzschild-de Sitter at infinity.</p>
+<hr>
+<h2> <strong>Yaozhong Qiu (Imperial College)</strong></h2>
+<p><em> Tuesday, September 3, 2024, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title: Some super-Poincar&eacute;, Hardy, and isoperimetric inequalities on Lie groups   </h3>
+<p></p>
+<p>Abstract: In the first half of this talk we will introduce functional inequalities and their applications to, for instance, Markov semigroups, spectral theory, and geometric measure theory. In the second half we will show how to prove a super-Poincar\&#8217;e and isoperimetric inequality for a type of probability measure defined on a Lie group, passing through some spectral theory and Hardy inequalities along the way. </p>
+<hr>
+<h2> <strong>Andrew Waldron (UC Davis)</strong></h2>
+<p><em> Tuesday, August 27, 2024, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title: Yang—Mills on Conformally Compact Manifolds and Renormalization</h3>
+<p></p>
+<p>Abstract: The Yang—Mills equations are essential to both modern day particle physics and four manifold theory, while conformally compact manifolds have played a crucial role in conformal geometry and string theory. We study the Yang—Mills equations on conformally compact manifolds and in particular the asymptotics of solutions, their renormalized energy functional, the obstruction to smooth solutions and the map from Dirichlet to Neumann<br />
+boundary data.</p>
+<hr>
+<h2> <strong>Yann Bernard (Monash) </strong></h2>
+<p><em> Friday, May 3, 2024, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title:  Conformally Invariant Problems for 4d Hypersurfaces</h3>
+<p></p>
+<p>Abstract:  We discuss a large class of conformally invariant curvature energies for immersed hypersurfaces of dimension 4. The class under study includes various examples that have appeared in the recent literature and which arise from different contexts. We employ Noether&#8217;s Theorem to obtain conservation potentials with good analytical dispositions. We show that under natural small-energy hypotheses, critical points satisfy improved energy estimates. Finally, we show how to use Noether’s theorem and the Gauss-Bonnet theorem to construct on hypersurface non-trivial divergence-free and Codazzi symmetric two-tensors of order O(|h|3), where h denotes the second fundamental form. </p>
+<hr>
+<h2> <strong>Jesse Gell-Redman (University of Melbourne) </strong></h2>
+<p><em> Friday, December 8, Peter Hall 107 <strong>09:30 AM</strong> </em></p>
+<h3> Title:  Scattering theory for nonlinear evolution equations </h3>
+<p></p>
+<p>Abstract:  I will discuss a new methodology for proving small data scattering for the nonlinear Schrödinger equation, which avoids the use of Strichartz estimates, and uses instead methods from microlocal analysis.  This methodology is flexible and can in principle be applied to massive wave propagation as in the Klein-Gordon or massive Dirac equations.  This is joint work with Andrew Hassell and Sean Gomes and with Dean Baskin and Moritz Doll.</p>
+<hr>
+<h2> <strong>Qing Han (Notre Dame University) </strong></h2>
+<p><em> Friday, November 17, Peter Hall 107 <strong>(Cancelled)</strong> </em></p>
+<h3> Title: A concise boundary regularity of minimal surfaces in the hyperbolic space </h3>
+<p></p>
+<p>Abstract:  The minimal surface equation in the hyperbolic space is given by a quasilinear elliptic equation, which is non-uniformly elliptic and becomes singular on the boundary. In this talk, we discuss recent results of the concise boundary regularity of minimal surfaces in the context of finite regularity, smoothness, and analyticity. </p>
+<hr>
+<h2> <strong>Andras Vasy (Stanford)</strong></h2>
+<p><em> Friday, September 15, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title: The Feynman propagator and self-adjointness </h3>
+<p></p>
+<p>Abstract: In this talk I will discuss the Feynman and anti-Feynman inverses for wave operators on certain Lorentzian (and more generally pseudo-Riemannian) manifolds; these are two inverses which from a microlocal analysis perspective are more natural than the standard causal (advanced/retarded) ones. For instance, for the spectral family of the wave operator, these are the natural inverses when the spectral parameter is non-real. Indeed, I will explain that these connect to the self-adjointness of the wave operator, and the positivity properties that follow.</p>
+<hr>
+<h2> <strong>Brian Krummel (Melbourne University)</strong></h2>
+<p><em> Friday, August 18, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title: Analysis of singularities of area minimizing currents </h3>
+<p></p>
+<p>Abstract:    In his monumental work in the early 1980s, Almgren showed that the singular set of an <i>n</i>-dimensional locally area minimizing submanifold <i>T</i> has Hausdorff dimension at most <i>n-2</i>.  The main difficulty is that higher codimension area minimizers can admit branch point singularities, i.e. singular points at which one tangent cone is a plane of multiplicity two or greater.  Almgren’s lengthy proof showed first that the set of non-branch-point singularities has Hausdorff dimension at most <i>n-2</i> using an elementary argument based on tangent cone type, and developed a powerful array of ideas to obtain the same dimension bound for the branch separately.  In this strategy, the exceeding complexity of the argument stems largely from the lack of an estimate giving decay of <i>T</i> towards a unique tangent plane at a branch point.</p>
+<p>We will discuss a new approach to this problem (joint work with Neshan Wickramasekera).  In this approach, the set of singularities (of a fixed integer density <i>q</i>) is decomposed not as branch points and non-branch-points, but as a set <i>B</i> of branch points where <i>T</i> decays towards a (unique) plane faster than a fixed exponential rate, and the complementary set <i>S</i>.  Using a new intrinsic frequency function for <i>T</i> relative to a plane and a blow-up method of L. Simon and Wickramasekera, we show that <i>T</i> has a unique non-planar tangent cone at <i>H<sup>n-2</sup></i>-a.e. point of <i>S</i> and <i>T</i> is asymptotic to a unique homogeneous harmonic multi-valued function at <i>H<sup>n-2</sup></i>-a.e. point of <i>B</i>.  It follows that the singular set of <i>T</i> is in fact countably (<i>n-2</i>)-rectifiable.</p>
+<hr>
+<h2> <strong>Chris Kottke (New College of Florida)</strong></h2>
+<p><em> Thursday, June 1, Peter Hall 107 <strong>11:00 AM</strong> </em></p>
+<h3> Title: L<sup>2</sup> cohomology of some non-compact moduli spaces </h3>
+<p></p>
+<p>Abstract:  Certain non-compact families of moduli spaces arising in geometry come equipped with natural hyperKahler metrics, such as the Hilbert schemes of points<br />
+on C<sup>2</sup> and the moduli spaces of non-abelian &#8220;magnetic monopoles&#8221; of a given magnetic charge, among others. Predictions of physics have led to long-standing conjectures concerning these moduli spaces&#8217; L<sup>2</sup> cohomology &#8212; a geometric invariant, consisting essentially of the dimensions of square-integrable harmonic forms, which is in some sense &#8220;in-between&#8221; compactly supported and absolute cohomology. The main challenge in proving the conjectures has been to understand how L<sup>2</sup> harmonic forms behave in the asymptotic regions of the moduli spaces &#8220;near infinity&#8221;. I will report on various joint work with F. Rochon and with M. Singer which leads to a proof of the Vafa-Witten Conjecture for Hilbert schemes in all dimensions, and of the Sen Conjecture for monopole moduli spaces in the new case of charge 3.<br />
+</p>
+<hr>
+<h2> <strong>Hadrian Quan (University of Washington)</strong></h2>
+<p><em> Thursday, May 25, Peter Hall 107 <strong>11:00 AM</strong> (online talk)</em></p>
+<h3> Title: Quantum confinement in &alpha;-Grushin manifolds and the &alpha;-pseudodifferential calculus </h3>
+<p></p>
+<p>Abstract: The $\alpha$-Grushin plane exhibits a sub-Riemannian manifold whose geodesics can pass through singularities of an associated Riemannian metric, but whose Laplace-Beltrami operator can still be self-adjoint. Physically this corresponds to a situation when a classical particle can pass through a singularity, while a quantum particle cannot. In this joint work with Ivan Beschastnyi, we study more general $\alpha$-Grushin Manifolds and, using the tools of geometric microlocal analysis, characterize precisely when operators of this type admit self-adjoint extensions. We achieve by use of a new exotic pseudodifferential calculus, which is closely related to the 0-calculus of Mazzeo first used in study of asymptotically hyperbolic manifolds.<br />
+</p>
+<hr>
+<h2> <strong>Georgios Mavrogiannis (Rutgers) </strong></h2>
+<p><em> Thursday, April 20, Peter Hall 107 <strong>11:00 AM</strong> (online talk)</em></p>
+<h3> Title: Relatively non-degenerate estimates on Kerr de Sitter spacetimes</h3>
+<p>
+Abstract: We will start discussing a new method of how to prove exponential decay for the solutions of the wave equation on a Schwarzschild de Sitter black hole spacetime by exploiting a novel &#8220;relatively non-degenerate&#8221; estimate. This estimate does not degenerate at trapping. The main ingredient in proving this estimate is to commute with a novel vector field that &#8220;sees&#8221; trapping. Then, we will discuss a natural generalization of the vector field commutation in Schwarzschild de Sitter to the entire subextremal Kerr de Sitter black hole spacetime, by commuting with a pseudodifferential operator. There are more technicalities because of the elaborate nature of trapping. Time permitting we will discuss how to use this black box estimate to prove stability and exponential decay for the solutions of a quasilinear wave equation on Kerr de Sitter.<br />
+</p>
+<hr>
+<h2> <strong>Paul Minter (Princeton) </strong></h2>
+<p><em> Thursday, March 30, Peter Hall 107 <strong>11:00 AM</strong> (online talk)</em></p>
+<h3> Title: The structure and regularity of branched stable minimal hypersurfaces</h3>
+<p>
+Abstract: Understanding how smoothly immersed, stable, minimal hypersurfaces can degenerate under uniform volume bounds is a well-known problem within geometric analysis and geometric measure theory. In low dimensions, the work of Schoen-Simon-Yau provides uniform curvature estimates. However, for arbitrary dimensions the problem is still open. A key issue to understand is singular points of higher multiplicity, with a branch point being the main example. A priori, the topological structure about branch points could be very complicated, with, for example, a sequence of “necks” degenerating toward the point; indeed, the branch set could even have positive measure.</p>
+<p>In this talk, I will discuss some recent results in this direction. We prove several regularity theorems in this setting, including some uniqueness of tangent cones results, which allow for branch points and make no a priori assumption on the size of the singular set. A key aspect of our argument is being able to prove monotonicity of a frequency function for the linearised problem (i.e blow-ups), despite the blow-ups not satisfying any variational principle a priori (which is the case, for example, in the area-minimising setting and the multiplicity one setting). </p>
+<p>Some results are joint with Neshan Wickramasekera (University of Cambridge).<br />
+</p>
+<hr>
+<h2> <strong>Jacob Shapiro (University of Dayton) </strong></h2>
+<p><em> Thursday, March 23, Peter Hall 107 <strong>11:00 AM</strong></em></p>
+<h3> Title: Semiclassical resolvent estimates in low regularity</h3>
+<p>
+Abstract:<br />
+One of the central aims of semiclassical and microlocal analysis is to describe how waves scatter or decay by leveraging the so-called classical-quantum correspondence. This principle asserts that there is a deep connection between the functional analytic properties of a Schrödinger or wave-type differential operator, and the dynamics of the underlying Hamiltonian system. </p>
+<p>I will survey some recent results concerning energy decay of linear waves in situations where the classical-quantum correspondence breaks down (e.g., the classical dynamics are not well posed). In this situation, the main tool we turn to is a certain semiclassical Carleman estimate, which implies a limiting absorption resolvent estimate for the operator under consideration. Several open problems will be discussed. This talk is based on joint work with Kiril Datchev (Purdue), Jeffrey Galkowski(UC London), and Andres Larrain-Hubach (U Dayton).<br />
+</p>
+<hr>
+<h2> <strong>Shi-Zhuo Looi (Berkeley) </strong></h2>
+<p><em> Thursday, March 16, Peter Hall 107 <strong>11:00 AM</strong> (online talk)</em></p>
+<h3> Title: Asymptotics for odd- and even-dimensional waves</h3>
+<p>
+Abstract: In this talk, I will give a survey of recent and upcoming results on various linear, semilinear and quasilinear wave equations on a wide class of dynamical spacetimes in various even and odd spatial dimensions. These results include asymptotics for a wide range of nonlinearities. For many of these results, the spacetimes under consideration have only weak asymptotic flatness conditions and are allowed to be large perturbations of the Minkowski spacetime, provided that an integrated local energy decay estimate holds. We explain the dichotomy between even- and odd-dimensional wave behaviour. Part of this work is joint with Mihai Tohaneanu and Jared Wunsch.<br />
+</p>
+<hr>
+<h2> <strong>Moritz Doll (Melbourne) </strong></h2>
+<p><em> Thursday, November 23, Peter Hall 107 <strong>2:15PM</strong></em></p>
+<h3> Title: Heat Trace Asymptotics for the Generalized Harmonic Oscillator on Scattering Manifolds</h3>
+<p>
+ On a scattering manifold, we consider a Schrödinger operator of the form H = -Δ + V(x), where the potential satisfies a growth condition that generalizes quadratic growth for Euclidean space. We follow the approach of Melrose by constructing a suitable space on which the integral kernel of the heat operator is a smooth function and then we use the push-forward theorem to calculate the heat trace asymptotics. This is based on ongoing joint work with Daniel Grieser.<br />
+</p>
+<hr>
+<h2> <strong>Pierre Portal (ANU) </strong></h2>
+<p><em> Thursday, November 10, Peter Hall 107 <strong>2:00PM</strong></em></p>
+<h3> Title: Hardy spaces for wave equations</h3>
+<p>
+ I will survey various recent papers that have their origin in my joint work with Andrew Hassell and Jan Rozendaal (building on ground breaking ideas of Hart Smith).<br />
+These papers prove well-posedness results for (mostly linear at this stage) wave equations with rough initial data and/or coefficients, by introducing function spaces adapted to the equation, and then deducing results in more classical spaces via an embedding theory. The key idea is that, just as classical function spaces have a Littlewood-Paley description, function spaces adapted to wave equations should be described using the refined Littlewood-Paley decomposition used in the celebrated paper of Seeger, Sogge, and Stein on the Lp boundedness of Fourier Integral Operators. This decomposition is refined in an anisotropic way: it decomposes the momentum side of phase space in a direction dependent manner. In doing so, it captures cancelations arising from destructive interference. These features can then be interpreted as arising from a diffusion phenomenon on phase space, paving the way for the use of parabolic methods that are well suited to rough data and/or coefficients. We will explain these ideas and how they connect to other techniques (including wave packet decompositions and decoupling), and present some recent results, including work of Frey, Hassell, Rozendaal, Schippa, and Yung.<br />
+</p>
+<hr>
+<h2> <strong> Serena Dipierro (University of Western Australia) </strong> </h2>
+<p><em> Friday, November 4, Peter Hall 107 <strong>1:15PM</strong></em></p>
+<h3> Title: The strange behaviour of nonlocal minimal surfaces </h3>
+<p></p>
+<p>Surfaces which minimize a nonlocal perimeter functional exhibit quite different behaviors than the ones minimizing the classical perimeter. Among these peculiar features, an interesting property, which is also in contrast with the pattern produced by the solutions of linear equations, is given by the capacity, and the strong tendency, of adhering at the boundary.</p>
+<h2> <strong> Enrico Valdinoci (University of Western Australia) </strong> </h2>
+<p><em> Thursday, November 3, Peter Hall 107 <strong>2:15PM</strong></em></p>
+<h3> Title:  Long-range phase coexistence models </h3>
+<p></p>
+<p>We will discuss classical and recent results concerning the Allen-Cahn equation and its long-range counterpart, especially in relation to its limit interfaces, which are (possibly nonlocal) minimal surfaces, and to the corresponding rigidity and symmetry properties of flat solutions.</p>
+<hr>
+<h2> <strong>Jan Sbierski (University of Edinburgh) </strong></h2>
+<p><em> Wednesday, March 30, Peter Hall 213 <strong>2:15PM</strong></em></p>
+<h3> Title: On holonomy singularities and inextendibility results for Lorentzian manifolds</h3>
+<p>
+Given a solution of the Einstein equations a fundamental question is whether one can extend the solution or whether the solution is maximal. If the solution is inextendible in a certain regularity class due to the geometry becoming singular, a further question is whether the strength of the singularity is such that it terminates classical time-evolution. The latter question, as will be explained in the talk, is intimately tied to the strong cosmic censorship conjecture in general relativity which states in the language of partial differential equations that global uniqueness holds generically for the initial value problem for the Einstein equations. This talk will give a basic introduction to the problem of inextendibility of Lorentzian manifolds, beginning with classical methods exploiting a blow-up of curvature to show the inextendibility with a twice continuously differentiable Lorentzian metric and concluding with the presentation of a recent methodology exploiting a blow-up in holonomy to show inextendibility with a locally Lipschitz regular Lorentzian metric.<br />
+</p>
+<hr>
+<h2> <strong>Brian Krummel (Melbourne University) </strong></h2>
+<p><em> Wednesday, March 23, Peter Hall 213 <strong>2:15PM</strong></em></p>
+<h3> Title: Fine structure of the free boundary for a penalized thin obstacle problem</h3>
+<p>
+We consider a two-penalty elliptic boundary obstacle problem, which is motivated by applications to fluid dynamics and thermics.  Using monotonicity formulas of Almgren, Weiss, and Monneau, we establish rectifiability of the free boundary and uniqueness of blow-ups at free boundary points.  We briefly discuss analogous parabolic problem, which represents a physical system evolving in time.  Joint work with Donatella Danielli.<br />
+</p>
+<hr>
+<h2> <strong>Allen Fang (Sorbonne University) </strong></h2>
+<p><em> Friday, March 4, on zoom, <strong>9AM</strong></em></p>
+<h3> Title: A new proof for the nonlinear stability of slowly-rotating<br />
+Kerr-de Sitter</h3>
+<p>
+<strong>Abstract:</strong> The stability of black hole spacetimes is a critical question in mathematical relativity. The nonlinear stability of the slowly-rotating Kerr-de Sitter family was first proven by Hintz and Vasy in 2016 using microlocal techniques. In my talk, I will present a novel proof of the nonlinear stability of slowly-rotating Kerr-de Sitter<br />
+spacetimes that avoids frequency-space techniques outside of a neighborhood of the trapped set. The proof utilizes spectral methods to uncover a spectral gap corresponding to exponential decay at the level of the linearized equation. The exponential decay of solutions to the linearized problem is then used in a bootstrap proof to conclude nonlinear stability.</p>
+<hr>
+<hr>
+<h2> <strong>Zoe Wyatt (University of Cambridge) </strong></h2>
+<p><em> Thursday, February 10, Evan Williams Theatre, <strong>2PM</strong></em></p>
+<h3> Title: Stabilising relativistic fluids on slowly expanding cosmological spacetimes</h3>
+<p>
+<strong>Abstract:</strong> On a background Minkowski spacetime, the relativistic Euler equations are known, for a relatively general equation of state, to admit unstable homogeneous solutions with finite-time shock formation. By contrast, such shock formation can be suppressed on background cosmological spacetimes whose spatial slices expand at an accelerated rate. The critical case of linear, i.e. zero-accelerated, spatial expansion, is not as well understood. In this talk, I will present recent work concerning the relativistic Euler and the Einstein-Dust equations for geometries expanding at a linear rate. This is based on joint works with David Fajman, Todd Oliynyk and Max Ofner.</p>
+<hr>
+<p>&nbsp;</p>
+				</div>					
+							<div class="tab" id="tab13" role="tabpanel">
+				<h3>MSc Theses</h3>
+<p>A MSc thesis is a project over 3 semesters typically on a topic close to the current research interests of your supervisor. Talk to us directly to hear what they are!<br />
+A list of topics is also maintained on <a href="https://canvas.lms.unimelb.edu.au/courses/112463/pages/research-project-proposals?module_item_id=2653267">MS Prime</a></p>
+<h3>MSc Courses</h3>
+<p>Students who are interested in writing an MSc thesis in the analysis group are encouraged to take the following courses:</p>
+<ul class="accordion" id="wmd-accordion-689371feec7a9"></p>
+<p><li><span class="accordion__title" >Measure Theory</span><div class="accordion__hidden"><p><br />
+ Measure Theory (MAST90012) is a core course offered every two years in Semester 1.<br />
+</p></div></li></p>
+<p><li><span class="accordion__title" >Functional Analysis</span><div class="accordion__hidden"><p><br />
+ Functional Analysis (MAST90020) is offered every two years in Semester 1.<br />
+</p></div></li></p>
+<p><li><span class="accordion__title" >Partial Differential Equations</span><div class="accordion__hidden"><p><br />
+Partial Differential Equations (MAST90133) is offered every two years in Semester 2.<br />
+</p></div></li></p>
+<p><li><span class="accordion__title" >Differential Geometry</span><div class="accordion__hidden"><p><br />
+Differential Geometry (MAST90143) is offered every two years in Semester 2.<br />
+</p></div></li></p>
+<p></ul>
+<p><!--
+
+
+<h3>Current MSc Students</h3>
+
+
+
+
+
+<ul>
+
+
+</ul>
+
+
+
+--></p>
+<h3>Past MSc Students</h3>
+<p>Here is a list of students who have written their MSc theses in the Analysis group:</p>
+<ul>
+<li>Joshua Culbert</li>
+<li>Sean Wynn</li>
+<li>Daniel Traicos</li>
+<li>Edmund Lau</li>
+<li>Lukas Anagnostou</li>
+<li>Yaozhong Qiu</li>
+<li>Caelan Turvey</li>
+<li>Madeleine Johnson</li>
+<li>Alexius Savvinos</li>
+</ul>
+<p><!--
+
+<em>Add content here. Below are examples of text styles and layout options available. </em>
+
+
+<h2>Heading 2 style - use for headings</h2>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+<h3>Heading 3 style - use for subheadings</h3>
+
+
+<a href="https://blogs.unimelb.edu.au/science-template/files/2020/09/photo-1563089145-599997674d42-pink-purple-abstract-e1599098675526.jpg"><img loading="lazy" decoding="async" class="alignright wp-image-38" src="https://blogs.unimelb.edu.au/science-template/files/2020/09/photo-1563089145-599997674d42-pink-purple-abstract-e1599098675526-300x300.jpg" alt="" width="300" height="300" /></a>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+<ol>
+ 	
+
+<li>Item A</li>
+
+
+ 	
+
+<li>Item B</li>
+
+
+ 	
+
+<li>Item C</li>
+
+
+</ol>
+
+
+
+
+<ul>
+ 	
+
+<li>Item A</li>
+
+
+ 	
+
+<li>Item B</li>
+
+
+ 	
+
+<li>Item C</li>
+
+
+</ul>
+
+
+
+
+<blockquote>Blockquote: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</blockquote>
+
+
+
+--></p>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://analysis.science.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/analysis.science.unimelb.edu.au\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/analysis.science.unimelb.edu.au","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://analysis.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.5.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-AU","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/analysis.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","security":"a3cfdc1e74","action":"wpa_stats_action","url":"https:\/\/analysis.science.unimelb.edu.au\/","post_id":"2","continue":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://analysis.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.5.10" id="wp-accessibility-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Analysis</h2>
+
+			<ul>
+				<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://analysis.science.unimelb.edu.au/home/people/">Members</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://analysis.science.unimelb.edu.au/home/news/">News</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://analysis.science.unimelb.edu.au/home/seminar/">Analysis Seminar</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://analysis.science.unimelb.edu.au/home/msc/">MSc Students</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://analysis.science.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://analysis.science.unimelb.edu.au/home/people/">Members</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://analysis.science.unimelb.edu.au/home/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://analysis.science.unimelb.edu.au/home/seminar/">Analysis Seminar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://analysis.science.unimelb.edu.au/home/msc/">MSc Students</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/analysis/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/analysis/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>

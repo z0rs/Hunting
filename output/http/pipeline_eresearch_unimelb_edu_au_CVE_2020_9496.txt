@@ -1,0 +1,42 @@
+[CVE-2020-9496] Dumped HTTP request for https://pipeline.eresearch.unimelb.edu.au/webtools/control/xmlrpc
+
+
+POST /webtools/control/xmlrpc HTTP/1.1
+Host: pipeline.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 145
+Content-Type: application/xml
+Origin: http://pipeline.eresearch.unimelb.edu.au
+Accept-Encoding: gzip
+
+<?xml version="1.0"?><methodCall><methodName>ProjectDiscovery</methodName><params><param><value>dwisiswant0</value></param></params></methodCall>
+[CVE-2020-9496] Dumped HTTP response https://pipeline.eresearch.unimelb.edu.au/webtools/control/xmlrpc
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 556
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: text/html;charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:12 GMT
+Server: Jetty(12.0.22)
+Strict-Transport-Security: max-age=63072000
+X-Content-Type-Options: nosniff
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 403 No valid crumb was included in the request</title>
+</head>
+<body><h2>HTTP ERROR 403 No valid crumb was included in the request</h2>
+<table>
+<tr><th>URI:</th><td>/webtools/control/xmlrpc</td></tr>
+<tr><th>STATUS:</th><td>403</td></tr>
+<tr><th>MESSAGE:</th><td>No valid crumb was included in the request</td></tr>
+<tr><th>SERVLET:</th><td>Stapler</td></tr>
+</table>
+<hr/><a href="https://jetty.org/">Powered by Jetty:// 12.0.22</a><hr/>
+
+</body>
+</html>
+

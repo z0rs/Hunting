@@ -1,0 +1,27 @@
+[wp-woocommerce-pdf-invoice-listing] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-content/uploads/pdf-invoices/
+
+
+GET /wp-content/uploads/pdf-invoices/ HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wp-woocommerce-pdf-invoice-listing] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-content/uploads/pdf-invoices/
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/au/wp-content/dist/a/434/files/pdf-invoices/
+Date: Wed, 06 Aug 2025 15:17:44 GMT
+Etag: 05e1a5a40a117dd01521d1274299c55b
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/a/434/files/pdf-invoices/
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

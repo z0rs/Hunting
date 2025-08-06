@@ -1,0 +1,38 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://people.eng.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: people.eng.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://people.eng.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:13 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Set-Cookie: BIGipServer~app_feit_hosting_prod~pool_feit_hosting_prod=1045174188.20480.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3194347=B6Dc1rodR++4RypXKfq7kjVyk2gAAAAAQUIPAAAAAABbcK1FsGBQcP2kE6VbAjQ0; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.eng.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3194347=OPmsQvg3dQNYp16dTO64dgAAAABr1xmpoJBg9fRD8q+CBULi; HttpOnly; path=/; Domain=.eng.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3194347=72kNHCbn9Gmk+GxVQi5fFTVyk2gAAAAABU0KC1RcVx4jcoKoOVUvAw==; path=/; Domain=.eng.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 14-12605980-12605981 NNYN CT(216 437 0) RT(1754493492769 9) q(0 1 7 -1) r(9 9) U24
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head><script src="/Disdomine-new-thing-as-by-theeke-the-Dunsinne-Br" async></script>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at people.eng.unimelb.edu.au Port 80</address>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=674023093" async></script></body></html>
+

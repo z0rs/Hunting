@@ -1,0 +1,29 @@
+[CVE-2021-24406] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/community/?foro=signin&redirect_to=https://interact.sh/
+
+
+GET /community/?foro=signin&redirect_to=https://interact.sh/ HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-24406] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/community/?foro=signin&redirect_to=https://interact.sh/
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:02 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://lecao-lab.science.unimelb.edu.au/2021/08/06/community-wide-hackathons-to-identify-central-themes-in-single-cell-multi-omics/?foro=signin&redirect_to=https%3A%2F%2Finteract.sh%2F
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+

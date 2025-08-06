@@ -1,0 +1,165 @@
+[compalex-panel-detect] Dumped HTTP request for https://dbdiff.ldalias2-its-staff.acs.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: dbdiff.ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://sql.ldalias2-its-staff.acs.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: sql.ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://_db.ldalias2-its-staff.acs.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: _db.ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://db.ldalias2-its-staff.acs.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: db.ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://compalex.ldalias2-its-staff.acs.unimelb.edu.au/
+
+
+GET / HTTP/1.1
+Host: compalex.ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au/sql/
+
+
+GET /sql/ HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au/dbdiff/
+
+
+GET /dbdiff/ HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au/compalex/
+
+
+GET /compalex/ HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au/_db/
+
+
+GET /_db/ HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au/db/
+
+
+GET /db/ HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP request for https://ldalias2-its-staff.acs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ldalias2-its-staff.acs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

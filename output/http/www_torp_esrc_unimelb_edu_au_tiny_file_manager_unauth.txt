@@ -1,0 +1,46 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://www.torp.esrc.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: www.torp.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://www.torp.esrc.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:08 GMT
+Server: AmazonS3
+Via: 1.1 db2931c54bbe28a236fccb537f265fb8.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: RtIvGCwO1Jw6BIeL5NEVAfVm4htigZrxJx6E11nvX1gbP6-B6HgdHA==
+X-Amz-Cf-Pop: IAD61-P8
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: PS634716J3GMG2DJ</li>
+<li>HostId: DqNMnzqri1RnVy7Ko2251jT1DIOe+ag4rrpR8CTg+HOy4784k4PEPJNbjgiMsjpy2wpYfOzIZfs=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

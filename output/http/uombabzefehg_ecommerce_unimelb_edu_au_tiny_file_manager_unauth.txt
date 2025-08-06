@@ -1,0 +1,61 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://uombabzefehg.ecommerce.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: uombabzefehg.ecommerce.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://uombabzefehg.ecommerce.unimelb.edu.au/index.php
+
+HTTP/1.1 302 Found
+Connection: close
+Accept-Ranges: bytes
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Content-Security-Policy-Report-Only: font-src *.stripe.com klarna.com *.klarna.com *.klarnacdn.net *.klarnaevt.com *.gstatic.com 'self' data: *.alicdn.com *.fontawesome.com data: 'self' 'unsafe-inline'; form-action geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com pilot-payflowlink.paypal.com www.paypal.com www.sandbox.paypal.com *.cardinalcommerce.com *.paypal.com 3ds-secure.cardcomplete.com www.clicksafe.lloydstsb.com pay.activa-card.com *.wirecard.com acs.sia.eu *.touchtechpayments.com www.securesuite.co.uk rsa3dsauth.com *.monzo.com *.arcot.com *.wlp-acs.com * 'self' 'unsafe-inline'; frame-ancestors *.stripe.com stripe.com 'self'; frame-src fast.amc.demdex.net *.adobe.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com bid.g.doubleclick.net *.youtube.com *.youtube-nocookie.com www.paypal.com www.sandbox.paypal.com pilot-payflowlink.paypal.com player.vimeo.com https://www.google.com/recaptcha/ www.googletagmanager.com *.stripe.com klarna.com *.klarna.com *.klarnacdn.net *.klarnaevt.com c.paypal.com checkout.paypal.com assets.braintreegateway.com pay.google.com *.cardinalcommerce.com *.paypal.com * www.xtento.com 'self' 'unsafe-inline'; img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net *.adobe.com widgets.magentocommerce.com data: www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net www.google.com bid.g.doubleclick.net analytics.google.com www.googletagmanager.com t.paypal.com www.paypal.com www.paypalobjects.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com i.ytimg.com *.youtube.com www.sandbox.paypal.com b.stats.paypal.com dub.stats.paypal.com assets.braintreegateway.com c.paypal.com checkout.paypal.com *.paypal.com maps.gstatic.com 'self' data: *.unimelb.edu.au *.tealiumiq.com *.google.com.au *.google.com.vn *.doubleclick.net *.adsrvr.org *.facebook.com *.facebook.net *.linkedin.com *.mookie1.com *.reddit.com *.twitter.com t.co s3.amazonaws.com www.google.ch *.gstatic.com www.google.co.id www.google.co.in www.google.com.eg www.google.com.hk www.google.com.my www.google.com.sg www.google.de www.google.rw www.xtento.com cdn.xtento.com data: 'self' 'unsafe-inline'; script-src assets.adobedtm.com *.adobe.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.googleadservices.com www.google-analytics.com googleads.g.doubleclick.net analytics.google.com www.googletagmanager.com www.paypal.com www.sandbox.paypal.com www.paypalobjects.com t.paypal.com s.ytimg.com www.googleapis.com vimeo.com www.vimeo.com *.vimeocdn.com *.youtube.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ *.stripe.com klarna.com *.klarna.com *.klarnacdn.net *.klarnaevt.com js.braintreegateway.com assets.braintreegateway.com c.paypal.com pay.google.com api.braintreegateway.com api.sandbox.braintreegateway.com client-analytics.braintreegateway.com client-analytics.sandbox.braintreegateway.com *.paypal.com songbirdstag.cardinalcommerce.com maps.googleapis.com *.google.com *.gstatic.com js-agent.newrelic.com bam.nr-data.net *.tiqcdn.com *.tealiumiq.com *.force.com *.salesforce.com *.salesforceliveagent.com *.ads-twitter.com *.adsrvr.org *.crazyegg.com *.facebook.net *.licdn.com *.qualaroo.com *.redditstatic.com *.snapchat.com sc-static.net *.googletagmanager.com *.adoberesources.net www.xtento.com cdn.xtento.com 'self' 'unsafe-inline' 'unsafe-eval'; style-src *.adobe.com unsafe-inline assets.braintreegateway.com *.googleapis.com *.gstatic.com *.salesforce.com 'self' 'unsafe-inline'; object-src 'self' 'unsafe-inline'; media-src *.adobe.com 'self' 'unsafe-inline'; manifest-src 'self' 'unsafe-inline'; connect-src dpm.demdex.net amcglobal.sc.omtrdc.net geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com www.google-analytics.com www.googleadservices.com analytics.google.com www.googletagmanager.com vimeo.com www.sandbox.paypal.com www.paypalobjects.com www.paypal.com pilot-payflowlink.paypal.com *.stripe.com klarna.com *.klarna.com *.klarnacdn.net *.klarnaevt.com api.braintreegateway.com api.sandbox.braintreegateway.com client-analytics.braintreegateway.com client-analytics.sandbox.braintreegateway.com *.braintree-api.com *.paypal.com *.cardinalcommerce.com *.google.com google.com *.google-analytics.com bam.nr-data.net *.googleapis.com stats.g.doubleclick.net *.tealiumiq.com *.salesforce-sites.com *.crazyegg.com *.facebook.com *.linkedin.com *.reddit.com *.redditstatic.com *.snapchat.com *.adobedc.net *.demdex.net 'self' 'unsafe-inline'; child-src assets.braintreegateway.com c.paypal.com *.paypal.com http: https: blob: 'self' 'unsafe-inline'; default-src *.googleapis.com 'self' 'unsafe-inline' 'unsafe-eval'; base-uri 'self' 'unsafe-inline'; report-uri https://d93cff22-a29b-4bb2-9025-f599d0a0c887.sansec.watch/; report-to report-endpoint;
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:29 GMT
+Expires: Tue, 06 Aug 2024 15:18:29 GMT
+Location: https://ecommerce.unimelb.edu.au/
+Pragma: no-cache
+Report-To: {"group":"report-endpoint","max_age":10886400,"endpoints":[{"url":"https:\/\/d93cff22-a29b-4bb2-9025-f599d0a0c887.sansec.watch\/"}]}
+Set-Cookie: PHPSESSID=83c41329ddc8f0e0f8cd6c8175e971ad; expires=Wed, 06-Aug-2025 16:18:29 GMT; Max-Age=3600; path=/; domain=uombabzefehg.ecommerce.unimelb.edu.au; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=31557600
+Traceresponse: 00-1859368d1c8a578527e69a7b253bab03-158340a87cfc72a8-01
+Vary: Accept-Encoding,Cookie
+X-Cache: MISS, MISS, MISS
+X-Cache-Hits: 0, 0, 0
+X-Content-Type-Options: nosniff
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Platform-Server: i-09728991f58effec7
+X-Platform-Server: i-09728991f58effec7
+X-Served-By: cache-syd10122-SYD, cache-syd10128-SYD, cache-nyc-kteb1890095-NYC
+X-Timer: S1754493510.527739,VS0,VE174
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://uombabzefehg.ecommerce.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Accept-Ranges: bytes
+Date: Wed, 06 Aug 2025 15:18:29 GMT
+Location: https://uombabzefehg.ecommerce.unimelb.edu.au/index.php
+Retry-After: 0
+Strict-Transport-Security: max-age=31557600
+Vary: 
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Permitted-Cross-Domain-Policies: none
+X-Served-By: cache-nyc-kteb1890052-NYC
+X-Timer: S1754493509.372806,VS0,VE1
+Content-Length: 0
+
+

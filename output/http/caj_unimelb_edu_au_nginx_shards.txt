@@ -1,0 +1,64 @@
+[nginx-shards] Dumped HTTP request for https://caj.unimelb.edu.au/static/shards.html
+
+
+GET /static/shards.html HTTP/1.1
+Host: caj.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://caj.unimelb.edu.au/static/shards.html
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:19 GMT
+Location: https://arts.unimelb.edu.au/centre-for-advancing-journalism
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=daa0d83e63b6880a858a95d15c51f402; path=/; HttpOnly
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 955c07b2-cf55-4bae-85cc-54245dc5b786
+X-Upgrade-Enabled: off
+
+
+[nginx-shards] Dumped HTTP request for https://caj.unimelb.edu.au/static/shards/html
+
+
+GET /static/shards/html HTTP/1.1
+Host: caj.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: SQ_SYSTEM_SESSION=daa0d83e63b6880a858a95d15c51f402
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://caj.unimelb.edu.au/static/shards/html
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:20 GMT
+Location: https://arts.unimelb.edu.au/centre-for-advancing-journalism
+Server: openresty
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 8a2cbec1-62c0-4629-9a19-3e082c93fe04
+X-Upgrade-Enabled: off
+
+

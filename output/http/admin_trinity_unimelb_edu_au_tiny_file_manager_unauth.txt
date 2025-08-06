@@ -1,0 +1,62 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://admin.trinity.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: admin.trinity.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://admin.trinity.unimelb.edu.au/index.php
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 146
+Cache-Control: private
+Content-Security-Policy: child-src 'self' blob: ;    frame-src 'self' *.google.com *.facebook.com *.twitter.com *.recaptcha.net *.payway.com.au *.youtube.com *.vimeo.com *.viddler.com *.sharethis.com *.ddsn.net;    frame-ancestors 'self' *.ddsn.net
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:06 GMT
+Location: /Admin/CMSAdministration.aspx
+Server: Microsoft-IIS/10.0
+Set-Cookie: CMSCsrfCookie=28h+Fk79QHVs/5s8EQtPfdxjyf67fEfricqBKgaE; path=/; HttpOnly; SameSite=Lax
+Set-Cookie: ASP.NET_SessionId=xtuwbjqwxlf3xntdnnykjbv5; path=/; HttpOnly; SameSite=Lax
+X-Aspnet-Version: 4.0.30319
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/Admin/CMSAdministration.aspx">here</a>.</h2>
+</body></html>
+
+[tiny-file-manager-unauth] Dumped HTTP response http://admin.trinity.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 166
+Content-Security-Policy: child-src 'self' blob: ;    frame-src 'self' *.google.com *.facebook.com *.twitter.com *.recaptcha.net *.payway.com.au *.youtube.com *.vimeo.com *.viddler.com *.sharethis.com *.ddsn.net;    frame-ancestors 'self' *.ddsn.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:05 GMT
+Location: https://admin.trinity.unimelb.edu.au/admin/
+Server: Microsoft-IIS/10.0
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://admin.trinity.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 165
+Content-Security-Policy: child-src 'self' blob: ;    frame-src 'self' *.google.com *.facebook.com *.twitter.com *.recaptcha.net *.payway.com.au *.youtube.com *.vimeo.com *.viddler.com *.sharethis.com *.ddsn.net;    frame-ancestors 'self' *.ddsn.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:04 GMT
+Location: https://admin.trinity.unimelb.edu.au/admin
+Server: Microsoft-IIS/10.0
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+
+

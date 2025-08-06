@@ -1,0 +1,30 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://cat2.lib.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: cat2.lib.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://cat2.lib.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Security-Policy: default-src 'self' http://syndetics.com https://secure.syndetics.com http://libraryh3lp.com https://libraryh3lp.com https://s7.addthis.com https://unbound.syndetics.com https://cat2.lib.unimelb.edu.au https://www.google-analytics.com https://ajax.googleapis.com https://ltfl.librarything.com https://script.crazyegg.com/ cat2.lib.unimelb.edu.au; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://google.com https://*.google.com https://maps.googleapis.com https://ebscohost.com https://*.ebscohost.com https://cdn.appdynamics.com https://prototypejs.org https://o.aolcdn.com https://s7.addthis.com https://www.gstatic.com http://syndetics.com https://secure.syndetics.com http://libraryh3lp.com https://libraryh3lp.com https://s7.addthis.com https://unbound.syndetics.com https://cat2.lib.unimelb.edu.au https://www.google-analytics.com https://ajax.googleapis.com https://ltfl.librarything.com https://script.crazyegg.com; connect-src 'self' https://col.eum-appdynamics.com http://syndetics.com https://secure.syndetics.com http://libraryh3lp.com https://libraryh3lp.com https://s7.addthis.com https://unbound.syndetics.com https://cat2.lib.unimelb.edu.au https://www.google-analytics.com https://ajax.googleapis.com https://ltfl.librarything.com https://script.crazyegg.com/;  upgrade-insecure-requests; block-all-mixed-content; style-src 'unsafe-inline' https:; img-src https: blob: data:; media-src https: blob: data:; font-src https: data:; object-src 'none';
+Content-Security-Policy: frame-ancestors 'self'  canvas.lms.unimelb.edu.au;
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:26 GMT
+Mime-Version: 1.0
+Server: III 100
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding,User-Agent
+X-Content-Type-Options: nosniff
+
+<HEAD><TITLE>404 Not Found</TITLE></HEAD>
+<BODY><H1>404 Not Found</H1>The requested URL was not found on this server.
+</BODY>
+

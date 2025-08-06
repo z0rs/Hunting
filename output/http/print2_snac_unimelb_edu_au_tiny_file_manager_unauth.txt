@@ -1,0 +1,9 @@
+[tiny-file-manager-unauth] Dumped HTTP response http://print2.snac.unimelb.edu.au/index.php
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 101
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:24 GMT
+
+<!DOCTYPE html><html><head><title>ACME Access Only</title></head><body>ACME Access Only</body></html>

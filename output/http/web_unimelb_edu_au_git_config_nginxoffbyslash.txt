@@ -1,0 +1,190 @@
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/events../.git/config
+
+
+GET /events../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/images../.git/config
+
+
+GET /images../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/events../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/events../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/images../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/images../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/css../.git/config
+
+
+GET /css../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/content../.git/config
+
+
+GET /content../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/css../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/css../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/js../.git/config
+
+
+GET /js../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/content../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/content../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/js../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/js../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/assets../.git/config
+
+
+GET /assets../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/assets../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/assets../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/static../.git/config
+
+
+GET /static../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/static../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/static../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/lib../.git/config
+
+
+GET /lib../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/lib../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/lib../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/img../.git/config
+
+
+GET /img../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/img../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/img../.git/config
+Content-Length: 0
+
+
+[git-config-nginxoffbyslash] Dumped HTTP request for http://web.unimelb.edu.au/media../.git/config
+
+
+GET /media../.git/config HTTP/1.1
+Host: web.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[git-config-nginxoffbyslash] Dumped HTTP response http://web.unimelb.edu.au/media../.git/config
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Location: https://web.unimelb.edu.au/media../.git/config
+Content-Length: 0
+
+

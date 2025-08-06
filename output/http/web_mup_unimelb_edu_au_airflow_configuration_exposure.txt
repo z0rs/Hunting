@@ -1,0 +1,32 @@
+[airflow-configuration-exposure] Dumped HTTP request for http://web.mup.unimelb.edu.au/airflow.cfg
+
+
+GET /airflow.cfg HTTP/1.1
+Host: web.mup.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[airflow-configuration-exposure] Dumped HTTP response http://web.mup.unimelb.edu.au/airflow.cfg
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 313
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:46 GMT
+Location: https://web.mup.unimelb.edu.au/airflow.cfg
+Server: Apache/2.4.7 (Ubuntu)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://web.mup.unimelb.edu.au/airflow.cfg">here</a>.</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at web.mup.unimelb.edu.au Port 80</address>
+</body></html>
+

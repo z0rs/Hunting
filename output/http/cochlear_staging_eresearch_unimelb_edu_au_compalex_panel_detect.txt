@@ -1,0 +1,27 @@
+[compalex-panel-detect] Dumped HTTP request for https://cochlear-staging.eresearch.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: cochlear-staging.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://cochlear-staging.eresearch.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 493
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:30 GMT
+Etag: W/"1ed-17cee4cdc38"
+Last-Modified: Fri, 05 Nov 2021 04:13:07 GMT
+Strict-Transport-Security: max-age=63072000
+X-Powered-By: Express
+
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><title>Cochlear</title><link rel="icon" href="/logo.svg"><script defer="defer" src="/main.d345de70232bb6e61e0d.js" async></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>

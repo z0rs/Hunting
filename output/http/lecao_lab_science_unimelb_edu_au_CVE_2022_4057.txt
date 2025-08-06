@@ -1,0 +1,54 @@
+[CVE-2022-4057] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/wp-content/uploads/ao_ccss/queuelog.html
+
+
+GET /wp-content/uploads/ao_ccss/queuelog.html HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-4057] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/wp-content/uploads/ao_ccss/queuelog.html
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/html
+Date: Wed, 06 Aug 2025 15:18:04 GMT
+Etag: 93d84447f95fe1a881cf8e1b83f27281
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/2/277/files/ao_ccss/queuelog.html
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+
+[CVE-2022-4057] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/blog/wp-content/uploads/ao_ccss/queuelog.html
+
+
+GET /blog/wp-content/uploads/ao_ccss/queuelog.html HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-4057] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au/blog/wp-content/uploads/ao_ccss/queuelog.html
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/html
+Date: Wed, 06 Aug 2025 15:18:05 GMT
+Etag: 93d84447f95fe1a881cf8e1b83f27281
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/2/277/files/ao_ccss/queuelog.html
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

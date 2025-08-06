@@ -1,0 +1,27 @@
+[CVE-2024-2340] Dumped HTTP request for https://camel.science.unimelb.edu.au/wp-content/uploads/fusion-forms/
+
+
+GET /wp-content/uploads/fusion-forms/ HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2024-2340] Dumped HTTP response https://camel.science.unimelb.edu.au/wp-content/uploads/fusion-forms/
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/au/wp-content/dist/5/366/files/fusion-forms/
+Date: Wed, 06 Aug 2025 15:17:30 GMT
+Etag: 428fd06127cf606b3bdab2fdd5447cfa
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/5/366/files/fusion-forms/
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

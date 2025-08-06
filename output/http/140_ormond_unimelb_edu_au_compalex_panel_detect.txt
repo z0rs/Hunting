@@ -1,0 +1,29 @@
+[compalex-panel-detect] Dumped HTTP request for https://140.ormond.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: 140.ormond.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://140.ormond.unimelb.edu.au
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:16:25 GMT
+Location: https://stories.ormond.unimelb.edu.au/
+Server: nginx
+Set-Cookie: visid_incap_3144122=rN9ZkE86Tdq3F2oqJUJAM8lxk2gAAAAAQUIPAAAAAACLKdImP0Js7bXYWCngNiAQ; expires=Thu, 06 Aug 2026 08:08:39 GMT; HttpOnly; path=/; Domain=.ormond.unimelb.edu.au
+Set-Cookie: nlbi_3144122=I6XgY45CGwecwt3za3plZwAAAACpUIBUeGwHNmJhm3AQyBF/; HttpOnly; path=/; Domain=.ormond.unimelb.edu.au
+Set-Cookie: incap_ses_1540_3144122=VKFzclB36jc5p2xVQi5fFclxk2gAAAAAZCeRjKo3g09faBRqT+FmiQ==; path=/; Domain=.ormond.unimelb.edu.au
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 7-5143253-5143254 NNNN CT(218 447 0) RT(1754493384263 8) q(0 0 7 -1) r(12 12) U11
+X-Redirect-By: WordPress
+
+

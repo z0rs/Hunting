@@ -1,0 +1,252 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://accounts.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: accounts.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://accounts.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Security-Policy: default-src 'self' img-src: 'self' data: https: fonts.googleapis.com fonts.gstatic.com google-analytics.com www.google-analytics.com unimelb.edu.au about.unimelb.edu.au umsu.unimelb.edu.au events.unimelb.edu.au gsa.unimelb.edu.au umsu.unimelb.edu.au https://sso-sit.unimelb.edu.au/ https://sso.unimelb.edu.au/ https://sso-uat.unimelb.edu.au/; object-src 'none'; style-src 'self' fonts.googleapis.com 'unsafe-inline'; base-uri http://localhost:8020/ https://accountsetup-dev.unimelb.edu.au/ https://accountsetup-uat.unimelb.edu.au/ https://accountsetup.unimelb.edu.au/; script-src 'self'
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 06 Aug 2025 15:17:02 GMT
+Referrer-Policy: same-origin
+Set-Cookie: visid_incap_2852739=4BQ1X+L1SueFlWaze4KqKO5xk2gAAAAAQUIPAAAAAADxh1a5W5kqOvqOqZ6gV79F; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_2852739=sqZAQJjepk/mTnbBjh9q7gAAAACFxV1AZYptu31tNGkhDgJi; HttpOnly; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_2852739=zaxcWD3pAXWJw2xVQi5fFe5xk2gAAAAAif7h5cS4uR3dGLSi9C3BMw==; path=/; Domain=.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Cookie, origin
+X-Cdn: Imperva
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Iinfo: 9-3452393-3452394 NNYN CT(210 223 0) RT(1754493422112 7) q(0 0 4 -1) r(6 7) U11
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head><script src="/wixt-The-rise-Physickes-onces-and-of-Caldrend-da" async></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <title>
+        
+        
+    </title>
+    
+ 
+
+<link rel="icon" href="/static/img/favicon.png">
+
+
+<link crossorigin="anonymous" href="/static/src/branding.css" integrity="sha256-IOX4tkpGVv4ePnEyujPFy68nrY9mSUR6SFJwQo0nXi4=" rel="stylesheet" type="text/css">
+<link crossorigin="anonymous" href="/static/vendor/%40fortawesome/fontawesome-pro/css/all.min.css" integrity="sha256-CZtregfn3vjHbyD3LPhEvwaUI6TOuYOCk/UrNMWNo0Y=" rel="stylesheet" type="text/css">
+<link crossorigin="anonymous" href="/static/vendor/%40fortawesome/fontawesome-pro/css/sharp-regular.min.css" integrity="sha256-sE7w6x27XukQsyXuCOSuYHTXqWbNmgm/PYVPsjPrkiU=" rel="stylesheet" type="text/css">
+<!-- <link crossorigin="anonymous" href="/static/vendor/slider-pro-js/build/index.8a69fad4.css" integrity="sha256-jf0S8bOlzDHK6Ss+1XBaPmtLzqJK+kXGthFoHcXw3kY=" rel="stylesheet" type="text/css"> -->
+<link crossorigin="anonymous" href="/static/vendor/material-icons/iconfont/index.2247a7ac.css" integrity="sha256-RKBi8yL02jGwfmL1UymOEJv0CziJuhiWso+B46UJ9no=" rel="stylesheet" type="text/css">
+<link crossorigin="anonymous" href="/static/css/custom.css" integrity="sha256-nRPDwa9sI6XT3k2MW6oii40fyLZtMLABLRs0cf3NSaw=" rel="stylesheet" type="text/css">
+
+
+</head>
+
+<body id="body" class="">
+    
+<nav class="navbar navbar-dark bg-primary navbar-expand-lg">
+    <div class="container-fluid" style="align-items: flex-start !important">
+      <a id="link_main_menu_logo" class="navbar-brand " href="/" aria-label="­­­­Mothership" alt="University of Melbourne" tabindex="0">
+        <img id="logo" src="/static/img/logo.47e89686.svg" class="ms-2 d-inline-block align-top" style="width: 85px" alt="University of Melbourne logo">
+        <span class="text-brand ms-4 text-wrap">
+        <svg width="18" height="4">
+            <line x1="0" y1="0" x2="20" y2="0" style="stroke: #fff; stroke-width: 4px"></line>
+        </svg><br>
+        IT Account Management</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="offcanvas offcanvas-end text-bg-dark" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+        <div class="offcanvas-header bg-primary">
+          <h5 class="offcanvas-title source-font" id="offcanvasDarkNavbarLabel">IT Account Management</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body bg-primary" style="flex-direction: column">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 top-nav">
+            <li class="nav-item">
+              <a class="nav-link text-teal top-menu-font-size" aria-current="page" href="#">&nbsp;</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+            <li class="nav-item">
+              <a class="nav-link over_info active" aria-current="page" href="/">Home</a>
+            </li>
+            <!-- 
+              <li class="nav-item">
+                <a class="nav-link over_info" id="login_menu" aria-current="page" href="/protect/">Login</a>
+              </li>
+             -->
+          </ul>
+          <!-- <form class="d-flex mt-3" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-success" type="submit">Search</button>
+          </form> -->
+        </div>
+      </div>
+    </div>
+  </nav>
+    
+    
+
+    <div class="container-sm" style="min-height: 500px;">
+
+      
+
+ 
+     
+    <div class="row">
+        <div class="col-8">
+    &nbsp;
+        </div>
+        <div class="col-4 text-right">
+    &nbsp;
+        </div>
+    </div>
+
+
+
+<p>This page is no longer available as part of a new Identity Management System. Please go to <a href="https://accounts.unimelb.edu.au/">this page</a> for Student Account Creation and password resets. It will also link you to Staff password resets.</p><p>&nbsp;</p><p>&nbsp;</p>
+
+
+
+
+    </div>
+
+    
+<footer id="footer" class="container-fluid bg-primary mt-4 pb-2 d-print-none">
+    <div id="footerContainer" class="container py-5">
+        <div class="col-md-10 mx-auto">
+            <div class="row mt-4 mb-3">
+                <div class="col-md-8">
+                    <h2 class="display-0" style="position: absolute !important; left: -999em !important;">Footer</h2>
+                    <h3 class="text-white fw-bold pt-0 mb-3">
+                        We acknowledge and pay respect to the Traditional Owners of the lands upon which our campuses are situated
+                    </h3>
+                    <a target=”_blank href="https://about.unimelb.edu.au/reconciliation" class=" text-white fs-5 no-underline-link" style="fw: 500;">
+                            Read about our commitment to reconciliation <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                    </a>
+                </div>
+                <div class="col-md-4 mt-3" id="footerLogoBox">
+                    <a target=”_blank href="https://unimelb.edu.au">
+                        <img alt="University of Melbourne Logo" id="logo" class="mx-auto d-block"
+                            src="/static/img/logo.47e89686.svg" style="width: 120px;"> 
+                    </a>
+                    <br>
+                    <div class="mx-auto col-md-6">
+                        <ul class="list-group list-group-horizontal list-unstyled">
+                            <li class="mx-auto"><a class="text-white" target=”_blank href="https://www.facebook.com/unimelb" aria-label="facebook"><i class="fab fa-facebook-square fa-lg"></i></a></li>
+                            <li class="mx-auto"><a class="text-white" target=”_blank href="https://twitter.com/unimelb" aria-label="twitter"><i class="fab fa-twitter fa-lg"></i></a></li>
+                            <li class="mx-auto"><a class="text-white" target=”_blank href="https://www.linkedin.com/school/university-of-melbourne" aria-label="linked in"><i class="fab fa-linkedin fa-lg"></i></a></li>
+                            <li class="mx-auto"><a class="text-white" target=”_blank href="https://www.instagram.com/unimelb/" aria-label="instagram"><i class="fab fa-instagram fa-lg"></i></a></li>
+                        </ul>  
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-3">
+                    <div class="mb-4">
+                        <a target=”_blank href="https://about.unimelb.edu.au/" class="text-white fw-bold no-underline-link">
+                            About us <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                        </a> 
+                    </div>
+                    <div class="mb-4">
+                        <a target=”_blank href="https://about.unimelb.edu.au/careers" class="fw-bold text-white no-underline-link">
+                            Careers at Melbourne <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                        </a>
+                    </div>
+                    <div class="mb-4">
+                        <a target=”_blank href="https://students.unimelb.edu.au/student-life/policy-and-conduct/respect-at-the-university" class="fw-bold text-white no-underline-link">
+                            Safety and Respect <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                        </a>
+                    </div>
+                    <div class="mb-4">
+                        <a target=”_blank href="https://www.unimelb.edu.au/newsroom" class="fw-bold text-white no-underline-link">
+                            Newsroom <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                        </a>
+                    </div>
+                    <div class="mb-4">
+                        <a target=”_blank href="https://www.unimelb.edu.au/contact" class="fw-bold text-white no-underline-link">
+                            Contact <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="text-white">
+                        <p class="mb-4">
+                            Phone: 13 MELB (13 6352) <br>
+                            International: +61 3 9035 5511
+                        </p>
+                        <p class="mb-4">
+                            Address:<br>
+                            The University of Melbourne <br>
+                            Grattan Street, Parkville, <br>
+                            Victoria, 3010, Australia
+                        </p>
+                        <a target=”_blank href="https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/campus-locations" class="fw-bold text-white no-underline-link">
+                            View all Campus Locations <i class="fal fa-chevron-right fa-xs text-white text-decoration-none mx-1"></i>
+                        </a>
+                    </div>    
+                </div>
+            </div>            
+        </div>
+    </div>
+</footer>
+<footer id="footer" class="container-fluid mt-0 text-white d-print-none" style="background-color: #012a58;">
+    <div id="footerContainer" class="container py-5">
+            <div class="col-md-10 mx-auto">
+                <div class="row">
+                <div class="col-lg-7">
+                    <ul class="list-group list-group-horizontal list-unstyled">
+                        <li class="me-3"><a class="text-white fw-bold no-underline-link" target=”_blank href="https://safety.unimelb.edu.au/emergency">Emergency</a></li>
+                        <li class="mx-3"><a class="text-white fw-bold no-underline-link" target=”_blank href="https://www.unimelb.edu.au/legal">Terms & Privacy</a></li>
+                        <li class="mx-3"><a class="text-white fw-bold no-underline-link" target=”_blank href="https://www.unimelb.edu.au/accessibility">Accessibility</a></li>
+                        <li class="mx-3"><a class="text-white fw-bold no-underline-link" target=”_blank href="https://about.unimelb.edu.au/strategy/governance/compliance-obligations/privacy">Privacy</a></li>
+                    </ul>  
+                </div>        
+                <div class="col-lg-5">
+                    <ul class="list-group list-group-horizontal list-unstyled">
+                        <li class="mx-3">CRICOS number: 00116K</li>
+                        <li class="mx-3">ABN: 84 002 705 224</li>
+                    </ul>  
+                </div>
+                </div>
+            </div>
+    </div>
+</footer>
+
+
+
+        
+
+
+
+<script crossorigin="anonymous" integrity="sha256-zp/vvFof/T1X942E3d5F8BuzpabieAxSnuVQ7MxGCb8=" src="/static/src/index.954a1f02.js"></script>
+<!-- <script crossorigin="anonymous" integrity="sha256-TSKqpwX6oq2G6BrpDv2C5rmIpfakPKFFEJNR9oFb/Uo=" src="/static/src/slider-pro.js"></script> -->
+
+    
+    
+    
+    
+</body>
+
+</html>

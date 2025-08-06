@@ -1,0 +1,980 @@
+[CVE-2017-18590] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2017-18590] Dumped HTTP response https://lecao-lab.science.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:01 GMT
+Link: <https://lecao-lab.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://lecao-lab.science.unimelb.edu.au/wp-json/wp/v2/pages/31>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://lecao-lab.science.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+
+<!DOCTYPE html>
+
+<html lang="en-AU" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://lecao-lab.science.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Lê Cao Lab &#8211; Computational statistics and biology</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Lê Cao Lab &raquo; Feed" href="https://lecao-lab.science.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lê Cao Lab &raquo; Comments Feed" href="https://lecao-lab.science.unimelb.edu.au/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/lecao-lab\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://lecao-lab.science.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://lecao-lab.science.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://lecao-lab.science.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://lecao-lab.science.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<link rel="https://api.w.org/" href="https://lecao-lab.science.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://lecao-lab.science.unimelb.edu.au/wp-json/wp/v2/pages/31" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lecao-lab.science.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel="canonical" href="https://lecao-lab.science.unimelb.edu.au/" />
+<link rel='shortlink' href='https://lecao-lab.science.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://lecao-lab.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flecao-lab.science.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://lecao-lab.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flecao-lab.science.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://lecao-lab.science.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template page-template-page-templates page-template-page-small-image page-template-page-templatespage-small-image-php page page-id-31 page-parent wp-theme-unimelb unimelb-normal-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://lecao-lab.science.unimelb.edu.au" title="Lê Cao Lab" itemprop="item">
+					<span itemprop="name">Lê Cao Lab</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://blogs.unimelb.edu.au/lecao-lab/files/2017/09/cropped-lionsHeadTableMountain_Cropped-1rgaklw.jpg)">
+						<div>
+									<h1>Lê Cao Lab</h1>
+											<p>Computational statistics and biology</p>
+									</div>
+			</header>
+		
+
+	<div class="layout-sidebar layout-sidebar--right">
+
+		<div class="layout-sidebar__main box">
+
+			<div class="layout-sidebar__main__inner box">
+
+
+			<section>
+
+				
+					
+						
+							<article id="post-31" class="post-31 page type-page status-publish hentry">
+
+	<h1 class="entry-header">Home</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab305" role="tab">News</a><a href="#tab94" role="tab">Research</a><a href="#tab13" role="tab">People</a><a href="#tab28" role="tab">Outputs</a><a href="#tab16" role="tab">Resources</a><a href="#tab20" role="tab">Opportunities</a><a href="#tab23" role="tab">Contact</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<p>Welcome to the website of Prof. Kim-Anh Lê Cao’s lab group at <a href="http://research.unimelb.edu.au/integrative-genomics">Melbourne Integrative Genomics</a> and the <a href="http://www.ms.unimelb.edu.au">School of Mathematics and Statistics</a>, University of Melbourne!</p>
+<p><strong>Our lab focuses on the development of computational methods, their applications in areas informed by biology, and the training of the new generation of computational biologists and data analysts. </strong>Our area of expertise is in the integration of biological ‘omics data (transcriptomics, proteomics, metabolomics etc., as well as microbiome, metagenomics, single cell transcriptomics and multi-omics) with multivariate and dimension reduction methodologies, selection of features of biomarkers in large biological data sets and R software development. Our group provides critical collaborative expertise to biologists, bioinformaticians, statisticians and clinicians and welcomes budding data analysts.</p>
+<h4><strong>Our aim is to broadly enable scientific progress well beyond statistical development itself</strong><strong>. We value creative thinking in statistical methodological development to address critical challenges arising from high throughput biological research.</strong></h4>
+<p>&nbsp;</p>
+<p>More news about  <a href="https://lecao-lab.science.unimelb.edu.au/files/2017/09/MixOmics-Logo-copy-1efbo7q.jpg" data-build-figure="inset-left"><img decoding="async" class="wp-image-161" src="https://lecao-lab.science.unimelb.edu.au/files/2017/09/MixOmics-Logo-copy-1efbo7q.jpg" alt="" width="90" height="44" /></a> (workshops and updates): <a href="http://www.mixOmics.org" target="_blank" rel="noopener noreferrer">www.mixOmics.org</a></p>
+<p>&nbsp;</p>
+<p><strong><a href="https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2.png" data-build-figure="inset-left"><img loading="lazy" decoding="async" class="alignright wp-image-434 size-medium" src="https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2-300x298.png" alt="" width="300" height="298" srcset="https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2-300x298.png 300w, https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2-1024x1018.png 1024w, https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2-150x150.png 150w, https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2-768x763.png 768w, https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2-600x596.png 600w, https://lecao-lab.science.unimelb.edu.au/files/2020/04/180283_39crop2.png 1149w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></strong></p>
+<p><strong>Lab head: </strong><a href="https://findanexpert.unimelb.edu.au/display/person791255">Prof Kim-Anh Lê Cao</a><br />
+Director of <a href="http://research.unimelb.edu.au/integrative-genomics">Melbourne Integrative Genomics</a> (MIG)<br />
+Director of research (Maths &amp; Stats)<br />
+Melbourne Integrative Genomics &amp; School of Mathematics and Statistics<br />
+Building 184 ground floor | University of Melbourne | Parkville VIC 3010</p>
+<p><span style="color: #0000ff;">@</span>: kimanh.lecao[ at ]unimelb.edu.au | <span style="color: #0000ff;">twitter</span>: @mixOmics_team | <span style="color: #0000ff;">Ph</span>: +61 3 8344 3971</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h1>News</h1>
+<p>Click on <a href="https://lecao-lab.science.unimelb.edu.au/category/events/">this link to read all our News</a></p>
+<ul class="wmd-block-news block-listing"  id="wmd-block-news-68937229e454a">                    <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2025/04/04/neighbournet/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2025/04/Screenshot-2025-04-04-at-9.08.49 am.png);"></div>
+                                                        <strong>NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery</strong>
+                            <p>We introduce the latest work from our PhD student Yidi Deng (who has already secured a postdoc position at ANU!).
+Understanding how genes interact at the single-cell level is key to unlocking the complexity of biological systems. Traditional GRN inference often overlooks the nuances within individual cells by relying on predefined clusters or assuming static regulation.
+NNet has been designed to construct …</p>
+                            <div class="meta">
+                                <span class="meta-left">April 4, 2025</span>
+                                <span class="meta-right">News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2025/02/12/%cf%86-space-st/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2025/02/intro-600x251.png);"></div>
+                                                        <strong>Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies + seminar recording</strong>
+                            <p>Dr Jiadong Mao has worked on an extension of his previous method Φ-Space for spatial transcriptomics studies! We are very excited about these new developments and the potential of Φ-Space for single cell annotation!
+
+Φ-Space ST is:
+
+ 	A novel and fast approach for cell type composition analysis.
+ 	Platform-Agnostic and Scalable as it works across multiple spatial transcriptomics (ST) platforms, including CosMx, …</p>
+                            <div class="meta">
+                                <span class="meta-left">February 12, 2025</span>
+                                <span class="meta-right">single cell, s,...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2025/01/20/mixomics-online-workshop-starts-24th-feb-registrations-are-open/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2022/08/MixOmics-Logo-600x296.jpg);"></div>
+                                                        <strong>mixOmics online workshop starts 24th Feb, registrations are open</strong>
+                            <p>Registrations for our next online course are now open!
+
+Registration and details: https://mixomics.org/2024/12/online-course-feb-24-april-11-2025/  
+
+This course is designed for:
+
+ 	Beginners looking for an introduction to mixOmics methods for single- and multi-omics analyses.
+ 	Current mixOmics users who want to deepen their understanding of the methods.
+ 	Participants who would like more guidance on analyzing their own data (we also provide exemplar datasets and a …</p>
+                            <div class="meta">
+                                <span class="meta-left">January 20, 2025</span>
+                                <span class="meta-right">workshop, mixOm...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2025/01/20/semisynthetic-simulation-microbiome/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2025/01/simulation_workflow-600x139.png);"></div>
+                                                        <strong>Semisynthetic Simulation for Microbiome Data Analysis</strong>
+                            <p>Dr Kris Sankaran (University of Wisconsin) was one of our Belz recipient from the School of Maths &amp; Stats and came for 6-week visit to our lab. We worked on expanding scDesign3 to the simulation of realistic microbiome data in several analytical scenarios and tested our tutorials and resources in 3 face-to-face workshops hosted by the School.
+
+ 	Our framework starts …</p>
+                            <div class="meta">
+                                <span class="meta-left">January 20, 2025</span>
+                                <span class="meta-right">microbiome, omi...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2025/01/03/gene-microbes-predictors-grf/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2025/01/Screenshot-2025-01-02-at-12.07.40 pm-600x464.png);"></div>
+                                                        <strong>Gene Content of Seawater Microbes is a Strong Predictor of Water Chemistry Across the Great Barrier Reef</strong>
+                            <p>PhD candidate Marko Terzin from James Cook University and the Australian Institute of Marine Science (AIMS) has spent a few months in 2023 in our lab to complement his learning about mixOmics techniques to analyse his data. He is back this year to finish off his PhD.
+
+In this study, Marko analysed seawater metagenomics samples to better understand the Great Barrier …</p>
+                            <div class="meta">
+                                <span class="meta-left">January 3, 2025</span>
+                                <span class="meta-right">Manuscript, PLS...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2025/01/02/global-picoplankton-biogeography-revealed-by-metagenomic-and-climatic-data-integration/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2025/01/Screenshot-2025-01-02-at-11.36.28 am-600x311.png);"></div>
+                                                        <strong>Global picoplankton biogeography revealed by metagenomic and climatic data integration</strong>
+                            <p>Vini Salazar is reaching the end of his PhD candidature (and has already secured a continuing position at Melbourne Bioinformatics, UoM 🎉). His preprint is one of this major contributions of his PhD thesis (he also published Metaphor, to assemble metagenomes)!
+
+ 	We compiled and bioinformatically processed 1454 metagenomes from multiple sampling consortia, resulting in the largest integrated surface ocean metagenome …</p>
+                            <div class="meta">
+                                <span class="meta-left">January 2, 2025</span>
+                                <span class="meta-right">Manuscript, PLS...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2024/08/15/plsko/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2024/08/PLSKO_ver2.jpg);"></div>
+                                                        <strong>PLSKO: a robust knockoff generator to control false discovery rate in omics variable selection</strong>
+                            <p>Our PhD student Guannan Yang has submitted her first manuscript!
+
+PLSKO is a new and robust knockoff variable generator that is applicable to various types of omics data. Knockoff generators enable to create 'knockoff copies' of original data to control for False Discovery Rate without the need to calculate p-values.
+
+PLSKO is:
+
+ 	assumption-free
+ 	controls FDR with sufficient statistical power in omics studies
+ …</p>
+                            <div class="meta">
+                                <span class="meta-left">August 15, 2024</span>
+                                <span class="meta-right">Manuscript, omi...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2024/07/03/%cf%86-space/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2024/07/Screenshot-2024-07-03-at-8.42.13 AM.png);"></div>
+                                                        <strong>Φ-Space: Continuous phenotyping of single-cell multi-omics data with video!</strong>
+                            <p>Jiadong Mao has developed a new PLS method for cell type continuous annotation of single cells, now in preprint!
+
+ 	Φ-Space addresses numerous challenges faced by state-of-the-art automated annotation methods:
+
+ 	to identify continuous and out-of-reference cell states,
+ 	to deal with batch effects in reference,
+ 	to utilise bulk references and multi-omic references.
+
+
+ 	Φ-Space uses soft classification to phenotype cells on a continuum. …</p>
+                            <div class="meta">
+                                <span class="meta-left">July 3, 2024</span>
+                                <span class="meta-right">single cell, vi...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2024/05/17/lupine/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2024/05/lupine_flower-600x447.jpg);"></div>
+                                                        <strong>Microbial network inference for longitudinal microbiome studies with LUPINE with video!</strong>
+                            <p>Dr Saritha Kodikara has developed a PLS-based to infer microbial networks across time!
+
+ 	LUPINE is a PLS-based method that combines dimension reduction, and partial correlations to infer associations between taxa.
+ 	LUPINE takes into account information across time points
+ 	LUPINE has been designed for relatively small sample sizes and small number of time points
+
+
+Microbial network inference for longitudinal microbiome studies with …</p>
+                            <div class="meta">
+                                <span class="meta-left">May 17, 2024</span>
+                                <span class="meta-right">microbiome, News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2023/12/19/translating-big-data-into-better-health-thanks-to-major-grant/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2023/12/20230623-kim-anh-le-cao-014-crop-600x540.jpg);"></div>
+                                                        <strong>Translating big data into better health thanks to major grant</strong>
+                            <p>[from the faculty of science newsroom, written by Rebecca Colless]
+
+
+Biological markers predicting pre-eclampsia – a pregnancy disorder that causes premature births and serious health problems for mothers and babies – and a better understanding of antibiotic resistance are among the potential outcomes of new research being led by a Faculty of Science statistician.
+
+Professor Kim-Anh Lê Cao from the School of …</p>
+                            <div class="meta">
+                                <span class="meta-left">December 19, 2023</span>
+                                <span class="meta-right">News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2023/12/04/deans-honours-award-for-phd-thesis-to-dr-yiwen-wang/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2023/12/Eva-Photo-News-1-e1701987359557-600x496.jpg);"></div>
+                                                        <strong>Dean’s Honours Award for PhD thesis to Dr Yiwen Wang</strong>
+                            <p>Our former student, Dr Yiwen (Eva) Wang was awarded the Dean’s Honours Award on November 22nd, an award that recognises excellence in a PhD thesis submitted in the previous year. Dr Wang conducted her research at Melbourne Integrative Genomics and the School of Mathematics and Statistics, under the supervision of Prof Kim-Anh Lê Cao.
+
+
+
+The Dean of Science, Moira O’Bryan and …</p>
+                            <div class="meta">
+                                <span class="meta-left">December 4, 2023</span>
+                                <span class="meta-right">News</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://lecao-lab.science.unimelb.edu.au/2023/10/19/stablemate/">
+                                                            <div class="block-listing__img" style="background-image: url(https://lecao-lab.science.unimelb.edu.au/files/2023/10/intro1-600x162.jpg);"></div>
+                                                        <strong>StableMate to select stable predictors in omics data</strong>
+                            <p>
+
+
+
+
+Variable selection in 'omics data is essential to identify reliable markers of diseases, or shed light into molecular mechanisms. however, many variable selection methods in multivariate analysis (e.g. lasso or elastic net penalised regression, machine learning approaches) lack of robustness against small variation in the data.
+
+PhD student Yidi Deng was inspired by the stabilised regression framework from Pfister et al. (2021) that enables …</p>
+                            <div class="meta">
+                                <span class="meta-left">October 19, 2023</span>
+                                <span class="meta-right">Manuscript, omi...</span>
+                            </div>
+                        </a>
+                    </li>
+                    </ul>
+			</div>
+
+							<div class="tab" id="tab305" role="tabpanel">
+				<p>Click on <a href="https://lecao-lab.science.unimelb.edu.au/category/events/">this link to read all our News</a></p>
+				</div>					
+							<div class="tab" id="tab94" role="tabpanel">
+				<p>Our lab specialises computational methods and software developments, as well as the application of our methods and tools to biological data sets generated by our collaborators.</p>
+<h3><strong>Data integration methods using multivariate projection-based methodologies</strong></h3>
+<p>Our dimension reduction methods are based on the Projection to Latent Structures algorithm (PLS, a term we prefer to Partial Least Squares regression, <a href="http://www.sciencedirect.com/science/article/pii/S0169743901001551">Wold et al. 2001</a>) that are combined with LASSO regularization to identify important biological features or biomarkers in large-scale biological data sets.  Our <strong>latest</strong> <strong>frameworks</strong> include <a href="http://mixomics.org/diablo-2/">DIABLO</a> (<a href="https://academic.oup.com/bioinformatics/article-abstract/35/17/3055/5292387/?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Singh et al. 2019</a>) to integration multiple data sets measured on the same N samples (N-integration); <a href="http://mixomics.org/mixmint/">MINT</a> (<a href="https://www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiCmuC4scTWAhVGo5QKHWRjA4wQFggmMAA&amp;url=https%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticles%2F10.1186%2Fs12859-017-1553-8&amp;usg=AFQjCNEr5-_zXFPtsYjNt4EcPSXtdQCxew">Rohart et al. 2017a</a>) to integrate independent studies measured on the same P variables / genes (P-integration) and <a href="http://mixomics.org/mixmc-mixomics-for-16s-microbial-communities/">mixMC</a> (<a href="https://www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwj16-rIscTWAhXIsJQKHYWIAEYQFggmMAA&amp;url=http%3A%2F%2Fjournals.plos.org%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0160169&amp;usg=AFQjCNHGzkmsJKdj66GNtwaX9abItY9CYg">Lê Cao et al. 2016</a>) for the multivariate analysis of microbial communities, timeOmics (<a href="https://pubmed.ncbi.nlm.nih.gov/34554215/">Bodein et al. 2020</a>) to integrate microbiome and ‘omics time course data.</p>
+<p>We are interested in developing new multivariate methodologies to</p>
+<ul>
+<li>integrate multi-omics single cell data on matching cells (multiome ATAC-seq, CITE-seq, scNMT-seq)</li>
+<li>integration of multi-omics time course data</li>
+<li>integrate multi-omics and microbiome data</li>
+</ul>
+<h3></h3>
+<h3><strong>mixOmics R toolkit package (</strong><a href="http://www.mixOmics.org)"><strong>www.mixOmics.org)</strong></a></h3>
+<p>mixOmics is one of the few R package dedicated to the integration of multiple ‘omics data (19 novel methodologies implemented so far, amongst which 13 were developed by our lab) and with an increasing uptake from the research community. The package is in the top 5% downloads in Bioconductor ( ~ 80K downloads / year). Check our our recent publication (<a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005752">Rohart et al. 2017b</a>) and and <a href="http://mixomics.org/2019/09/webinar-mixomics-in-50-minutes/">50-min webinar</a> overview about this project. The mixOmics team run multiple day workshops for an introduction to multivariate projection-based methods for data integration using mixOmics, see our website <a href="http://www.mixOmics.org">www.mixOmics.org</a> for news, tutorials, online courses. We continuously improve our software to support our growing userbase.</p>
+<h3></h3>
+<h3><strong>Multivariate methods for microbiome studies</strong></h3>
+<p>There are major statistical and computational challenges in analysing microbial communities that currently hinder the potential of microbiome research to substantially advance biomedical understanding. We are currently expanding mixMC to better characterise and understand important microbiome-host interactions. Some of our methods developments aim at addressing batch effects in microbiome experiments and analyse scarce temporal sampling in time course studies.</p>
+<p>We analyse microbiome datasets from our collaborators for a wide range of studies, including investigating the role of gut and oral microbiome in spondyloarthropathy diseases, the development of intestinal or salivary microbiota in toddlers and infants, investigating the gut-brain crosstalk in Huntington’s disease, anaerobic digestion in fermenters.</p>
+				</div>					
+							<div class="tab" id="tab13" role="tabpanel">
+				<p><img fetchpriority="high" decoding="async" class="aligncenter wp-image-699" src="https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025-1024x683.jpg" alt="" width="700" height="467" data-build-figure="inset-right" srcset="https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025-1024x683.jpg 1024w, https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025-300x200.jpg 300w, https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025-768x512.jpg 768w, https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025-1536x1024.jpg 1536w, https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025-600x400.jpg 600w, https://lecao-lab.science.unimelb.edu.au/files/2025/04/LeCaoLab2025.jpg 1920w" sizes="(max-width: 700px) 100vw, 700px" /></p>
+<p style="text-align: center;">Lab retreat 2025 in Healesville, featuring (left to right, back to front):</p>
+<p style="text-align: center;">David, Chengyi, Jiadong, Marko, Dan, Xiaochen;</p>
+<p style="text-align: center;">Bin, Eva, Saritha, Eva H, Kim-Anh, Guan, Yifan</p>
+<p><strong>Current members</strong></p>
+<p>Staff members</p>
+<ol>
+<li>[new R mixOmics developer, <a href="https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career/details/R-Software-Developer-in-Omics--Research-Fellow-_JR-000733">application</a> close 21st July 2025]</li>
+<li>David Hirst, postdoctoral fellow [omics, data integration]</li>
+<li>Yiwen (Eva) Wang, postdoctoral fellow [microbiome and batch effects, developer of <a href="https://lecao-lab.science.unimelb.edu.au/2023/01/20/article-plsda-batch/">PLS-DA batch</a> during her PhD]</li>
+<li>Jiadong Mao, postdoctoral fellow [single cell annotation for omics and spatial using projection methods, developer of <a href="https://lecao-lab.science.unimelb.edu.au/2024/07/03/φ-space/">Phi-space</a>]</li>
+<li>Saritha Kodikara, postdoctoral fellow [longitudinal microbiome data, developer of <a href="https://lecao-lab.science.unimelb.edu.au/2024/05/17/lupine/">Lupine</a>]</li>
+</ol>
+<p>Higher Degree Research PhD students (<em>italic</em> = co-supervision)</p>
+<ol>
+<li>Zuzana Leova, PhD candidate, co-supervision with David Hirst [quantum computing, omics],</li>
+<li>Chengyi Ma, PhD candidate, co-supervision with Jiadong Mao [deep learning, omics and integration with imaging data]</li>
+<li><em>Yeganeh Kazaei</em>, PhD candidate, with <a href="https://findanexpert.unimelb.edu.au/profile/138686-mihiri-silva">Mihiri Silva</a> (main supervisor) &amp; <a href="https://dental.unimelb.edu.au/about/staff/professors/dashper-stuart">Stuart Dashper </a> from Melbourne Dental School, and Saritha Kodikara [dental caries, predictive models]</li>
+<li>Xiaochen Zhang, PhD candidate, co-supervision with Jiadong Mao [deep generative models applied to single cell RNA-seq, quantum computing applied to omics]</li>
+<li>Guannan Yang, PhD candidate, with Prof Eva Dimitriadis and Dr Elle Menkhorst, <span lang="EN-GB">Department of Obstetrics and Gynaecology [knock-off methods for bulk omics data, developer of PLS-KO]</span></li>
+<li><em>Daniel Rawlinson</em>, PhD candidate, with <a href="https://www.doherty.edu.au/people/professor-lachlan-coin">Prof Lachlan Coin</a> (main supervisor), Doherty Institute [variable selection, bulk and single cell multi-omics data, developer of <a href="https://www.biorxiv.org/content/10.1101/2024.07.03.601811v1">Forward Selection-PLS</a>]</li>
+</ol>
+<p>Higher Degree Research Msc students by coursework</p>
+<ol>
+<li>Samantha Young, Msc Statistics, co-supervision with Yiwen Wang [microbiome]</li>
+<li>Chris Dalas Christodoulides, co-supervision with Saritha Kodikara [ecological measures, multi-block]</li>
+<li><em>Bin Xie</em>, main supervision by Eva Yiwen Wang</li>
+</ol>
+<p>Visitors (see our list of past visitors <a href="https://lecao-lab.science.unimelb.edu.au/home/opportunities/">here</a>)</p>
+<ol>
+<li>Emile Mardoc, research fellow, Metagenopolis INRAE, 6 weeks, 2025.</li>
+</ol>
+<p><strong>We welcome students and academics who are interested in statistical analysis of omics data and wish to attend our fortnight group meetings! </strong></p>
+<p>&nbsp;</p>
+<p><strong>Alumni staff</strong></p>
+<ol>
+<li>Eva Hamrud, R mixOmics developer</li>
+<li>Max Bladen, now research assistant in genomics</li>
+<li>Daniel Tien Phung, now PhD student</li>
+<li>Al J Abadi, now Senior Data Scientist</li>
+<li>Katherine Lange, Murdoch Research Institute</li>
+<li>Dr Aleksandar Dakic</li>
+<li>Dr Zitong Li, now Senior scientist at CSIRO</li>
+<li>Dr Malathi Imiyage Dona, postdoctoral fellow at Baker institute</li>
+<li><a href="http://florian.rohart.free.fr/Professional_page/Home.html">Dr Florian Rohart</a> , now Senior Strategic Insights Lead</li>
+<li>Nicholas Matigian &#8211; now biostatistician at QFAB Bioinformatics</li>
+<li>Benoit Gautier &#8211; now teacher in mathematics in France.</li>
+</ol>
+<p><strong>Alumni students (PhD)</strong></p>
+<ol>
+<li>Vinícius Salazar, PhD candidate, with A/Prof <a href="http://www.phycoweb.net/">Heroen Verbruggen</a> &amp; Dr <a href="https://hudson.org.au/researcher-profile/vanessa-marcelino__trashed/">Vanessa Rossetto Marcelino</a> (MIG) [metagenomics analysis and integration with environmental variables, developer of <a href="https://lecao-lab.science.unimelb.edu.au/2023/08/02/metaphor/">Metaphor</a>], now bioinformatician (continuing position), at Melbourne Bioinformatics.</li>
+<li>Yidi Deng, PhD candidate, co-supervision with Dr Jarny Choi (St Vincent Institute) and Jiadong Mao [variable selection in bulk and single cell RNA-seq data, developer of <a href="https://lecao-lab.science.unimelb.edu.au/2022/04/03/sincast/">Sincast</a> and <a href="https://lecao-lab.science.unimelb.edu.au/2023/10/19/stablemate/">StableMate</a>], now postdoctoral fellow at ANU</li>
+<li>Eva Yiwen Wang, &#8216;<em>Statistical and Computational Methods for Microbiome Data Analysis</em>&#8216;, UoM, assistant professor at Agricultural Genomics Institute at Shenzhen, now McKenzie fellow at UoM.</li>
+<li>Aimee Hanson,  ‘<em>Lymphocyte receptors: Genomic structure and role in immune- mediated arthritis</em>’ with main supervisor Prof Matt Brown (QUT) and Diamantina Institute, Faculty of Medicine, University of Queensland, now research fellow at King&#8217;s college London.</li>
+<li>Farah Syeda Zahir, ‘<em>Obesity paradox: Exploring the relationship between adiposity and mortality in persons with Cardiovascular Disease and/or Type 2 Diabetes Mellitus</em>’, co-supervised with Dr Ahmed Medi (Diamantina Institute),  School of public Health, University of Queensland, now biostatistician at QFAB</li>
+<li>Jasmin Straube ‘<em>Development of statistical tools for integrating time course ‘omics’ data</em>’  with co-supervisors Dr Emma Huang and Dr Anne Bernard, QFAB and University of Queensland, now research fellow at QIMR</li>
+<li>Ralph Patrick ‘<em>Molecular interaction motifs in a system-wide network context: Computationally charting transient kinase-substrate phosphorylation events</em>’ with main supervisor A/Prof Mikael Boden, University of Queensland, now research fellow at Victor Chang institute</li>
+<li>Amrit Singh ‘<em>Blood biomarker panels of the late phase asthmatic response</em>’ with main supervisor <a href="https://www.hli.ubc.ca/profile/tebbutt/scott">Prof Scott Tebbutt</a>, University of British Columbia, Vancouver, Canada, now Assistant Professors at University of British Columbia</li>
+<li>Chao Liu ‘<em>Computational analysis of DNA repair pathways in breast cancer</em>’ with main supervisor Prof Mark Ragan, Institute for Molecular Bioscience, University of Queensland</li>
+</ol>
+<p><strong>Alumni students (Honours and Msc)</strong></p>
+<ul>
+<li>Pei-Hsiu (Edward) Kao, Msc Bioinformatics, co-supervision with Saritha Kodikara [microbiome atlas, T2D]</li>
+<li>Hongyu Zhao, Msc Statistics, co-supervision with Jiadong Mao [single cell, spatial]</li>
+<li>Yifan Qin, Msc Biotechnology, co-supervision with Jiadong Mao [spatial multi-omics, data analysis]</li>
+<li>Isaac Virshup,  MPhil <em>&#8216;Finding patterns of biologically meaningful transcript expression by examining heterogenous sets of cells&#8217;, </em>UoM with main supervisor Prof Christine Wells</li>
+<li>Qinwen Chen, Msc Statistics by coursework, UoM</li>
+<li>Guannan Yang, Honours, co-supervision with Prof Eva Dimitriadis and Dr Ellen Menkhorst (Department of Obstetrics &amp; Gynaecology)</li>
+<li>Sibi Xue, Msc Statistics by coursework, UoM</li>
+<li>Yinghua Shen, Msc Statistics by coursework, UoM</li>
+<li>Mengqi (Chi-Chi) Hu, Msc Bioinformatics by coursework, UoM</li>
+<li>Alana Butler, Master of Science (Bioinformatics), UoM, now research assistant at Monash University.</li>
+<li>Nicholas d&#8217;Arcy, Nicholas Mueller, University of Queensland</li>
+<li>Solange Pruilh, Zoe Welham, Vanessa Lakis, Priscilla Montfalet, Thom Cuddihy, Mourad Larbi, Jeff Coquery, Pierre Monget who did a research placement in our lab.</li>
+</ul>
+				</div>					
+							<div class="tab" id="tab28" role="tabpanel">
+				<h3><strong>Conventional publications</strong></h3>
+<p><a href="https://scholar.google.com.au/citations?hl=en&amp;user=amghzwsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Publications are listed here.</a> We are fervent advocates of open science and open data, with some manuscripts hosted in bioRxiv, and all R codes and scripts on our <a href="http://www.mixOmics.org">mixOmics</a> page and <a href="https://github.com/mixOmicsTeam/mixOmics">www.github/mixOmicsTeam</a> .</p>
+<h3><strong>Book</strong></h3>
+<p>Lê Cao K-A. and Welham Z (2021). <a href="http://mixomics.org/book/">Multivariate Data Integration Using R: Methods and Applications with the mixOmics package</a>. <em>CRC Chapman &amp; Hall</em>. 306 pages, 14 chapters.</p>
+<h3>Other publications (refereed by editorial board)</h3>
+<ul>
+<li>Huang BE, Clifford D and <strong>Lê Cao K-A </strong>(2014). The surprising benefit of passive-aggressive behaviour at Christmas parties: being crowned king of the crackers. <em>Medical Journal of Australia </em><strong>201</strong>(11):694-6 (Christmas issue, awarded first prize, radio interview from ABC Darwin, mentioned in the podcast from Two Shrink Pod (episode 21, Dec 2017)<em>.</em></li>
+<li>Clifford D, <strong>Lê Cao K-A </strong>and Huang BE (2014). The statistician’s guide to a cracking good Christmas party. <em>Significance </em><strong>11</strong>(5):44-7 (Christmas issue, doi: 10.1111/j.1740- 9713.2014.00784.x).</li>
+<li><strong>Lê Cao K-A</strong> (2019). Heroines of mathematics. <em>The Pursuit</em>, an engagement journal published at UoM (8.4K views, August 2019, co-written, leading to an interview at ABC radio with Myf Warhust)</li>
+<li><strong>Lê Cao K-A</strong> (2020). Get to know your microbiome better. <em>The Pursuit</em> (2.5K views, Jan 2020).</li>
+<li><strong>Lê Cao, K-A.</strong>, Abadi, A.J., Davis-Marcisak, E.F. <em>et al.</em>(2021) Community-wide hackathons to identify central themes in single-cell multi-omics. <em>Genome Biol</em> <strong>22, </strong></li>
+</ul>
+<h2>Awards and fellowships</h2>
+<p>2020 &#8211; 2022 <a href="https://scienceandtechnologyaustralia.org.au/what-we-do/superstars-of-stem/">Superstars of STEM</a> (Science Technology Australia) to gain advanced communication skills and increase the public visibility of women in STEM.</p>
+<p>2019            <a href="http://homewardboundprojects.com.au">Homeward Bound</a> year-long leadership program for women with a background in STEMM, culminating to a voyage in <a href="https://lecao-lab.science.unimelb.edu.au/2019/12/24/learnings-from-homeward-bound-and-antarctica/">Antarctica</a>.</p>
+<p>2019            The University of Melbourne <a href="https://science.unimelb.edu.au/news/deans-award-for-excellence-recipients">Dean&#8217;s Award for Excellence in Research</a> (mid-career)</p>
+<p>2019            <a href="https://mdhs.unimelb.edu.au/equity-and-diversity/georgina-sweet-laureate-fellowship">Georgina Sweet Award</a> created by Prof L Tilley (ARC Laureate) to promote female scientists with excellence in Quantitative Biomedical Science (up to 3 awards / year)</p>
+<p>2019 &#8211; 2022 Career Development Fellowship (CDF2) from the National Health and Medical Council Research (NHMRC)<em> ‘</em><em>Microbiome biomarkers of human disease: novel computational methods to facilitate therapeutic developments</em><em>’,</em> <strong>$483K.</strong></p>
+<p>2019              <a href="https://lecao-lab.science.unimelb.edu.au/2019/02/28/moran-medal-from-the-australian-academy-of-science/">Moran medal</a> from the Australian Academy of Science for contribution in the past 10 years in Statistical sciences in Australia (early-career, biennial)</p>
+<p>2015 &#8211; 2019 Career Development Fellowship (CDF1) from the National Health and Medical Council Research (NHMRC)<em> ‘Development of statistical methodologies and application to clinical cancer studies’,</em> <strong>$419K.</strong></p>
+<p>2009             Laurent-Duhamel triennial prize from the French Statistical Society for PhD thesis in Applied Statistics, Bordeaux, France.</p>
+<h2></h2>
+<h2>Current funding (UoM)</h2>
+<p>2021 – 2026     <em>MRFF Preventive and Public Health Research Initiative.</em> Infant2Child: Targeting common risk factors to optimise nutrition and reduce childhood dental caries in the first 2000 days. Dr M Silva, A/Prof Rachel Laws,  Dr Margarita Moreno-Betancur, Prof Stuart Dashper, Dr Miaobing Zheng, A/Prof Martin Hall, Prof David Burgner, Dr Ankur Singh, Associate Professor Nicky Kilpatrick, <strong>A/Prof K-A Lê Cao</strong>, Dr L Petrick. Total <strong>AUD$1,267,826.21</strong> (150k in 2024-2026)</p>
+<p>2021 – 2023     <em>Juvenile Diabetes Research Foundation</em> Australia, ENDIA Early-Mid Career Science Accelerator Awards <em>Influence of early life and maternal host-microbiota interactions on type 1 diabetes risk</em>. A/Prof E Hamilton Williams, Prof M Knip, A/Prof M Hill, <strong>A/Prof K-A Lê Cao</strong> , Prof Harrison. <strong>AUD$ 442,502</strong></p>
+<p>2021 – 2026     <em>National Institute of Dental and Craniofacial Research/National Institutes of Health</em> R01DE029838-01 <em>Reconstructing early life environmental exposures using tooth biomarkers and their influence on the trajectory of the oral microbiome and oral health in childhood</em>. Dr C Austin, Dr C Adler,  Prof M Arora, Dr M Bockman, Dr  P Curtin, A/Prof Hughes, <strong>A/Prof K-A Lê Cao</strong>, Dr L Petrick. Role: PI. Total <strong>USD$</strong> <strong>3,655,958.</strong> (~ USD$166.426 from Y3-5).  Icahn School of Medicine at Mount Sinai, University of Adelaide, Sydney and Melbourne.</p>
+<p>2020 &#8211; 2023 ARC Discovery Project DP200102903. <em>Empirical and computational solutions for multi-omics single-cell assays</em>. <strong>A/Prof K-A Lê Cao</strong>, Dr Heather Lee (UoN), A/Prof Matt Ritchie (WEHI) and A/Prof. Stephanie Bougeard (ANSES). Role: CIA. <strong>$650K</strong></p>
+<p>&nbsp;</p>
+<h2><strong>Patents</strong></h2>
+<p>The application of our methods and software has directly resulted in four biomedical patents.</p>
+<ol>
+<li>Gandhi M, Keane C, Lê Cao K-A, Vari F (2015). A method of assessing prognosis of lymphoma. WO/2016/134416. Priority 23/02/2016</li>
+<li>Thomas R, Mehdi A, Lê Cao K-A (2014). Kits and methods for the diagnosis, treatment, prevention and monitoring of diabetes. PCT/AU2014/050415. Priority 18/06/2015</li>
+<li>Hill M, Shah A, Lê Cao K-A (2014). Blood Test for Throat Cancer. WO/2016/077881. Priority 17/11/2015</li>
+<li>Musso O, Desert R, Rohart F, Lê Cao K-A. Method for predicting the survival time of a patient suffering from hepatocellular Carcinoma. EP17305436.2. Priority 12/04/2017</li>
+</ol>
+<h2>Past funding (UoM and University of Queensland)</h2>
+<p>2018 &#8211; 2021 <em>NHMRC Project Grant</em>, GNT1142456. <em>Enhancing host defence mechanisms in severe bacterial infections. </em>Dr A Blumenthal, Prof B Venkatesh, Prof D Evans, Dr <strong>K-A Lê Cao</strong>,  Prof G Ulett, A/Prof J Cohen<em>. </em>Role: CID. <strong>$837K</strong></p>
+<p>2018 &#8211; 2021 <em>NHMRC Project Grant</em>. GNT1144941. <em>Understanding how azithromycin prevents exacerbations in severe asthma. </em>Prof J Upham, Prof J Simpson, Dr K Baines, Dr <strong>K- A Lê Cao. </strong>Role: CID. <strong>$698K</strong></p>
+<p>2018 &#8211; 2019  <em>Silicon Valley Community Foundation, </em>HCA2-A-1708-02277<em>, </em><em>Multivariate computational methods for data integration of single cell assays. </em>Role: <strong>CIA</strong>. <strong>$132K</strong></p>
+<p>2018 – 2019 ARC Special Research Initiative in Stem cells Centre of Excellence, Stem Cells Australia led by Prof M Little (UoM). <strong>Role: co-CI</strong>. <strong>$3M, 1 research fellow in Lê Cao group.</strong></p>
+<p>2018             UoM Computational Biology Research Initiative seed funding. <em>Towards the understanding of gut-brain crosstalk in Huntington’s disease. </em>Role: <strong>CIA</strong>. <strong>$20K.</strong></p>
+<p>2016<strong>             </strong><em>Translational Research Institute SPORE grant</em>, <em>Obesity-induced Barrett’s oesophagus and associated cancer: mechanisms and diagnostic tools.</em> A/Prof M. Hill, Dr A. Barbour, <strong>Dr K-A. Lê Cao</strong> (<strong>CIC</strong>). <strong>$100K</strong></p>
+<p>2016             <em>Translational Research Institute </em><em>SPORE grant, Towards biomarkers for patient stratification in sepsis</em>, Dr A. Blumenthal, Prof B. Venkatesh, A/Prof J Cohen, <strong>Dr K-A. Lê Cao</strong>, Dr D. Vagenas, Prof I. Frazer (<strong>CID</strong>). <strong>$80K</strong></p>
+<p>2014 &#8211; 2015  <em>The Juvenile Diabetes Research Foundation (JDRF)</em>, 2-SRA-2015-306-Q-R, <em>A genetic link between gut microbial flora and T1D susceptibility</em>. Dr D. Zipris (University of Colorado) and co-CI from UQDI: Dr E. Hamilton-Williams, Dr J. Mullaney, A/Prof M. Hill, <strong>Dr K-A. Lê Cao</strong> (<strong>PI)</strong>. <strong>$500K</strong></p>
+<p>2014             <em>The Juvenile Diabetes Research Foundation (JDRF)</em>, 1-PNF-2014-153-A-V, <em>Risk of diabetes progression in at-risk subjects with metabolic and inflammatory signatures.</em> Prof R. Thomas (UQDI), <strong>K-A. Lê Cao</strong> et al. (<strong>PI</strong>). <strong>$110K</strong></p>
+<p>2014<strong>             </strong><em>UQ Major Equipment and Infrastructure</em>, 2014000102, <em>High throughput gene expression of patient samples via the Nanostring nCounter system.</em>  Prof M. Gandhi and 9 co-CI from UQDI, K-A. Lê Cao (<strong>CIJ</strong>). <strong>$169K</strong></p>
+<p>2014 &#8211; 2016  <em>NHMRC Project Grants Funding</em>, APP1058993, <em>Blood biomarkers in Hodgkin Lymphoma</em>. Prof M. Gandhi, Prof M. Fulham, A/Prof J. Trotman, Dr <strong>K-A. Lê Cao</strong>, Dr L. Berkahn. (<strong>CID)</strong>. <strong>$513K</strong></p>
+<p>2013 &#8211; 2015  <em>ARC Discovery Project</em>, DP130100777. <em>The Stemformatics gene expression compendium: development of multivariate statistical approaches for cross platform analyses.</em> A/Prof C. Wells, <strong>Dr K-A. Lê Cao</strong> (<strong>CIB</strong>). <strong>$269K, shared postdoctoral fellow.</strong></p>
+				</div>					
+							<div class="tab" id="tab16" role="tabpanel">
+				<p>Our lab aims to inspire younger generations of budding statisticians, data analysts and computational biologists to advance the field of computational biostatistics.</p>
+<p>All our members use GitHub and thrive for reproducible research, see:</p>
+<ul>
+<li><a href="https://github.com/ajabadi">https://github.com/ajabadi</a></li>
+<li><a href="https://github.com/EvaYiwenWang">https://github.com/EvaYiwenWang</a></li>
+<li><a href="https://github.com/abodein/timeOmics">https://github.com/abodein/timeOmics</a></li>
+<li><a href="https://github.com/ivirshup">https://github.com/ivirshup</a></li>
+<li><a href="https://github.com/mixOmicsTeam">https://github.com/mixOmicsTeam</a></li>
+<li><a href="https://github.com/SarithaKodikara">https://github.com/SarithaKodikara</a></li>
+<li><a href="https://github.com/meiosis97">https://github.com/meiosis97/Sincast</a></li>
+</ul>
+<p><strong>Current</strong></p>
+<p><strong>2020</strong> &#8211; <a href="http://mixomics.org/book/">Handbook</a> about multivariate projection-based methods and how to apply them using mixOmics to integrate biological data.</p>
+<p><strong>2020</strong> &#8211; <a href="http://mixomics.org/2021/09/online-course-oct-2021/">A 6-week online course</a> <em>‘mixOmics R Essentials for Biological Data Integration&#8217; </em>that will be run once or twice a year (first iteration was in Nov 2020).</p>
+<p><strong>2019 &#8211;</strong> We have developed a 16-week online course opened for University of Melbourne students called ‘<em>Data fundamentals</em>’ with Dr Sue Finch (Statistical Consulting Centre, School of Mathematics and Statistics). The course is opened every trimester. Have a look at <a href="https://mspace.unimelb.edu.au/employment-fundamentals">this page</a> if you wish to register, it is a fun course to learn how to work with data.</p>
+<p><strong>Since 2014 &#8211;</strong> We teach <a href="http://mixomics.org/category/news/workshop/">specialised workshops</a> to introduce key concepts in multivariate statistics, with applications using the R software mixOmics. Our mixOmics web page provides numerous tutorials to apply the different multivariate integrative methods implemented in mixOmics.</p>
+<p><strong>Past</strong></p>
+<p>We taught introductory statistics ‘Statistics for frightened bioresearchers’ lecture materials <a href="http://www.imb.uq.edu.au/statistics">can be found here</a>.</p>
+				</div>					
+							<div class="tab" id="tab20" role="tabpanel">
+				<p>Below is a list of opportunities in our lab, including undergraduate and postgraduate research projects and scientific visits.</p>
+<h2><strong>Positions</strong></h2>
+<p>We are looking for self-motivated candidates in the field of computational statistics applied to high-throughput biological data, as well as data analysts and software developers. Contact us! (and follow us on <a href="http://www.linkedin.com/in/kimanh-lêcao">linkedIn</a> for new opportunities).</p>
+<h2><strong>Students</strong></h2>
+<p>We welcome undergraduate, hons/Msc and PhD students willing to be part of the group to apply our methods to specific biological problems, or develop innovative computational methods at the forefront of ‘omics and microbiome data integration. There are plenty of projects to choose from our research themes and cross-discipline projects, check our research page for major themes, and latest post updates on our research outputs.</p>
+<h2><strong>Visiting scientists</strong></h2>
+<p>We welcome wet-lab researchers and assist them in acquiring the necessary skillsets to analyse their own data with our tools, and dry-lab researchers to collaborate on our many exciting projects.</p>
+<ul>
+<li>Dr<a href="http://m.irstea.fr/chapleur"> Olivier Chapleur</a> and Ms Laetitia Cardona stayed for 10 and 3 weeks with us in 2017. <a href="http://sysgen.unimelb.edu.au/events-and-seminars/sysgen-seminar-olivier-chapleur-13th-october,-2017">Here is a brief description </a>of the work they undertook with us, and <a href="http://research.unimelb.edu.au/integrative-genomics/news-and-research-highlights/visitors-to-systems-genomics">their feedback</a>.</li>
+<li>Dr <a href="https://perso.math.univ-toulouse.fr/dejean/">Sébastien Déjean</a> stayed for 5 weeks with us in July 2018 and helped run a mixOmics workshop.</li>
+<li>Prof <a href="http://mon.uvic.cat/bms/members/malu/">Malu Calle Rosingana</a> visited us for 4 weeks in January 2019.</li>
+<li>Stijn Hawinkel, PhD candidate in Prof <a href="https://biblio.ugent.be/person/801001013507">Olivier Thas</a> (Ghent University) visited us for 3 months (March &#8211; May 2019).</li>
+<li>Dr<a href="http://m.irstea.fr/chapleur"> Olivier Chapleur</a> and Ms Laetitia Cardona were back for 4 and 6 weeks from April 2019. They gave us a hand for our upcoming <a href="http://mixomics.org/2019/01/april-15-17-2019-melbourne/">mixOmics workshop focusing on microbiome data analysis</a>.</li>
+<li>Attila Csala, PhD candidate in Prof Aeilko Zwinderman (University of Amsterdam) visited us for 4 months (Nov 2019 &#8211; March 2020)</li>
+<li>Pedro Salguero García, PhD candidate in Prof <a href="http://conesalab.org">Ana Conesa</a> and Dr. Sonia Tarazona from the Polytechnical University of Valencia, Spain came for 3 months in 2022.</li>
+<li>Quentin Le-Graverand, PhD candidate from INRAE Toulouse came for 3 months in 2022.</li>
+<li>Prof Ivy Chung, University of Malaya, 3 months 2023.</li>
+<li>Yi-Wen Hsiao, PhD candidate, visitor from University of Taiwan (1 year stay)</li>
+<li>Coline Fournier, École Normale Supérieure France (6 weeks, 2024)</li>
+<li>Dr Kris Sankaran, University of Wisonsin (6 weeks, 2024)</li>
+<li>Carla Perpiña Clerigues, PhD candidate, University of Valencia (5 months, 2024)</li>
+<li>Sebastian Hesse, PhD candidate, Munich University (12 months, 2024)</li>
+<li>Wasana Yuwattana, Chulalongkorn University, Bangkok (6 months, 2024 &#8211; 2025)</li>
+<li>Marko Terzin, PhD candidate, James Cook University (3 months 2023; 6 months in 2025)</li>
+</ul>
+<p>&nbsp;</p>
+				</div>					
+							<div class="tab" id="tab23" role="tabpanel">
+				<p><span style="color: #0000ff;">@</span>: kimanh.lecao[ at ]unimelb.edu.au</p>
+<p><span style="color: #0000ff;">Ph</span>: +61 3 8344 3971</p>
+<p>&nbsp;</p>
+<p><strong>We are located at:</strong></p>
+<p>Melbourne Integrative Genomics | Old microbiology building 184 ground floor | The University of Melbourne</p>
+<p><em>Main entrance is through</em> Royal Parade, <em>approximately</em> at 30 Royal Parade, next to the Kenneth Meyer building.</p>
+<p><strong>Google map pin of </strong><strong>front entrance</strong>: <a href="https://goo.gl/maps/te888rSFeyc6LqgV6">https://goo.gl/maps/te888rSFeyc6LqgV6</a></p>
+<p>There is a bell in the reception area, please ring.</p>
+<p><img loading="lazy" decoding="async" class="wp-image-583" src="https://lecao-lab.science.unimelb.edu.au/files/2023/06/Screen-Shot-2023-06-29-at-16.12.38.png" alt="" width="455" height="341" data-build-figure="inset-right" srcset="https://lecao-lab.science.unimelb.edu.au/files/2023/06/Screen-Shot-2023-06-29-at-16.12.38.png 528w, https://lecao-lab.science.unimelb.edu.au/files/2023/06/Screen-Shot-2023-06-29-at-16.12.38-300x225.png 300w" sizes="auto, (max-width: 455px) 100vw, 455px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+			</div>
+
+		</div>
+
+			<div class="aside layout-sidebar__side box">
+
+		<div class="layout-sidebar__side__inner box">
+
+			
+		<div id="recent-posts-3" class="widget widget_recent_entries">
+		<h2 class="widget-title">Recent Posts</h2>
+		<ul>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2025/04/04/neighbournet/">NeighbourNet: Scalable cell-specific co-expression networks for granular regulatory pattern discovery</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2025/02/12/%cf%86-space-st/">Φ-Space ST: a platform-agnostic method to identify cell states in spatial transcriptomics studies + seminar recording</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2025/01/20/mixomics-online-workshop-starts-24th-feb-registrations-are-open/">mixOmics online workshop starts 24th Feb, registrations are open</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2025/01/20/semisynthetic-simulation-microbiome/">Semisynthetic Simulation for Microbiome Data Analysis</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2025/01/03/gene-microbes-predictors-grf/">Gene Content of Seawater Microbes is a Strong Predictor of Water Chemistry Across the Great Barrier Reef</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2025/01/02/global-picoplankton-biogeography-revealed-by-metagenomic-and-climatic-data-integration/">Global picoplankton biogeography revealed by metagenomic and climatic data integration</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2024/08/15/plsko/">PLSKO: a robust knockoff generator to control false discovery rate in omics variable selection</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2024/07/03/%cf%86-space/">Φ-Space: Continuous phenotyping of single-cell multi-omics data with video!</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2024/05/17/lupine/">Microbial network inference for longitudinal microbiome studies with LUPINE with video!</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/12/19/translating-big-data-into-better-health-thanks-to-major-grant/">Translating big data into better health thanks to major grant</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/12/04/deans-honours-award-for-phd-thesis-to-dr-yiwen-wang/">Dean’s Honours Award for PhD thesis to Dr Yiwen Wang</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/10/19/stablemate/">StableMate to select stable predictors in omics data</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/08/02/metaphor/">Metaphor: A workflow for streamlined assembly and binning of metagenomes</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/07/27/mixomics-shortlisted-in-prestigious-eureka-prize-from-the-australian-museum/">mixOmics shortlisted in prestigious Eureka Prize from the Australian Museum</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/04/27/self-paced-online-mixomics-course-self-paced-online-course-may-2023/">Self-paced online course May 22 – July 7 2023</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2023/01/20/article-plsda-batch/">Article: PLSDA-batch: a multivariate framework to correct for batch effects in microbiome data</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2022/08/14/self-paced-online-mixomics-course-oct-31st-nov-27-2022/">Self-paced online mixOmics course Oct 31st – Nov 27 2022</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2022/07/27/longitudinal-microbiome-data-analysis/">Review article: Statistical challenges in longitudinal microbiome data analysis</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2022/04/03/sincast/">Sincast: a computational framework to predict cell identities in single-cell transcriptomes using bulk atlases as references</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2022/02/28/outreach/">Outreach: visit at Melbourne Girls’ College</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2021/11/08/book-mixomics/">Book: Multivariate Data Integration Using R: Methods and Applications with the mixOmics package</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2021/08/06/community-wide-hackathons-to-identify-central-themes-in-single-cell-multi-omics/">Community-wide hackathons to identify central themes in single-cell multi-omics</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/12/04/superstars-of-stem/">Superstars of STEM</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/09/22/postdoc-position/">Postdoc position available</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/09/08/a-simple-scalable-approach-to-building-a-cross-platform-transcriptome-atlas/">A simple, scalable approach to building a cross-platform transcriptome atlas</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/08/07/anaerobic-digestion-inhibition-by-ammonia-and-phenol/">Integrating independent microbial studies to build predictive models of anaerobic digestion inhibition by ammonia and phenol</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/07/21/visualization-of-multiple-compositional-omics-datasets/">Model-based joint visualization of multiple compositional omics datasets</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/06/30/emri-phd-scholarship/">EMRI PhD scholarship available</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/06/24/3-min-thesis-competition-yiwen-wang/">3MT®: Win the war inside our gut by Yiwen Eva Wang</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/06/19/virtual-workshop-singlecell-multiomics/">Virtual workshop: Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/06/04/leadership-and-antarctica/">20 min conversation on leadership and Antarctica</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/06/03/variable-selection-in-microbiome-compositional-data-analysis/">Article published: Variable selection in microbiome compositional data analysis</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/04/20/arc-funding-to-develop-methods-and-protocols-for-multi-omics-on-single-cells/">ARC funding to develop methods and protocols for multi-omics on single cells</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/03/14/advanced-workshop-at-loreal-12-13-march/">Advanced workshop at l&#8217;Oréal, 12-13 March</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/03/10/inria/">Two seminars at INRIA</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/02/28/cirm-2-6-march-luminy-fr/">CIRM, 2-6 March, Luminy FR</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/02/06/mixomics-workshop-uwa-3-5-feb/">mixOmics workshop UWA 3-5 Feb</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2020/01/15/article-in-the-pursuit-getting-to-know-your-microbiome-better/">Article in the Pursuit: Getting to know your microbiome better</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/12/24/learnings-from-homeward-bound-and-antarctica/">Learnings from Homeward Bound and Antarctica</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/12/12/managing-batch-effects-in-microbiome-studies/">Managing batch effects in microbiome studies</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/11/20/deans-award-for-excellence-in-research/">Dean’s Award for Excellence in Research recognises pioneer in ‘omics and computational statistics</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/11/11/leadership-homewardbound/">Leadership Homewardbound program culminates with a trip to Antarctica!</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/10/18/kim-anh-le-cao-won-the-georgina-sweet-award-2019/">Kim-Anh Lê Cao won the Georgina Sweet Award 2019!</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/09/12/new-framework-timeomics-on-biorxiv/">New framework: timeOmics published</a>
+									</li>
+											<li>
+					<a href="https://lecao-lab.science.unimelb.edu.au/2019/09/02/embl-abr-webinar/">EMBL-ABR webinar</a>
+									</li>
+					</ul>
+
+		</div>
+		</div>
+
+	</div>
+
+	</div>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://lecao-lab.science.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Lê Cao Lab</h2>
+
+			<ul>
+				<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-31 current_page_item menu-item-32"><a href="https://lecao-lab.science.unimelb.edu.au/" aria-current="page">Home</a></li>
+<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-308"><a href="https://lecao-lab.science.unimelb.edu.au/home/news/">News</a>
+<div class="inner"><ul>
+	<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-309"><a href="https://lecao-lab.science.unimelb.edu.au/2019/08/20/women-in-maths-day-29th-august-2019-unimelb/">UoM Women in Maths Day: 29th August 2019 + Update (pursuit article and radio interview)</a></li>
+	<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-334"><a href="https://lecao-lab.science.unimelb.edu.au/2019/08/19/vic-biostat-seminar/">VIC Biostat seminar</a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-310"><a href="https://lecao-lab.science.unimelb.edu.au/2019/07/29/wehi-special-seminar-series/">WEHI special seminar series</a></li>
+	<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-311"><a href="https://lecao-lab.science.unimelb.edu.au/2019/09/12/new-framework-timeomics-on-biorxiv/">New framework: timeOmics published</a></li>
+	<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-312"><a href="https://lecao-lab.science.unimelb.edu.au/2019/07/01/winter-school-in-mathematical-computational-biology-1-5-july-2019-brisbane/">Winter School in Mathematical &#038; Computational Biology 1-5 July 2019 Brisbane</a></li>
+	<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-313"><a href="https://lecao-lab.science.unimelb.edu.au/2019/06/25/the-powerful-mind-public-event/">The powerful mind public event, June 26, UoM</a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-314"><a href="https://lecao-lab.science.unimelb.edu.au/2019/05/28/cellbench-a-new-package-helping-researchers-to-select-the-best-tool-for-interpreting-single-cell-datasets/">CellBench: a new package helping researchers to select the best tool for interpreting single-cell datasets.</a></li>
+	<li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-315"><a href="https://lecao-lab.science.unimelb.edu.au/2019/05/03/empowering-researchers-to-understand-microbiome-data-for-frontier-projects/">Empowering researchers to understand microbiome data for frontier projects</a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-316"><a href="https://lecao-lab.science.unimelb.edu.au/2019/03/13/multi-omics-data-integration/">Multi-omics data integration: method and ground-breaking neonate study</a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-317"><a href="https://lecao-lab.science.unimelb.edu.au/2019/02/28/moran-medal-from-the-australian-academy-of-science/">Moran Medal from the Australian Academy of Science</a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-318"><a href="https://lecao-lab.science.unimelb.edu.au/2019/01/31/research-fellow-computational-genomics-and-statistics-2-2-years/">Research fellow computational genomics and statistics (2 +2 years)</a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-319"><a href="https://lecao-lab.science.unimelb.edu.au/2018/10/04/single-cell-benchmark-manuscript-on-biorxiv/">Single cell benchmark manuscript on bioRxiv</a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-320"><a href="https://lecao-lab.science.unimelb.edu.au/2018/10/04/mixomics-workshop-nov-6-vancouver-canada/">mixOmics workshop Nov 6, Vancouver, Canada</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-321"><a href="https://lecao-lab.science.unimelb.edu.au/2018/10/01/masterclass-school-of-mathematics-and-statistics-oct-10-12-1pm-evan-williams-uom/">Masterclass, School of Mathematics and Statistics, Oct 10, 12-1pm (Evan Williams) , UoM</a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-322"><a href="https://lecao-lab.science.unimelb.edu.au/2018/10/01/latrobe-university/">Latrobe University, Oct 5, 12-1pm</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-323"><a href="https://lecao-lab.science.unimelb.edu.au/2018/09/26/kim-anh-selected-for-the-homeward-bound-project-4/">Kim-Anh selected for the Homeward Bound project 4</a></li>
+</ul></div>
+</li>
+<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://lecao-lab.science.unimelb.edu.au/home/research/">Research</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://lecao-lab.science.unimelb.edu.au/home/people/">People</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://lecao-lab.science.unimelb.edu.au/home/publications/">Outputs</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://lecao-lab.science.unimelb.edu.au/home/resources/">Resources</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://lecao-lab.science.unimelb.edu.au/home/opportunities/">Opportunities</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://lecao-lab.science.unimelb.edu.au/home/contact/">Contact</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://lecao-lab.science.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/lecao-lab/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/lecao-lab/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>

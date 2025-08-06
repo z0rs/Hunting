@@ -1,0 +1,3309 @@
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Age: 3444
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 14:20:43 GMT
+Expires: Wed, 06 Aug 2025 14:50:42 GMT
+Pragma: cache
+Server: openresty
+Vary: Accept-Encoding
+Vary: Origin
+Vary: Accept-Encoding
+Via: 1.1 squizedge.net
+X-Cache: HIT from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 8f34d70e-feca-4b25-96cb-ac4ba1147019
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Bhavi Udani on 18 Jul 2025 11:28am
+Last published by: Bhavi Udani on 18 Jul 2025 11:28am
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240522
+
+-->
+
+<meta name="title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta name="description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Bhavi Udani">
+<meta name="DC.Date" content="18 Jul 2025 11:28am">
+<meta name="MCE.Template" content="Blank page">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au">
+<meta property="og:title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta property="og:description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta name="twitter:description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 00:20:43
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/home" itemprop="item"><span itemprop="name">Home</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+                <header class="banner" style="background-image: url('https://medicalhistorymuseum.mdhs.unimelb.edu.au/__data/assets/image/0007/3887674/mhm001-banner.jpg');">
+  <div class="bottom-align-flat"> <form action="" class="course-select" >
+      <div class="left">
+      
+    <h2>
+Faculty Museums of Medicine, Dentistry and Health Sciences
+    </h2>
+  </div>
+  </form>
+  </div>
+</header>
+
+    
+    <!-- MCE: Page listing content template version 4.0.2 -->
+<div class="ct-listing content-block ">
+<!-- page listing by Parent Asset (single) -->    
+    
+    
+                
+        
+ 
+                
+        <ul class="simple-listing simple-listing--three">
+     
+
+        <!-- 1 Link 5280044 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://medicalhistorymuseum.mdhs.unimelb.edu.au"  title="Medical History Museum">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://medicalhistorymuseum.mdhs.unimelb.edu.au/__data/assets/image/0010/3887713/educatiion-research.jpg')" aria-label=""""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Medical History Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Explore, inquire and enjoy the social history of medicine and its role in society through a
+diverse exhibition program. Visit the nineteenth century Savory and Moore Pharmacy
+complete with pharmaceutical jars and equipment. The Medical History Museum is a free
+museum for those inquisitive about medicine's contribution to scientific discovery and
+community wellbeing</p>
+             
+            </a>
+             
+                                    </li> 
+        <!-- 2 Link 5280046 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au"  title="Henry Forman Atkinson Dental Museum">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/__data/assets/image/0007/3950890/varieties/medium.jpg')" aria-label=""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Henry Forman Atkinson Dental Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Visit the Henry Forman Atkinson Dental Museum to be inspired by the intriguing history of
+dental health and development of the dental professions and dental education. It is the
+oldest and most significant dental collection in Australia. Tracing its origins back to 1884 with
+the formation of the Odontological Society of Victoria, the organization responsible for
+establishing the first dental school in Victoria</p>
+             
+            </a>
+             
+                                    </li> 
+        <!-- 3 Link 5280047 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://harrybrookesallenmuseum.mdhs.unimelb.edu.au"  title="Harry Brookes Allen Museum of Anatomy and Pathology">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://museums.mdhs.unimelb.edu.au/__data/assets/image/0010/5311459/varieties/medium.jpg')" aria-label=""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Harry Brookes Allen Museum of Anatomy and Pathology</h3> 
+             
+            <p class="simple-listing__excerpt">The Harry Brookes Allen Museum of Anatomy and Pathology is one of Australia's largest 
+collections of human tissue specimens, animal anatomy specimens, and historical 
+anatomical models, offering students and researchers a unique insight into the human body</p>
+             
+            </a>
+             
+                                    </li> 
+    </ul>
+    </div>
+        <!-- map code start -->
+            <div> <figure class="figure">  <br>        
+<iframe src="https://www.google.com/maps/d/embed?mid=1F-hRKov48QMxEChW4WC2iCxzJo_e_Sk&ehbc=2E312F&noprof=1" frameborder="0" style="border:0; margin-top: -60px;" width="640" height="480"></iframe>    </figure></div>
+                 <!-- map code end -->
+    
+    <!-- MCE: Page listing content template version 4.0.2 -->
+<div class="ct-listing content-block bg-primary">
+<!-- page listing by Parent Asset (single) -->    
+    
+    
+     
+         
+        
+ 
+                
+        <ul class="simple-listing simple-listing--text simple-listing--three">
+     
+
+        <!-- 1 Link 5314498 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/about/contact-us"  title="Medical History Museum">
+            <h3 class="simple-listing__heading">Medical History Museum</h3> 
+             
+            <p class="simple-listing__excerpt">University of Melbourne
+233 Bouverie St
+Carlton, Victoria</p>
+             
+            </a>
+                    </li> 
+        <!-- 2 Link 5314499 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/visitors-info"  title="Henry Forman Atkinson Dental Museum">
+            <h3 class="simple-listing__heading">Henry Forman Atkinson Dental Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Ground floor of the Royal Dental Hospital,
+720 Swanston St, Carlton.</p>
+             
+            </a>
+                    </li> 
+        <!-- 3 Link 5314500 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://harrybrookesallenmuseum.mdhs.unimelb.edu.au/about/visitors-info"  title="Harry Brookes Allen Museum of Anatomy and Pathology">
+            <h3 class="simple-listing__heading">Harry Brookes Allen Museum of Anatomy and Pathology</h3> 
+             
+            <p class="simple-listing__excerpt">University of Melbourne
+Medical Building
+Corner of Grattan Street and Royal Parade
+Parkville 3052, Victoria.</p>
+             
+            </a>
+                    </li> 
+    </ul>
+    </div>
+
+    
+    <!-- MCE: Image features panel content template version 2.1.0 -->
+<div class="ct-featurespanel content-block bg-alt">
+    <div class="content-block__inner">
+                
+        
+        
+    	<div class="grid grid--cols-3">
+           
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 190 150">
+  <path d="M147.981 118.267L129.574 99.86c8.136-12.686 6.339-29.323-4.325-39.977a32.167 32.167 0 00-5.908-4.634 58.149 58.149 0 0011.806-10.88 2.286 2.286 0 000-2.902c-20.485-25.025-57.382-28.705-82.407-8.22a58.8 58.8 0 00-8.22 8.22 2.286 2.286 0 000 2.903 57.974 57.974 0 0035.23 20.569c-9.727 14.802-5.617 34.697 9.185 44.424a32.067 32.067 0 0034.912.215l18.406 18.407c2.687 2.687 7.041 2.687 9.718 0 2.678-2.687 2.697-7.031.01-9.718zM45.294 42.927c19.69-22.384 53.796-24.575 76.191-4.886a53.416 53.416 0 014.887 4.887 53.878 53.878 0 01-11.656 9.952 32.018 32.018 0 00-15.476-2.2 15.213 15.213 0 002.125-7.743c-.074-8.594-7.105-15.494-15.69-15.42a15.575 15.575 0 00-12.912 7.078 15.246 15.246 0 00-2.48 8.342A15.455 15.455 0 0082.088 57.89a32.129 32.129 0 00-2.218 2.013c-.29.29-.544.608-.824.908-.02.01-.038.01-.056.019a53.552 53.552 0 01-33.696-17.901zm31.88 1.705c.308.122.626.215.954.29.169.047.319.103.487.14 4.307.862 8.501-1.938 9.362-6.254a7.538 7.538 0 00-.009-3.033c-.028-.169-.094-.318-.131-.477a6.92 6.92 0 00-.3-.946c-.075-.178-.168-.346-.253-.524a7.977 7.977 0 00-.43-.787c-.112-.168-.234-.327-.356-.487-.122-.159-.215-.318-.337-.458 5.983.243 10.626 5.29 10.383 11.272-.244 5.982-5.29 10.626-11.272 10.383a10.83 10.83 0 01-10.383-10.523c.15.13.318.233.477.346.16.112.328.253.496.365.253.16.515.3.778.421.177.094.346.197.533.272zm-.403-7.322a3.7 3.7 0 01.093-.561 10.896 10.896 0 012.697-2.669 3.2 3.2 0 01.599-.093 3.329 3.329 0 013.277 3.389 3.329 3.329 0 01-3.39 3.277 3.349 3.349 0 01-3.276-3.343zm6.347 64.713c-10.738-10.739-10.738-28.153 0-38.891 10.739-10.739 28.153-10.739 38.891 0 10.739 10.738 10.739 28.152 0 38.891-10.598 10.739-27.9 10.851-38.638.243a6.25 6.25 0 01-.253-.243zm61.623 22.732a2.282 2.282 0 01-3.239 0l-17.826-17.826 3.239-3.24 17.826 17.826c.899.89.899 2.341 0 3.24z"/>
+</svg>  
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore our collection</h3>
+                <p class="card__description">Explore, inquire, and engage with the three Faculty of Medicine, Dentistry and Health Sciences museum collections.<br/><br/><a href="https://collections.mdhs.unimelb.edu.au/explore" class="button button--text"> Get started </a></p>
+            
+                        
+        </div>
+        
+           
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 190 150">
+  <path d="M147.964 73.036V29.82c0-5.415-4.406-9.821-9.821-9.821H51.714c-5.415 0-9.821 4.406-9.821 9.821v29.465A5.9 5.9 0 0036 65.179v58.928A5.9 5.9 0 0041.893 130h43.214A5.9 5.9 0 0091 124.107h16.463a5.851 5.851 0 004.683-2.316 5.852 5.852 0 001.001-5.127l-3.861-14.164h11.178v21.607a5.9 5.9 0 005.893 5.893h21.607a5.9 5.9 0 005.893-5.893V78.929a5.9 5.9 0 00-5.893-5.893zm-60.893 51.071a1.967 1.967 0 01-1.964 1.964H41.893a1.967 1.967 0 01-1.964-1.964v-3.928H87.07v3.928zm0-7.857H39.93V73.036H87.07v43.214zm0-47.143H39.93V65.18c0-1.083.881-1.965 1.964-1.965h43.214c1.082 0 1.964.882 1.964 1.965v3.928zm22.287 48.591a1.947 1.947 0 01-.334 1.709 1.948 1.948 0 01-1.561.772H91v-3.929h17.963l.395 1.448zM91 112.321V102.5h14.214l2.679 9.821H91zm29.464-13.75H91V86.786h29.464V98.57zm0-19.642v3.928H91V65.18a5.9 5.9 0 00-5.893-5.893H45.821V29.82a5.9 5.9 0 015.893-5.892h86.429a5.9 5.9 0 015.893 5.892v43.215h-17.679a5.9 5.9 0 00-5.893 5.893zm29.465 45.178a1.968 1.968 0 01-1.965 1.964h-21.607a1.967 1.967 0 01-1.964-1.964v-3.928h25.536v3.928zm0-7.857h-25.536V86.786h25.536v29.464zm0-33.393h-25.536V78.93c0-1.083.882-1.965 1.964-1.965h21.607c1.083 0 1.965.882 1.965 1.965v3.928z"/>
+  <path d="M53.679 27.857H49.75v3.929h3.929v-3.929zM61.535 27.857h-3.928v3.929h3.928v-3.929zM69.393 27.857h-3.929v3.929h3.929v-3.929z"/>
+</svg>
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore Our Publications</h3>
+                <p class="card__description">Be inspired by the Faculty Museums’ publications. Themes include women in medicine, cancer, epilepsy and Australian Indigenous healing practice encompassing milestones in health care examining the path of discovery through innovation, education and social change.<br/><br/><a href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/collections/publications" class="button button--text"> Learn more</a></p>
+            
+                        
+        </div>
+        
+        
+         
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 760" fill="currentColor"><path d="M172-252q-21.5 0-37.75-16.25T118-306v-348q0-21.5 16.25-37.75T172-708h348q21.5 0 37.75 16.25T574-654v348q0 21.5-16.25 37.75T520-252H172Zm512.49-268q-13.49 0-21.99-8.5-8.5-8.5-8.5-21.99v-127.02q0-13.49 8.5-21.99 8.5-8.5 21.99-8.5h127.02q13.49 0 21.99 8.5 8.5 8.5 8.5 21.99v127.02q0 13.49-8.5 21.99-8.5 8.5-21.99 8.5H684.49ZM676-542h144v-144H676v144ZM172-274h348q14 0 23-9t9-23v-348q0-14-9-23t-23-9H172q-14 0-23 9t-9 23v348q0 14 9 23t23 9Zm24-91h300l-95-127-75 100-55-73-75 100Zm488.49 113q-13.49 0-21.99-8.5-8.5-8.5-8.5-21.99v-127.02q0-13.49 8.5-21.99 8.5-8.5 21.99-8.5h127.02q13.49 0 21.99 8.5 8.5 8.5 8.5 21.99v127.02q0 13.49-8.5 21.99-8.5 8.5-21.99 8.5H684.49ZM676-274h144v-144H676v144Zm-536 0v-412 412Zm536-268v-144 144Zm0 268v-144 144Z"/></svg>
+    
+
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore our Exhibitions</h3>
+                <p class="card__description">Discover the Faculty Museums exhibition programs offering rich curated exhibitions on themes of Aboriginal and Torres Strait Islander healing traditions, the evolution of health sciences, education, and research at the University of Melbourne and beyond.. <br/><br/><a href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/exhibitions" class="button button--text"> Discover </a></p>
+            
+                        
+        </div>
+          
+        
+        
+                
+        	
+        </div>
+    </div>
+</div>
+<!--<figure class="figure"><div class="embed">
+ <iframe src="https://www.google.com/maps/embed?iwloc=nearpb=!1m18!1m12!1m3!1d3772.446058026276!2d144.962265476627!3d-37.799434033220436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642d3853a10f3%3A0xb687b20bbc098589!2sThe%20Royal%20Dental%20Hospital%20of%20Melbourne!5e1!3m2!1sen!2sus!4v1741669173692!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div></figure>
+-->
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Age: 3444
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 14:20:43 GMT
+Expires: Wed, 06 Aug 2025 14:50:42 GMT
+Pragma: cache
+Server: openresty
+Vary: Accept-Encoding
+Vary: Origin
+Vary: Accept-Encoding
+Via: 1.1 squizedge.net
+X-Cache: HIT from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 968d296c-b8e4-4ef1-bcc6-76bdd13b5389
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Bhavi Udani on 18 Jul 2025 11:28am
+Last published by: Bhavi Udani on 18 Jul 2025 11:28am
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240522
+
+-->
+
+<meta name="title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta name="description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Bhavi Udani">
+<meta name="DC.Date" content="18 Jul 2025 11:28am">
+<meta name="MCE.Template" content="Blank page">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au">
+<meta property="og:title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta property="og:description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta name="twitter:description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 00:20:43
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/home" itemprop="item"><span itemprop="name">Home</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+                <header class="banner" style="background-image: url('https://medicalhistorymuseum.mdhs.unimelb.edu.au/__data/assets/image/0007/3887674/mhm001-banner.jpg');">
+  <div class="bottom-align-flat"> <form action="" class="course-select" >
+      <div class="left">
+      
+    <h2>
+Faculty Museums of Medicine, Dentistry and Health Sciences
+    </h2>
+  </div>
+  </form>
+  </div>
+</header>
+
+    
+    <!-- MCE: Page listing content template version 4.0.2 -->
+<div class="ct-listing content-block ">
+<!-- page listing by Parent Asset (single) -->    
+    
+    
+                
+        
+ 
+                
+        <ul class="simple-listing simple-listing--three">
+     
+
+        <!-- 1 Link 5280044 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://medicalhistorymuseum.mdhs.unimelb.edu.au"  title="Medical History Museum">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://medicalhistorymuseum.mdhs.unimelb.edu.au/__data/assets/image/0010/3887713/educatiion-research.jpg')" aria-label=""""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Medical History Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Explore, inquire and enjoy the social history of medicine and its role in society through a
+diverse exhibition program. Visit the nineteenth century Savory and Moore Pharmacy
+complete with pharmaceutical jars and equipment. The Medical History Museum is a free
+museum for those inquisitive about medicine's contribution to scientific discovery and
+community wellbeing</p>
+             
+            </a>
+             
+                                    </li> 
+        <!-- 2 Link 5280046 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au"  title="Henry Forman Atkinson Dental Museum">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/__data/assets/image/0007/3950890/varieties/medium.jpg')" aria-label=""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Henry Forman Atkinson Dental Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Visit the Henry Forman Atkinson Dental Museum to be inspired by the intriguing history of
+dental health and development of the dental professions and dental education. It is the
+oldest and most significant dental collection in Australia. Tracing its origins back to 1884 with
+the formation of the Odontological Society of Victoria, the organization responsible for
+establishing the first dental school in Victoria</p>
+             
+            </a>
+             
+                                    </li> 
+        <!-- 3 Link 5280047 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://harrybrookesallenmuseum.mdhs.unimelb.edu.au"  title="Harry Brookes Allen Museum of Anatomy and Pathology">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://museums.mdhs.unimelb.edu.au/__data/assets/image/0010/5311459/varieties/medium.jpg')" aria-label=""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Harry Brookes Allen Museum of Anatomy and Pathology</h3> 
+             
+            <p class="simple-listing__excerpt">The Harry Brookes Allen Museum of Anatomy and Pathology is one of Australia's largest 
+collections of human tissue specimens, animal anatomy specimens, and historical 
+anatomical models, offering students and researchers a unique insight into the human body</p>
+             
+            </a>
+             
+                                    </li> 
+    </ul>
+    </div>
+        <!-- map code start -->
+            <div> <figure class="figure">  <br>        
+<iframe src="https://www.google.com/maps/d/embed?mid=1F-hRKov48QMxEChW4WC2iCxzJo_e_Sk&ehbc=2E312F&noprof=1" frameborder="0" style="border:0; margin-top: -60px;" width="640" height="480"></iframe>    </figure></div>
+                 <!-- map code end -->
+    
+    <!-- MCE: Page listing content template version 4.0.2 -->
+<div class="ct-listing content-block bg-primary">
+<!-- page listing by Parent Asset (single) -->    
+    
+    
+     
+         
+        
+ 
+                
+        <ul class="simple-listing simple-listing--text simple-listing--three">
+     
+
+        <!-- 1 Link 5314498 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/about/contact-us"  title="Medical History Museum">
+            <h3 class="simple-listing__heading">Medical History Museum</h3> 
+             
+            <p class="simple-listing__excerpt">University of Melbourne
+233 Bouverie St
+Carlton, Victoria</p>
+             
+            </a>
+                    </li> 
+        <!-- 2 Link 5314499 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/visitors-info"  title="Henry Forman Atkinson Dental Museum">
+            <h3 class="simple-listing__heading">Henry Forman Atkinson Dental Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Ground floor of the Royal Dental Hospital,
+720 Swanston St, Carlton.</p>
+             
+            </a>
+                    </li> 
+        <!-- 3 Link 5314500 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://harrybrookesallenmuseum.mdhs.unimelb.edu.au/about/visitors-info"  title="Harry Brookes Allen Museum of Anatomy and Pathology">
+            <h3 class="simple-listing__heading">Harry Brookes Allen Museum of Anatomy and Pathology</h3> 
+             
+            <p class="simple-listing__excerpt">University of Melbourne
+Medical Building
+Corner of Grattan Street and Royal Parade
+Parkville 3052, Victoria.</p>
+             
+            </a>
+                    </li> 
+    </ul>
+    </div>
+
+    
+    <!-- MCE: Image features panel content template version 2.1.0 -->
+<div class="ct-featurespanel content-block bg-alt">
+    <div class="content-block__inner">
+                
+        
+        
+    	<div class="grid grid--cols-3">
+           
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 190 150">
+  <path d="M147.981 118.267L129.574 99.86c8.136-12.686 6.339-29.323-4.325-39.977a32.167 32.167 0 00-5.908-4.634 58.149 58.149 0 0011.806-10.88 2.286 2.286 0 000-2.902c-20.485-25.025-57.382-28.705-82.407-8.22a58.8 58.8 0 00-8.22 8.22 2.286 2.286 0 000 2.903 57.974 57.974 0 0035.23 20.569c-9.727 14.802-5.617 34.697 9.185 44.424a32.067 32.067 0 0034.912.215l18.406 18.407c2.687 2.687 7.041 2.687 9.718 0 2.678-2.687 2.697-7.031.01-9.718zM45.294 42.927c19.69-22.384 53.796-24.575 76.191-4.886a53.416 53.416 0 014.887 4.887 53.878 53.878 0 01-11.656 9.952 32.018 32.018 0 00-15.476-2.2 15.213 15.213 0 002.125-7.743c-.074-8.594-7.105-15.494-15.69-15.42a15.575 15.575 0 00-12.912 7.078 15.246 15.246 0 00-2.48 8.342A15.455 15.455 0 0082.088 57.89a32.129 32.129 0 00-2.218 2.013c-.29.29-.544.608-.824.908-.02.01-.038.01-.056.019a53.552 53.552 0 01-33.696-17.901zm31.88 1.705c.308.122.626.215.954.29.169.047.319.103.487.14 4.307.862 8.501-1.938 9.362-6.254a7.538 7.538 0 00-.009-3.033c-.028-.169-.094-.318-.131-.477a6.92 6.92 0 00-.3-.946c-.075-.178-.168-.346-.253-.524a7.977 7.977 0 00-.43-.787c-.112-.168-.234-.327-.356-.487-.122-.159-.215-.318-.337-.458 5.983.243 10.626 5.29 10.383 11.272-.244 5.982-5.29 10.626-11.272 10.383a10.83 10.83 0 01-10.383-10.523c.15.13.318.233.477.346.16.112.328.253.496.365.253.16.515.3.778.421.177.094.346.197.533.272zm-.403-7.322a3.7 3.7 0 01.093-.561 10.896 10.896 0 012.697-2.669 3.2 3.2 0 01.599-.093 3.329 3.329 0 013.277 3.389 3.329 3.329 0 01-3.39 3.277 3.349 3.349 0 01-3.276-3.343zm6.347 64.713c-10.738-10.739-10.738-28.153 0-38.891 10.739-10.739 28.153-10.739 38.891 0 10.739 10.738 10.739 28.152 0 38.891-10.598 10.739-27.9 10.851-38.638.243a6.25 6.25 0 01-.253-.243zm61.623 22.732a2.282 2.282 0 01-3.239 0l-17.826-17.826 3.239-3.24 17.826 17.826c.899.89.899 2.341 0 3.24z"/>
+</svg>  
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore our collection</h3>
+                <p class="card__description">Explore, inquire, and engage with the three Faculty of Medicine, Dentistry and Health Sciences museum collections.<br/><br/><a href="https://collections.mdhs.unimelb.edu.au/explore" class="button button--text"> Get started </a></p>
+            
+                        
+        </div>
+        
+           
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 190 150">
+  <path d="M147.964 73.036V29.82c0-5.415-4.406-9.821-9.821-9.821H51.714c-5.415 0-9.821 4.406-9.821 9.821v29.465A5.9 5.9 0 0036 65.179v58.928A5.9 5.9 0 0041.893 130h43.214A5.9 5.9 0 0091 124.107h16.463a5.851 5.851 0 004.683-2.316 5.852 5.852 0 001.001-5.127l-3.861-14.164h11.178v21.607a5.9 5.9 0 005.893 5.893h21.607a5.9 5.9 0 005.893-5.893V78.929a5.9 5.9 0 00-5.893-5.893zm-60.893 51.071a1.967 1.967 0 01-1.964 1.964H41.893a1.967 1.967 0 01-1.964-1.964v-3.928H87.07v3.928zm0-7.857H39.93V73.036H87.07v43.214zm0-47.143H39.93V65.18c0-1.083.881-1.965 1.964-1.965h43.214c1.082 0 1.964.882 1.964 1.965v3.928zm22.287 48.591a1.947 1.947 0 01-.334 1.709 1.948 1.948 0 01-1.561.772H91v-3.929h17.963l.395 1.448zM91 112.321V102.5h14.214l2.679 9.821H91zm29.464-13.75H91V86.786h29.464V98.57zm0-19.642v3.928H91V65.18a5.9 5.9 0 00-5.893-5.893H45.821V29.82a5.9 5.9 0 015.893-5.892h86.429a5.9 5.9 0 015.893 5.892v43.215h-17.679a5.9 5.9 0 00-5.893 5.893zm29.465 45.178a1.968 1.968 0 01-1.965 1.964h-21.607a1.967 1.967 0 01-1.964-1.964v-3.928h25.536v3.928zm0-7.857h-25.536V86.786h25.536v29.464zm0-33.393h-25.536V78.93c0-1.083.882-1.965 1.964-1.965h21.607c1.083 0 1.965.882 1.965 1.965v3.928z"/>
+  <path d="M53.679 27.857H49.75v3.929h3.929v-3.929zM61.535 27.857h-3.928v3.929h3.928v-3.929zM69.393 27.857h-3.929v3.929h3.929v-3.929z"/>
+</svg>
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore Our Publications</h3>
+                <p class="card__description">Be inspired by the Faculty Museums’ publications. Themes include women in medicine, cancer, epilepsy and Australian Indigenous healing practice encompassing milestones in health care examining the path of discovery through innovation, education and social change.<br/><br/><a href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/collections/publications" class="button button--text"> Learn more</a></p>
+            
+                        
+        </div>
+        
+        
+         
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 760" fill="currentColor"><path d="M172-252q-21.5 0-37.75-16.25T118-306v-348q0-21.5 16.25-37.75T172-708h348q21.5 0 37.75 16.25T574-654v348q0 21.5-16.25 37.75T520-252H172Zm512.49-268q-13.49 0-21.99-8.5-8.5-8.5-8.5-21.99v-127.02q0-13.49 8.5-21.99 8.5-8.5 21.99-8.5h127.02q13.49 0 21.99 8.5 8.5 8.5 8.5 21.99v127.02q0 13.49-8.5 21.99-8.5 8.5-21.99 8.5H684.49ZM676-542h144v-144H676v144ZM172-274h348q14 0 23-9t9-23v-348q0-14-9-23t-23-9H172q-14 0-23 9t-9 23v348q0 14 9 23t23 9Zm24-91h300l-95-127-75 100-55-73-75 100Zm488.49 113q-13.49 0-21.99-8.5-8.5-8.5-8.5-21.99v-127.02q0-13.49 8.5-21.99 8.5-8.5 21.99-8.5h127.02q13.49 0 21.99 8.5 8.5 8.5 8.5 21.99v127.02q0 13.49-8.5 21.99-8.5 8.5-21.99 8.5H684.49ZM676-274h144v-144H676v144Zm-536 0v-412 412Zm536-268v-144 144Zm0 268v-144 144Z"/></svg>
+    
+
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore our Exhibitions</h3>
+                <p class="card__description">Discover the Faculty Museums exhibition programs offering rich curated exhibitions on themes of Aboriginal and Torres Strait Islander healing traditions, the evolution of health sciences, education, and research at the University of Melbourne and beyond.. <br/><br/><a href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/exhibitions" class="button button--text"> Discover </a></p>
+            
+                        
+        </div>
+          
+        
+        
+                
+        	
+        </div>
+    </div>
+</div>
+<!--<figure class="figure"><div class="embed">
+ <iframe src="https://www.google.com/maps/embed?iwloc=nearpb=!1m18!1m12!1m3!1d3772.446058026276!2d144.962265476627!3d-37.799434033220436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642d3853a10f3%3A0xb687b20bbc098589!2sThe%20Royal%20Dental%20Hospital%20of%20Melbourne!5e1!3m2!1sen!2sus!4v1741669173692!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div></figure>
+-->
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Age: 3444
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 14:20:43 GMT
+Expires: Wed, 06 Aug 2025 14:50:42 GMT
+Pragma: cache
+Server: openresty
+Vary: Accept-Encoding
+Vary: Origin
+Vary: Accept-Encoding
+Via: 1.1 squizedge.net
+X-Cache: HIT from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 70f003dd-d012-4b8e-8770-f3c6f08fd7d7
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Bhavi Udani on 18 Jul 2025 11:28am
+Last published by: Bhavi Udani on 18 Jul 2025 11:28am
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240522
+
+-->
+
+<meta name="title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta name="description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Bhavi Udani">
+<meta name="DC.Date" content="18 Jul 2025 11:28am">
+<meta name="MCE.Template" content="Blank page">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au">
+<meta property="og:title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta property="og:description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Museum hub, Faculty of Medicine, Dentistry and Health Sciences - The University of Melbourne">
+<meta name="twitter:description" content="Explore, inquire and engage with the three Faculty of Medicine, Dentistry and Health Sciences museums. Acting as dynamic study and teaching resources, the museums offer access to diverse collections and exhibition programs to students, researchers, and the public.">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 00:20:43
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/home" itemprop="item"><span itemprop="name">Home</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+                <header class="banner" style="background-image: url('https://medicalhistorymuseum.mdhs.unimelb.edu.au/__data/assets/image/0007/3887674/mhm001-banner.jpg');">
+  <div class="bottom-align-flat"> <form action="" class="course-select" >
+      <div class="left">
+      
+    <h2>
+Faculty Museums of Medicine, Dentistry and Health Sciences
+    </h2>
+  </div>
+  </form>
+  </div>
+</header>
+
+    
+    <!-- MCE: Page listing content template version 4.0.2 -->
+<div class="ct-listing content-block ">
+<!-- page listing by Parent Asset (single) -->    
+    
+    
+                
+        
+ 
+                
+        <ul class="simple-listing simple-listing--three">
+     
+
+        <!-- 1 Link 5280044 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://medicalhistorymuseum.mdhs.unimelb.edu.au"  title="Medical History Museum">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://medicalhistorymuseum.mdhs.unimelb.edu.au/__data/assets/image/0010/3887713/educatiion-research.jpg')" aria-label=""""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Medical History Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Explore, inquire and enjoy the social history of medicine and its role in society through a
+diverse exhibition program. Visit the nineteenth century Savory and Moore Pharmacy
+complete with pharmaceutical jars and equipment. The Medical History Museum is a free
+museum for those inquisitive about medicine's contribution to scientific discovery and
+community wellbeing</p>
+             
+            </a>
+             
+                                    </li> 
+        <!-- 2 Link 5280046 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au"  title="Henry Forman Atkinson Dental Museum">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/__data/assets/image/0007/3950890/varieties/medium.jpg')" aria-label=""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Henry Forman Atkinson Dental Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Visit the Henry Forman Atkinson Dental Museum to be inspired by the intriguing history of
+dental health and development of the dental professions and dental education. It is the
+oldest and most significant dental collection in Australia. Tracing its origins back to 1884 with
+the formation of the Odontological Society of Victoria, the organization responsible for
+establishing the first dental school in Victoria</p>
+             
+            </a>
+             
+                                    </li> 
+        <!-- 3 Link 5280047 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://harrybrookesallenmuseum.mdhs.unimelb.edu.au"  title="Harry Brookes Allen Museum of Anatomy and Pathology">
+             
+            <div class="simple-listing__img"  style="background-image: url('https://museums.mdhs.unimelb.edu.au/__data/assets/image/0010/5311459/varieties/medium.jpg')" aria-label=""  role="img" aria-hidden="true"></div>
+            <h3 class="simple-listing__heading">Harry Brookes Allen Museum of Anatomy and Pathology</h3> 
+             
+            <p class="simple-listing__excerpt">The Harry Brookes Allen Museum of Anatomy and Pathology is one of Australia's largest 
+collections of human tissue specimens, animal anatomy specimens, and historical 
+anatomical models, offering students and researchers a unique insight into the human body</p>
+             
+            </a>
+             
+                                    </li> 
+    </ul>
+    </div>
+        <!-- map code start -->
+            <div> <figure class="figure">  <br>        
+<iframe src="https://www.google.com/maps/d/embed?mid=1F-hRKov48QMxEChW4WC2iCxzJo_e_Sk&ehbc=2E312F&noprof=1" frameborder="0" style="border:0; margin-top: -60px;" width="640" height="480"></iframe>    </figure></div>
+                 <!-- map code end -->
+    
+    <!-- MCE: Page listing content template version 4.0.2 -->
+<div class="ct-listing content-block bg-primary">
+<!-- page listing by Parent Asset (single) -->    
+    
+    
+     
+         
+        
+ 
+                
+        <ul class="simple-listing simple-listing--text simple-listing--three">
+     
+
+        <!-- 1 Link 5314498 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/about/contact-us"  title="Medical History Museum">
+            <h3 class="simple-listing__heading">Medical History Museum</h3> 
+             
+            <p class="simple-listing__excerpt">University of Melbourne
+233 Bouverie St
+Carlton, Victoria</p>
+             
+            </a>
+                    </li> 
+        <!-- 2 Link 5314499 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/visitors-info"  title="Henry Forman Atkinson Dental Museum">
+            <h3 class="simple-listing__heading">Henry Forman Atkinson Dental Museum</h3> 
+             
+            <p class="simple-listing__excerpt">Ground floor of the Royal Dental Hospital,
+720 Swanston St, Carlton.</p>
+             
+            </a>
+                    </li> 
+        <!-- 3 Link 5314500 -->
+        <li class="simple-listing__item">
+            <a class="simple-listing__link"  href="https://harrybrookesallenmuseum.mdhs.unimelb.edu.au/about/visitors-info"  title="Harry Brookes Allen Museum of Anatomy and Pathology">
+            <h3 class="simple-listing__heading">Harry Brookes Allen Museum of Anatomy and Pathology</h3> 
+             
+            <p class="simple-listing__excerpt">University of Melbourne
+Medical Building
+Corner of Grattan Street and Royal Parade
+Parkville 3052, Victoria.</p>
+             
+            </a>
+                    </li> 
+    </ul>
+    </div>
+
+    
+    <!-- MCE: Image features panel content template version 2.1.0 -->
+<div class="ct-featurespanel content-block bg-alt">
+    <div class="content-block__inner">
+                
+        
+        
+    	<div class="grid grid--cols-3">
+           
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 190 150">
+  <path d="M147.981 118.267L129.574 99.86c8.136-12.686 6.339-29.323-4.325-39.977a32.167 32.167 0 00-5.908-4.634 58.149 58.149 0 0011.806-10.88 2.286 2.286 0 000-2.902c-20.485-25.025-57.382-28.705-82.407-8.22a58.8 58.8 0 00-8.22 8.22 2.286 2.286 0 000 2.903 57.974 57.974 0 0035.23 20.569c-9.727 14.802-5.617 34.697 9.185 44.424a32.067 32.067 0 0034.912.215l18.406 18.407c2.687 2.687 7.041 2.687 9.718 0 2.678-2.687 2.697-7.031.01-9.718zM45.294 42.927c19.69-22.384 53.796-24.575 76.191-4.886a53.416 53.416 0 014.887 4.887 53.878 53.878 0 01-11.656 9.952 32.018 32.018 0 00-15.476-2.2 15.213 15.213 0 002.125-7.743c-.074-8.594-7.105-15.494-15.69-15.42a15.575 15.575 0 00-12.912 7.078 15.246 15.246 0 00-2.48 8.342A15.455 15.455 0 0082.088 57.89a32.129 32.129 0 00-2.218 2.013c-.29.29-.544.608-.824.908-.02.01-.038.01-.056.019a53.552 53.552 0 01-33.696-17.901zm31.88 1.705c.308.122.626.215.954.29.169.047.319.103.487.14 4.307.862 8.501-1.938 9.362-6.254a7.538 7.538 0 00-.009-3.033c-.028-.169-.094-.318-.131-.477a6.92 6.92 0 00-.3-.946c-.075-.178-.168-.346-.253-.524a7.977 7.977 0 00-.43-.787c-.112-.168-.234-.327-.356-.487-.122-.159-.215-.318-.337-.458 5.983.243 10.626 5.29 10.383 11.272-.244 5.982-5.29 10.626-11.272 10.383a10.83 10.83 0 01-10.383-10.523c.15.13.318.233.477.346.16.112.328.253.496.365.253.16.515.3.778.421.177.094.346.197.533.272zm-.403-7.322a3.7 3.7 0 01.093-.561 10.896 10.896 0 012.697-2.669 3.2 3.2 0 01.599-.093 3.329 3.329 0 013.277 3.389 3.329 3.329 0 01-3.39 3.277 3.349 3.349 0 01-3.276-3.343zm6.347 64.713c-10.738-10.739-10.738-28.153 0-38.891 10.739-10.739 28.153-10.739 38.891 0 10.739 10.738 10.739 28.152 0 38.891-10.598 10.739-27.9 10.851-38.638.243a6.25 6.25 0 01-.253-.243zm61.623 22.732a2.282 2.282 0 01-3.239 0l-17.826-17.826 3.239-3.24 17.826 17.826c.899.89.899 2.341 0 3.24z"/>
+</svg>  
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore our collection</h3>
+                <p class="card__description">Explore, inquire, and engage with the three Faculty of Medicine, Dentistry and Health Sciences museum collections.<br/><br/><a href="https://collections.mdhs.unimelb.edu.au/explore" class="button button--text"> Get started </a></p>
+            
+                        
+        </div>
+        
+           
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 190 150">
+  <path d="M147.964 73.036V29.82c0-5.415-4.406-9.821-9.821-9.821H51.714c-5.415 0-9.821 4.406-9.821 9.821v29.465A5.9 5.9 0 0036 65.179v58.928A5.9 5.9 0 0041.893 130h43.214A5.9 5.9 0 0091 124.107h16.463a5.851 5.851 0 004.683-2.316 5.852 5.852 0 001.001-5.127l-3.861-14.164h11.178v21.607a5.9 5.9 0 005.893 5.893h21.607a5.9 5.9 0 005.893-5.893V78.929a5.9 5.9 0 00-5.893-5.893zm-60.893 51.071a1.967 1.967 0 01-1.964 1.964H41.893a1.967 1.967 0 01-1.964-1.964v-3.928H87.07v3.928zm0-7.857H39.93V73.036H87.07v43.214zm0-47.143H39.93V65.18c0-1.083.881-1.965 1.964-1.965h43.214c1.082 0 1.964.882 1.964 1.965v3.928zm22.287 48.591a1.947 1.947 0 01-.334 1.709 1.948 1.948 0 01-1.561.772H91v-3.929h17.963l.395 1.448zM91 112.321V102.5h14.214l2.679 9.821H91zm29.464-13.75H91V86.786h29.464V98.57zm0-19.642v3.928H91V65.18a5.9 5.9 0 00-5.893-5.893H45.821V29.82a5.9 5.9 0 015.893-5.892h86.429a5.9 5.9 0 015.893 5.892v43.215h-17.679a5.9 5.9 0 00-5.893 5.893zm29.465 45.178a1.968 1.968 0 01-1.965 1.964h-21.607a1.967 1.967 0 01-1.964-1.964v-3.928h25.536v3.928zm0-7.857h-25.536V86.786h25.536v29.464zm0-33.393h-25.536V78.93c0-1.083.882-1.965 1.964-1.965h21.607c1.083 0 1.965.882 1.965 1.965v3.928z"/>
+  <path d="M53.679 27.857H49.75v3.929h3.929v-3.929zM61.535 27.857h-3.928v3.929h3.928v-3.929zM69.393 27.857h-3.929v3.929h3.929v-3.929z"/>
+</svg>
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore Our Publications</h3>
+                <p class="card__description">Be inspired by the Faculty Museums’ publications. Themes include women in medicine, cancer, epilepsy and Australian Indigenous healing practice encompassing milestones in health care examining the path of discovery through innovation, education and social change.<br/><br/><a href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/collections/publications" class="button button--text"> Learn more</a></p>
+            
+                        
+        </div>
+        
+        
+         
+        <div class="card">
+                              <div class="card__icon">
+                    <div class="icon" data-icon data-size="xxl" style="margin-left: -20px;margin-top:-100px">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 760" fill="currentColor"><path d="M172-252q-21.5 0-37.75-16.25T118-306v-348q0-21.5 16.25-37.75T172-708h348q21.5 0 37.75 16.25T574-654v348q0 21.5-16.25 37.75T520-252H172Zm512.49-268q-13.49 0-21.99-8.5-8.5-8.5-8.5-21.99v-127.02q0-13.49 8.5-21.99 8.5-8.5 21.99-8.5h127.02q13.49 0 21.99 8.5 8.5 8.5 8.5 21.99v127.02q0 13.49-8.5 21.99-8.5 8.5-21.99 8.5H684.49ZM676-542h144v-144H676v144ZM172-274h348q14 0 23-9t9-23v-348q0-14-9-23t-23-9H172q-14 0-23 9t-9 23v348q0 14 9 23t23 9Zm24-91h300l-95-127-75 100-55-73-75 100Zm488.49 113q-13.49 0-21.99-8.5-8.5-8.5-8.5-21.99v-127.02q0-13.49 8.5-21.99 8.5-8.5 21.99-8.5h127.02q13.49 0 21.99 8.5 8.5 8.5 8.5 21.99v127.02q0 13.49-8.5 21.99-8.5 8.5-21.99 8.5H684.49ZM676-274h144v-144H676v144Zm-536 0v-412 412Zm536-268v-144 144Zm0 268v-144 144Z"/></svg>
+    
+
+                    </div>
+                </div>
+                            
+                <h3 class="card__header">Explore our Exhibitions</h3>
+                <p class="card__description">Discover the Faculty Museums exhibition programs offering rich curated exhibitions on themes of Aboriginal and Torres Strait Islander healing traditions, the evolution of health sciences, education, and research at the University of Melbourne and beyond.. <br/><br/><a href="https://medicalhistorymuseum.mdhs.unimelb.edu.au/exhibitions" class="button button--text"> Discover </a></p>
+            
+                        
+        </div>
+          
+        
+        
+                
+        	
+        </div>
+    </div>
+</div>
+<!--<figure class="figure"><div class="embed">
+ <iframe src="https://www.google.com/maps/embed?iwloc=nearpb=!1m18!1m12!1m3!1d3772.446058026276!2d144.962265476627!3d-37.799434033220436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642d3853a10f3%3A0xb687b20bbc098589!2sThe%20Royal%20Dental%20Hospital%20of%20Melbourne!5e1!3m2!1sen!2sus!4v1741669173692!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div></figure>
+-->
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+
+GET /htdocs/index.php/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 06 Aug 2025 15:18:08 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=013d384c51be3ea90e5ed7db7465212e; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 3bff2e45-80f9-4c52-ac85-f4469672d59c
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Rachid Annab on 18 Jul 2025 3:56pm
+Last published by: Rachid Annab on 18 Jul 2025 3:56pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240541
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Rachid Annab">
+<meta name="DC.Date" content="18 Jul 2025 3:56pm">
+<meta name="MCE.Template" content="Inside page with blue header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:08
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/page-not-found" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Page not found</h1>
+                    </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+<div class="content-block" id="component_5240543">
+
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://museums.mdhs.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:museums.mdhs.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://museums.mdhs.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/htdocs/index.php/index.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="Bhavi Udani">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>museums.mdhs.unimelb.edu.au</span><span>/htdocs/index.php/index.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>Nationalism is both a vital medicine and a dangerous drug.</p>
+		<p><cite>Geoffrey Blainey </cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://museums.mdhs.unimelb.edu.au/page-not-found/page-not-found-reported";
+   eventposted=1;
+ }
+}
+
+</script>
+</div>
+
+
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 06 Aug 2025 15:18:08 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=2e744e82c5263e05fb457bbbe875745b; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 375b418f-c6b5-4f20-a18b-0ca6a4be1585
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Rachid Annab on 18 Jul 2025 3:56pm
+Last published by: Rachid Annab on 18 Jul 2025 3:56pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240541
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Rachid Annab">
+<meta name="DC.Date" content="18 Jul 2025 3:56pm">
+<meta name="MCE.Template" content="Inside page with blue header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:08
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/page-not-found" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Page not found</h1>
+                    </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+<div class="content-block" id="component_5240543">
+
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://museums.mdhs.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:museums.mdhs.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://museums.mdhs.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/htdocs/index.php/cmd.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="Bhavi Udani">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>museums.mdhs.unimelb.edu.au</span><span>/htdocs/index.php/cmd.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>Whatever the future may have in store, one thing is certain - no inferiority complex ever found a place in the true Australian creed of life.</p>
+		<p><cite>Sir Isaac Isaacs : Governor-General's New Year message, January 1936</cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://museums.mdhs.unimelb.edu.au/page-not-found/page-not-found-reported";
+   eventposted=1;
+ }
+}
+
+</script>
+</div>
+
+
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 06 Aug 2025 15:18:08 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=bf142f124ac92739019e7f4d074f36c4; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 1d03bb49-c9e4-4fc9-aa35-15808f221b67
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Rachid Annab on 18 Jul 2025 3:56pm
+Last published by: Rachid Annab on 18 Jul 2025 3:56pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240541
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Rachid Annab">
+<meta name="DC.Date" content="18 Jul 2025 3:56pm">
+<meta name="MCE.Template" content="Inside page with blue header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:09
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/page-not-found" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Page not found</h1>
+                    </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+<div class="content-block" id="component_5240543">
+
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://museums.mdhs.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:museums.mdhs.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://museums.mdhs.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/phpldapadmin/cmd.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="Bhavi Udani">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>museums.mdhs.unimelb.edu.au</span><span>/phpldapadmin/cmd.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>If we can only live once, let it be a daring adventure.</p>
+		<p><cite>Julian Assange </cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://museums.mdhs.unimelb.edu.au/page-not-found/page-not-found-reported";
+   eventposted=1;
+ }
+}
+
+</script>
+</div>
+
+
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET //cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 06 Aug 2025 15:18:08 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=2f9e708786c8aeb1cf0731ffa941bbb2; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 4bd1b56f-80ef-4a4a-9387-39b430474f9f
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Rachid Annab on 18 Jul 2025 3:56pm
+Last published by: Rachid Annab on 18 Jul 2025 3:56pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240541
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Rachid Annab">
+<meta name="DC.Date" content="18 Jul 2025 3:56pm">
+<meta name="MCE.Template" content="Inside page with blue header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:08
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/page-not-found" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Page not found</h1>
+                    </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+<div class="content-block" id="component_5240543">
+
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://museums.mdhs.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:museums.mdhs.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://museums.mdhs.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/cmd.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="Bhavi Udani">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>museums.mdhs.unimelb.edu.au</span><span>/cmd.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>Nationalism is both a vital medicine and a dangerous drug.</p>
+		<p><cite>Geoffrey Blainey </cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://museums.mdhs.unimelb.edu.au/page-not-found/page-not-found-reported";
+   eventposted=1;
+ }
+}
+
+</script>
+</div>
+
+
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+
+GET /phpldapadmin/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 06 Aug 2025 15:18:08 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=f76ce09025907f0922c5e42233ceb1c9; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: 8e680c45-ea69-4dcc-a31d-215331324117
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Rachid Annab on 18 Jul 2025 3:56pm
+Last published by: Rachid Annab on 18 Jul 2025 3:56pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240541
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Rachid Annab">
+<meta name="DC.Date" content="18 Jul 2025 3:56pm">
+<meta name="MCE.Template" content="Inside page with blue header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:09
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/page-not-found" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Page not found</h1>
+                    </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+<div class="content-block" id="component_5240543">
+
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://museums.mdhs.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:museums.mdhs.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://museums.mdhs.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/phpldapadmin/index.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="Bhavi Udani">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>museums.mdhs.unimelb.edu.au</span><span>/phpldapadmin/index.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>The rain began again. It fell heavily, easily, with no meaning or intention but the fulfilment of its own nature, which was to fall and fall.</p>
+		<p><cite>Helen Garner </cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://museums.mdhs.unimelb.edu.au/page-not-found/page-not-found-reported";
+   eventposted=1;
+ }
+}
+
+</script>
+</div>
+
+
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://museums.mdhs.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+
+GET //index.php?redirect=true&meth=ajax HTTP/1.1
+Host: museums.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://museums.mdhs.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Origin: cms.unimelb.edu.au
+Cache-Control: max-age=0, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 06 Aug 2025 15:18:08 GMT
+Pragma: cache
+Server: openresty
+Set-Cookie: SQ_SYSTEM_SESSION=08d13c7133c43a300ada274d8f56ca7b; path=/; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Origin
+Via: 1.1 squizedge.net
+X-Cache: MISS from squizedge.net
+X-Content-Type-Options: nosniff
+X-Request-Id: fe5b7a2d-f9d6-4e25-b4c7-4fef1ad43e41
+X-Upgrade-Enabled: off
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<link rel="icon" href="/__data/assets/image/0012/4587591/favicon.png">
+<title>Page not found</title>
+<!--
+Website maintained by: Bhavi Udani
+Last updated by: Rachid Annab on 18 Jul 2025 3:56pm
+Last published by: Rachid Annab on 18 Jul 2025 3:56pm
+System: MCE Gen3
+    This website uses the centrally managed Design and Content Management System.  
+    https://www.unimelb.edu.au/web
+    Asset ID: #5240541
+
+-->
+
+<meta name="title" content="Page not found">
+<meta name="description" content="Page not found">
+<meta name="last-modified" content="2025-07-18">
+
+<meta name="robots" content="index, follow">
+<meta name="robots" content="noodp">
+<link rel="canonical" href="https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta name="geo.placename" content="Victoria, Australia, Oceania, World">
+<meta name="geo.region" content="AU">
+<meta name="geo.client.location" content="US">
+<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q">
+<meta name="msvalidate.01" content="0F1033BC88958D439A8B529D66FCD079">
+
+
+<meta name="DC.Creator" content="Rachid Annab">
+<meta name="DC.Date" content="18 Jul 2025 3:56pm">
+<meta name="MCE.Template" content="Inside page with blue header">
+<meta name="MCE.Paintlayout" content="Page layout 1385754">
+
+
+<meta property="og:type" content="website">
+<!--<meta property="fb:app_id" content="933889623386823">-->
+<meta property="og:url" content=" https://museums.mdhs.unimelb.edu.au/page-not-found">
+<meta property="og:title" content="Page not found">
+<meta property="og:description" content="Page not found">
+<meta property="og:site_name" content="Museums ">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@unimelb">
+<meta name="twitter:title" content="Page not found">
+<meta name="twitter:description" content="Page not found">
+<!-- og:image and twitter:image needs to be set on details screen to appear here -->
+
+  
+
+  
+ 
+        
+        
+        
+        
+        <link rel="stylesheet" href="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.css">
+        <script src="//dds-gen3.web.unimelb.edu.au/v15.8.2/uom.js"></script> 
+    
+
+  
+	 
+		    
+			<link rel="stylesheet" href="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.css"> 
+			<script async src="//dds-gen4.web.unimelb.edu.au/2.0.2/integration/client.js"></script>
+		
+
+ 
+ 
+	
+	<link rel="stylesheet" href="https://cms.unimelb.edu.au/__data/assets/css_file_folder/0008/3224951/uom-mce-gen3.css?v=1.0.103">
+
+
+<script type="module" src="https://dds-gen3.web.unimelb.edu.au/ui-core-web-components/v0.0.1/modular/client/mega-menu.js"></script><!-- custom head extras start -->
+
+<!-- custom head extras end -->
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 August 2025 01:18:08
+-->
+
+
+</head>
+<body class="">
+  
+<div class="skip-link">
+      <a href="#main-content" class="skip-link__anchor" data-no-scroll>
+        Skip to main content
+      </a>
+    </div>
+
+    <!-- Megamenu 3505666 retrieve -->
+    
+
+
+
+
+
+
+ 
+    
+        <!--googleoff: all--> <!-- menu v2 -->
+        <style>#top header.page-header,#top header.page-header.floating {display:none;} .uom-megamenu {min-height:96px; background-color: #000f46;} @media (min-width: 1098px) {.uom-megamenu {min-height: 110px;}}</style>
+        <script type="application/json" id="menu-data">
+        {"facultyName":"Museums ","external":false,"facultyHref":"https://museums.mdhs.unimelb.edu.au",
+        "navItems":[
+{"title":" Explore the collection","href":"https://collections.mdhs.unimelb.edu.au/?in_c=mega"},{"title":" Museums","href":"","navItems":[{"title":"Medical History Museum","href":"https://medicalhistorymuseum.mdhs.unimelb.edu.au?in_c=mega","navItems":[{"title":"Tertiary item one","href":"#"},{"title":"Tertiary item two","href":"#"},{"title":"Tertiary item three","href":"#"}]},{"title":"Henry Forman Atkinson Dental Museum","href":"https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au?in_c=mega"},{"title":"Harry Brookes Allen Museum of Anatomy and Pathology","href":"https://harrybrookesallenmuseum.mdhs.unimelb.edu.au?in_c=mega"}]}
+],
+        "topNavItems":[{"title":"Study","href":"https://study.unimelb.edu.au/?in_c=mega"},{"title":"Students","href":"https://students.unimelb.edu.au/?in_c=mega"},{"title":"Research","href":"https://research.unimelb.edu.au/?in_c=mega"},{"title":"Library","href":"https://library.unimelb.edu.au/?in_c=mega"},{"title":"Staff","href":"https://staff.unimelb.edu.au/?in_c=mega"},{"title":"Alumni","href":"https://www.unimelb.edu.au/alumni/?in_c=mega"},{"title":"Giving","href":"https://www.unimelb.edu.au/giving/?in_c=mega"},{"title":"About","href":"https://about.unimelb.edu.au/?in_c=mega"},{"title":"Contact","href":"https://www.unimelb.edu.au/contact/?in_c=mega"}]}
+        </script>
+        
+        <header class="uom-megamenu">
+          <uom-ds-mega-menu></uom-ds-mega-menu>
+          <div data-um-mega-menu=""></div>
+        </header>
+        
+        
+        <!--googleon: all-->
+    
+
+
+<div class="uomcontent" role="document">
+    <div class="page-inner">
+        
+        
+  
+                            <ol class="page-local-history" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                    <li class="root" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                        <a href="https://museums.mdhs.unimelb.edu.au" itemprop="item"><span itemprop="name">Museums </span></a>
+                        <meta content="1" itemprop="position">
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                           <a href="https://museums.mdhs.unimelb.edu.au/page-not-found" itemprop="item"><span itemprop="name">404</span></a>
+                           <meta content="2" itemprop="position">
+                        </li>
+                                    </ol>
+                    
+
+        
+        
+                
+        
+        <div class='main' id='main-content' role='main'>
+            
+
+    <header>
+                    <h1>Page not found</h1>
+                    </header>
+    
+
+        
+         
+                        
+
+    
+
+    
+<div class="content-block" id="component_5240543">
+
+<div class="content-block" id="new_content_container_1938144_1938144">
+  <p>We are sorry, but we can't find the page you are looking for.<br>It may have been moved, or deleted.</p>
+
+  <h3>What now?</h3>
+  <ul>
+    <li>
+      <span style="display:inline">It looks like you came directly here, either by typing the address, or following a bookmark. Check the address to be sure.</span>
+      <span style="display:none">Return to the <a href="">page you were on</a></span>
+    </li>
+    <li>Try starting from the <a href="https://museums.mdhs.unimelb.edu.au">home page</a></li>
+    <li>Try <a href="http://search.unimelb.edu.au/?q=*+site:museums.mdhs.unimelb.edu.au">searching pages on this site</a></li>
+    <li><a data-modal-target="report-modal" href="#report">Report this problem</a></li>
+    <li>Enjoy the quotation below from one of the remarkable people associated with The University of Melbourne.</li>
+  </ul>
+
+
+</div>
+<div class="modal__dialog" id="report-modal">
+  <a class="modal__close">Close</a>
+  
+    <form id="form_email_1890286" enctype="multipart/form-data" action="https://cms.unimelb.edu.au/central-site-management/forms/404" method="post">
+      <input type="hidden" name="SQ_FORM_1890286_PAGE" id="SQ_FORM_1890286_PAGE" value="1" >
+      <input type="hidden" id="q1890286_q2" name="q1890286:q2" value="" >
+      <input type="hidden" id="q1890286_q4" name="q1890286:q4" value="https://museums.mdhs.unimelb.edu.au">
+      <input type="hidden" id="q1890286_q5" name="q1890286:q5" value="/index.php">
+      <input type="hidden" id="q1890286_q6" name="q1890286:q6" value="Bhavi Udani">
+    
+        <h1 id="report">Problem report</h1>
+        <div>
+            <p>We've captured some technical details.</p>
+            <pre>You came from: Direct<br>You asked for: <span>https</span>://<span>museums.mdhs.unimelb.edu.au</span><span>/index.php</span></pre>
+        </div>
+        
+       <fieldset>
+          <legend>Optional details</legend>
+          <div>
+            <label for="q1890286_q1">Email. <em>If you'd like a reply, we'll need your email address </em>:</label>
+            <input name="q1890286:q1" value="" size="30" maxlength="300" placeholder="you@somewhere.org" id="q1890286_q1" type="text">
+          </div>
+          <div>
+            <label for="q1890286_q3">Comments. <em>Anything else you'd like to tell us? </em>:</label>
+            <textarea name="q1890286:q3" cols="30" rows="3" placeholder="Any more useful details" id="q1890286_q3"></textarea>
+          </div>
+          <input type="text" name="honeypot" value="" size="10" maxlength="10" class="hidden" id="honeypot" title="If you are a human, do not fill in this field.">
+        </fieldset>
+        
+        <footer>
+          <input name="form_email_1890286_submit" value="Submit" id="form_email_1890286_submit" type="submit" class="button"  />
+        </footer>
+    
+    </form>
+</div>  <section class="bg-alt">
+    <blockquote class="blockquote-classic">
+		<p>Whatever the future may have in store, one thing is certain - no inferiority complex ever found a place in the true Australian creed of life.</p>
+		<p><cite>Sir Isaac Isaacs : Governor-General's New Year message, January 1936</cite></p>
+    </blockquote>
+
+  </section><script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+
+var eventposted=0;
+
+$(document).ready(function(){
+ $('input.button').click(function() {
+   window.setInterval(redirect, 100);
+ });
+});
+
+function redirect(){
+ if(($(".modal__dialog").is(':visible')) && (eventposted==0)){
+   window.location = "https://museums.mdhs.unimelb.edu.au/page-not-found/page-not-found-reported";
+   eventposted=1;
+ }
+}
+
+</script>
+</div>
+
+
+
+
+
+
+            
+            <!-- custom site footer start -->
+
+<!-- custom site footer end -->
+
+
+            
+        </div>
+        
+
+
+    </div>
+</div>
+<!-- global after body -->
+<script>
+window.utag_data = window.utag_data || {};
+window.utag_data.platform = "matrix-controlled-environment";
+</script>
+
+
+<script async="async" src="https://static.srcspot.com/libs/leonore.js"></script>
+
+    
+
+
+
+<script defer src="https://cms.unimelb.edu.au/__data/assets/js_file/0010/5214367/analyticsUoM.js?v=0.1.3"></script>
+<!-- custom after body start -->
+
+<!-- custom after body end  -->
+
+</body>
+</html>
+
+

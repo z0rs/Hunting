@@ -1,0 +1,21 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://print.snac.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: print.snac.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://print.snac.unimelb.edu.au/index.php
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 101
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:20 GMT
+
+<!DOCTYPE html><html><head><title>ACME Access Only</title></head><body>ACME Access Only</body></html>

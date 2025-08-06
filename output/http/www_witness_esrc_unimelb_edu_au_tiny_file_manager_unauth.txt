@@ -1,0 +1,46 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://www.witness.esrc.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: www.witness.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://www.witness.esrc.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:04 GMT
+Server: AmazonS3
+Via: 1.1 2896f6be77233cf3f24b7a1aaae1c6f2.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: abWvd_YhvfjVjTL2lWbJzv0mlhcnUAI7EbI7-xhYUggdapPTyTZCsw==
+X-Amz-Cf-Pop: IAD55-P4
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: 5JWCJ2GEHH0HPAFC</li>
+<li>HostId: ptHSlODJEW4q9wWf2PVEMT575XpILDm9cEQXmy7rXt7BzYf1/E0NC9RKiK6Y7BKIRpxfxbV5A6uN7aUv9zEvvD/XVjF6HYqaDFkfavEN9ug=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

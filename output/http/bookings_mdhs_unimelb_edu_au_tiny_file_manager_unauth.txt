@@ -1,0 +1,29 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:16 GMT
+Refresh: 0;url=Web?
+Set-Cookie: visid_incap_3209806=MkGQTn3SSNyW4S1fVxgaXftxk2gAAAAAQUIPAAAAAAAdp7gpwKAN/fPU18aD0x9/; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3209806=xwwiPTmAexUI4U28O8YM8AAAAAArGXcNA80Xisjuh1/kjuAh; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=P3oRTuLI9yEk1Larov5JA/txk2gAAAAAXVMrlDfsrCr1fTFQg7pWxA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 14-12101595-12101599 NNNN CT(210 214 0) RT(1754493435466 12) q(0 0 4 -1) r(6 6) U24
+X-Powered-By: PHP/8.0.30
+Content-Length: 0
+
+

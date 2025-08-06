@@ -1,0 +1,27 @@
+[wptouch-open-redirect] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/?wptouch_switch=desktop&redirect=https://interact.sh/
+
+
+GET /?wptouch_switch=desktop&redirect=https://interact.sh/ HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wptouch-open-redirect] Dumped HTTP response https://particletheory.science.unimelb.edu.au/?wptouch_switch=desktop&redirect=https://interact.sh/
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Location: https://particletheory.science.unimelb.edu.au/?wptouch_switch=desktop&redirect=https%3A%2F%2Finteract.sh%2F
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+

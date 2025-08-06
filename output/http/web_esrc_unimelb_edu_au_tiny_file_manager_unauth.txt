@@ -1,0 +1,61 @@
+[tiny-file-manager-unauth] Dumped HTTP request for http://web.esrc.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: web.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response http://web.esrc.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 536
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:45 GMT
+Server: AmazonS3
+Via: 1.1 1063d14b5dde23a7d5dd1293e6ceb59c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: SS8tVMK1XO3YydOHEuvQq6HjovBlHiTLOBW_K1ujtX38DlQhfjRW0A==
+X-Amz-Cf-Pop: IAD55-P1
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: Q5N6JXBN37JBZKHY</li>
+<li>HostId: HUsOiLUTAYUo5orEKEVQ+jbgz17wVr16foBwFyMHXCPcbq4ysT6K50C3qOguzcpxu3gZXztw/R4=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[tiny-file-manager-unauth] Dumped HTTP response http://web.esrc.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 167
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:45 GMT
+Location: https://web.esrc.unimelb.edu.au/index.php
+Server: CloudFront
+Via: 1.1 8b1ca38f6b0e2c14ce8c202175f971a6.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Krj4lKixmw5dGO6t5y6lBAMFp6w-GRvyqxsj-cVA0Ypy1QaLvZGoOw==
+X-Amz-Cf-Pop: IAD55-P1
+X-Cache: Redirect from cloudfront
+
+

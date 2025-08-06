@@ -1,0 +1,185 @@
+[ht-deployment] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/.htdeployment
+
+
+GET /.htdeployment HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[ht-deployment] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/.htdeployment
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:17:16 GMT
+Set-Cookie: visid_incap_3209806=6dqbI2OUQAyDiXa9Uv2A/vxxk2gAAAAAQUIPAAAAAAAjilmMcOQWdHpcD7UBt6x6; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3209806=dtITDPLkOVZ6ZP8cO8YM8AAAAACVFQT6bWUjhGBIZd2kpSS6; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=YKaDLItTVGem1Larov5JA/xxk2gAAAAAMtacHygkKeLRhGanPc8x5A==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cdn: Imperva
+X-Iinfo: 14-12101767-12101776 NNYY CT(208 215 0) RT(1754493436250 16) q(0 0 0 -1) r(2 2) U24
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head><script src="/A-Friends-My-nord-Say-Macb-Thout-affic-Dring-boy" async></script>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.</p>
+<hr>
+<address>Apache/2.4.56 (Debian) Server at bookings.mdhs.unimelb.edu.au Port 80</address>
+</body></html>
+
+[ht-deployment] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/.deployment
+
+
+GET /.deployment HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: visid_incap_3209806=6dqbI2OUQAyDiXa9Uv2A/vxxk2gAAAAAQUIPAAAAAAAjilmMcOQWdHpcD7UBt6x6; nlbi_3209806=dtITDPLkOVZ6ZP8cO8YM8AAAAACVFQT6bWUjhGBIZd2kpSS6; incap_ses_237_3209806=YKaDLItTVGem1Larov5JA/xxk2gAAAAAMtacHygkKeLRhGanPc8x5A==
+Accept-Encoding: gzip
+
+
+[ht-deployment] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/.deployment
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 4639
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 10-8312394-0 NNNY RT(1754493436509 10) q(0 -1 -1 0) r(1 -1) B10(14,0,0) U24
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <noscript>
+            <title>Pardon Our Interruption</title>
+        </noscript>
+
+        <meta name="viewport" content="width=1000">
+        <meta name="robots" content="noindex, nofollow">
+        <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="expires" content="0">
+
+        <style>
+            .container { max-width: 800px; margin: auto; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #7a838c; }
+            h1 { color: #2a2d30; font-weight: 500; }
+            li { margin: 0 0 10px; }
+            a { color: #428bca; }
+            a:hover, a:focus { color: #2a6496; }
+        </style>
+
+        <script>
+          var isSpa = new URLSearchParams(window.location.search).get('X-SPA') === '1' || window.isImpervaSpaSupport;
+        </script>
+
+        <!-- This head template should be placed before the following script tag that loads the challenge script -->
+        <script>
+          window.onProtectionInitialized = function(protection) {
+            if (protection && protection.cookieIsSet && !protection.cookieIsSet()) {
+              showBlockPage();
+              return;
+            }
+            if (!isSpa) {
+              window.location.reload(true);
+            }
+          };
+          window.reeseSkipExpirationCheck = true;
+        </script>
+
+        <script>
+          if (!isSpa) {
+            var scriptElement = document.createElement('script');
+            scriptElement.type = "text/javascript";
+            scriptElement.src = "/ssue-sleed-make-No-mort-per-a-Raze-By-yon-But-th/5505862338179045646?s=u3TDgDwI";
+            scriptElement.async = true;
+            scriptElement.defer = true;
+            document.head.appendChild(scriptElement);
+          }
+        </script>
+        <script type="text/javascript">if (sessionStorage) { sessionStorage.setItem('distil_referrer', document.referrer); }</script>
+    </head>
+    <body>
+
+        
+
+        <div class="container">
+            <script>document.getElementsByClassName("container")[0].style.display = "none";</script>
+            
+            <h1>Pardon Our Interruption</h1>
+<p>As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen:</p>
+<ul>
+<noscript><li>You've disabled JavaScript in your web browser.</li></noscript>
+<li>You're a power user moving through this website with super-human speed.</li>
+<li>You've disabled cookies in your web browser.</li>
+<li>A third-party browser plugin, such as Ghostery or NoScript, is preventing JavaScript from running. Additional information is available in this <a title='Third party browser plugins that block javascript' href='http://ds.tl/help-third-party-plugins' target='_blank'>support article</a>.</li>
+</ul>
+<p>To regain access, please make sure that cookies and JavaScript are enabled before reloading the page.</p>
+
+
+        </div>
+	
+        <div id="interstitial-inprogress" style="display: none">
+          <style>
+    #interstitial-inprogress {
+      width:100%;
+      height:100%;
+      position:absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      z-index:9999;
+      background:white url("/_Incapsula_Resource?NWFURVBO=images/error_pages/bg.png") no-repeat center;
+    }
+    #interstitial-inprogress-box{
+      font-size:32px;
+      box-shadow:0 4px 14px 0 #0000001A,0 8px 24px 0 #00000021;
+      font-family:Inter,Helvetica,Arial,sans-serif;
+      position:absolute;
+      left:50%;
+      top:50%;
+      transform:translate(-50%,-50%);
+      background-color:white;
+      text-align:center;
+      width:auto;
+      min-width:min(95%,640px);
+      max-width:max-content;
+      padding:16px;
+    }
+    #interstitial-inprogress-box h3{
+      font-size:48px;
+    }
+  </style>
+  <div id="interstitial-inprogress-box">
+    <h3>Please stand by</h3>
+    <p>We&apos;re getting everything ready for you. The page is loading, and you&apos;ll be on your way in just a few moments.</p>
+    <p>Thanks for your patience!</p>
+  </div>
+
+        </div>
+
+        <script>
+          function showBlockPage() {
+            document.title = "Pardon Our Interruption";
+            document.getElementsByClassName("container")[0].style.display = "block";
+          }
+
+          if (isSpa) {
+            showBlockPage();
+          } else {
+            window.interstitialTimeout = setTimeout(showBlockPage, 10000);
+          }
+        </script>
+    </body>
+</html>
+

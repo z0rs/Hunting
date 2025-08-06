@@ -1,0 +1,627 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:05 GMT
+Link: <https://paintrainer-uat.app.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://paintrainer-uat.app.unimelb.edu.au/wp-json/wp/v2/pages/40>; rel="alternate"; type="application/json"
+Link: <https://paintrainer-uat.app.unimelb.edu.au/?p=40>; rel=shortlink
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.4.3
+
+<!doctype html>
+<html lang="en-AU">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='noindex, nofollow' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/paintrainer-uat.app.unimelb.edu.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://paintrainer-uat.app.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://paintrainer-uat.app.unimelb.edu.au/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bootstrap-css-css' href='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/bootstrap/css/bootstrap.min.css?ver=2.22' type='text/css' media='all' />
+<link rel='stylesheet' id='datepicker-css-css' href='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/datepicker/css/bootstrap-datepicker3.min.css?ver=2.22' type='text/css' media='all' />
+<link rel='stylesheet' id='paintrainer-css-css' href='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/style.min.css?ver=2.22' type='text/css' media='all' />
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/jquery-3.3.1.min.js?ver=6.1.1' id='jquery-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.2' id='jquery-ui-droppable-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/jquery.ui.touch-punch.min.js?ver=2.22' id='jquery-touch-punch-js-js'></script>
+<script type='text/javascript' id='bootstrap-js-js-extra'>
+/* <![CDATA[ */
+var ptrebus_vars = {"ajaxurl":"https:\/\/paintrainer-uat.app.unimelb.edu.au\/wp-admin\/admin-ajax.php","plugindir":"https:\/\/paintrainer-uat.app.unimelb.edu.au\/wp-content\/themes\/paintrainer","startdate":"01\/01\/1970","referer":"https:\/\/paintrainer-uat.app.unimelb.edu.au\/index.php","POST_META_FIRST_TIME_USER_TIP":"ptrebus_first_time_user","STATUS_NOT_STARTED":"Not Started","STATUS_STARTED":"In Progress","STATUS_COMPLETE":"Completed"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/bootstrap/js/bootstrap.bundle.min.js?ver=2.22' id='bootstrap-js-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/datepicker/js/bootstrap-datepicker.min.js?ver=2.22' id='datepicker-js-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/helpers.min.js?ver=2.22' id='helpers-js-js'></script>
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/dailytips.min.js?ver=2.22' id='dailytips-js-js'></script>
+<link rel="https://api.w.org/" href="https://paintrainer-uat.app.unimelb.edu.au/wp-json/" /><link rel="alternate" type="application/json" href="https://paintrainer-uat.app.unimelb.edu.au/wp-json/wp/v2/pages/40" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://paintrainer-uat.app.unimelb.edu.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://paintrainer-uat.app.unimelb.edu.au/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel="canonical" href="https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/" />
+<link rel='shortlink' href='https://paintrainer-uat.app.unimelb.edu.au/?p=40' />
+<link rel="alternate" type="application/json+oembed" href="https://paintrainer-uat.app.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpaintrainer-uat.app.unimelb.edu.au%2Flogin-to-paintrainer%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://paintrainer-uat.app.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpaintrainer-uat.app.unimelb.edu.au%2Flogin-to-paintrainer%2F&#038;format=xml" />
+</head>
+
+
+<body class="page-template page-template-page-templates page-template-guestlanding page-template-page-templatesguestlanding-php page page-id-40">
+    <!-- Modal -->
+<div class="modal fade custom-modal" id="redirectmodal" tabindex="-1" role="dialog" aria-labelledby="redirectmodalLabel"
+  aria-hidden="true" data-backdrop="static">
+  <div
+    class="modal-dialog modal-dialog-centered "
+    role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="redirectmodalLabel">Confirm your location</h1>
+      </div>
+      <div class="modal-body">
+        <p>It looks like you might be located in North America. This website is the Australian version of painTRAINER.
+        </p>
+        <p>If you are located in the U.S. and participating in a study of painTRAINER, you should not use this website.
+          Please contact your study team to make sure that you access the correct website for your study.</p>
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12 text-right"><button type="button" class="btn btn-primary mb-3 px-5 py-3"
+                data-dismiss="modal">Continue</button></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>	<script>
+		(function(){
+			let isocountry
+			let northamerica = ["AI", "AG", "AW", "BS", "BB", "BZ", "BM", "BQ", "VG", "CA", "KY", "CR", "CU", "CW", "DM", "DO", "SV", "GL", "GD", "GP", "GT", "HT", "HN", "JM", "MQ", "MX", "PM", "MS", "CW", "KN", "NI", "PA", "PR", "BQ", "BQ", "SX", "KN", "LC", "PM", "VC", "TT", "TC", "US", "VI"];
+			function isNorthAmerica(country)
+			{
+				return country === isocountry;
+			}
+			function getCookie(cname) {
+				let name = cname + "=";
+				let decodedCookie = decodeURIComponent(document.cookie);
+				let ca = decodedCookie.split(';');
+				for(let i = 0; i <ca.length; i++) {
+					let c = ca[i];
+					while (c.charAt(0) == ' ') c = c.substring(1);
+					
+					if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+				}
+				return "";
+			}
+			fetch("https://ipinfo.io/json")
+			.then(
+				response => response.json()
+			).then(
+				data => 
+				{
+					isocountry = data.country;
+					if(northamerica.find(isNorthAmerica)) 
+					{
+						let modal = $('#redirectmodal');
+						$('#redirectmodal').on('hidden.bs.modal', function (e) {
+							document.cookie = "redirectmessage=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
+						});
+						if(getCookie("redirectmessage") !== "true") modal.modal('show');
+					}
+				}
+			)
+		})();
+		
+
+	</script>
+	<header id="masthead" class="site-header">
+				<!-- logged-out navigation starts // -->
+		<div id="upper-header">
+			<div class="container">
+				<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ptrebus_mainNavigation"
+					 aria-controls="ptrebus_mainNavigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<a class="navbar-brand" href="https://paintrainer-uat.app.unimelb.edu.au" title="Pain trainer home">
+						<img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/logo.svg" alt="painTRAINER">
+					</a>
+					<div class="collapse navbar-collapse" id="ptrebus_mainNavigation">
+						<ul class="navbar-nav mr-auto">
+							<li class="nav-item active">
+								<a class="nav-link" href="/">Home</a>
+							</li>
+							<li class="nav-item ">
+								<a class="nav-link" href="/about-paintrainer/">About</a>
+							</li>
+						</ul>
+						<ul class="navbar-nav anon-items">
+							<li class="nav-item nav-item-with-icon ">
+								<a class="nav-link" href="/login-to-paintrainer/?action=register">
+									<div><svg class="icon-profile fill-green">
+											<use xlink:href="#svg-profile" aria-hidden="true" /></svg></div>
+									Register								</a>
+							</li>
+							<li class="nav-item nav-item-with-icon ">
+								<a class="nav-link" href="/login-to-paintrainer/?action=login">
+									<div><svg class="icon-login fill-green">
+											<use xlink:href="#svg-login" aria-hidden="true" /></svg></div>
+									Login								</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</div>
+		<div class="container" id="lower-header">
+			<ul class="nav anon-items">
+				<li class="nav-item nav-item-with-icon ">
+					<a class="nav-link" href="/login-to-paintrainer/?action=register">
+						<div><svg class="icon-profile fill-blue">
+								<use xlink:href="#svg-profile" aria-hidden="true" /></svg></div>
+						Register					</a>
+				</li>
+				<li class="nav-item nav-item-with-icon ">
+					<a class="nav-link" href="/login-to-paintrainer/?action=login">
+						<div><svg class="icon-login fill-blue">
+								<use xlink:href="#svg-login" aria-hidden="true" /></svg></div>
+						Login					</a>
+				</li>
+			</ul>
+		</div><!-- // logged-out navigation ends -->
+					</header>
+
+	<div id="page" class="site">
+		<a class="sr-only sr-only-focusable" href="#content">
+			Skip to content		</a>
+		<!-- #masthead -->
+		<div id="content" class="site-content"><div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div id="primary" class="content-area">
+				<main id="main" class="site-main">
+					<div id="carouselExampleIndicators" class="carousel slide mb-3" data-ride="carousel" data-interval="10000" data-wrap="true">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-none d-md-block w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel-video.jpg" alt="">
+      <img class="d-block d-md-none w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel-video-mobile.jpg" alt="">
+      <div class="carousel-caption carousel-caption-video">
+        <h5>About <span class="sitename">painTRAINER</span><br /><br /><a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#promovideo">Watch Video</a></h5>
+    </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-none d-md-block w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel.png" alt="">
+      <img class="d-block d-md-none w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel-mobile.png" alt="">
+      <div class="carousel-caption">
+        <h5 class="sp-bubble sp-bubble-tl">Financially it cost me nothing, but I have gained so much from painTRAINER. Every minute of it has been worth it for me.<br /><span>Sue, 64</span></h5>
+        <p class="carousel-caption-action-button"><a href="/login-to-paintrainer/?action=register" class="btn btn-primary">Register</a></p>
+    </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-none d-md-block w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel.png" alt="">
+      <img class="d-block d-md-none w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel-mobile.png" alt="">
+      <div class="carousel-caption">
+        <h5 class="sp-bubble sp-bubble-br">painTRAINER gives you a different and better outlook on life and how you’re thinking.<br /><span>Peter, 68</span></h5>
+        <p class="carousel-caption-action-button"><a href="/login-to-paintrainer/?action=register" class="btn btn-primary">Register</a></p>
+    </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-none d-md-block w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel.png" alt="">
+      <img class="d-block d-md-none w-100" src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/carousel-mobile.png" alt="">
+      <div class="carousel-caption">
+        <h5 class="sp-bubble sp-bubble-tr">I have learned from painTRAINER you can actually deal with pain, whereas, before I was scared of pain.<br /><span>Mary, 62</span></h5>
+        <p class="carousel-caption-action-button"><a href="/login-to-paintrainer/?action=register" class="btn btn-primary">Register</a></p>
+    </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<div class="row justify-content-around landing-columns landing-set">
+    <div class="col-md-6 col-xl-3">
+          <div class="landing-set-wrap">
+            <h5 class="landing-set-title p-3">What is <br /><span class="sitename">painTRAINER</span>? </h5>
+            <div class="landing-set-contents p-3"><p><span class="sitename">painTRAINER</span> is an interactive, online program based on scientific research that teaches you effective strategies to manage your pain.</p></div>
+          </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+            <div class="landing-set-wrap">
+              <h5 class="landing-set-title p-3">Who may benefit from <br /><span class="sitename">painTRAINER</span>?</h5>
+              <div class="landing-set-contents p-3"><p><span class="sitename">painTRAINER</span> is designed for adults over the age of 18 who experience pain. Caregivers may also find the program useful in helping them support someone experiencing pain.</p></div>
+            </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+          <div class="landing-set-wrap">
+            <h5 class="landing-set-title p-3">How to access <br /><span class="sitename">painTRAINER</span>?</h5>
+            <div class="landing-set-contents p-3"><p><span class="sitename">painTRAINER</span> is free of charge. Click register and complete the registration pages. The information you provide will be securely handled and participation is anonymous and confidential.</p></div>
+          </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="landing-set-wrap">
+          <h5 class="landing-set-title p-3"><img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/icons/icon-news.svg" alt="" />Media</h5>
+          <div class="landing-set-contents p-3">
+            <h6>How Psychologists Can Help Treat Chronic Pain</h6>
+            <p>As doctors and patients worry about the effect of painkillers, therapists are finding they can be a powerful salve for suffering.</p>
+            <p>Read the full <a href="//www.nytimes.com/2021/11/09/well/mind/psychologists-chronic-pain-therapy.html" target="_blank">New York Times feature mentioning painTRAINER</a></p></div>
+        </div>
+  </div>
+  </div>
+
+
+  <!-- <div class="row justify-content-center align-items-center mt-3"> 
+    <div class="col-3 col-md-2 text-right">
+      <img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/the-university-of-melbourne-logo-png-300x300.png" class="img-fluid landing-logo" alt="University of Melbourne" />
+    </div>
+    <div class="col-9 col-md-8 col-lg-6 small"><p>Produced by the Centre of Health, Exercise and Sports Medicine at the University of Melbourne in collaboration with Duke University and Hackensack Meridian Health</p></div>
+      </div>
+  </div> -->
+
+  <div class="row justify-content-between align-items-center mt-3">
+    <div class="col-lg-8 landing-logos">
+    <img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/the-university-of-melbourne-logo-png-300x300.png" class="d-block d-lg-inline landing-logo-1 mb-3 mb-lg-0 mx-auto mx-lg-0" alt="University of Melbourne" />
+    <img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/duke-png-300x129.png" class="d-block d-lg-inline landing-logo-2 my-4 my-lg-0 mx-auto mx-lg-4 mx-xl-5" alt="Duke University" />
+    <div class="d-block d-lg-inline text-center">
+      <img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/hackensack-png-300x90.png" class="img-fluid landing-logo-3 mx-2 mx-lg-4 mx-xl-5 my-4 my-lg-0" alt="Hackensack Meridian Health" />
+      <img src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/johntheurer-png-300x116.png" class="img-fluid landing-logo-4 mx-2 mx-lg-0 my-4 my-lg-0" alt="John Theurer Cancer Centre" /></div>
+    </div>
+    <div class="mx-auto col-md-8 col-lg-4 small landing-text"><p class="d-inline align-middle">Produced by the Centre of Health, Exercise and Sports Medicine at the University of Melbourne in collaboration with Duke University and Hackensack Meridian Health</p></div>
+  </div>
+
+<!-- Large modal -->
+<div id="promovideo" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+  
+    <div class="modal-content">
+      <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+            <video controls class="embed-responsive-item" id="promovideoelement" poster="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/promovideo_poster.jpg">
+              <source src="https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/gfx/painTRAINER_Promo.mp4" type="video/mp4">
+            </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+jQuery(document).ready(function ($) {
+  $('#promovideo').on('show.bs.modal', function (e) {
+    // try to enter full screen when modal shown
+    var elem = document.getElementById("promovideoelement");
+    /* if (elem.requestFullscreen) {
+      elem.requestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+      elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+      elem.webkitRequestFullscreen();
+    } else if (elem.msRequestFullscreen) { 
+      elem.msRequestFullscreen();
+    } */
+    elem.play();
+  });
+  $('#promovideo').on('hide.bs.modal', function (e) {
+    var elem = document.getElementById("promovideoelement");
+    elem.pause();
+  });
+  // try to exit fullscreen when video ends
+  document.getElementById('promovideoelement').addEventListener('ended',ptrebus_exitFullccreen,false);
+    function ptrebus_exitFullccreen(e) {
+      if (document.exitFullscreen) {
+        document.exitFullscreen();
+      } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+      } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+      } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+      }
+      // close the modal
+      // $('#promovideo').modal('hide');
+  }
+
+});
+</script>				</main>
+				<!-- #main -->
+			</div>
+			<!-- #primary -->
+		</div>
+		<!-- /.col-md-12 -->
+		<!-- /.row -->
+	</div>
+	<!-- /.container -->
+</div>
+<!-- Modal -->
+<div class="modal fade" id="tsandcsModal" tabindex="-1" role="dialog" aria-labelledby="tsandcsModalLabel" aria-hidden="true" data-backdrop="static">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tsandcsModalLabel">Terms and Conditions and Privacy Policy</h5>
+        <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button> -->
+      </div>
+      <div class="modal-body">
+      <h1>Terms of Use</h1><p>This page sets out the Terms of Use that concern your use of the Paintrainer website and the content in it.</p>
+<p>By using this website, you are agreeing to comply with these Terms of Use and the <a href="https://www.paintrainer.org/privacy-policy/">Privacy Policy</a> for the Paintrainer website. You must not use the Paintrainer website if you do not agree to these Terms of Use and the Privacy Policy.</p>
+<p>When these terms use &#8216;I&#8217;, &#8216;we&#8217;, &#8216;us&#8217;, &#8216;our&#8217; or ‘Paintrainer’ it means The Centre for Health, Exercise, and Sports Medicine at The University of Melbourne.</p>
+<p>We may change these Terms of Use whenever we choose without notice to you. The changes shall be effective immediately upon posting to the Paintrainer website unless otherwise stated on the website. You agree to review these Terms of Use periodically to make sure that you are aware of any changes. By continuing to use this website you accept the Terms of Use as they apply from time to time.</p>
+<p>We reserve the right to modify or discontinue all or any part of Paintrainer, either temporarily or permanently.</p>
+<p>We will try to keep the content on this website up-to-date but there may be delays, errors or omissions that could affect its currency or accuracy. We may change the content on this website at any time without notice.</p>
+<h3>Website does not provide medical advice</h3>
+<p>The content on the Paintrainer website is not intended to replace personal consultation, diagnosis and treatment with a qualified health care professional..</p>
+<p>You should always obtain professional or medical advice, appropriate to your own circumstances, with any questions you may have regarding a health or medical condition. Never disregard, avoid or delay obtaining advice from your doctor or other qualified health provider due to something you read on the website.</p>
+<p>If you think you may have a medical emergency, call your doctor immediately or seek emergency help.</p>
+<h3>Privacy</h3>
+<p>For information on Paintrainer’s collection, use and disclosure of information, refer to the <a href="https://www.paintrainer.org/privacy-policy/">Privacy Policy</a> for the Paintrainer website.</p>
+<h3>Intellectual property rights</h3>
+<p>Unless otherwise indicated, Paintrainer owns the copyright and other intellectual property rights in the content of this website or has the right to use it in this context. You must not use the Paintrainer trademark without the prior written consent of Paintrainer.</p>
+<p>You can browse or print the content for non-commercial or personal uses but if you propose to use it for any other purpose you will need our prior written permission.</p>
+<h3>Liability</h3>
+<p>Your use of this website, and your reliance on its content, is entirely at your own risk. While every effort is taken to ensure the information is accurate, Paintrainer makes no representations and gives no warranties that this information is correct, current, complete, reliable or suitable for any purpose.  The website and its content are provided entirely “as is”.</p>
+<p>To the fullest extent permitted by law:</p>
+<ul>
+<li>all conditions, warranties, guarantees, rights, remedies, liabilities or other terms that may be implied or conferred by statute, custom or the general law that impose any liability or obligation on Paintrainer in relation to the Paintrainer website or its content are expressly excluded under these Terms of Use.</li>
+<li>Paintrainer has no liability to you or anyone else (including in negligence) for any type of loss, however incurred, in connection with your use of the Paintrainer website or its content, including (without limitation) loss of profits, loss of revenue, loss of goodwill, loss of customers, loss of or damage to reputation, loss of capital, downtime costs, loss under or in relation to any other contract, loss of data, loss of use of data or any direct, indirect, economic, special or consequential loss, harm, damage, cost or expense (including legal fees).</li>
+<li>Paintrainer disclaims all warranties, either express or implied, statutory or otherwise, including but not limited to, the implied warranties of merchantability, non-infringement of third parties&#8217; rights, and fitness for particular purpose.</li>
+<li>As the internet is inherently insecure and information will be transmitted over a medium that may be beyond Paintrainer’s control and jurisdiction Paintrainer assumes no liability for or relating to the delay, failure, interruption, or corruption of any data or other information transmitted in connection with your use of the website.</li>
+</ul>
+<p>In the event that Paintrainer is found liable to you on any basis, our liability to you is limited to AUD100.</p>
+<h3>Indemnity</h3>
+<p>You agree to defend, indemnify and hold harmless Paintrainer and its affiliates, licensors and suppliers, and their directors, officers, members, owners, employees, agents and contractors from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from, your violation of these Terms of Use.</p>
+<h3>Viruses</h3>
+<p>You must not knowingly introduce any viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful to the Paintrainer website.</p>
+<p>Paintrainer will not be liable for any loss or damage caused by viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the Paintrainer website, to your downloading of any material posted on them, or on any website linked to them.</p>
+<h3>Links to other websites</h3>
+<p>Where a link to a third party website appears on the Paintrainer website:</p>
+<ul>
+<li>the links are provided for convenience only and may not be maintained or current;</li>
+<li>we do not endorse, recommend or support the linked website or any information, opinions, or goods and services made available on it;</li>
+<li>these terms will not apply to the linked website and you should review the terms applicable to the linked website before using it;</li>
+<li>we are not liable to you or anyone else if interference with or damage to your computer systems occurs or if you suffer any loss, cost or expense in connection with your use of this website or a linked website;</li>
+<li>we have no control over the information, content or activities of the linked website and your access to and use of the linked website is at your own risk; and</li>
+<li>we make no representations or warranties as to, and we are not responsible for, the accuracy or any other aspect of the information on the linked website.</li>
+</ul>
+<h3>Responsibility for Login Access</h3>
+<p>You agree not to share your Login Access with others or otherwise disclose your Login Access to unauthorised third parties for any purpose whatsoever. If you knowingly share your Login Access with another person who is not authorised to use the Paintrainer website, your access to the Paintrainer website may be suspended or terminated, but we have no obligation to determine if this has occurred or to take further action if it has. You agree to immediately notify us of any unauthorised use of your Login Access or any other breach of security that you are aware of.</p>
+<h3>Access to the Website</h3>
+<p>You may not circumvent or bypass any technological protection measures in or relating to the Paintrainer website or disassemble, decompile or reverse engineer any software or other aspect of the website, except and only to the extent that the applicable copyright law expressly permits you to do so. You may not use the website for any unauthorised way that could interfere with anyone else&#8217;s use of the website or gain access to any service, data, account or network. You may not enable access to the website by unauthorised third party applications.</p>
+<p>You may not:</p>
+<ul>
+<li>resell, sublicense, transfer, assign or distribute any material relating to;</li>
+<li>modify or make derivative works based on; or</li>
+<li>&#8216;frame&#8217; or &#8216;mirror&#8217;,</li>
+</ul>
+<p>the Paintrainer website on any other server or internet enabled device.</p>
+<h3>Consequences of Breach of Terms of Use</h3>
+<p>If you do not comply with these Terms of Use we may:</p>
+<ul>
+<li>immediately suspend or terminate all or any part of your access to the Paintrainer website; or</li>
+<li>temporarily or permanently remove your data relating to the Paintrainer website.</li>
+</ul>
+<h3>Applicable law</h3>
+<p>These Terms of Use, and your use of our website, are governed by the laws of the Victoria, Australia. You agree to irrevocably submit to the exclusive jurisdiction of the courts of the Victoria, Australia.</p>
+<p>You must comply with all laws applicable to your access and use of the Paintrainer website. If you access the Paintrainer from outside Australia you must comply with all laws in that country which apply to that access and use.</p>
+<h3>Complete Agreement</h3>
+<p>These Terms and Conditions are the entire agreement between you and Paintrainer with respect to the use of the Paintrainer website and privacy of your information and they supersede and take precedence over any prior agreements, understandings or representations not incorporated into these Terms of Use.</p>
+<h1>Collection Statement</h1><p><strong>Consent</strong></p>
+<p>If you choose to use Paintrainer, you acknowledge, accept and consent to the University collecting and storing your personal information provided by you (including your email, gender, age, country of residence and, if in Australia, post code). The consequences not providing this personal information is that you will not be able to use Paintrainer.</p>
+<p><strong>Purpose of collection</strong></p>
+<p>The primary purpose of collecting your personal information is to verify your identity, and to facilitate your usage of Paintrainer, to further academic research in pain management, and evaluate the effectiveness of pain management techniques forming part of Paintrainer.  Your information may also be used by the University for analysis, quality assurance and planning purposes.</p>
+<p><strong>Who is collecting</strong></p>
+<p>Personal information is being collected by The Centre for Health, Exercise, and Sports Medicine at the University of Melbourne. You may withdraw your consent or request access to, or correction of, information we hold about you at any time by contacting us at <a href="mailto:paintrainer-techsupport@unimelb.edu.au">paintrainer-techsupport@unimelb.edu.au</a>.</p>
+<p><strong>Disclosure</strong></p>
+<p>The information you provide will be used by authorised University staff and contracted service providers for the purpose for which it was collected.</p>
+<p><strong>Applicable </strong><strong>laws</strong></p>
+<p>The University is committed to protecting your privacy and processing your personal information fairly and lawfully in compliance with the Privacy Laws and the GDPR, if applicable.</p>
+<p>The collection of personal information by the University of Melbourne (<strong>University</strong>) is governed by the <em>Privacy and Data Protection Act 2014</em> (Vic) and <em>Health Records Act 2000</em> (Vic) (together, <strong>Privacy Laws</strong>).</p>
+<p>The University is also considered to be a data controller for the purposes of the EU General Data Protection Regulation 2016/679 (<strong>GDPR</strong>) in relation to the collection of personal information from individuals located in the European Union (<strong>EU</strong>), while conducting certain activities.  Under the GDPR, you may request access to, or correction of, information we hold about you, or exercise rights of access, rectification and erasure at any time.</p>
+<p><strong>Protection</strong></p>
+<p>The University will take all reasonable steps to ensure that the personal information it holds is accurate and complete and that it is protected from misuse, loss, unauthorised access or disclosure.</p>
+<p><strong>Storage</strong></p>
+<p>Your personal information will not be transferred outside Australia unless to an entity operating under equivalent privacy obligations. We will not disclose your personal information to anybody else unless you have given consent, or we are authorised or required to do so by law.</p>
+<p><strong>Retention period</strong></p>
+<p>We will retain your personal information only for as long as required for the purpose it was collected and in accordance with our legislative obligations. This information is then securely destroyed in accordance with the <a href="http://info.records.unimelb.edu.au/RDA">University’s retention and disposal authority</a>.</p>
+<p><strong>Further info or </strong><strong>complaints</strong></p>
+<p>Please refer to our <a href="http://policy.unimelb.edu.au/MPF1104">Privacy Policy</a> and our <a href="https://www.unimelb.edu.au/governance/compliance/privacy">Privacy webpage</a> for information about how we handle personal information, how to contact us about privacy, how to lodge a complaint and for the contact details of the University’s Privacy and Data Protection Officer.</p>
+        <p><strong>Consent statement</strong></p>
+        <p>
+            The University of Melbourne is committed to protecting your privacy by fully meeting its responsibilities under applicable privacy laws. For further details see our <a href="/privacy-policy/" target="_blank">collection notice</a>. By submitting any personal information in this form, I consent to it being collected and handled by the University of Melbourne.
+        </p>
+        <p>
+            I have read and agree to the privacy collection notice (required).
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-success" data-dismiss="modal" data-accept="true">I accept</button>
+        <button type="button" class="btn btn-danger" data-dismiss="modal" data-accept="false">I do not accept</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+jQuery(document).ready(function($){
+  $('#tsandcs').on('click',function(){
+    if($(this).prop('checked')) $('#tsandcsModal').modal('show');
+  });
+  $('[data-accept]').on('click',function(){
+    if($(this).attr('data-accept') === 'false') {
+      // need to fire the event
+      if($('#tsandcs').prop('checked')) $('#tsandcs').click();
+    }
+    if($(this).attr('data-accept') === 'true') {
+      // need to fire the event
+      if(!$('#tsandcs').prop('checked')) $('#tsandcs').click();
+    }
+  });
+});
+</script><!-- Modal -->
+<div class="modal fade custom-modal" id="saveModal" tabindex="-1" role="dialog" aria-labelledby="saveModalLabel" aria-hidden="true" data-backdrop="static">
+  <div class="modal-dialog modal-dialog-centered " role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title" id="saveModalLabel"></h1>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"><svg><use xlink:href="#svg-cross"></use></svg></span>
+        </button>
+      </div>
+      <div class="modal-body"></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary d-none yes" data-dismiss="modal" data-action="continue" aria-hidden="true">Yes</button>
+        <button type="button" class="btn btn-primary d-none no" data-dismiss="modal" data-action="cancel" aria-hidden="true">No</button>
+        <button type="button" class="btn btn-primary d-none imdone" data-dismiss="modal" data-action="continue" aria-hidden="true">I'm Done</button>
+        <button type="button" class="btn btn-primary d-none addmore" data-dismiss="modal" data-action="cancel" aria-hidden="true">Add More</button>
+        <button type="button" class="btn btn-primary d-none modal-close" data-dismiss="modal" data-action="close" aria-hidden="true">Close</button>
+      </div>
+    </div>
+  </div>
+</div></div><!-- #content -->
+</div><!-- #page -->
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="container">
+		<div class="site-info"></div><!-- .site-info -->
+	</div>
+	<!-- /.container -->
+</footer><!-- #colophon -->
+<script type='text/javascript' src='https://paintrainer-uat.app.unimelb.edu.au/wp-content/themes/paintrainer/libs/guestlanding.min.js?ver=2.22' id='guestlanding-js-js'></script>
+<svg style="display:none;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .calander-bg {fill:#FFFFFF;}
+  </style>
+  <symbol id="svg-tips" viewBox="0 0 68.7 68.5">
+    <path d="M6.9,0C5,0,3.4,0.7,2,2C0.7,3.4,0,4.9,0,6.8v61.8l13.7-13.7h48.1c1.9,0,3.6-0.7,4.9-2c1.3-1.3,2-3,2-4.9V6.8
+	    c0-1.8-0.7-3.4-2-4.7c-1.3-1.3-3-2-4.9-2H6.9L6.9,0z M54.8,24v6.9H13.7V24H54.8L54.8,24z M13.7,41.2v-6.9h27.5v6.9H13.7L13.7,41.2z
+	     M13.7,20.6v-6.9h41.2v6.9H13.7L13.7,20.6z" />
+  </symbol>
+  <symbol id="svg-calendar" viewBox="0 0 82.6 84">
+    <polygon class="calander-bg" points="5.2,18.9 5.2,78.2 78,78.2 78,18.9 5.2,18.9 "/>
+    <path class="calander-outline" d="M68.8,8.5V0h-9.2v8.5H23V0h-9.2v8.5H9.2c-2.6,0-4.8,0.8-6.6,2.5c-1.8,1.6-2.7,3.6-2.7,6v58.6
+	c0,2.4,0.9,4.4,2.7,6c1.8,1.6,4,2.5,6.6,2.5h64.1c2.6,0,4.8-0.8,6.6-2.5c1.8-1.6,2.7-3.6,2.7-6V16.9c0-2.4-0.9-4.4-2.7-6
+	c-1.8-1.6-4-2.5-6.6-2.5H68.8L68.8,8.5z M9.2,75.5v-46h64.1v46H9.2L9.2,75.5z M18.3,58.8h23v-21h-23V58.8L18.3,58.8z"/>
+  </symbol>
+  <symbol id="svg-profile" viewBox="0 0 68.7 68.5">
+    <path d="M19.8,37.6c0,1.2,0.4,2.2,1.2,3.1c0.8,0.9,1.8,1.3,3,1.3c1.2,0,2.2-0.4,3.1-1.3c0.9-0.9,1.3-1.9,1.3-3.1
+	c0-1.2-0.4-2.2-1.3-3c-0.9-0.8-1.9-1.2-3.1-1.2c-1.2,0-2.2,0.4-3,1.2C20.2,35.5,19.8,36.5,19.8,37.6L19.8,37.6z M40.4,37.6
+	c0,1.2,0.4,2.2,1.2,3.1c0.8,0.9,1.8,1.3,3,1.3c1.2,0,2.2-0.4,3.1-1.3c0.9-0.9,1.3-1.9,1.3-3.1c0-1.2-0.4-2.2-1.3-3
+	c-0.9-0.8-1.9-1.2-3.1-1.2c-1.2,0-2.2,0.4-3,1.2C40.8,35.5,40.4,36.5,40.4,37.6L40.4,37.6z M0,34.3c0,9.4,3.4,17.5,10.1,24.2
+	c6.7,6.7,14.8,10.1,24.3,10.1c9.5,0,17.6-3.4,24.3-10.1c6.7-6.7,10.1-14.8,10.1-24.2c0-9.4-3.4-17.5-10.1-24.2
+	C51.9,3.4,43.8,0,34.3,0c-9.5,0-17.6,3.4-24.3,10.1C3.4,16.8,0,24.8,0,34.3L0,34.3z M6.9,34.3c0-0.9,0.1-1.8,0.2-2.9
+	c8.4-3.8,14.3-9.9,17.9-18.5c3.1,4.5,7.1,8,12.1,10.6c4.9,2.6,10.2,3.9,15.9,3.9c2.6,0,5.1-0.3,7.7-0.8c0.7,2.6,1.1,5.1,1.1,7.7
+	c0,7.6-2.7,14.1-8,19.5c-5.4,5.4-11.8,8-19.4,8c-7.6,0-14-2.7-19.4-8C9.6,48.4,6.9,41.9,6.9,34.3L6.9,34.3L6.9,34.3z" />
+  </symbol>
+  <symbol id="svg-login" viewBox="0 0 61.8 61.8">
+    <path d="M29.1,48.1l17.2-17.2L29.1,13.7l-4.8,4.8l8.8,9H0v6.8h33.1l-8.8,9L29.1,48.1L29.1,48.1z M6.9,0C5,0,3.3,0.7,2,2
+	C0.7,3.4,0,5,0,6.9v13.7h6.9V6.9h47.9v47.9H6.9V41.2H0v13.7c0,1.9,0.7,3.6,2,4.9c1.3,1.3,3,2,4.9,2h47.9c1.9,0,3.6-0.7,4.9-2
+	c1.3-1.3,2-3,2-4.9V6.9c0-1.9-0.7-3.6-2-4.9c-1.3-1.3-3-2-4.9-2H6.9L6.9,0z" />
+  </symbol>
+  <symbol id="svg-logout" viewBox="0 0 68.7 68.5">
+    <path d="M0,34.3c0,9.4,3.3,17.5,10.1,24.2c6.7,6.7,14.8,10.1,24.3,10.1c9.5,0,17.6-3.4,24.3-10.1s10.1-14.8,10.1-24.2
+	c0-9.4-3.4-17.5-10.1-24.2C51.9,3.4,43.8,0,34.3,0c-9.5,0-17.6,3.4-24.3,10.1C3.3,16.8,0,24.8,0,34.3L0,34.3z M46.6,51.5L34.3,39.1
+	L22,51.5l-4.8-4.8l12.2-12.4L17.2,21.9L22,17l12.2,12.4L46.6,17l4.8,4.8L39.1,34.3l12.4,12.4L46.6,51.5L46.6,51.5z" />
+  </symbol>
+  <symbol id="svg-tick" viewBox="0 0 45.3 48.2">
+    <path d="M22.2,47c1.4-5,3-9.6,4.8-13.7c1.8-4.1,3.6-7.9,5.6-11.2c2-3.3,4-6.3,6.2-9s4.3-4.9,6.5-6.9L38,0
+	c-2.2,2.3-4.4,4.8-6.4,7.7c-2.1,2.9-4,6-5.9,9.4c-1.9,3.4-3.6,7-5.2,10.8c-1.6,3.8-3,7.7-4.3,11.8H16c-1.2-2.8-2.4-5.5-3.8-8.3
+	c-1.3-2.8-2.9-5.5-4.7-8.3L0,27.8c1.3,1.7,2.4,3.4,3.4,5c1,1.6,2,3.3,2.9,4.9c0.9,1.6,1.7,3.3,2.5,5c0.8,1.7,1.6,3.5,2.3,5.5
+	L22.2,47L22.2,47z" />
+  </symbol>
+  <symbol id="svg-plus" viewBox="0 0 43.5 43.5">
+    <polygon points="17.3,0 17.3,43.5 26.3,43.5 26.3,0 17.3,0 " />
+    <polygon points="43.5,17.3 0,17.3 0,26.3 43.5,26.3 43.5,17.3 " />
+  </symbol>
+  <symbol id="svg-minus" viewBox="0 0 43.5 9">
+    <polygon points="43.5,0 0,0 0,9 43.5,9 43.5,0 "/>
+  </symbol>
+  <symbol id="svg-cross" viewBox="0 0 40.3 40.3">
+    <polygon points="0,6.4 34,40.3 40.3,34 6.4,0 0,6.4 " />
+    <polygon points="34,0 0,34 6.4,40.3 40.3,6.4 34,0 " />
+  </symbol>
+  <symbol id="svg-log-practice" viewBox="0 0 493.474 493.474">
+      <path d="M314.284,314.029c-30.563,23.814-55.479,53.227-80.686,82.352
+c-10.786-11.428-20.596-23.559-26.917-38.184c-7.154-16.676-34.342,7.584-27.895,22.598c8.817,20.387,24.519,36.965,39.977,52.584
+c6.305,6.416,17.138-0.832,21.491-5.793c27.652-31.398,53.448-64.443,86.638-90.305
+C342.816,324.894,333.261,299.242,314.284,314.029z" />
+      <path d="M402.266,35.399h-76.354c-5.358-5.895-13.04-9.679-21.632-9.679h-29.412v-4.984
+C274.867,9.946,260.415,0,246.738,0c-13.678,0-28.13,9.946-28.13,20.736v4.984h-29.413c-8.592,0-16.273,3.784-21.632,9.679H91.176
+c-8.099,0-14.594,6.554-14.594,14.619v428.829c0,8.049,6.479,14.627,14.594,14.627h311.091c8.081,0,14.626-6.527,14.626-14.627
+V50.018C416.891,41.953,410.346,35.399,402.266,35.399z M387.607,464.238H105.787V64.636h42.285v0.003h13.47
+c3.971,11.538,14.772,19.892,27.668,19.892h57.528h57.528c12.896,0,23.697-8.354,27.668-19.892h13.47v-0.003h42.204
+L387.607,464.238L387.607,464.238z" />
+      <rect x="133.1" y="114.818" width="227.273" height="22.729" />
+      <rect x="133.1" y="164.818" width="227.273" height="22.729" />
+      <rect x="133.1" y="214.818" width="227.273" height="22.729" />
+      <rect x="133.1" y="264.818" width="227.273" height="22.729" />
+  </symbol>
+<symbol id="svg-dashboard" viewBox="0 0 24 24">
+  <path d="M12,2A10,10,0,1,1,2,12,10,10,0,0,1,12,2Zm0-2A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm8,9.59a8.35,8.35,0,0,0-.52-1.24L17.05,9.46a6.14,6.14,0,0,1,.52,1.24ZM7.45,8.69a6.42,6.42,0,0,1,.92-1l-1.89-2a9.25,9.25,0,0,0-.92,1ZM9.16,7.18a5.35,5.35,0,0,1,1.2-.53l-1-2.57a8.57,8.57,0,0,0-1.2.53ZM6.4,10.79a7.09,7.09,0,0,1,.5-1.25L4.43,8.47a12.06,12.06,0,0,0-.5,1.25Zm9.44-6.2a9.06,9.06,0,0,0-1.2-.52l-1,2.58a5.28,5.28,0,0,1,1.2.51Zm2.6,2.13a9.25,9.25,0,0,0-.92-1l-1.89,2a6.42,6.42,0,0,1,.92,1ZM12.65,3.66l-.65,0-.65,0V6.45a5.3,5.3,0,0,1,1.3,0ZM12,17.44a2.34,2.34,0,0,1-1.13-4.39L12,7.74l1.13,5.31A2.34,2.34,0,0,1,12,17.44Z"/></symbol>
+</svg>
+</body>
+</html>
+[tiny-file-manager-unauth] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/index.php
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:04 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+Content-Length: 0
+
+

@@ -1,0 +1,27 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://peterson.science.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: peterson.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://peterson.science.unimelb.edu.au/index.php
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:10 GMT
+Location: https://blogs.unimelb.edu.au/peterson/wp-login.php?privacy=3&redirect_to=https%3A%2F%2Fpeterson.science.unimelb.edu.au%2Findex.php%2F%2F
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Redirect-By: sitewide-privacy-options
+
+

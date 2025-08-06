@@ -1,0 +1,22 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://science-weatherstation-prod-lb.science.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: science-weatherstation-prod-lb.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://science-weatherstation-prod-lb.science.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Date: Wed, 06 Aug 2025 15:18:23 GMT
+Server: nginx/1.10.3 (Ubuntu)
+Set-Cookie: BIGipServer~app_science_weatherstation_prod~pool_science_weatherstation_prod=3007649708.20480.0000; path=/; Httponly; Secure
+
+

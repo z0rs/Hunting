@@ -1,0 +1,125 @@
+[compalex-panel-detect] Dumped HTTP request for https://www.witness.esrc.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: www.witness.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://www.witness.esrc.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 6048
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:05 GMT
+Etag: "5a6c9d478161286ca86ae34b0d9305ed"
+Last-Modified: Sat, 20 Jun 2020 03:03:20 GMT
+Server: AmazonS3
+Via: 1.1 09208ddc267fc8039508c732fcfcfa64.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: KiUdJhGyPKKtNxcXEaFDFyY0wFtQNcXz7Xnefkgqe4_wRIO4MLZDCw==
+X-Amz-Cf-Pop: IAD55-P4
+X-Amz-Version-Id: N1W_EqicF1LiS9peZpFBsJywMUpQ5QXG
+X-Cache: Hit from cloudfront
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" > 
+<html>
+<head>
+  <title>Witness to the History of Australian Medicine, Title Page</title>
+  <style>
+<!-- 
+.notitle {display: none;}
+ul {margin-top: 5px;}
+-->
+</style>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <link rel="schema.DC" href="http://purl.org/DC/elements/1.0/">
+  <meta name="DC.Title" lang="en" content="Witness to the History of Australian Medicine, Title Page" >
+  <meta name="DC.Creator" lang="en" content="Ann Westmore and eScholarship Research Centre" >
+  <meta name="DC.Subject" lang="en" content="Witness to the History of Australian Medicine, Title Page, Johnstone-Need, history, medicine, academic research, science, Australia, biography, heritage, index" >
+  <meta name="DC.Description" lang="en" content="Witness to the History of Australian Medicine, Title Page - Annotated transcripts from the Australian Witness program of seminars reflecting on the work of practitioners in significant areas of medical or scientific research, clinical practice and public health." >
+  <meta name="DC.Publisher" lang="en" content="eScholarship Research Centre" >
+  <meta name="DC.Contributor" lang="en" content="Ann Westmore" >
+  <meta name="DC.Date.Created" scheme="ISO8601" lang="en" content="2005-02-21" >
+  <meta name="DC.Date.LastModified" scheme="ISO8601" lang="en" content="2016-12-12" >
+  <meta name="DC.Type" lang="en" content="Document" >
+  <meta name="DC.Format" scheme="IMT" lang="en" content="text/xml" >
+  <meta name="DC.Identifier" scheme="URL" lang="en" content="http://witness.esrc.unimelb.edu.au/index.html" >
+  <meta name="DC.Source" lang="en" content="ISBN 0908029497" >
+  <meta name="DC.Language" scheme="ISO639" lang="en" content="en-gb" >
+  <meta name="DC.Rights" lang="en" content="The University of Melbourne" >
+  <meta name="Author" lang="en" content="Ann Westmore and eScholarship Research Centre" >
+  <meta name="Description" lang="en" content="Witness to the History of Australian Medicine, Title Page, Annotated transcripts from the Australian Witness program of seminars reflecting on the work of practitioners in significant areas of medical or scientific research, clinical practice and public health." >
+  <meta name="Keywords" lang="en" content="Witness to the History of Australian Medicine, Title Page, Johnstone-Need, history, medicine, academic research, science, Australia, biography, heritage, index" >
+  <meta name="Generator" content="Web Academic Resource Publisher (WARP) 0.90">
+  
+</head>
+<body bgcolor="#FFFFFF" link="#663333" vlink="#996666" alink="#333399">
+  <map name="arrowmap"><area shape="rect" coords="1,1,30,29" href="contents.html" alt="Previous"><area shape="rect" coords="29,1,60,29" href="imprint.html" alt="Next"></map>
+  <table summary="layout" width="100%" cellpadding="10" border="0">
+    <tr>
+      <td valign="bottom" align="center"><b>Page i</b><br><img src="gifs/darkarrows.gif" alt="Previous/Next Page" usemap="#arrowmap" border="0"></td>
+      <td align="right" valign="bottom"><font color="#996666" size="+2"><b class="notitle">Witness to the History of Australian Medicine</b></font><a href="http://witness.esrc.unimelb.edu.au"><img src="gifs/wlogo-200.gif" alt="Witness to the History of Australian Medicine" border="0"></a><br><img src="gifs/darkhr.gif" ALT="----------">
+      </td>
+    </tr>
+    <tr>
+      <!--htdig_noindex-->
+      <td bgcolor="#EADADE" width="15%" valign="top">
+        <hr><font color="#000000"><b>Title Page</b></font><br><a href="imprint.html">Imprint</a><br><a href="about.html">About the Seminars</a><br><a href="contents.html">Table of Contents</a><br>
+        <br><hr>
+        <a href="witnindex.html">Index</a>
+        <br>
+        <a href="search.html">Search</a>
+        <br>
+        <a href="help.html">Help</a>
+        <br>
+        <br>
+        <a href="mailto:afwest@unimelb.edu.au">Contact us</a>
+        <br>
+        <img src="gifs/spacer.gif" ALT=" ">
+      </td>
+      <!--/htdig_noindex-->
+      <td valign="top">
+        <center>
+        <font size=+3 color="#003300">
+        <br />
+        <strong>Witness<br />
+        to the History of<br />
+        Australian Medicine</strong></font>
+        <hr width="200">
+        <br /><br />
+        <font size=+1>
+        Annotated transcripts from the<br />
+        Australian Witness program of seminars<br />
+        reflecting on the work of practitioners in<br />
+        significant areas of medical or scientific<br />
+        research, clinical practice and public health.<br /><br />
+        An exercise in peer-reviewed<br />
+        oral history, and a means by which the<br />
+        recollections of witnesses can be stimulated<br />
+        and the drama of their work relived.
+        </font>
+        <br /><br /><br /><br /><br />
+        Edited by Dr Ann Westmore<br />
+        This project was initiated through a grant from<br />
+        The Australian Society of the History of Medicine
+        <p><hr width="70%">
+        <p>
+        <table summary="footer" border="0" width="100%">
+          <tr>
+            <td width="10%" align="left"><a href="contents.html"><img src="gifs/darkleft.gif" alt="Previous Page" border="0"></a></td>
+            <td width="80%" align="center"><font color="#996666"><a href="http://witness.esrc.unimelb.edu.au">Witness to the History of Australian Medicine</a></font></td>
+            <td width="10%" align="right"><a href="imprint.html"><img src="gifs/darkright.gif" alt="Next Page" border="0"></a></td>
+          </tr>
+        </table>
+        <center><small><small><br>&copy; The University of Melbourne 2005-16<br>Published by <a href="http://esrc.unimelb.edu.au/">eScholarship Research Centre</a>, using the <a href="http://www.esrc.unimelb.edu.au/warp/">Web Academic Resource Publisher</a><br>http://witness.esrc.unimelb.edu.au/index.html</small></small></center>
+        
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

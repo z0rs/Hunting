@@ -1,0 +1,37 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://canvastools-prod.le.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: canvastools-prod.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://canvastools-prod.le.unimelb.edu.au/index.php
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 548
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:27 GMT
+Referrer-Policy: no-referrer
+Server: nginx
+Set-Cookie: BIGipServer~app_canvas_le_prod~pool_canvas_le_prod_canvas1v2=2286360492.47873.0000; path=/; Httponly; Secure
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

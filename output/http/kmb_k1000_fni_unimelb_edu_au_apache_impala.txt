@@ -1,0 +1,59 @@
+[apache-impala] Dumped HTTP request for https://kmb-k1000.fni.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: kmb-k1000.fni.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[apache-impala] Dumped HTTP response https://kmb-k1000.fni.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Access-Control-Allow-Headers: x-kace-auth-timestamp, x-kace-auth-key, x-kace-auth-signature, accept, origin, content-type
+Access-Control-Allow-Methods: PUT, DELETE, POST, GET, OPTIONS
+Cache-Control: no-cache, must-revalidate
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:44 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://sso.unimelb.edu.au/app/unimelb_kacesmaflorey_1/exk31mkc42KJudtec3l7/sso/saml?SAMLRequest=lVPLstowDN3fr2CyJw8eNxcPMEOhD1oKFGgX3TCKoxQPsZ3aDnD%2FvnbCq49hpl54cSQdSUdSXwPPCzIqzU6s8GeJ2jw17DvxXGhSGQdeqQSRoJkmAjhqYihZjz7PSMsPSaGkkVTm3h9hj6NAa1SGSVGHTScDbzF%2FO1u8n8637QQSjBFfejTt0C724qwbP%2Fegbb%2B4Q4EmzzHthVCHfkOlLc%2FAs7Q1slTywFJUc5t14H1xLTXWMjNHUHhOp5e2AHawZqPKK6hLnAptQBjLFra6zfClGT5voi6JYtLpfK%2F9JpaPCTBV0p0xhSZBoLX0S8E45omPaelDGUBRBGdouweKmkOWS4Wv2yjA074d8T3ttD59LFODtJ3HjiNwyl27qHR9w0TKxI%2FHcia1kyYfNptlc7lYb2qS0UXmsRS65KjWqA6M4tfV7Fb7nifNfRSGoZ8J9lcXKWeiZFVhAVDtF7vCG1bkfYeRSjY1%2FH8yjgZSMBBE%2FeCe6cZdEDfC6WQpc0ZfK9y9d1JxMI8FcQhLm1nlSgq3I9qgMN6VZZTn8jhWCOayBY3gt9zna8C0ug0roMGTaYwlL0Ax7YaPJ6DmLMZNkHv3cW73bIXZ8OEtUEKdn4XdWh6lSt3wkdrcGwVCF1KZs0b%2FJK%2BrDh6UPXy6mO8PffgL&RelayState=saml_login%2F1%2Fuserui
+Pragma: no-cache
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Kace-Appliance: K1000
+X-Ua-Compatible: IE=9,EDGE
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+
+
+[apache-impala] Dumped HTTP response https://kmb-k1000.fni.unimelb.edu.au
+
+HTTP/1.1 302 Found
+Connection: close
+Access-Control-Allow-Headers: x-kace-auth-timestamp, x-kace-auth-key, x-kace-auth-signature, accept, origin, content-type
+Access-Control-Allow-Methods: PUT, DELETE, POST, GET, OPTIONS
+Cache-Control: no-store, no-cache, must-revalidate
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:43 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Location: https://kmb-k1000.fni.unimelb.edu.au/common/saml_login.php
+Pragma: no-cache
+Server: Apache
+Set-Cookie: kboxid=a43ba847436f2a0ec2d28846a52f5782; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Kace-Appliance: K1000
+X-Ua-Compatible: IE=9,EDGE
+X-Xss-Protection: 1; mode=block
+Content-Length: 0
+
+

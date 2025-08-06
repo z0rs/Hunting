@@ -1,0 +1,40 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://pediatrics.app.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: pediatrics.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://pediatrics.app.unimelb.edu.au/index.php
+
+HTTP/1.1 401 Unauthorized
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 06 Aug 2025 15:18:12 GMT
+Set-Cookie: visid_incap_3241336=Lsfh37dYSJa7GTc8oHV+UjRyk2gAAAAAQUIPAAAAAABzSBZnQREfL72GHOP/oO9F; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3241336=PZHlD+dfywWh+/zfOsMWuwAAAACzRMSMOPXV7KpWmMU2xK2U; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3241336=2LyWW6nEm35iGrerov5JAzRyk2gAAAAAut0a6btvMb3NXtgouX73cg==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Www-Authenticate: Basic realm="private"
+X-Cdn: Imperva
+X-Iinfo: 14-12108585-12108590 NNYN CT(211 219 0) RT(1754493491951 13) q(0 0 4 -1) r(6 6) U11
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head><script src="/hewd-meet-humberland-you-know-bore-To-his-to-ith" async></script>
+<title>401 Unauthorized</title>
+</head><body>
+<h1>Unauthorized</h1>
+<p>This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.</p>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=229937244" async></script></body></html>
+

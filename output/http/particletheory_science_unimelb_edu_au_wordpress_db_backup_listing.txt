@@ -1,0 +1,27 @@
+[wordpress-db-backup-listing] Dumped HTTP request for https://particletheory.science.unimelb.edu.au/wp-content/uploads/database-backups/
+
+
+GET /wp-content/uploads/database-backups/ HTTP/1.1
+Host: particletheory.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wordpress-db-backup-listing] Dumped HTTP response https://particletheory.science.unimelb.edu.au/wp-content/uploads/database-backups/
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/au/wp-content/dist/5/462/files/database-backups/
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Etag: da44fa3fbcfb26e9e941feac345edcb5
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/5/462/files/database-backups/
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

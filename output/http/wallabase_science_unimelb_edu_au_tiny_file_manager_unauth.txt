@@ -1,0 +1,587 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://wallabase.science.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: wallabase.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://wallabase.science.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=1416, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:41 GMT
+Last-Modified: Wed, 06 Aug 2025 14:42:17 GMT
+Link: <https://wallabase.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://wallabase.science.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://wallabase.science.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: HIT
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://wallabase.science.unimelb.edu.au/xmlrpc.php
+
+<!DOCTYPE html>
+
+<html lang="en-AU" class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://wallabase.science.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Wallabase |</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[574,590] -->
+<meta name="description" itemprop="description" content="Tammar wallabies Tammar wallabies (Macropus eugenii) are one of the smaller members of the kangaroo family, making them easy to keep in captivity and study." />
+
+<link rel="canonical" href="https://wallabase.science.unimelb.edu.au/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Wallabase &raquo; Feed" href="https://wallabase.science.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wallabase &raquo; Comments Feed" href="https://wallabase.science.unimelb.edu.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wallabase &raquo; Home page Comments Feed" href="https://wallabase.science.unimelb.edu.au/sample-page/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/wallabase\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://wallabase.science.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://wallabase.science.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='lean-captcha-css-css' href='https://wallabase.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/css/lean-captcha.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://wallabase.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.5.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.5.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://wallabase.science.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://wallabase.science.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wallabase.science.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel='shortlink' href='https://wallabase.science.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://wallabase.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwallabase.science.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://wallabase.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwallabase.science.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://wallabase.science.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template-default page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://wallabase.science.unimelb.edu.au" title="Wallabase" itemprop="item">
+					<span itemprop="name">Wallabase</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://wallabase.science.unimelb.edu.au/files/2020/07/6.jpg)">
+						<div class="blurred">
+									<h1>Wallabase</h1>
+									</div>
+			</header>
+		
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+	<h1 class="entry-header">Home page</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab37" role="tab">Tools</a><a href="#tab45" role="tab">Files</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<h2><a href="https://wallabase.science.unimelb.edu.au/files/2021/04/tammar-GS_00-0642.jpg" data-build-figure="inset-right"><img fetchpriority="high" decoding="async" class="wp-image-84 alignright" src="https://wallabase.science.unimelb.edu.au/files/2021/04/tammar-GS_00-0642-216x300.jpg" alt="" width="216" height="300" srcset="https://wallabase.science.unimelb.edu.au/files/2021/04/tammar-GS_00-0642-216x300.jpg 216w, https://wallabase.science.unimelb.edu.au/files/2021/04/tammar-GS_00-0642-300x417.jpg 300w, https://wallabase.science.unimelb.edu.au/files/2021/04/tammar-GS_00-0642-431x600.jpg 431w, https://wallabase.science.unimelb.edu.au/files/2021/04/tammar-GS_00-0642.jpg 575w" sizes="(max-width: 216px) 100vw, 216px" /></a>Tammar wallabies</h2>
+<p>Tammar wallabies (<em>Macropus eugenii</em>) are one of the smaller members of the kangaroo family, making them easy to keep in captivity and study. Typically adult males weigh 6-8 kg, whilst females weigh 5-6 kg. They are seasonal breeders and have a single young a year.</p>
+<p>Tammars are a good representative of the marsupial mammals. Because they diverged from the line that led to humans and the common laboratory mammals around 150 million years ago, they make an excellent contrast. They give birth, as do all marsupials, to young at a developmental stage equivalent to an early embryo in humans, and undergo the rest of their development in the pouch. This difference in developmental timing makes them valuable for the study of development and developmental disorders.</p>
+<h2>Contact</h2>
+<p><a href="https://findanexpert.unimelb.edu.au/profile/12974-marilyn-renfree">Professor Marilyn Renfree</a></p>
+<p><a href="mailto:m.renfree@unimelb.edu.au">m.renfree@unimelb.edu.au</a></p>
+<p>School of BioSciences<br />
+University of Melbourne<br />
+Parkville<br />
+Victoria 3010<br />
+Australia</p>
+<p>&nbsp;</p>
+<p><a href="https://findanexpert.unimelb.edu.au/profile/4401-andrew-pask"><strong>Professor Andrew Pask</strong></a></p>
+<p><a href="mailto:a.pask@unimelb.edu.au">a.pask@unimelb.edu.au</a></p>
+<p>School of BioSciences<br />
+University of Melbourne<br />
+Parkville<br />
+Victoria 3010<br />
+Australia</p>
+			</div>
+
+							<div class="tab" id="tab37" role="tabpanel">
+				<p>The following are tools that have been included in WallaBase to use for exploring the tammar wallaby genome and associated information about it.</p>
+<ul>
+<li><strong><a href="http://jbrowse.wallabase.science.unimelb.edu.au/">JBrowse</a></strong>
+<ul>
+<li>This is a genome browser that allows for fast visualization of genomic information, it allows users to easily visualize large datasets without the need to upload them. It supports user supplied GFF3, BED, Wiggle, BigWig, BAM, VCF and REST.</li>
+</ul>
+</li>
+<li><strong><a href="http://blast.wallabase.science.unimelb.edu.au">BLAST</a></strong>
+<ul>
+<li>A tool for identifying areas of local similarity at varying evolutionary distances.</li>
+</ul>
+</li>
+<li><strong><a href="http://galaxy.wallabase.science.unimelb.edu.au">Galaxy</a></strong></li>
+<li><strong><a href="http://webapollo.wallabase.science.unimelb.edu.au">WebApollo</a></strong>
+<ul>
+<li>A tool to annotate the genome in a central location. Please contact us if you are interested in using this feature.</li>
+</ul>
+</li>
+</ul>
+				</div>					
+							<div class="tab" id="tab45" role="tabpanel">
+				<h2>Downloads</h2>
+<p>Available data can be retrieved from the following sources:</p>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/…">Genome sequence in fasta format</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/…">Transcriptome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/…">BioMart</a></li>
+</ul>
+<h2>Sequences</h2>
+<ul>
+<li>Genomic</li>
+<li>Transcripts
+<ul>
+<li>By sample</li>
+<li>By type</li>
+</ul>
+</li>
+<li>Proteins</li>
+</ul>
+<h2>Annotations</h2>
+<p>Download the files used on JBrowse for the current release of the Tammar Wallaby genome (v3).</p>
+<div id="wrapper">
+<div id="content">
+<div class="content-middle">
+<div class="node">
+<div class="content">
+<h3>Annotations</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/allMakerAnnotations.gff.gz">GFF of all Maker annotations</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/fimoTFBS.gff.gz">Transcription Factor Binding Sites identified by FIMO using JASPAR</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/makerGeneAnnotations.gff.gz">GFF file of Genes v3.1</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/makerAnnotations.gtf.gz">GTF file of Genes v3.1</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/REAPR.gff.gz">GFF file of REAPR evaluations of v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/repeats.gff.gz">GFF file of RepeatMasker and RepeatRunner results</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/wallaby_v3.genome">A .genome file for tools like bedtools or IGV</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/annotations/md5sums.txt">MD5 checksums of above files</a></li>
+</ul>
+<h3>BAC libraries</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/BACs/MEB1_bt2.bam">Bam file of Mapped reads from BAC Clone MEB1 (Whole Genome) LIBGSS_010749</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/BACs/MEFX_bt2.bam">Bam file of Mapped reads from Fosmid Clone MEFX (X Chromosome Enriched) LIBGSS_010946</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/BACs/md5sums.txt">MD5 checksums of above files</a></li>
+</ul>
+<h3>EST libraries</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/ESTs/gravid_uterus_LIBEST_027300_sorted.bam">Mapped EST library from Gravid Uterus LIBEST_027300</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/ESTs/hypothalamus_LIBEST_027301_sorted.bam">Mapped EST library from Hypothalamus LIBEST_027301</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/ESTs/ovary_LIBEST_027302_sorted.bam">Mapped EST library from Ovary LIBEST_027302</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/ESTs/testis_LIBEST_027303_sorted.bam">Mapped EST library from Testis LIBEST_027303</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/ESTs/mammary_LIBEST_021869_sorted.bam">Mapped EST library from Mammary LIBEST_021869</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/ESTs/md5sums.txt">MD5 checksums of above files</a></li>
+</ul>
+<h3>Genomic Alignments</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomeAlignments/me3_md5.rm.bed">Genome alignment using Mauve of Macropus eugenii v3 vs Monodelphis domesticus v5</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomeAlignments/me3-vs-hg19.rm.stranded.bed">Genome alignment using Mauve of Macropus eugenii v3 vs Homo sapien hg19</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomeAlignments/md5sum.txt">MD5 checksums of above files</a></li>
+</ul>
+<h3>Genomic reads used for assembly and REAPR validation</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013237.bam">Bam file for DRR013237 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013238.bam">Bam file for DRR013238 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013239.bam">Bam file for DRR013239 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013240.bam">Bam file for DRR013240 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013241.bam">Bam file for DRR013241 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013242.bam">Bam file for DRR013242 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013243.bam">Bam file for DRR013243 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013244.bam">Bam file for DRR013244 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013245.bam">Bam file for DRR013245 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013246.bam">Bam file for DRR013246 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013247.bam">Bam file for DRR013247 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013248.bam">Bam file for DRR013248 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013249.bam">Bam file for DRR013249 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013250.bam">Bam file for DRR013250 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013251.bam">Bam file for DRR013251 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013252.bam">Bam file for DRR013252 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013253.bam">Bam file for DRR013253 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013254.bam">Bam file for DRR013254 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013255.bam">Bam file for DRR013255 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013256.bam">Bam file for DRR013256 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013257.bam">Bam file for DRR013257 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013258.bam">Bam file for DRR013258 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013259.bam">Bam file for DRR013259 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013260.bam">Bam file for DRR013260 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/genomicReads/DRR013261.bam">Bam file for DRR013261 mapped against v3 of genome</a></li>
+</ul>
+<h3>mRNA-seq reads used to in assembly of transcriptome and annotation using Maker</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Adnexa_sorted.bam">Bam file for Adnexa mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Caudal_epididymus_sorted.bam">Bam file for Caudal epididymus mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Endo_sorted.bam">Bam file for Endo mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Follicle_Ovary_sorted.bam">Bam file for Follicle Ovary mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Gravid_endometrium_Endometrium_Uterus_4432_sorted.bam">Bam file for Gravid endometrium Endometrium Uterus 4432 mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Gravid_endometrium_Endometrium_Uterus_NT_sorted.bam">Bam file for Gravid endometrium Endometrium Uterus NT mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Heart_sorted.bam">Bam file for Heart mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Liver_sorted.bam">Bam file for Liver mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Lung_sorted.bam">Bam file for Lung mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Mammary_sorted.bam">Bam file for Mammary mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/md5sum.txt">Bam file for md5sum.txt mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Mid_prostate_sorted.bam">Bam file for Mid prostate mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Non_gravid_endometrium_Endometrium_Uterus_4432_sorted.bam">Bam file for Non gravid endometrium Endometrium Uterus 4432 mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Non_gravid_endometrium_Endometrium_Uterus_NT_sorted.bam">Bam file for Non gravid endometrium Endometrium Uterus NT mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/normalized_100x_sorted.bam">Bam file for normalized 100x mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Ovary_with_CL_sorted.bam">Bam file for Ovary with CL mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Phallus_male_3708_sorted.bam">Bam file for Phallus male 3708 mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Phallus_male_3796_sorted.bam">Bam file for Phallus male 3796 mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Retroperitoneal_white_adipose_tissue_sorted.bam">Bam file for Retroperitoneal white adipose tissue mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Spleen_sorted.bam">Bam file for Spleen mapped against v3 of genome using TopHat2</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/riken-mRNAseq/Testis_sorted.bam">Bam file for Testis mapped against v3 of genome using TopHat2</a></li>
+</ul>
+<h3>Small RNAs mapped against genome</h3>
+<ul>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/brain_miRNA_GSM753561_sorted.bam">Bam file for brain miRNA GSM753561 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/fibroblast_miRNA_GSM753562_sorted.bam">Bam file for fibroblast miRNA GSM753562 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/liver_miRNA_GSM753563_sorted.bam">Bam file for liver miRNA GSM753563 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/ovary_miRNA_GSM753564_sorted.bam">Bam file for ovary miRNA GSM753564 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/pouchYoungDay125_crasiRNA_GSM753559_sorted.bam">Bam file for pouchYoungDay125 crasiRNA GSM753559 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/testis_crasiRNA_GSM753560_sorted.bam">Bam file for testis crasiRNA GSM753560 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/testis_miRNA_GSM753565_sorted.bam">Bam file for testis miRNA GSM753565 mapped against v3 of genome</a></li>
+<li><a href="http://download.wallabase.science.unimelb.edu.au/smallRNAs/testis_piRNA_GSM753566_sorted.bam">Bam file for testis piRNA GSM753566 mapped against v3 of genome</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+				
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-includes/js/comment-reply.min.js?ver=6.8.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/howler.min.js?ver=2015102605" id="lean-captcha-howler-js"></script>
+<script type="text/javascript" id="lean-captcha-js-extra">
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/wallabase.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","key":"lc_PSYlX9K78L9hZo6wHUVeHA=="};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/lean-captcha.js?ver=201709035" id="lean-captcha-js"></script>
+<script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/wallabase.science.unimelb.edu.au\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/wallabase.science.unimelb.edu.au","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.5.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-AU","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/wallabase.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","security":"a3cfdc1e74","action":"wpa_stats_action","url":"https:\/\/wallabase.science.unimelb.edu.au\/","post_id":"2","continue":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wallabase.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.5.10" id="wp-accessibility-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Wallabase</h2>
+
+			<ul>
+				<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://wallabase.science.unimelb.edu.au/sample-page/files/">Files</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://wallabase.science.unimelb.edu.au/sample-page/tools/">Tools</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://wallabase.science.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/wallabase/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/wallabase/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>
+[tiny-file-manager-unauth] Dumped HTTP response https://wallabase.science.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:41 GMT
+Location: https://wallabase.science.unimelb.edu.au/
+Server: openresty
+Vary: Cookie
+X-Cache: MISS
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://wallabase.science.unimelb.edu.au/xmlrpc.php
+X-Redirect-By: WordPress
+
+

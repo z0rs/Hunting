@@ -1,0 +1,67 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://booklibrary.app.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: booklibrary.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: LastMRH_Session=94206b2a; MRHSession=370e465d6bf96dc07ad259c194206b2a
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://booklibrary.app.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1540
+Cache-Control: no-store
+Content-Type: text/html; charset=ISO-8859-1
+Date: Wed, 06 Aug 2025 15:17:27 GMT
+Server: BigIP
+Set-Cookie: LastMRH_Session=7800ce98;path=/;secure
+Set-Cookie: MRHSession=6ebc5e8a8daed49cd69ea4477800ce98;path=/;secure
+X-Frame-Options: DENY
+
+<html>
+            <head>
+            </head>
+            <body onload="document.forms[0].submit()">
+            <noscript><p>
+                <strong>Note:</strong> Your browser does not support JavaScript,
+                Press Continue to proceed... </p>
+            </noscript>
+            <form method="POST" action="https://sso.unimelb.edu.au/app/unimelb_booklibrary_1/exk2dzhoucIj4DfDK3l7/sso/saml">
+                <div>
+                   <input type="hidden" name="SAMLRequest" value="PHNhbWxwOkF1dGhuUmVxdWVzdCB4bWxuczpzYW1scD0idXJuOm9hc2lzOm5hbWVzOnRjOlNBTUw6Mi4wOnByb3RvY29sIiBBc3NlcnRpb25Db25zdW1lclNlcnZpY2VVUkw9Imh0dHBzOi8vYm9va2xpYnJhcnkuYXBwLnVuaW1lbGIuZWR1LmF1L3NhbWwvc3AvcHJvZmlsZS9wb3N0L2FjcyIgRGVzdGluYXRpb249Imh0dHBzOi8vc3NvLnVuaW1lbGIuZWR1LmF1L2FwcC91bmltZWxiX2Jvb2tsaWJyYXJ5XzEvZXhrMmR6aG91Y0lqNERmREszbDcvc3NvL3NhbWwiIElEPSJfMGM1ZjU4MzY4MjVhOTQzOGFmZTllNWQ0NGQzZjEwYWQ3MWJkMTgiIElzc3VlSW5zdGFudD0iMjAyNS0wOC0wNlQxNToxNzoyNy4wMDJaIiBGb3JjZUF1dGhuPSJmYWxzZSIgUHJvdG9jb2xCaW5kaW5nPSJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YmluZGluZ3M6SFRUUC1QT1NUIiBWZXJzaW9uPSIyLjAiPjxzYW1sOklzc3VlciB4bWxuczpzYW1sPSJ1cm46b2FzaXM6bmFtZXM6dGM6U0FNTDoyLjA6YXNzZXJ0aW9uIj5odHRwczovL2Jvb2tsaWJyYXJ5LmFwcC51bmltZWxiLmVkdS5hdS9zcDwvc2FtbDpJc3N1ZXI+PHNhbWxwOk5hbWVJRFBvbGljeSBBbGxvd0NyZWF0ZT0idHJ1ZSIvPjwvc2FtbHA6QXV0aG5SZXF1ZXN0Pg=="/> </div>
+                <noscript><div>
+                    <input type="submit" value="Continue"/>
+                </div>
+                </noscript>
+            </form>
+            </body>
+        </html>
+[tiny-file-manager-unauth] Dumped HTTP response https://booklibrary.app.unimelb.edu.au/index.php
+
+HTTP/1.0 302 Found
+Connection: close
+Location: /my.policy
+Server: BigIP
+Set-Cookie: LastMRH_Session=7800ce98;path=/;secure
+Set-Cookie: MRHSession=eacbf8cc092d5d2cc1d9af197800ce98;path=/;secure
+Set-Cookie: MRHSHint=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/;secure
+Content-Length: 0
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://booklibrary.app.unimelb.edu.au/index.php
+
+HTTP/1.0 302 Found
+Connection: close
+Location: /index.php
+Server: BigIP
+Set-Cookie: LastMRH_Session=94206b2a;path=/;secure
+Set-Cookie: MRHSession=370e465d6bf96dc07ad259c194206b2a;path=/;secure
+Content-Length: 0
+
+

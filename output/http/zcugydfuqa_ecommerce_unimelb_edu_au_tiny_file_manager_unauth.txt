@@ -1,0 +1,45 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://zcugydfuqa.ecommerce.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: zcugydfuqa.ecommerce.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://zcugydfuqa.ecommerce.unimelb.edu.au/index.php
+
+HTTP/1.1 401 Unauthorized
+Connection: close
+Content-Length: 574
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:08 GMT
+Strict-Transport-Security: max-age=31557600
+Traceresponse: 00-18593696106f52792d47f2990f5facef-7aaaaa1dd008aabb-01
+Vary: Cookie
+Www-Authenticate: Basic realm="Restricted site"
+X-Cache: MISS, MISS, MISS
+X-Cache-Hits: 0, 0, 0
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Permitted-Cross-Domain-Policies: none
+X-Served-By: cache-syd10139-SYD, cache-syd10139-SYD, cache-nyc-kteb1890047-NYC
+X-Timer: S1754493548.985071,VS0,VE4
+
+<html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+

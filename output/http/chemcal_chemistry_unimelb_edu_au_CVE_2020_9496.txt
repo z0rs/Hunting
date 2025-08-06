@@ -1,0 +1,28 @@
+[CVE-2020-9496] Dumped HTTP request for https://chemcal.chemistry.unimelb.edu.au/webtools/control/xmlrpc
+
+
+POST /webtools/control/xmlrpc HTTP/1.1
+Host: chemcal.chemistry.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 145
+Content-Type: application/xml
+Origin: http://chemcal.chemistry.unimelb.edu.au
+Accept-Encoding: gzip
+
+<?xml version="1.0"?><methodCall><methodName>ProjectDiscovery</methodName><params><param><value>dwisiswant0</value></param></params></methodCall>
+[CVE-2020-9496] Dumped HTTP response https://chemcal.chemistry.unimelb.edu.au/webtools/control/xmlrpc
+
+HTTP/1.1 301 MOVED PERMANENTLY
+Connection: close
+Transfer-Encoding: chunked
+Content-Language: en-us
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:17:31 GMT
+Location: http://chemcal.chemistry.unimelb.edu.au/webtools/control/xmlrpc/
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) mod_wsgi/4.7.0 Python/2.7
+Set-Cookie: django_language=en; Path=/
+Set-Cookie: BIGipServer~app_science_chemcal_prod~pool_science_chemcal_prod_80=4593580.20480.0000; path=/; Httponly; Secure
+Vary: Accept-Language
+
+

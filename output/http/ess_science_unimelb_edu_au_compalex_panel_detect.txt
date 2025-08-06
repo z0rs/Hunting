@@ -1,0 +1,616 @@
+[compalex-panel-detect] Dumped HTTP request for https://ess.science.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: ess.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://ess.science.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: max-age=3600, must-revalidate
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:43 GMT
+Last-Modified: Wed, 06 Aug 2025 15:17:36 GMT
+Link: <https://ess.science.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://ess.science.unimelb.edu.au/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://ess.science.unimelb.edu.au/>; rel=shortlink
+Server: openresty
+Vary: Cookie
+X-Cache: HIT
+X-Cache-Bypass-Reason: 0
+X-Pingback: https://ess.science.unimelb.edu.au/xmlrpc.php
+
+<!DOCTYPE html>
+
+<html lang="en-AU"
+	itemscope 
+	itemtype="http://schema.org/Blog" 
+	prefix="og: http://ogp.me/ns#"  class="no-js">
+	
+	<head>
+
+		<meta charset="UTF-8">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://ess.science.unimelb.edu.au/xmlrpc.php">
+		<meta name="google-site-verification" content="14L1qmSifouVkhuHJ_bjLKfy8ySshqb5pHTkKOiSI6Q" />
+
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+		
+		<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+		
+		<title>Environmental Social Science</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[649,684] -->
+<meta name="description" itemprop="description" content="The Environmental Social Science Research Group focuses on interactions between human and biophysical elements of urban, rural and wildland ecosystems." />
+
+<meta name="keywords" itemprop="keywords" content="Environmental Social Science, environmental sociology, environmental psychology, environmental policy, social research in Australia" />
+
+<link rel="canonical" href="https://ess.science.unimelb.edu.au/" />
+<meta property="og:title" content="Environmental Social Science" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://ess.science.unimelb.edu.au/" />
+<meta property="og:image" content="https://ess.science.unimelb.edu.au/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="og:site_name" content="Environmental Social Science" />
+<meta property="og:description" content="The Environmental Social Sciences Research Group (ESS) is part of the School of Agriculture, Food and Ecosystem Sciences (SAFES). Solutions to environmental and sustainability challenges require an understanding of their economic, social and psychological dimensions. At the University of Melbourne, the ESS group focuses on interactions between human and biophysical elements of urban, rural and wildland ecosystems. Research disciplines in the Group include environmental sociology, environmental psychology, economics, forest management and policy. We collaborate with experts in law, policy, geography, environmental science, design, engineering, mathematics and statistics to generate creative solutions to ecosystem management issues such as bushfire, forest management, water resources, land management, biosecurity, fisheries and urban sustainability. We work in partnership with policy makers, practitioners and communities to co-produce knowledge that is relevant and useful for decision" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="The Environmental Social Sciences Research Group (ESS) is part of the School of Agriculture, Food and Ecosystem Sciences (SAFES). Solutions to environmental and sustainability challenges require an understanding of their economic, social and psychological dimensions. At the University of Melbourne, the ESS group focuses on interactions between human and biophysical elements of urban, rural and wildland ecosystems. Research disciplines in the Group include environmental sociology, environmental psychology, economics, forest management and policy. We collaborate with experts in law, policy, geography, environmental science, design, engineering, mathematics and statistics to generate creative solutions to ecosystem management issues such as bushfire, forest management, water resources, land management, biosecurity, fisheries and urban sustainability. We work in partnership with policy makers, practitioners and communities to co-produce knowledge that is relevant and useful for decision" />
+<meta itemprop="image" content="https://ess.science.unimelb.edu.au/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//d2h9b02ioca40d.cloudfront.net' />
+<link rel="alternate" type="application/rss+xml" title="Environmental Social Science &raquo; Feed" href="https://ess.science.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Environmental Social Science &raquo; Comments Feed" href="https://ess.science.unimelb.edu.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Environmental Social Science &raquo; Home page Comments Feed" href="https://ess.science.unimelb.edu.au/sample-page/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.unimelb.edu.au\/ess\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='uom-design-system-css-css' href='//d2h9b02ioca40d.cloudfront.net/v7.0/uom.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uom-custom-styles-css' href='https://ess.science.unimelb.edu.au/wp-content/themes/unimelb/style.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://ess.science.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='lean-captcha-css-css' href='https://ess.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/css/lean-captcha.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpa-style-css' href='https://ess.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.5.10' type='text/css' media='all' />
+<style id='wpa-style-inline-css' type='text/css'>
+:root { --admin-bar-top : 7px; }
+</style>
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<link rel='stylesheet' id='simcal-qtip-css' href='https://ess.science.unimelb.edu.au/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.css?ver=3.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-grid-css' href='https://ess.science.unimelb.edu.au/wp-content/plugins/google-calendar-events/assets/generated/default-calendar-grid.min.css?ver=3.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-list-css' href='https://ess.science.unimelb.edu.au/wp-content/plugins/google-calendar-events/assets/generated/default-calendar-list.min.css?ver=3.5.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="//d2h9b02ioca40d.cloudfront.net/v7.0/uom.js?ver=1.1" id="uom-design-system-js-js"></script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.5.10" id="wpa-fingerprintjs-js"></script>
+<link rel="https://api.w.org/" href="https://ess.science.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://ess.science.unimelb.edu.au/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ess.science.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="Wordpress at the University of Melbourne 6.8.2 - http://blogs.unimelb.edu.au/" />
+<link rel='shortlink' href='https://ess.science.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ess.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fess.science.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ess.science.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fess.science.unimelb.edu.au%2F&#038;format=xml" />
+	<style>
+		@media screen and (max-width: 782px) {
+			#wpadminbar li#wp-admin-bar-log-in,
+			#wpadminbar li#wp-admin-bar-register {
+				display: block;
+			}
+
+			#wpadminbar li#wp-admin-bar-log-in a,
+			#wpadminbar li#wp-admin-bar-register a {
+				padding: 0 8px;
+			}
+		}
+	</style>
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '9a1b17ff61';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( null === erroredFunction || typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://ess.science.unimelb.edu.au/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+							<!-- Google Analytics tracking code output by Beehive Analytics Pro -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-L1Q1TD1R35&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function gaplusu() {beehiveDataLayer.push(arguments);}
+			gaplusu('js', new Date())
+						gaplusu('config', 'G-L1Q1TD1R35', {
+				'anonymize_ip': true,
+				'allow_google_signals': false,
+			})
+					</script>
+		<style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+		
+	</head>
+	
+	<body class="home wp-singular page-template-default page page-id-2 page-parent wp-theme-unimelb unimelb-floating-header childs_tabs">
+		
+		<div class="uomcontent">
+
+			<div class="page-inner">
+
+				<div class="floating"></div>
+				<ol class="page-local-history" itemscope="" itemtype="http://schema.org/BreadcrumbList">			<li class="root" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<a href="https://ess.science.unimelb.edu.au" title="Environmental Social Science" itemprop="item">
+					<span itemprop="name">Environmental Social Science</span>
+				</a>
+				<meta content="" itemprop="position" />
+			</li>
+			</ol>
+				<div role="main">
+
+
+
+					<header class="image" style="background-image:url(https://blogs.unimelb.edu.au/ess/files/2024/01/cropped-5-a8fcb1e50d5962df.jpg)">
+						<div>
+									<h1>Environmental Social Science</h1>
+									</div>
+			</header>
+		
+
+			<section>
+
+				
+					
+						
+							<article id="post-2" class="post-2 page type-page status-publish has-post-thumbnail hentry">
+
+	<h1 class="entry-header">Home page</h1>
+
+			<div class="tabbed-nav" data-tabbed="" id="nav">
+			<div class="full-width">
+				<nav role="tablist">
+										<a href="#tabmain" role="tab" data-current="">
+						<span class="small" data-icon="home">
+							Home
+						</span>
+					</a>
+					<a href="#tab5" role="tab">Posts, News & Events</a><a href="#tab147" role="tab">ESS researchers</a><a href="#tab36" role="tab">Projects</a><a href="#tab17" role="tab">Contact</a><a href="#tab53" role="tab">Links</a>				</nav>
+			</div>
+
+			<div class="tab" id="tabmain" role="tabpanel">
+				<p>The Environmental Social Sciences Research Group (ESS) is part of the <a href="https://sefs-saf.unimelb.edu.au/" target="_blank" rel="noopener">School of Agriculture, Food and Ecosystem Sciences (SAFES). </a></p>
+<p>Solutions to environmental and sustainability challenges require an understanding of their economic, social and psychological dimensions. At the University of Melbourne, the ESS group focuses on interactions between human and biophysical elements of urban, rural and wildland ecosystems.</p>
+<p>Research disciplines in the Group include <strong>environmental sociology, environmental psychology, economics, forest management and policy</strong>.</p>
+<p>We collaborate with experts in law, policy, geography, environmental science, design, engineering, mathematics and statistics to generate creative solutions to ecosystem management issues such as bushfire, forest management, water resources, land management, biosecurity, fisheries and urban sustainability. We work in partnership with policy makers, practitioners and communities to <strong>co-produce knowledge that is relevant and useful for decision making</strong>.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-468 size-large" src="https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-1024x683.jpg" alt="" width="700" height="467" srcset="https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-1024x683.jpg 1024w, https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-444x296.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-768x512.jpg 768w, https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-1536x1024.jpg 1536w, https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-300x200.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb-600x400.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/01/2-32b76995984a25bb.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+			</div>
+
+							<div class="tab" id="tab5" role="tabpanel">
+				<ul class="wmd-block-news block-listing"  id="wmd-block-news-68937210ae424">                    <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2024/01/19/introducing-a-new-practice-guide-contemplative-nature-engagement-practices-to-support-individuals-and-communities-facing-ecological-distress/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2024/01/IMAGE-2.-Formal-meditation-9d4d2d6fa31595af-600x348.jpg);"></div>
+                                                        <strong>Introducing a new practice guide: Contemplative nature engagement practices to support individuals and communities facing ecological distress</strong>
+                            <p>University of Melbourne researchers - including ESS researchers, Rose Macaulay and Kathryn Williams - have partnered with experts of diverse contemplative practices to provide a practice guide to support individuals facing ecological distress. Aimed at group leaders and teachers working with people experiencing eco-distress, this resource bridges scientific understanding and contemplative wisdom to foster adaptive responses in the face of …</p>
+                            <div class="meta">
+                                <span class="meta-left">19 January, 2024</span>
+                                <span class="meta-right">Article</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2023/01/13/phd-social-life-of-smart-water-technology/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2023/01/rainwater_xandtor-6TWiFzTv-Yc-unsplash-600x513.jpg);"></div>
+                                                        <strong>PhD scholarship &#8211; Understanding the social life of smart water technology for protecting urban streams</strong>
+                            <p>We, at the University of Melbourne, are very excited to be advertising a fantastic PhD opportunity (with scholarship) for an environmental social scientist.
+Project title: "Understanding the social life of smart water technology for protecting urban streams"
+Location: Melbourne, Australia
+Scholarship: $43,000 p.a.
+Submit EoI by: 17 February 2023
+Monbulk Creek Smart Water Network
+This environmental social science PhD project is part of an interdisciplinary research …</p>
+                            <div class="meta">
+                                <span class="meta-left">13 January, 2023</span>
+                                <span class="meta-right">Environmental S...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2021/10/31/the-future-of-our-cities-is-indigenous/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2023/01/Yarra-River-in-Melbourne_Indigenous-cities_ayush-jain-6DiTXhlRE70-unsplash-600x450.jpg);"></div>
+                                                        <strong>The Future of Our Cities is Indigenous</strong>
+                            <p>Australia’s unceded cities are still part of Country, and if we care for them they will care for us as we face the climate challenge.</p>
+                            <div class="meta">
+                                <span class="meta-left">31 October, 2021</span>
+                                <span class="meta-right">Conservation, A...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2020/10/07/dismantling-unhelpful-binaries-in-citizen-science-and-the-citsciozonline-conference/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2020/10/shutterstock_265621223-600x400.jpg);"></div>
+                                                        <strong>&#8216;Dismantling unhelpful binaries in citizen science&#8217; at the #CitSciOzOnline conference</strong>
+                            <p>Debbie Gonzalez Canada, who is researching participation in digital environmental monitoring, discussed unhelpful binaries in citizen science at the CitSciOZOnline conference.</p>
+                            <div class="meta">
+                                <span class="meta-left">7 October, 2020</span>
+                                <span class="meta-right">Citizen Science...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2020/08/27/visualise-your-thesis-video-about-mindful-engagement-in-nature/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2020/08/Screen-Shot-2020-08-27-at-12.52.41-PM-600x375.jpg);"></div>
+                                                        <strong>Watch the winning entry for Visualise Your Thesis 2020 about mindful engagement in nature</strong>
+                            <p>PhD candidate, Rose Macaulay, recently won the University of Melbourne's Visualise Your Thesis competition. The competition challenges graduate researchers to present their research in a 60 second digital display. You can watch her entry below.
+
+
+
+Mindfulness and Wellbeing in Urban Nature by Rose Macaulay from unilibrary on Vimeo.
+
+Next, Rose will represent the University of Melbourne in the International Visualise Your Thesis …</p>
+                            <div class="meta">
+                                <span class="meta-left">27 August, 2020</span>
+                                <span class="meta-right">Nature connecti...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2020/08/22/webinar-program-from-september-to-november-2020/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2020/08/shutterstock_1412832002-600x360.jpg);"></div>
+                                                        <strong>Seminar program from September to November 2020</strong>
+                            <p>There are four SEFS webinars between September and the end of 2020, two presenting research and two discussing academic careers.</p>
+                            <div class="meta">
+                                <span class="meta-left">22 August, 2020</span>
+                                <span class="meta-right">Landscapes, Aca...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2020/07/21/seminar-people-and-fire-by-rebecca-ford-and-kathryn-williams/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2020/07/hamza-el-falah-7weSMis6n3M-unsplash-600x400.jpg);"></div>
+                                                        <strong>SEMINAR: Rebecca Ford and Kathryn Williams explore social aspects of planning for bushfire risk.</strong>
+                            <p>In a changing climate, people are increasingly going about their daily lives in landscapes that are shaped by fire. How do residents relate to the annual risk of wildfires? Recreation in forests is known to have positive outcomes for health and wellbeing, but what are recreational experiences in recently burnt forests? How do agency staff in planning and management view …</p>
+                            <div class="meta">
+                                <span class="meta-left">21 July, 2020</span>
+                                <span class="meta-right">Environmental P...</span>
+                            </div>
+                        </a>
+                    </li>
+                                        <li class="news">
+                        <a class="block-container" href="https://ess.science.unimelb.edu.au/2020/06/24/seminar-people-and-fire-ruth-beilin-and-andrea-rawluk/">
+                                                            <div class="block-listing__img" style="background-image: url(https://ess.science.unimelb.edu.au/files/2020/06/lucas-sankey-H44761C7jic-unsplash-600x400.jpg);"></div>
+                                                        <strong>SEMINAR: Ruth Beilin and Andrea Rawluk explore interactions between people, ecosystems and fire</strong>
+                            <p>In a changing climate, people are increasingly going about their daily lives in landscapes that are shaped by fire. How do residents relate to the annual risk of wildfires? Recreation in forests is known to have positive outcomes for health and wellbeing, but what are recreational experiences in recently burnt forests? How do agency staff in planning and management view …</p>
+                            <div class="meta">
+                                <span class="meta-left">24 June, 2020</span>
+                                <span class="meta-right">Environmental S...</span>
+                            </div>
+                        </a>
+                    </li>
+                    </ul>
+				</div>					
+							<div class="tab" id="tab147" role="tabpanel">
+				<h1>Staff</h1>
+<p><em>(alphabetically)</em></p>
+<ul class="accordion" id="wmd-accordion-68937210bea70"><li><span class="accordion__title" >Dr Helena Bender</span><div class="accordion__hidden"><p>Helena Bender is a teaching specialist who is interested in the intersection between social and biophysical systems and the sustainability of the global ecosystem. 
+More information at: <a href="https://findanexpert.unimelb.edu.au/profile/1929-helena-bender" rel="noopener" target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Dr Ellycia Harrould-Kolieb</span><div class="accordion__hidden"><p><a href="https://ess.science.unimelb.edu.au/ellycia-harrould-kolieb/" rel="noopener" target="_blank">Ellycia</a> is a Lecturer in Ecosystem Governance & Policy. She is an interdisciplinary social scientist and her research focuses primarily on the governance of the global ocean.<br>
+<img loading="lazy" decoding="async" class="wp-image-534" src="https://blogs.unimelb.edu.au/ess/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307-150x150.jpeg" alt="Ellycia Harrould-Kolieb" width="150" height="150" data-build-figure="full-width" srcset="https://ess.science.unimelb.edu.au/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307-150x150.jpeg 150w, https://ess.science.unimelb.edu.au/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307-444x444.jpeg 444w, https://ess.science.unimelb.edu.au/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307-768x768.jpeg 768w, https://ess.science.unimelb.edu.au/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307-300x300.jpeg 300w, https://ess.science.unimelb.edu.au/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307-600x600.jpeg 600w, https://ess.science.unimelb.edu.au/files/2024/03/Ellycia-Harrould-Kolieb-6-edd03de3da6e5307.jpeg 1012w" sizes="auto, (max-width: 150px) 100vw, 150px" /></p></div></li><li><span class="accordion__title" >Dr Amy Hahs</span><div class="accordion__hidden"><p>Amy Hahs is an urban ecologist with an established research career investigating how urban landscapes impact the local ecology. Since 1999, Amy has written and co-authored over 100 academic articles and delivered more than 70 talks, lectures and interviews to Australian and international audiences.
+More information at: <a href="https://findanexpert.unimelb.edu.au/profile/947-amy-hahs" rel="noopener " target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Professor Tom Kompas</span><div class="accordion__hidden"><p><a href="https://ess.science.unimelb.edu.au/professor-tom-kompas/" rel="noopener" target="_blank">Tom Kompas</a> is a Professor of Environmental Economics and Biosecurity and Fellow of the Academy of Social Sciences Australia.<br><a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Tom_Kompas300.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-124" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Tom_Kompas300-150x150.jpg" alt="Professor Tom Kompas" width="150" height="150"></a></p></div></li><li><span class="accordion__title" > Dr Stephanie Lavau</span><div class="accordion__hidden"><p>Stephanie Lavau is a Lecturer in Interdisciplinary Environmental Practice. Her research and teaching focus on social and cultural aspects of environment management, knowledge and governance, particularly in relation to water management and biodiversity conservation.
+More information at: <a href="https://findanexpert.unimelb.edu.au/profile/23855-stephanie-lavau" rel="noopener" target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Dr Rose Macaulay</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/rose-macaulay/" rel="noopener" target="_blank">Rose Macaulay</a> is an Associate Lecturer in Environmental Psychology. Her research explores how people experience and engage with nature, and the psychological outcomes of those experiences. </p></div></li><li><span class="accordion__title" >Maddison Miller</span><div class="accordion__hidden"><p><a href="https://ess.science.unimelb.edu.au/maddison-miller/" rel="noopener" target="_blank">Maddi Miller</a> is a Darug woman whose research looks at ways of knowing Country. She is interested in ways of bringing non-Indigenous and Indigenous sciences together to understand and care for Country, particularly through storytelling.</p></div></li><li><span class="accordion__title" > Dr Andrea Rawluk</span><div class="accordion__hidden"><p>More information at: <a href="https://findanexpert.unimelb.edu.au/profile/725224-andrea-rawluk" rel="noopener" target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" > Dr Danny Spring</span><div class="accordion__hidden"><p>Danny Spring is a Research Fellow. His main research interests are in Environmental Economics, with a focus on decision theory applications in biodiversity conservation and biosecurity.
+More information at: <a href="https://findanexpert.unimelb.edu.au/profile/789452-danny-spring" rel="noopener" target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Dr Tessa Toumbourou</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/tessa-toumbourou/" rel="noopener" target="_blank"> Tessa Toumbourou</a> is a postdoctoral research fellow facilitating a collaboration between Australian and Indonesian researchers to identify just, inclusive and sustainable principles for peatland restoration in Central Kalimantan. <br><a href="https://blogs.unimelb.edu.au/ess/files/2024/02/Tessa-Toumbourou-copy-fce5df821b82d727.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-514" src="https://blogs.unimelb.edu.au/ess/files/2024/02/Tessa-Toumbourou-copy-fce5df821b82d727-150x150.jpg" alt="Tessa Toumbourou" width="150" height="150" data-build-figure="full-width" srcset="https://ess.science.unimelb.edu.au/files/2024/02/Tessa-Toumbourou-copy-fce5df821b82d727-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2024/02/Tessa-Toumbourou-copy-fce5df821b82d727-444x444.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/02/Tessa-Toumbourou-copy-fce5df821b82d727-300x300.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/02/Tessa-Toumbourou-copy-fce5df821b82d727.jpg 600w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li><li><span class="accordion__title" >Professor Kathryn Williams</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/professor-kathryn-williams/" rel="noopener" target="_blank"> Kathryn Williams</a> is a Professor of Environmental Psychology and much of her work focuses on people’s relationships with forests, bushfire and grasslands as well as ‘urban nature’ including parks, gardens and green infrastructure. <br><a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Professor-Kathryn-Williams.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-67" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Professor-Kathryn-Williams-150x150.jpg" alt="Professor Kathryn Williams" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2020/05/Professor-Kathryn-Williams-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2020/05/Professor-Kathryn-Williams-300x299.jpg 300w, https://ess.science.unimelb.edu.au/files/2020/05/Professor-Kathryn-Williams-1024x1020.jpg 1024w, https://ess.science.unimelb.edu.au/files/2020/05/Professor-Kathryn-Williams-768x765.jpg 768w, https://ess.science.unimelb.edu.au/files/2020/05/Professor-Kathryn-Williams-600x598.jpg 600w, https://ess.science.unimelb.edu.au/files/2020/05/Professor-Kathryn-Williams.jpg 1142w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li></ul>
+<h1>Honoraries</h1>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-479 size-large" src="https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-1024x575.jpg" alt="" width="700" height="393" srcset="https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-1024x575.jpg 1024w, https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-444x249.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-768x431.jpg 768w, https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-1536x862.jpg 1536w, https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-300x168.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1-600x337.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/01/9-fdf5d59f146fcde1.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+<ul class="accordion" id="wmd-accordion-68937210beb4b"><li><span class="accordion__title" >Dr Himlal Baral</span><div class="accordion__hidden"><p>More information: <a href="https://findanexpert.unimelb.edu.au/profile/653325-himlal-baral" rel="noopener" target="_blank">Find an Expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Professor Ruth Beilin</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/professor-ruth-beilin/" rel="noopener" target="_blank">Professor Ruth Beilin</a> is Honorary Professorial Fellow in Landscape and Environmental Sociology. Her more recent studies have focused on ‘the disaster landscape’: fire, flood, coastal inundation, and drought.<br />
+<a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Ruth-Beilin-copy.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-74" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Ruth-Beilin-copy-150x150.jpg" alt="Professor Ruth Beilin" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2020/05/Ruth-Beilin-copy-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2020/05/Ruth-Beilin-copy-300x300.jpg 300w, https://ess.science.unimelb.edu.au/files/2020/05/Ruth-Beilin-copy-600x600.jpg 600w, https://ess.science.unimelb.edu.au/files/2020/05/Ruth-Beilin-copy.jpg 655w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li><li><span class="accordion__title" >Dr Thu Ba Huynh</span><div class="accordion__hidden"><p></p></div></li><li><span class="accordion__title" >Adjunct Professor Jim McLennan</span><div class="accordion__hidden"><p></p></div></li><li><span class="accordion__title" >Dr Peter Morison</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/peter-morison/" rel="noopener" target="_blank">Dr Peter Morison</a> is an Honorary Senior Fellow at the School of Agriculture, Food and Ecosystem Sciences. Pete supports the Waterway Ecosystem Research Group in the Melbourne Waterway Research-Practice Partnership through its social and community engagement program.<br />
+<img loading="lazy" decoding="async" class="wp-image-410" src="https://blogs.unimelb.edu.au/ess/files/2022/12/Peter_Morison_UniMelb-150x150.jpeg" alt="Peter Morison at University of Melbourne" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2022/12/Peter_Morison_UniMelb-150x150.jpeg 150w, https://ess.science.unimelb.edu.au/files/2022/12/Peter_Morison_UniMelb-444x444.jpeg 444w, https://ess.science.unimelb.edu.au/files/2022/12/Peter_Morison_UniMelb-300x300.jpeg 300w, https://ess.science.unimelb.edu.au/files/2022/12/Peter_Morison_UniMelb.jpeg 600w" sizes="auto, (max-width: 150px) 100vw, 150px" /></p></div></li><li><span class="accordion__title" >Dr Hemant Ojha</span><div class="accordion__hidden"><p>More information: <a href="https://findanexpert.unimelb.edu.au/profile/443274-hemant-ojha" rel="noopener" target="_blank">Find an Expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Dr Rebecca Ford</span><div class="accordion__hidden"><p>Rebecca Ford is a Research Fellow concerned with social dimensions of forest and fire policy and management. She draws on psychological and interdisciplinary frameworks to study people and their interactions with forests and forest and fire management by observing aspects such as values, experience, social acceptability, institutions and decision-making.
+More information at: <a href="https://findanexpert.unimelb.edu.au/profile/23213-rebecca-ford" rel="noopener " target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Professor Rod Keenan</span><div class="accordion__hidden"><p>Rod Keenan has a B. Sc. (Forestry) from the ANU and a PhD in forest ecology from University of British Columbia, with research interests in forests and climate change, forest ecosystem services and forest and environmental policy. He is Chair Of Forest And Ecosystem Science.
+More information at: <a href="https://findanexpert.unimelb.edu.au/profile/116805-rodney-keenan" rel="noopener" target="_blank">Find an expert (University of Melbourne)</a></p></div></li><li><span class="accordion__title" >Dr Prativa Sapkota</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/prativa-sapkota/" rel="noopener" target="_blank">Prativa Sapkota</a> is a research fellow at the University of Melbourne, Australia. She is interested in social aspect of forest and fire management.</p></div></li><li><span class="accordion__title" >Dr Kate Lee</span><div class="accordion__hidden"><p><p>Kate Lee is a research fellow in SAFES and a member of the Green Infrastructure Research Group. Much of her work is focused on the role of nature in boosting mood, wellbeing, and productivity for people living and working in cities.</p>
+<p><img decoding="async" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Kate-Lee-green2-150x150.jpg" alt="Dr Kate Lee" /></p></p></div></li></ul>
+<p>&nbsp;</p>
+<h1>Graduate Researchers</h1>
+<p><img loading="lazy" decoding="async" class="wp-image-473 size-large" src="https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-1024x680.jpg" alt="" width="700" height="465" srcset="https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-1024x680.jpg 1024w, https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-444x295.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-768x510.jpg 768w, https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-1536x1020.jpg 1536w, https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-300x199.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9-600x398.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/01/4-926e387e11735cb9.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+<ul class="accordion" id="wmd-accordion-68937210bebc4"><li><span class="accordion__title" >Rebecca Toohey</span><div class="accordion__hidden"><p>PhD Candidate</p></div></li><li><span class="accordion__title" >Debbie Gonzalez Canada</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/debbie-gonzalez-canada/" rel="noopener" target="_blank">Debbie Gonzalez Canada</a> is a PhD Candidate researching participation in biodiversity citizen science. She investigates how digital technologies (such as apps and digital platforms) are re-shaping knowledge and caring practices of biodiversity monitoring volunteers.<br />
+<a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-107" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy-150x150.jpg" alt="Debbie Gonzalez Canada" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy-300x300.jpg 300w, https://ess.science.unimelb.edu.au/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy-1024x1024.jpg 1024w, https://ess.science.unimelb.edu.au/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy-768x768.jpg 768w, https://ess.science.unimelb.edu.au/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy-600x600.jpg 600w, https://ess.science.unimelb.edu.au/files/2020/05/Debbie-Gonzalez-Canada-Grampians-copy.jpg 1200w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li><li><span class="accordion__title" >Anastasia Gramatakos</span><div class="accordion__hidden"><p><a href="https://ess.science.unimelb.edu.au/anastasia-gramatakos/" rel="noopener" target="_blank">Anastasia Gramatakos</a> is a PhD candidate exploring the ways in which time is conceptualised in social ecological systems and how diverse experiences and expressions of time can be accounted for. She is particularly interested in the diverse ways that time is experienced, expressed and negotiated in urban green spaces. </p></div></li><li><span class="accordion__title" >Christopher McCormack</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/christopher-mccormack/" rel="noopener" target="_blank">Christopher McCormack </a> is studying a PhD in conservation psychology, investigating the links between narrative and connection with nature. Chris is the co-founder and managing director of Australia’s first nature connection charity, Remember The Wild.<br />
+<a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Christopher-McCormack.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-134" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Christopher-McCormack-150x150.jpg" alt="Christopher McCormack" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2020/05/Christopher-McCormack-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2020/05/Christopher-McCormack.jpg 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li><li><span class="accordion__title" >Gabrielle Miller</span><div class="accordion__hidden"><p>Gabrielle is a PhD Candidate at SAFES. Her research broadly focuses on the socio-political dimensions of land and fire management in southeast Australian landscapes.
+<img loading="lazy" decoding="async" class="wp-image-545" src="https://blogs.unimelb.edu.au/ess/files/2024/03/MILLER-headshot-picture-e8671e89de352b18-150x150.jpg" alt="Gabrielle Miller" width="150" height="150" data-build-figure="full-width" srcset="https://ess.science.unimelb.edu.au/files/2024/03/MILLER-headshot-picture-e8671e89de352b18-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2024/03/MILLER-headshot-picture-e8671e89de352b18-444x441.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/03/MILLER-headshot-picture-e8671e89de352b18-300x298.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/03/MILLER-headshot-picture-e8671e89de352b18-600x595.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/03/MILLER-headshot-picture-e8671e89de352b18.jpg 645w" sizes="auto, (max-width: 150px) 100vw, 150px" /> </p></div></li><li><span class="accordion__title" >Oliver Miltenberger</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/oliver-miltenberger/" rel="noopener" target="_blank">Oliver Miltenberger </a> is a PhD student at the School of Agriculture, Food and Ecosystem Sciences and the Climate-Energy College. His PhD work focuses on the development of policy and finance mechanisms that enable large-scale ecosystem services markets.<br />
+<a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Oliver-Miltenberger_Profile-pic-copy.jpeg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-80" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-150x150.jpeg" alt="Oliver Miltenberger" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-150x150.jpeg 150w, https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-300x300.jpeg 300w, https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-1024x1024.jpeg 1024w, https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-768x768.jpeg 768w, https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-1536x1536.jpeg 1536w, https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy-600x600.jpeg 600w, https://ess.science.unimelb.edu.au/files/2020/05/Oliver-Miltenberger_Profile-pic-copy.jpeg 1600w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li><li><span class="accordion__title" >Maddy Sbeghen</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/madeleine-maddy-sbeghen/" rel="noopener" target="_blank">Maddy Sbeghen </a> is a PhD candidate and their PhD project explores human-bird interactions and community engagement in the context of threatened migratory shorebird conservation in Australia and Japan, part of the East Asian Australasian Flyway.<br />
+<a href="https://blogs.unimelb.edu.au/ess/files/2020/05/Maddy-Sbeghen.jpg" data-build-figure="full-width"><img loading="lazy" decoding="async" class="wp-image-103" src="https://blogs.unimelb.edu.au/ess/files/2020/05/Maddy-Sbeghen-150x150.jpg" alt="Maddy Sbeghen" width="150" height="150" srcset="https://ess.science.unimelb.edu.au/files/2020/05/Maddy-Sbeghen-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2020/05/Maddy-Sbeghen-298x300.jpg 298w, https://ess.science.unimelb.edu.au/files/2020/05/Maddy-Sbeghen-768x774.jpg 768w, https://ess.science.unimelb.edu.au/files/2020/05/Maddy-Sbeghen-300x302.jpg 300w, https://ess.science.unimelb.edu.au/files/2020/05/Maddy-Sbeghen-595x600.jpg 595w, https://ess.science.unimelb.edu.au/files/2020/05/Maddy-Sbeghen.jpg 773w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a></p></div></li><li><span class="accordion__title" >Kaiwen Zhou</span><div class="accordion__hidden"><p><a href="https://blogs.unimelb.edu.au/ess/kaiwen-zhou/" rel="noopener" target="_blank">Kaiwen</a> is a visiting PhD student at SAFES, exploring the interaction between people and urban nature. Her research investigates how people perceive and experience urban nature, as well as how their pro-environmental behaviours are influenced. 
+<img loading="lazy" decoding="async" class="wp-image-523" src="https://blogs.unimelb.edu.au/ess/files/2024/02/Kaiwen-Zhou-1cbb31afc845a785-150x150.jpg" alt="Kaiwen Zhou" width="150" height="150" data-build-figure="full-width" srcset="https://ess.science.unimelb.edu.au/files/2024/02/Kaiwen-Zhou-1cbb31afc845a785-150x150.jpg 150w, https://ess.science.unimelb.edu.au/files/2024/02/Kaiwen-Zhou-1cbb31afc845a785-444x444.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/02/Kaiwen-Zhou-1cbb31afc845a785-300x300.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/02/Kaiwen-Zhou-1cbb31afc845a785.jpg 600w" sizes="auto, (max-width: 150px) 100vw, 150px" /></p></div></li><li><span class="accordion__title" >Natale Froia</span><div class="accordion__hidden"><p>PhD candidate</p></div></li></ul>
+				</div>					
+							<div class="tab" id="tab36" role="tabpanel">
+				<h1>Researchers in the ESS group are part of the following research projects:</h1>
+<p>&nbsp;</p>
+<ul class="accordion" id="wmd-accordion-68937210c3baa"><li><span class="accordion__title" >Green Infrastructure Research Group</span><div class="accordion__hidden"><p>The Green Infrastructure Research Group is an interdisciplinary team of Australia’s leading green infrastructure experts with a shared passion for using plants to make cities more liveable.
+
+GIRG creates and embeds knowledge and technologies in smart design, construction and maintenance of green spaces, trees, parks, rain gardens, community gardens and green roofs and facades in built environments.
+<a href="https://girg.science.unimelb.edu.au/" rel="noopener noreferrer" target="_blank">Click here for more information</a>.</p></div></li><li><span class="accordion__title" >Waterway Ecosystem Research Group</span><div class="accordion__hidden"><p>The Waterway Ecosystem Research Group is a group of researchers studying interactions between landscapes and running waters. It aims to develop tools for achieving healthy streams and rivers in urban and rural landscapes.
+
+The group is made up of ecologists, hydrologists, chemists, geomorphologists and works in collaboration with social scientists and environmental economists.  Combined, these skills allow the group to undertake novel interdisciplinary research, as well as fundamental and applied disciplinary research. <a href="https://thewerg.org/" rel="noopener noreferrer" target="_blank">Click here for more information</a>.</p></div></li><li><span class="accordion__title" >The Clean Air and Urban Landscapes Hub</span><div class="accordion__hidden"><p>Cities are important environments that are home to millions of Australians. How can we make them better for people and for biodiversity?
+
+The CAUL Hub is a consortium funded under the Australian Government’s National Environmental Science Program. The hub is led by one of Australia’s leading urban ecologists Associate Professor Kirsten Parris. Deputy Hub Lead is Associate Professor Joe Hurley, an expert in the role of urban governance and policy to produce sustainable outcomes.
+<a href="https://nespurban.edu.au/about/" rel="noopener" target="_blank">Click here for more information</a>.</p></div></li><li><span class="accordion__title" >UniMelb Environmental Psychology</span><div class="accordion__hidden"><p>At UniMelbEnvPsych, we study human relationships with physical environments using interdisciplinary approaches grounded in environmental psychology.  We examine the different ways people value environments, how people form attitudes towards environmental issues, what enables or constrains positive environmental behaviour, and how physical environments influence human well-being and function. Key themes in our work include human relationships with forest ecosystems, urban ecosystems and green infrastructure, and bushfire prone landscapes. <a href="https://unimelbenvpsych.wordpress.com/about/" rel="noopener noreferrer" target="_blank">Click here for more information</a>.</p></div></li><li><span class="accordion__title" >Next Generation Forest Plantation Investment</span><div class="accordion__hidden"><p>Next Generation Forest Plantation Investment is a research project funded by forest industry partners and the Australian Government though Forest and Wood Products Australia.
+The aim of the project is to bring a combination of actors together to design and test new models of investment in planted forests. This approach presents an opportunity to learn from past experiences in order to design more sustainable and attractive models for planted forest investment that meet the requirements of industry, landowners, capital investors and other stakeholders.
+<a href="https://blogs.unimelb.edu.au/nextgenplantations/#tabmain" rel="noopener noreferrer" target="_blank">Click here for more information.</a></p></div></li><li><span class="accordion__title" >Trees on Farms: Connecting landowners with investors to grow timber, carbon or biodiversity</span><div class="accordion__hidden"><p>Trees on Farms is a platform that lets the user find out about the potential for land to grow trees for biodiversity, for carbon storage, and for timber. Registering an interest in growing trees will help connect platform users with organisations wishing to invest in growing trees on rural land, whether for conservation or for profit.
+<a href="https://growcarbon.science.unimelb.edu.au/" rel="noopener noreferrer" target="_blank">Click here for more information.</a></p></div></li><li><span class="accordion__title" >Improving policies for forest plantations to balance smallholder, industry and environmental needs in Lao PDR and Vietnam</span><div class="accordion__hidden"><p>From 2016 to 2019, this project aimed to improve policies for forest plantation industry development in Lao PDR and Vietnam through building better linkages between commercial investment and smallholder production.
+
+The project developed policy and institutional options for plantation development, and created a policy learning network that could build capacity in plantation sector policy analysis, development and implementation. <a href="https://www.aciar.gov.au/project/ADP-2014-047" rel="noopener noreferrer" target="_blank">Click here for more information.</a> </p></div></li></ul>
+<p><img loading="lazy" decoding="async" class="wp-image-477 size-large" src="https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-1024x682.jpg" alt="" width="700" height="466" srcset="https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-1024x682.jpg 1024w, https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-444x296.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-768x512.jpg 768w, https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-1536x1023.jpg 1536w, https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-300x200.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d-600x400.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/01/7-8ae1b345673a196d.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+				</div>					
+							<div class="tab" id="tab17" role="tabpanel">
+				<p>If you visit the list of ESS researchers, emails of staff and graduate researchers can be found within their profiles. You can also visit the <a href="https://sefs-saf.unimelb.edu.au/about/people/academic-staff" target="_blank" rel="noopener">academic staff directory here</a>.</p>
+<p>Contact the <a href="https://sefs-saf.unimelb.edu.au/about/contact-us" target="_blank" rel="noopener">School of Agriculture, Food and Ecosystem Sciences here</a>.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-480 size-large" src="https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-1024x766.jpg" alt="" width="700" height="524" srcset="https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-1024x766.jpg 1024w, https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-444x332.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-768x575.jpg 768w, https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-1536x1150.jpg 1536w, https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-300x225.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0-600x449.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/01/10-a679904e082096c0.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+				</div>					
+							<div class="tab" id="tab53" role="tabpanel">
+				<p><img loading="lazy" decoding="async" class="wp-image-471 size-large" src="https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-1024x683.jpg" alt="" width="700" height="467" srcset="https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-1024x683.jpg 1024w, https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-444x296.jpg 444w, https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-768x512.jpg 768w, https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-1536x1024.jpg 1536w, https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-300x200.jpg 300w, https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f-600x400.jpg 600w, https://ess.science.unimelb.edu.au/files/2024/01/1-31895587fdb6cc7f.jpg 1920w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
+<h1>Find more environmental social research at:</h1>
+<ul>
+<li><a href="https://science.unimelb.edu.au/research/human-geography" target="_blank" rel="noopener noreferrer">Research in the field of Human Geography from the Faculty of Science, University of Melbourne</a></li>
+<li><a href="https://essnetwork.net/" target="_blank" rel="noopener noreferrer">Environmental Social Science Network</a></li>
+<li><a href="http://www.nessaustralia.org/about-ness/" target="_blank" rel="noopener noreferrer">Network of Environmental Social Scientists (NESS)</a></li>
+<li><a href="https://www.aares.org.au/" target="_blank" rel="noopener noreferrer">Australasian Agricultural &amp; Resource Economics Society</a></li>
+<li><a href="https://www.eianz.org/" target="_blank" rel="noopener noreferrer">Environment Institute of Australia and New Zealand</a></li>
+<li><a href="https://www.forestry.org.au/" target="_blank" rel="noopener noreferrer">Institute of Foresters Australia</a></li>
+</ul>
+				</div>					
+					</div>
+		
+</article>
+						
+					
+					
+				
+			</section>
+
+
+					<footer id="footer-widget-area" class="cta">
+		<div id="text-2" class="widget widget_text">			<div class="textwidget"><p>We acknowledge the Traditional Custodians of the lands on which we work and pay respects to elders – past, present and emerging. We aim to work together with Traditional Custodians to develop solutions to environmental problems in genuine partnership, respecting and appreciating their knowledge, culture, history and world views.</p>
+</div>
+		</div>	</footer>
+
+				</div> <!-- role=main -->
+
+				
+			</div> <!-- .page-inner -->
+
+
+		</div> <!-- .uomcontent -->
+
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/files\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/unimelb\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<style type="text/css">
+        .wmd-buttons-button,
+        .wmd-buttons-content {
+            display: inline-block;
+        }
+        .wmd-buttons-button {
+            text-decoration:none !important;
+            cursor:pointer;
+            position: relative;
+            text-decoration: none;
+            letter-spacing:1px;
+            margin:5px;
+        }
+        .wmd-buttons-button:hover {
+            opacity:0.8;
+            -moz-opacity: 0.8;
+            -khtml-opacity: 0.8;
+            -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+            filter: alpha(opacity=80);
+        }        
+        </style><script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-includes/js/comment-reply.min.js?ver=6.8.2" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/howler.min.js?ver=2015102605" id="lean-captcha-howler-js"></script>
+<script type="text/javascript" id="lean-captcha-js-extra">
+/* <![CDATA[ */
+var lean_captcha_object = {"ajax_url":"https:\/\/ess.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","key":"lc_MTs4PhdlMVf610MPnn9GbA=="};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/mu-plugins/lean-captcha/js/lean-captcha.js?ver=201709035" id="lean-captcha-js"></script>
+<script type="text/javascript" id="blog_templates_front-js-extra">
+/* <![CDATA[ */
+var blog_templates_params = {"type":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/blogtemplates//blogtemplatesfiles/assets/js/front.js?ver=2.6.8.2" id="blog_templates_front-js"></script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/google-calendar-events/assets/generated/vendor/jquery.qtip.min.js?ver=3.5.0" id="simcal-qtip-js"></script>
+<script type="text/javascript" id="simcal-default-calendar-js-extra">
+/* <![CDATA[ */
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"52afefcc43","locale":"en_AU","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/google-calendar-events/assets/generated/default-calendar.min.js?ver=3.5.0" id="simcal-default-calendar-js"></script>
+<script type="text/javascript" id="wpa.longdesc-js-extra">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/ess.science.unimelb.edu.au\/wp-json\/wp\/v2\/media","type":"jquery","home":"https:\/\/ess.science.unimelb.edu.au","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.5.10" id="wpa.longdesc-js"></script>
+<script type="text/javascript" id="wp-accessibility-js-extra">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":false,"output":""},"target":"1","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-AU","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/ess.science.unimelb.edu.au\/wp-admin\/admin-ajax.php","security":"a3cfdc1e74","action":"wpa_stats_action","url":"https:\/\/ess.science.unimelb.edu.au\/","post_id":"2","continue":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.5.10" id="wp-accessibility-js"></script>
+<script type="text/javascript" src="https://ess.science.unimelb.edu.au/wp-content/plugins/google-calendar-events/assets/generated/vendor/imagesloaded.pkgd.min.js?ver=3.5.0" id="simplecalendar-imagesloaded-js"></script>
+		<div class="no-js" id="sitemap" role="navigation">
+
+			<h2>Environmental Social Science</h2>
+
+			<ul>
+				<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://ess.science.unimelb.edu.au/sample-page/news-and-events/">Posts, News &#038; Events</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://ess.science.unimelb.edu.au/?page_id=33">People</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://ess.science.unimelb.edu.au/sample-page/research-projects/">Projects</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://ess.science.unimelb.edu.au/sample-page/contact/">Contact</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://ess.science.unimelb.edu.au/sample-page/related-links/">Links</a></li>
+<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://ess.science.unimelb.edu.au/hayley-susan-vella/">Hayley Susan Vella</a></li>
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://ess.science.unimelb.edu.au/a-date-with-nature/">A date with nature</a></li>
+<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://ess.science.unimelb.edu.au/anastasia-gramatakos/">Anastasia Gramatakos</a></li>
+<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://ess.science.unimelb.edu.au/maddison-miller/">Maddison Miller</a></li>
+<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="https://ess.science.unimelb.edu.au/prativa-sapkota/">Prativa Sapkota</a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401"><a href="https://ess.science.unimelb.edu.au/peter-morison/">Peter Morison</a></li>
+<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="https://ess.science.unimelb.edu.au/tessa-toumbourou/">Tessa Toumbourou</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://ess.science.unimelb.edu.au/kaiwen-zhou/">Kaiwen Zhou</a></li>
+<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="https://ess.science.unimelb.edu.au/ellycia-harrould-kolieb/">Ellycia Harrould-Kolieb</a></li>
+			<script>
+				document.getElementById( 'sitemap').setAttribute( 'data-absolute-root', 'https://ess.science.unimelb.edu.au');
+			</script>
+						</ul>
+
+			<ul class="meta">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/ess/wp-login.php?redirect_to=%2F" title="Login">Login</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="https://blogs.unimelb.edu.au/ess/wp-admin/" title="Site Admin">Site Admin</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mandatory"><a href="http://akismet.com" title="Protected By  Akismet">Protected By  Akismet</a></li>			</ul>
+
+		</div>
+		
+	</body>
+	
+</html>

@@ -1,0 +1,401 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://preview.handbook.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: preview.handbook.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://preview.handbook.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy-Report-Only: default-src 'self'; connect-src *.google-analytics.com *.tealiumiq.com *.handbook.unimelb.edu.au; font-src use.typekit.net fonts.googleapis.com fonts.gstatic.com; img-src 'self' data: d2h9b02ioca40d.cloudfront.net www.google-analytics.com; script-src 'self' 'unsafe-inline' data: d2h9b02ioca40d.cloudfront.net cdnjs.cloudflare.com www.googletagmanager.com tags.tiqcdn.com www.google-analytics.com tealium.hs.llnwd.net s3.amazonaws.com; style-src 'self' 'unsafe-inline' d2h9b02ioca40d.cloudfront.net fonts.googleapis.com
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:16 GMT
+Etag: W/"985d411541a8637d15f0c03a1d556071"
+Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=fis5V9J12cdNjtRgv0EDQo0re72YLD3UCfD30BqaA2k%3D\u0026sid=929419e7-33ea-4e2f-85f0-7d8b7cd5cbd6\u0026ts=1754493496"}],"max_age":3600}
+Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=fis5V9J12cdNjtRgv0EDQo0re72YLD3UCfD30BqaA2k%3D&sid=929419e7-33ea-4e2f-85f0-7d8b7cd5cbd6&ts=1754493496"
+Server: Heroku
+Set-Cookie: _unimelb_handbook_session=3HcofmMu3Lmm7Ng0qj2E5a2r%2FTyvzT5allnMjOmLIJyRCxVnHjy7z6mI%2FHuO%2BoRDmrZfE7l3E6YRq2ueWYrLPRc3rTAHX6vYP1P3yvO09pHD8UAF01VVR3z%2FEegxsfSmvyHHxXi0WyrTfVeCS%2B4lRCJZKoJi%2FlaiVZDH5xuMtanFGGX8AxlMljk6Sv32MDnJS5hZpmfWfbJV%2BK5vl0Kly%2BDtqGVMs%2BucWV2p7gwnQ8rpkwt2IZlcWBlicdAQfaj4Qht%2FMVbRiYnzmNG3wlRVDlNmYkRNCJlvd7esxU5GTAko--6GzS0SsFeJ7znUUq--zDchSxD6YzxASMOwUKUToA%3D%3D; path=/; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=86400
+Vary: Accept,Origin,Accept-Encoding
+Via: 1.1 heroku-router
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: fe469a6a-3d95-6647-3136-f12c44b6d76a
+X-Runtime: 0.007609
+X-Xss-Protection: 1; mode=block
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width,initial-scale = 1.0,maximum-scale = 1.0,user-scalable=no" />
+
+    <title>Please enter the code word to continue&hellip;</title>
+    <style>
+      body {
+  padding: 12%;
+  font-family: Helvetica, sans-serif;
+  color: #fff;
+  background-color: #252525;
+  overflow: hidden;
+}
+h1 {
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 100%;
+  font-family: Helvetica, sans-serif;
+  font-size: 60px;
+  text-align: center;
+  line-height: 70px;
+}
+form input[type='password'] {
+  display: block;
+  margin: 0 auto;
+  padding: 16px;
+  width: 200px;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  background-color: #535353;
+  border: 1px solid #ccc;
+  -webkit-appearance: none;
+  outline: none;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-transition: all 150ms ease-in-out;
+  -moz-transition: all 150ms ease-in-out;
+  -ms-transition: all 150ms ease-in-out;
+  -o-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+form input[type='password']:hover {
+  border-color: #ffcc33;
+}
+form input[type='password']:focus {
+  border-color: #266cec;
+}
+form input[type='password'].nope {
+  border-color: #d01a45;
+  background-color: #6c3137;
+}
+form button {
+  display: block;
+  margin: 0 auto;
+  padding: 6px 16px 6px 16px;
+  width: 232px;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  background-color: #1ad056;
+  border: 0;
+  cursor: pointer;
+  -webkit-appearance: none;
+  outline: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-transition: all 150ms ease-in-out;
+  -moz-transition: all 150ms ease-in-out;
+  -ms-transition: all 150ms ease-in-out;
+  -o-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+form button:hover,
+form button:focus {
+  background-color: #26ec67;
+}
+form button:active {
+  background-color: #266cec;
+  -webkit-transition: all 0 ease-in-out;
+  -moz-transition: all 0 ease-in-out;
+  -ms-transition: all 0 ease-in-out;
+  -o-transition: all 0 ease-in-out;
+  transition: all 0 ease-in-out;
+}
+form p {
+  margin-bottom: 32px
+}
+
+.hmm h3 {
+  display: block;
+  margin: 0 auto;
+  padding: 6px;
+  width: 400px;
+  color: #d01a45;
+  text-align: center;
+  background-color: #4a1f23;
+}
+#hint_icon {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 50%;
+  text-align: center;
+  cursor: pointer;
+  color: #252525;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: bold;
+  margin: -91px 0 0 135px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  background: #fff;
+}
+#hint {
+  font-size: 16px;
+  text-align: center;
+  overflow: hidden;
+  line-height: 0px;
+  margin-top: -16px;
+  -webkit-transition: all 150ms ease-in-out;
+  -moz-transition: all 150ms ease-in-out;
+  -ms-transition: all 150ms ease-in-out;
+  -o-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+#hint.show {
+  line-height: 18px;
+  margin-bottom: 23px;
+}
+#hint:before {
+  content: "Hint: ";
+  font-weight: bold;
+}
+
+@media only screen and (min-width : 1149px) and (max-width : 1570px) {
+
+  h1 {
+    width: 72%;
+  }
+
+}
+
+@media only screen and (min-width : 769px) and (max-width : 1148px) {
+
+  h1 {
+    width: 82%;
+  }
+
+}
+
+@media only screen and (min-width : 690px) and (max-width : 768px) {
+
+  h1 {
+    width: 80%;
+  }
+
+}
+
+@media only screen and (min-width : 641px) and (max-width : 689px) {
+
+  h1 {
+    width: 88%;
+  }
+
+}
+
+@media only screen and (min-width : 563px) and (max-width : 640px) {
+
+  h1 {
+    width: 90%;
+  }
+
+}
+
+@media only screen and (min-width : 481px) and (max-width : 562px) {
+
+  h1 {
+    width: 90%;
+  }
+
+}
+
+@media only screen and (min-width : 410px) and (max-width : 480px) {
+
+  h1 {
+    width: 84%;
+  }
+
+}
+
+@media only screen and (min-width : 350px) and (max-width : 409px) {
+
+  h1 {
+    width: 100%;
+  }
+
+}
+
+@media only screen and (min-width : 350px) and (max-width : 640px) {
+  body {
+    min-width: 1px;
+    max-width: 640px;
+    -webkit-text-size-adjust: none;
+  }
+
+  .mobile_only {
+    display: inline !important;
+  }
+  .no_mobile {
+    display: none !important;
+  }
+
+  h1 {
+    margin-top: 0px;
+    font-size: 36px;
+    line-height: 42px;
+  }
+  form input[type='password'] {
+    padding: 12px 8px;
+    width: 175px;
+    font-size: 22px;
+  }
+  form button {
+    width: 200px;
+    font-size: 22px;
+  }
+  .hmm h3 {
+    width: 90%;
+    font-size: 16px;
+  }
+  #hint_icon {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    line-height: 22px;
+    margin: -78px 0 0 105px;
+  }
+  #hint {
+    font-size: 14px;
+    margin-top: -12px;
+  }
+  #hint.show {
+    margin-bottom: 28px;
+  }
+}
+
+@media only screen and (min-width : 1px) and (max-width : 349px) {
+  body {
+    min-width: 1px;
+    max-width: 349px;
+    -webkit-text-size-adjust: none;
+  }
+
+  .mobile_only {
+    display: inline !important;
+  }
+  .no_mobile {
+    display: none !important;
+  }
+
+  h1 {
+    margin-top: 0px;
+    width: 97%;
+    font-size: 32px;
+    line-height: 38px;
+  }
+  form input[type='password'] {
+    padding: 12px 8px;
+    width: 175px;
+    font-size: 22px;
+  }
+  form button {
+    width: 200px;
+    font-size: 22px;
+  }
+  .hmm h3 {
+    width: 90%;
+    font-size: 16px;
+  }
+  #hint_icon {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    line-height: 22px;
+    margin: -78px 0 0 105px;
+  }
+  #hint {
+    font-size: 14px;
+    margin-top: -12px;
+  }
+  #hint.show {
+    margin-bottom: 28px;
+  }
+}
+
+    </style>
+    <script>
+      setTimeout(function () {
+  var hint = document.getElementById('hint');
+  var hint_icon = document.getElementById('hint_icon');
+  if (hint_icon != null) {
+    hint_icon.onclick = function () {
+      if(hint.className.indexOf('show') < 0) {
+        hint.className = hint.className + " show";
+      }
+      else {
+        hint.className = hint.className.replace(/\sshow/, '');
+      }
+    }
+  }
+}, 50);
+
+    </script>
+  </head>
+
+  <body>
+    <h1>Please enter the code word to continue&hellip;</h1>
+
+
+<form action="/lockup/unlock" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LOrHYWfHAyVGNPzGvYzLO-qlgkuEpY2fVKEMveuKkdoXAavGrTzuJaTCO1m07gp3qJm2FQ2B4Fn6alWhkVTb3w" autocomplete="off" />
+    <p><input placeholder="code word" autofocus="autofocus" type="password" name="lockup[codeword]" id="lockup_codeword" /></p>
+    
+
+    <input value="/404" autocomplete="off" type="hidden" name="lockup[return_to]" id="lockup_return_to" />
+    
+  <p><button name="button" type="submit">Go</button></p>
+</form>
+  </body>
+</html>
+
+[tiny-file-manager-unauth] Dumped HTTP response https://preview.handbook.unimelb.edu.au/index.php
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Security-Policy-Report-Only: default-src 'self'; connect-src *.google-analytics.com *.tealiumiq.com *.handbook.unimelb.edu.au; font-src use.typekit.net fonts.googleapis.com fonts.gstatic.com; img-src 'self' data: d2h9b02ioca40d.cloudfront.net www.google-analytics.com; script-src 'self' 'unsafe-inline' data: d2h9b02ioca40d.cloudfront.net cdnjs.cloudflare.com www.googletagmanager.com tags.tiqcdn.com www.google-analytics.com tealium.hs.llnwd.net s3.amazonaws.com; style-src 'self' 'unsafe-inline' d2h9b02ioca40d.cloudfront.net fonts.googleapis.com
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:16 GMT
+Location: https://preview.handbook.unimelb.edu.au/lockup/unlock?return_to=%2F404
+Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=fis5V9J12cdNjtRgv0EDQo0re72YLD3UCfD30BqaA2k%3D\u0026sid=929419e7-33ea-4e2f-85f0-7d8b7cd5cbd6\u0026ts=1754493496"}],"max_age":3600}
+Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=fis5V9J12cdNjtRgv0EDQo0re72YLD3UCfD30BqaA2k%3D&sid=929419e7-33ea-4e2f-85f0-7d8b7cd5cbd6&ts=1754493496"
+Server: Heroku
+Strict-Transport-Security: max-age=86400
+Vary: Origin,Accept-Encoding
+Via: 1.1 heroku-router
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 0e49fb91-e9c1-5471-68be-1f2e399eb0c9
+X-Runtime: 0.004514
+X-Xss-Protection: 1; mode=block
+
+

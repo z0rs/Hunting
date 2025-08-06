@@ -1,0 +1,164 @@
+[compalex-panel-detect] Dumped HTTP response https://scpp.esrc.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 6778
+Age: 2849
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 14:30:52 GMT
+Etag: "dd3842374943210c161eb2e349cb6520"
+Last-Modified: Wed, 26 Aug 2020 23:23:37 GMT
+Server: AmazonS3
+Via: 1.1 a9b93c515d000930c8e145cc2618373c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: M0sQKZNofXlKeXodQ9Ixh2hjhAM8bkPJgnLRNi5FfN2E-LNW0Z-00g==
+X-Amz-Cf-Pop: IAD89-P3
+X-Amz-Version-Id: 4sJMbhot4CZqDDHT_m7i5K629uwASKBT
+X-Cache: Hit from cloudfront
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+	<meta charset="utf-8">
+	<title>Home - Curriculum Policy Archive</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="Description" lang="en" content="Description">
+	<meta name="robots" content="index, follow">
+	<meta name="robots" content="noodp, noydir">
+	<meta name="format-detection" content="telephone=no" />
+	<link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+<meta name="DC.Title" lang="en" content="Home - Curriculum Policy Archive" />
+<meta name="DC.Creator" lang="en" content="CREATOR" />
+<meta name="DC.Subject" lang="en" content="Home - Curriculum Policy Archive, SUBJECT TERMS" />
+<meta name="DC.Description" lang="en" content="Home - Curriculum Policy Archive - NAME is a biographical, bibliographical and archival database of SUBJECT with links to related articles and images. ADD MORE DESCRIPTION AS REQUIRED" />
+<meta name="DC.Publisher" lang="en" content="PUBLISHER" />
+<meta name="DC.Date.Created" scheme="ISO8601" lang="en" content="2014-08-27" />
+<meta name="DC.Date.LastModified" scheme="ISO8601" lang="en" content="2017-08-18" />
+<meta name="DC.Type" lang="en" content="Document" />
+<meta name="DC.Format" scheme="IMT" lang="en" content="text/html" />
+<meta name="DC.Identifier" scheme="URL" lang="en" content="http://scpp.esrc.unimelb.edu.au/index.html" />
+<meta name="DC.Language" scheme="ISO639" lang="en" content="en-gb" />
+<meta name="DC.Rights" lang="en" content="Copyright of" />
+<meta name="Author" lang="en" content="CREATOR" />
+<meta name="Description" lang="en" content="Home - Curriculum Policy Archive, NAME is a biographical, bibliographical and archival database of SUBJECT with links to related articles and images. ADD MORE DESCRIPTION AS REQUIRED" />
+<meta name="Keywords" lang="en" content="Home - Curriculum Policy Archive, SUBJECT TERMS" />
+<meta name="Generator" content="Online Heritage Resource Manager (OHRM) V Alpha 2.16++++" />
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<!-- CSS links -->
+	<link rel="stylesheet" href="assets/css/normalize.css">
+	<link rel="stylesheet" href="assets/css/base.css">
+	<link rel="stylesheet" href="assets/css/layout.css">
+	<link rel="stylesheet" href="assets/css/modules.css">
+	<link rel="stylesheet" href="assets/css/modules-nav.css">
+	<!-- Header Javascript links -->
+	<script src="assets/js/responsive-nav.js"></script> 
+	<!--[if lt IE 9]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body id="home">
+<div class="skipLink">
+	<a href="#main">Skip to content (Press enter)</a>
+</div>
+<div class="row row-header">
+	<header class="container header" role="banner">
+		<h1 class="m-n">
+			<span class="header2">Curriculum Policies Archive</span>
+			<span class="header3">Melbourne Graduate School of Education</span>
+		</h1>					
+	</header>
+</div>
+<div class="row row-nav">
+	<nav id="nav" class="container" role="navigation">
+		<ul>
+			<li id="nav-home"><a href="index.html">Home</a></li>
+			<li id="nav-policies"><a href="policies.html">Policy Archive</a></li>
+			<li id="nav-about"><a href="about.html">About the Project</a></li>
+			<li id="nav-resources"><a href="resources.html">Project Resources</a></li>
+			<li id="nav-acknowledgements"><a href="acknowledgements.html">Acknowledgements</a></li>
+			<!--<li id="nav-siteIndex"><a href="browse.html">Site Index</a></li> -->
+		</ul>
+	</nav>
+</div>
+<div class="row row-content">
+	<div class="container">
+		<main class="main" id="main" role="main">
+		
+			
+<h1>Welcome to the Curriculum Policies Archive</h1>
+
+<ul>
+<li><a href="policiesbyyear.html">Browse Policies by Year</a></li>
+<li><a href="policiesbystate.html">Browse Policies by State</a></li>
+<li>Search</li>
+</ul>
+
+<script async src="https://cse.google.com/cse.js?cx=f885feaebc1b867bf"></script>
+<div class="gcse-search"></div>
+<P> CONTENT WARNING:   Depending of the search term used, you may or may not get ads at the top of the search results!</P>
+
+<hr />
+
+<p>The Curriculum Policies Archive provides access to digital copies of Australian state curriculum policies collected as part of the ARC funded project <i>School Knowledge, Working Knowledge and the Knowing Subject: A review of state curriculum policies 1975-2005</i>. It contains over 450 policy documents developed by Australian state education departments and curriculum authorities from the early 1970s to the mid 2000s.</p>
+
+<hr />
+
+<p><a href="policies.html">More about the archive</a></p>
+
+<p><a href="about.html">More about the project</a></p>
+			
+		</main>
+		<aside class="aside" role="complementary">	
+		<h2>Sample policy documents</h2>
+
+<p><a href="bib/P00001390.htm">Radford Report (1970)</a></p>
+ 
+<p><a href="bib/P00001567.htm">Karmel Report (1973)</a></p>
+
+<p><a href="bib/P00000056.htm">Blackburn Report (1970)</a></p>
+
+<p><a href="bib/P00001551.htm">Gilding Report (1988)</a></p>
+
+<p><a href="bib/P00001289.htm">Carrick Report (1989)</a></p>
+
+<p><a href="policies.html">See more</a></p>
+		</aside>
+		</div>
+</div>
+<div class="row row-credits">
+	<div class="container">
+		<div class="col2 font-1">
+			<p class="m-n">
+				http://scpp.esrc.unimelb.edu.au/index.html<br />
+				August 2017
+			</p>
+		</div>
+		<div class="col2 col-last font-1">
+		</div>
+	</div>
+</div>
+<div class="row row-footer">
+	<footer class="container" role="contentinfo">
+		<ul class="list-inline">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="acknowledgements.html">Acknowledgements</a></li>
+		</ul>
+	</footer>
+</div>
+<!-- Footer Javascript links -->
+<script>
+  var navigation = responsiveNav("#nav");
+</script>
+</body>
+</html>
+

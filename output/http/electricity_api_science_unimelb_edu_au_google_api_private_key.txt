@@ -1,0 +1,66 @@
+[google-api-private-key] Dumped HTTP request for https://electricity-api.science.unimelb.edu.au/google-api-private-key.json
+
+
+GET /google-api-private-key.json HTTP/1.1
+Host: electricity-api.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[google-api-private-key] Dumped HTTP response https://electricity-api.science.unimelb.edu.au/google-api-private-key.json
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Date: Wed, 06 Aug 2025 15:17:32 GMT
+Server: nginx/1.10.3 (Ubuntu)
+Set-Cookie: BIGipServer~app_science_weatherstation_prod~pool_science_weatherstation_prod=3007649708.20480.0000; path=/; Httponly; Secure
+
+
+[google-api-private-key] Dumped HTTP request for https://electricity-api.science.unimelb.edu.au/app/config/pimcore/google-api-private-key.json
+
+
+GET /app/config/pimcore/google-api-private-key.json HTTP/1.1
+Host: electricity-api.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: BIGipServer~app_science_weatherstation_prod~pool_science_weatherstation_prod=3007649708.20480.0000
+Accept-Encoding: gzip
+
+
+[google-api-private-key] Dumped HTTP response https://electricity-api.science.unimelb.edu.au/app/config/pimcore/google-api-private-key.json
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Date: Wed, 06 Aug 2025 15:17:33 GMT
+Server: nginx/1.10.3 (Ubuntu)
+
+
+[google-api-private-key] Dumped HTTP request for https://electricity-api.science.unimelb.edu.au/pimcore/app/config/pimcore/google-api-private-key.json
+
+
+GET /pimcore/app/config/pimcore/google-api-private-key.json HTTP/1.1
+Host: electricity-api.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: BIGipServer~app_science_weatherstation_prod~pool_science_weatherstation_prod=3007649708.20480.0000
+Accept-Encoding: gzip
+
+
+[google-api-private-key] Dumped HTTP response https://electricity-api.science.unimelb.edu.au/pimcore/app/config/pimcore/google-api-private-key.json
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Date: Wed, 06 Aug 2025 15:17:34 GMT
+Server: nginx/1.10.3 (Ubuntu)
+
+

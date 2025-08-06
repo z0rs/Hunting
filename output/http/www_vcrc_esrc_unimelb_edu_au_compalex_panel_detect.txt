@@ -1,0 +1,203 @@
+[compalex-panel-detect] Dumped HTTP request for https://www.vcrc.esrc.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: www.vcrc.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://www.vcrc.esrc.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 8837
+Age: 2289
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 14:40:53 GMT
+Etag: "6b3d8f18e54afe8960f7219fe0342811"
+Last-Modified: Wed, 27 May 2020 03:48:21 GMT
+Server: AmazonS3
+Via: 1.1 3efaf58673d549f89a29498e2fd12e42.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: PKrjRMQoeUHGu0tDvnYpmfnHbtySnUqMKbHoxR2pJTIEMv-48DRjpA==
+X-Amz-Cf-Pop: IAD61-P5
+X-Amz-Version-Id: vQhVIqLpBEykG0FMZUbj_KZVw4bscKoF
+X-Cache: Hit from cloudfront
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Visual Cultures Resources Centre Theses - Visual Cultures Resource Centre Thesis Collection</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="Description" lang="en" content="Description">
+	<meta name="robots" content="index, follow">
+	<meta name="robots" content="noodp, noydir">
+	<link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+<meta name="DC.Title" lang="en" content="Visual Cultures Resources Centre Theses - Visual Cultures Resource Centre Thesis Collection" />
+<meta name="DC.Creator" lang="en" content="School of Culture and Communication" />
+<meta name="DC.Subject" lang="en" content="Visual Cultures Resources Centre Theses - Visual Cultures Resource Centre Thesis Collection, Visual Cultures Resource Centre, Thesis Collection, theses, The University of Melbourne, Art History, Screen Studies" />
+<meta name="DC.Description" lang="en" content="Visual Cultures Resources Centre Theses - Visual Cultures Resource Centre Thesis Collection - Visual Cultures Resource Centre Thesis Collection is a database of theses undertaken at the University of Melbourne in BA Honours, Diplomas and Masters for Art History and Screen Studies from 1955 to 2011." />
+<meta name="DC.Publisher" lang="en" content="eScholarship Research Centre, The University of Melbourne" />
+<meta name="DC.Date.Created" scheme="ISO8601" lang="en" content="2013-03-26" />
+<meta name="DC.Date.LastModified" scheme="ISO8601" lang="en" content="2015-05-19" />
+<meta name="DC.Type" lang="en" content="Document" />
+<meta name="DC.Format" scheme="IMT" lang="en" content="text/html" />
+<meta name="DC.Identifier" scheme="URL" lang="en" content="https://vcrc.esrc.unimelb.edu.au/index.html" />
+<meta name="DC.Language" scheme="ISO639" lang="en" content="en-gb" />
+<meta name="Author" lang="en" content="School of Culture and Communication" />
+<meta name="Description" lang="en" content="Visual Cultures Resources Centre Theses - Visual Cultures Resource Centre Thesis Collection, Visual Cultures Resource Centre Thesis Collection is a database of theses undertaken at the University of Melbourne in BA Honours, Diplomas and Masters for Art History and Screen Studies from 1955 to 2011." />
+<meta name="Keywords" lang="en" content="Visual Cultures Resources Centre Theses - Visual Cultures Resource Centre Thesis Collection, Visual Cultures Resource Centre, Thesis Collection, theses, The University of Melbourne, Art History, Screen Studies" />
+<meta name="Generator" content="Online Heritage Resource Manager (OHRM) V Alpha 2.16+++" />
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" href="assets/css/normalize.css">
+	<link rel="stylesheet" href="assets/css/main.css">
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="assets/css/ie.css">
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="scripts/respond.min.js"></script>
+	<![endif]-->
+<script src="assets/js/jquery-1.8.0.min.js"></script>
+<script src="assets/js/autolist.js"></script>
+<script src="assets/js/jquery.responsinav.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$('ul.listBullets, .condense').autoList();
+		
+		$(document).responsinav({
+		     breakpoint : 750,
+		     nav_container_other:'.secondary',
+		     nav_element_other:'ul',
+		     label_other:'Section navigation'
+		      
+		    });
+	});
+</script>
+</head>
+<body id="theses">
+<div class="skipLink">
+	<a href="#content">Skip to content (Press enter)</a>
+</div>
+<div class="header-container row gutter-vertical-small">
+	<header class="header center" role="banner">
+		<hgroup class="hgroup">
+			<h1 class="mainHeading">
+				Visual Cultures Resource Centre<br>
+				 <span class="black">Thesis</span> Collection
+			</h1>
+			<h2 class="subHeading small">
+				BA Honours, Diplomas and Masters for Art History and Screen Studies 1955 to 2011
+			</h2>		
+		</hgroup>
+	</header>
+</div>
+<div class="nav-container row">
+	<nav class="nav center" role="nav">
+		<h2 class="visuallyhidden">
+			Site navigation
+		</h2>
+		<ul class="medium">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="access.html">Scope and Access</a></li>
+			<li><a href="basic-search.html">Search</a></li>					
+		</ul>
+		
+	</nav>
+</div>
+<div class="content-container row">
+	<div class="content-container2 row gutter-vertical">
+		<div class="content center" id="content">
+		<aside class="aside gutter" role="complementary">
+				<figure>
+					<img src="assets/img/visual-cultures-centre-sm.jpg" alt="Visual Cultures Resources Centre">
+				</figure>
+			</aside>
+			<section class="main" role="main">
+				<h1 class="visuallyhidden">
+					Visual Cultures Resources Centre Theses
+				</h1>
+				<p>The <strong><span class="lightGreen">Visual Cultures Resources Centre</span> Thesis <span class="lightGreen">Collection</span></strong> database contains more than 1000 entries. Records date from the 1950s to 2013. Over the decades thesis topics reflect patterns of staff expertise, accessibility to primary resources, as well as trends in theoretical approaches. Many contain valuable unpublished research findings and are still consulted by students, staff and researchers from institutions such as the Art Gallery of New South Wales, the National Gallery of Victoria and a range of regional galleries. The database includes theses by Leigh Astbury, Janine Burke, Jane Clarke, Ann Galbally, Robert Gaston, Kelly Gellatly, Edward Gott, Charles Green, Alison Inglis, Margaret Manion, Christopher Marshall, Chris McAuliffe, Angela Ndalianis, Virginia Spate, Gerard Vaughan, Vera Vines and Anthony White.
+</p>
+
+<h3>Browse theses by author</h3>
+<ul class="alphabet-list">
+<li><a href="bib/browse_a_bib.htm">A</a></li>
+<li><a href="bib/browse_b_bib.htm">B</a></li>
+<li><a href="bib/browse_c_bib.htm">C</a></li>
+<li><a href="bib/browse_d_bib.htm">D</a></li>
+<li><a href="bib/browse_e_bib.htm">E</a></li>
+<li><a href="bib/browse_f_bib.htm">F</a></li>
+<li><a href="bib/browse_g_bib.htm">G</a></li>
+<li><a href="bib/browse_h_bib.htm">H</a></li>
+<li><a href="bib/browse_i_bib.htm">I</a></li>
+<li><a href="bib/browse_j_bib.htm">J</a></li>
+<li><a href="bib/browse_k_bib.htm">K</a></li>
+<li><a href="bib/browse_l_bib.htm">L</a></li>
+<li><a href="bib/browse_m_bib.htm">M</a></li>
+<li><a href="bib/browse_n_bib.htm">N</a></li>
+<li><a href="bib/browse_o_bib.htm">O</a></li>
+<li><a href="bib/browse_p_bib.htm">P</a></li>
+<li><a href="bib/browse_q_bib.htm">Q</a></li>
+<li><a href="bib/browse_r_bib.htm">R</a></li>
+<li><a href="bib/browse_s_bib.htm">S</a></li>
+<li><a href="bib/browse_t_bib.htm">T</a></li>
+<li><a href="bib/browse_u_bib.htm">U</a></li>
+<li><a href="bib/browse_v_bib.htm">V</a></li>
+<li><a href="bib/browse_w_bib.htm">W</a></li>
+<li><a href="bib/browse_y_bib.htm">Y</a></li>
+<li><a href="bib/browse_z_bib.htm">Z</a></li>
+</ul>
+
+
+<h3>Browse theses by year</h3>
+<ul class="alphabet-list">
+<li><a href="theses-fifties.html">1950s</a></li>
+<li><a href="theses-sixties.html">1960s</a></li>
+<li><a href="theses-seventies.html">1970s</a></li>
+<li><a href="theses-eighties.html">1980s</a></li>
+<li><a href="theses-nineties.html">1990s</a></li>
+<li><a href="theses-noughties.html">2000s</a></li>
+<li><a href="theses-tens.html">2010s</a></li>
+</ul>
+			</section>
+		</div>
+	</div>
+</div>
+<div class="credits-container row gutter-vertical small">
+	<div class="credits center">
+		<div class="col2 gutter">
+			<p>
+			  This website uses the Online Heritage Resource Manager, a tool developed by the eScholarship Research Centre, part of the University Library at the University of Melbourne.
+			</p>
+		</div>
+		<div class="col2">
+			<p>
+				&copy; Visual Cultures Resource Centre<br>
+				The University of Melbourne, 2014
+			</p>
+		</div>
+	</div>
+</div>
+<div class="footer-container row gutter-vertical small">
+	<footer class="footer center" role="contentinfo">
+		<h2 class="visuallyhidden">
+			Footer information
+		</h2>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="access.html">Scope and Access</a></li>
+			<li><a href="search.html">Search</a></li>
+		</ul>
+	</footer>
+</div>
+</body>
+</html>
+

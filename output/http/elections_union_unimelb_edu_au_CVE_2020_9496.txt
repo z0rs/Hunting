@@ -1,0 +1,29 @@
+[CVE-2020-9496] Dumped HTTP request for https://elections.union.unimelb.edu.au/webtools/control/xmlrpc
+
+
+POST /webtools/control/xmlrpc HTTP/1.1
+Host: elections.union.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 145
+Content-Type: application/xml
+Origin: http://elections.union.unimelb.edu.au
+Accept-Encoding: gzip
+
+<?xml version="1.0"?><methodCall><methodName>ProjectDiscovery</methodName><params><param><value>dwisiswant0</value></param></params></methodCall>
+[CVE-2020-9496] Dumped HTTP response https://elections.union.unimelb.edu.au/webtools/control/xmlrpc
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 122
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Location: https://elections.union.unimelb.edu.au/webtools/control/xmlrpc
+Set-Cookie: visid_incap_3220071=iQ663sunTVWypSmP1+4KkAtyk2gAAAAAQUIPAAAAAABl53bzeP5+y4Vj7/W6A9ta; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3220071=H6b9B5sfsl8s57arov5JAwtyk2gAAAAANtxVImuqRMNe+rKcJsbc9Q==; path=/; Domain=.union.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Iinfo: 4-3056368-0 0NNN RT(1754493451428 66) q(0 -1 -1 -1) r(0 -1) B13(1,10037,0) U24
+
+
+<HTML><HEAD><TITLE>Loading</TITLE></HEAD><BODY bgcolor="#ffffff"><H3 style="color: #ffffff">Loading</H3></BODY></HTML>
+

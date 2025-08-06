@@ -1,0 +1,46 @@
+[gopher-server] Dumped HTTP request for https://lms.vet.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: lms.vet.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[gopher-server] Dumped HTTP response https://lms.vet.unimelb.edu.au
+
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:18:03 GMT
+Etag: "10b-60bb7f844c704-gzip"
+Last-Modified: Tue, 05 Dec 2023 00:03:52 GMT
+Server: Apache/2.4.62 (Debian)
+Set-Cookie: BIGipServer~app_vetlive_prod~pool_vetlive_prod_live=2035554220.47873.0000; path=/; Httponly; Secure
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>File Upload Component</title>
+    <meta content="" />
+    <style>
+
+
+    </style>
+  </head>
+  
+  <body>
+
+	<h1>LMS files</h1>
+	<p><a href="/lms_files.zip">lms_files.zip</a></p>
+
+
+  </body>
+</html>
+

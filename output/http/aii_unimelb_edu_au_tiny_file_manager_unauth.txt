@@ -1,0 +1,1392 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://aii.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: aii.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://aii.unimelb.edu.au/index.php
+
+HTTP/1.1 200 OK
+Connection: close
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:12 GMT
+Link: <https://aii.unimelb.edu.au/wp-json/>; rel="https://api.w.org/"
+Link: <https://aii.unimelb.edu.au/wp-json/wp/v2/pages/18>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://aii.unimelb.edu.au/>; rel=shortlink
+Server: LiteSpeed
+Vary: Accept-Encoding
+
+
+
+<!doctype html>
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+	<script>
+window.JetpackScriptData = {"site":{"icon":"https://aii.unimelb.edu.au/wp-content/uploads/2022/01/cropped-favicon-1.png","title":"Australia India Institute","host":"unknown","is_wpcom_platform":false}};
+</script>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.8.5 - aioseo.com -->
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://aii.unimelb.edu.au/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.8.5" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Australia India Institute - Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Home - Australia India Institute" />
+		<meta property="og:url" content="https://aii.unimelb.edu.au/" />
+		<meta property="article:published_time" content="2021-04-21T09:14:06+00:00" />
+		<meta property="article:modified_time" content="2024-11-19T04:28:02+00:00" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Home - Australia India Institute" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/aii.unimelb.edu.au\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/aii.unimelb.edu.au#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/aii.unimelb.edu.au\/#organization","name":"Australia India Institute","description":"Australia\u2019s leading centre dedicated to promoting support for and understanding of the Australia-India relationship","url":"https:\/\/aii.unimelb.edu.au\/"},{"@type":"WebPage","@id":"https:\/\/aii.unimelb.edu.au\/#webpage","url":"https:\/\/aii.unimelb.edu.au\/","name":"Home - Australia India Institute","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/aii.unimelb.edu.au\/#website"},"breadcrumb":{"@id":"https:\/\/aii.unimelb.edu.au\/#breadcrumblist"},"datePublished":"2021-04-21T09:14:06+10:00","dateModified":"2024-11-19T15:28:02+11:00"},{"@type":"WebSite","@id":"https:\/\/aii.unimelb.edu.au\/#website","url":"https:\/\/aii.unimelb.edu.au\/","name":"Australia India Institute","description":"Australia\u2019s leading centre dedicated to promoting support for and understanding of the Australia-India relationship","inLanguage":"en-US","publisher":{"@id":"https:\/\/aii.unimelb.edu.au\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v25.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - Australia India Institute</title>
+	<meta name="description" content="The Australia India Institute is Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship. Find out more!" />
+	<link rel="canonical" href="https://aii.unimelb.edu.au/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Australia’s leading centre dedicated to strengthening the Australia India relationship - Australia India Institute" />
+	<meta property="og:description" content="The Australia India Institute is Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship. Find out more!" />
+	<meta property="og:url" content="https://aii.unimelb.edu.au/" />
+	<meta property="og:site_name" content="Australia India Institute" />
+	<meta property="article:modified_time" content="2024-11-19T04:28:02+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://aii.unimelb.edu.au/","url":"https://aii.unimelb.edu.au/","name":"Australia’s leading centre dedicated to strengthening the Australia India relationship - Australia India Institute","isPartOf":{"@id":"https://aii.unimelb.edu.au/#website"},"datePublished":"2021-04-21T09:14:06+00:00","dateModified":"2024-11-19T04:28:02+00:00","description":"The Australia India Institute is Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship. Find out more!","breadcrumb":{"@id":"https://aii.unimelb.edu.au/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://aii.unimelb.edu.au/"]}]},{"@type":"BreadcrumbList","@id":"https://aii.unimelb.edu.au/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://aii.unimelb.edu.au/#website","url":"https://aii.unimelb.edu.au/","name":"Australia India Institute","description":"Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://aii.unimelb.edu.au/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<meta name="google-site-verification" content="2wVX8VTiHlPB8bzjpdOZr6XiFUT9MbOHwLc8YJtAaUY" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//pro.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="Australia India Institute &raquo; Feed" href="https://aii.unimelb.edu.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Australia India Institute &raquo; Comments Feed" href="https://aii.unimelb.edu.au/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.6.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-373RGK6E0C"  data-cfasync="false" data-wpfc-render="false" async></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '9.6.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/aii.unimelb.edu.au\/","page_referrer":"https:\/\/aii.unimelb.edu.au\/index.php"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-373RGK6E0C',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-373RGK6E0C', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<link rel='stylesheet' id='wp-block-library-css' href='https://aii.unimelb.edu.au/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='essential-blocks-animation-css' href='https://aii.unimelb.edu.au/wp-content/plugins/typing-text/assets/css/animate.min.css?ver=1.2.7' media='all' />
+<link rel='stylesheet' id='typing-text-block-frontend-style-css' href='https://aii.unimelb.edu.au/wp-content/plugins/typing-text/dist/style.css?ver=1723606051' media='all' />
+<link rel='stylesheet' id='bb-tcs-editor-style-shared-css' href='https://aii.unimelb.edu.au/wp-content/themes/alyka/assets/stylesheets/css/editor-style-shared.css' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://aii.unimelb.edu.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='wpcf7-redirect-script-frontend-css' href='https://aii.unimelb.edu.au/wp-content/plugins/wpcf7-redirect/build/assets/frontend-script.css?ver=2c532d7e2be36f6af233' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css' href='https://pro.fontawesome.com/releases/v5.15.3/css/all.css?ver=6.8.2' media='all' />
+<link rel='stylesheet' id='alyka-style-css' href='https://aii.unimelb.edu.au/wp-content/themes/alyka/assets/stylesheets/css/main.css?ver=1.0.0.2025.08.06.15.17.12' media='all' />
+<style id='alyka-style-inline-css'>
+:root { --theme-base-color-primary: #0e2c51;--theme-base-color-secondary: #00abbd;--theme-base-color-tertiary: #fbb040;--theme-base-color-quaternary: #3a3a3a;--theme-base-color-quinary: #00619e;--theme-base-color-senary: #f69896;}
+</style>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.6.1" id="monsterinsights-frontend-script-js" async data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" id='monsterinsights-frontend-script-js-extra'>var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/aii.unimelb.edu.au","hash_tracking":"false","v4_id":"G-373RGK6E0C"};</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=3.6.0" id="jquery-js"></script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/typing-text/assets/js/typed.min.js?ver=1" id="typig-text-blocks-typedjs-js"></script>
+<link rel="https://api.w.org/" href="https://aii.unimelb.edu.au/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://aii.unimelb.edu.au/wp-json/wp/v2/pages/18" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aii.unimelb.edu.au/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<link rel='shortlink' href='https://aii.unimelb.edu.au/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://aii.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faii.unimelb.edu.au%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://aii.unimelb.edu.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faii.unimelb.edu.au%2F&#038;format=xml" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Administrator"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQHMQWG');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="icon" href="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/cropped-favicon-1-270x270.png" />
+
+	
+	
+</head>
+
+<body class="home wp-singular page-template-default page page-id-18 wp-theme-alyka alyka" >
+
+<!-- GTM Container placement set to automatic -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQHMQWG" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="page" class="site">
+	
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+	 
+	<div uk-sticky="show-on-up: true; animation: uk-animation-slide-top; sel-target: .site-header; cls-active: uk-navbar-sticky; bottom: .site-footer" class="uk-sticky  sticky-header-top-hide ">
+	
+		
+	<header id="masthead" class="site-header  ">
+		
+		
+		<div class="site-header-top  site-header-top-layout menu-right  main-menu-breakpoint site-header-searchbar site-header-searchbar-modal">
+			<div class="uk-container uk-container-center">
+								<div class="menu-top-menu-container"><ul id="site-header-top-menu" class="menu"><li id="menu-item-4162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4162"><a href="https://aii.unimelb.edu.au/subscribe/">Subscribe</a></li>
+</ul></div>				
+								<button type="button" class="search-toggle js-search-toggle"><span uk-icon="search"></span></button>
+				
+			</div>
+				
+						<div class="site-searchbar">
+				<div class="uk-container uk-container-center">
+					<form role="search" class="search-form" method="get" id="search-form" action="https://aii.unimelb.edu.au/" >
+                <div class="">
+                    <div id="search-wrap" class="search-wrap">
+                        <label class="screen-reader-text" for="s"></label>
+                        <input type="search" value="" name="s" id="s" class="search-field" placeholder="Type your keywords..." />
+                        <button type="submit" id="searchsubmit" value="Search" ><span uk-icon="search"></span></button>
+                        <button class="uk-dropdown-close" type="button"><i class="far fa-times"></i></button>
+                    </div>
+                </div>
+            </form>				</div>
+			</div>
+			
+		</div><!-- .site-header-top -->
+
+		
+		<div class="site-header-main site-header-searchbar site-header-searchbar-modal site-header-navigation">
+			<div class="uk-container uk-container-center">
+
+				
+				<div class="site-branding">
+											<a href="https://aii.unimelb.edu.au" class="theme-logo" rel="home" aria-current="page">
+							<img class="" src="https://aii.unimelb.edu.au/wp-content/uploads/2024/06/AII_LogoTAGLINE_BLUE_CMKY.png" alt="Australia India Institute"  style="width: 250px; height: 88px;" >
+													</a>
+											<p class="site-title uk-hidden"><a href="https://aii.unimelb.edu.au/" rel="home">Australia India Institute</a></p>
+												
+									</div><!-- .site-branding -->
+
+		
+		
+		<div id="site-navigation" class="site-navigation  offcanvas-animation-slide  ">
+			<div class="uk-container uk-container-center">
+
+					
+			<button id="site-navigation-menu-toggle" class="menu-toggle" aria-controls="site-header-main-menu" aria-expanded="false" uk-toggle="target: #offcanvas">
+				<span class="bars">
+					<span class="bar"></span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+				</span>
+				<span class="text">Menu</span>
+			</button>
+
+			<nav id="uikit-navbar" class="uikit-navbar uk-navbar-container   mode-hover " uk-navbar="mode: hover">
+				<div id="offcanvas" class="main-navigation offcanvas" uk-offcanvas="mode: slide; overlay: true">
+					<div class="uk-offcanvas-bar">
+						<button class="uk-offcanvas-close" type="button" uk-close></button>
+						<div class="uk-navbar">
+							<div class="navbar-header">
+								<span class="title">Menu</span>
+							</div>
+							<div class="navbar-nav">
+								<ul id="site-header-main-menu" class="uk-navbar-nav"><li id="menu-item-4379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4379 uk-parent"><a title="About"><span class="text">About</span><span class="caret" role="button" tabindex="0"></span></a>
+<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="">About</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+	<li id="menu-item-3771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3771 uk-parent"><a title="Who We Are" href="https://aii.unimelb.edu.au/about/who-we-are/"><span class="text">Who We Are</span><span class="caret" role="button" tabindex="0"></span></a>
+	<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/about/who-we-are/">Who We Are</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+		<li id="menu-item-12407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12407"><a title="Our Board" href="https://aii.unimelb.edu.au/about/who-we-are/our-board/"><span class="text">Our Board</span></a></li>
+		<li id="menu-item-4085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4085"><a title="Our Team" href="https://aii.unimelb.edu.au/about/who-we-are/our-team/"><span class="text">Our Team</span></a></li>
+
+	</ul></div></li>
+	<li id="menu-item-3774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3774"><a title="Our Vision" href="https://aii.unimelb.edu.au/about/our-vision/"><span class="text">Our Vision</span></a></li>
+	<li id="menu-item-3777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3777"><a title="Write For Us" href="https://aii.unimelb.edu.au/about/write-for-us/"><span class="text">Write For Us</span></a></li>
+	<li id="menu-item-3874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3874"><a title="Contact Us" href="https://aii.unimelb.edu.au/about/contact-us/"><span class="text">Contact Us</span></a></li>
+
+</ul></div></li>
+<li id="menu-item-3927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3927 uk-parent"><a title="Programs" href="https://aii.unimelb.edu.au/programs/"><span class="text">Programs</span><span class="caret" role="button" tabindex="0"></span></a>
+<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/programs/">Programs</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+	<li id="menu-item-3942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3942 uk-parent"><a title="Security &#038; Geopolitics" href="https://aii.unimelb.edu.au/programs/security-geopolitics/"><span class="text">Security &#038; Geopolitics</span><span class="caret" role="button" tabindex="0"></span></a>
+	<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/programs/security-geopolitics/">Security &#038; Geopolitics</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+		<li id="menu-item-8171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8171"><a title="Defence Program" href="https://aii.unimelb.edu.au/programs/defence-program/"><span class="text">Defence Program</span></a></li>
+		<li id="menu-item-12152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12152"><a title="Seabed program" href="https://aii.unimelb.edu.au/seabed-program/"><span class="text">Seabed program</span></a></li>
+
+	</ul></div></li>
+	<li id="menu-item-4044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4044 uk-parent"><a title="Sustainable Economies" href="https://aii.unimelb.edu.au/programs/sustainable-economies/"><span class="text">Sustainable Economies</span><span class="caret" role="button" tabindex="0"></span></a>
+	<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/programs/sustainable-economies/">Sustainable Economies</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+		<li id="menu-item-11400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11400"><a title="AIRD" href="https://aii.unimelb.edu.au/events/australia-india-renewables-dialogue/"><span class="text">AIRD</span></a></li>
+
+	</ul></div></li>
+	<li id="menu-item-4077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4077"><a title="Cultural Diplomacy" href="https://aii.unimelb.edu.au/programs/cultural-diplomacy/"><span class="text">Cultural Diplomacy</span></a></li>
+	<li id="menu-item-6751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6751 uk-parent"><a title="Education" href="https://aii.unimelb.edu.au/programs/education/"><span class="text">Education</span><span class="caret" role="button" tabindex="0"></span></a>
+	<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/programs/education/">Education</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+		<li id="menu-item-11049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11049 uk-parent"><a title="Higher Education" href="https://aii.unimelb.edu.au/programs/education/higher-education/"><span class="text">Higher Education</span><span class="caret" role="button" tabindex="0"></span></a>
+		<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/programs/education/higher-education/">Higher Education</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+			<li id="menu-item-12274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12274"><a title="AIWE Program" href="https://aii.unimelb.edu.au/programs/education/australia-india-women-researchers-exchange-aiwe/"><span class="text">AIWE Program</span></a></li>
+
+		</ul></div></li>
+		<li id="menu-item-11048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11048"><a title="Skills" href="https://aii.unimelb.edu.au/programs/education/skills/"><span class="text">Skills</span></a></li>
+		<li id="menu-item-4075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4075"><a title="ARCH-India" href="https://aii.unimelb.edu.au/programs/education/arch-india/"><span class="text">ARCH-India</span></a></li>
+
+	</ul></div></li>
+
+</ul></div></li>
+<li id="menu-item-4198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-4198 uk-parent"><a title="Events" href="https://aii.unimelb.edu.au/category/events/"><span class="text">Events</span><span class="caret" role="button" tabindex="0"></span></a>
+<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/category/events/">Events</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+	<li id="menu-item-8913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8913"><a title="Australia India Leadership Dialogue" href="https://aii.unimelb.edu.au/events/australia-india-leadership-dialogue/"><span class="text">Australia India Leadership Dialogue</span></a></li>
+	<li id="menu-item-13091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13091"><a title="2025 Fiji Dialogue" href="https://aii.unimelb.edu.au/events/fiji-dialogue/"><span class="text">2025 Fiji Dialogue</span></a></li>
+	<li id="menu-item-14158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14158"><a title="2025 Trilateral Maritime Security Dialogue" href="https://aii.unimelb.edu.au/2025-trilateral-maritime-security-dialogue-australia-india-and-indonesia/"><span class="text">2025 Trilateral Maritime Security Dialogue</span></a></li>
+	<li id="menu-item-14165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14165"><a title="2025 Australia-India Cables Dialogue" href="https://aii.unimelb.edu.au/2025-australia-india-cables-dialogue/"><span class="text">2025 Australia-India Cables Dialogue</span></a></li>
+	<li id="menu-item-9213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9213"><a title="All Events" href="https://aii.unimelb.edu.au/category/events/"><span class="text">All Events</span></a></li>
+
+</ul></div></li>
+<li id="menu-item-3994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3994"><a title="EXPERTS" href="https://aii.unimelb.edu.au/experts/"><span class="text">EXPERTS</span></a></li>
+<li id="menu-item-4199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4199 uk-parent"><a title="Our Work" href="https://aii.unimelb.edu.au/our-work/"><span class="text">Our Work</span><span class="caret" role="button" tabindex="0"></span></a>
+<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/our-work/">Our Work</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+	<li id="menu-item-4203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4203"><a title="Watch" href="https://aii.unimelb.edu.au/category/watch/"><span class="text">Watch</span></a></li>
+	<li id="menu-item-4202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4202"><a title="Read" href="https://aii.unimelb.edu.au/category/read/"><span class="text">Read</span></a></li>
+	<li id="menu-item-4201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4201"><a title="Listen" href="https://aii.unimelb.edu.au/category/listen/"><span class="text">Listen</span></a></li>
+	<li id="menu-item-6507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6507"><a title="News" href="https://aii.unimelb.edu.au/category/news/"><span class="text">News</span></a></li>
+
+</ul></div></li>
+<li id="menu-item-3999" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3999 uk-parent"><a title="&lt;span class=&quot;color-septenary&quot;&gt;India&lt;/span&gt; Matters" href="https://aii.unimelb.edu.au/category/india-matters/"><span class="text"><span class="color-septenary">India</span> Matters</span><span class="caret" role="button" tabindex="0"></span></a>
+<div class="uk-navbar-dropdown">
+<div class="header"><span role="button" tabindex="0" class="close-panel">Close</span><a href="https://aii.unimelb.edu.au/category/india-matters/"><span class="color-septenary">India</span> Matters</a></div>
+<ul role="menu" class="uk-nav uk-navbar-dropdown-nav">
+	<li id="menu-item-4200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4200"><a title="Vichar" href="https://aii.unimelb.edu.au/category/india-matters/vichar/"><span class="text">Vichar</span></a></li>
+
+</ul></div></li>
+</ul>							</div>
+							<div class="navbar-footer"></div>
+						</div>
+					</div>
+				</div>
+			</nav><!-- uk-navbar -->
+
+						
+			</div>
+		</div><!-- .main-navigation -->
+
+					</div>
+		</div><!-- .site-header-main -->
+		
+	</header><!-- #masthead -->
+
+	 
+	</div>
+	
+	<main id="content" class="content">
+
+		
+        <div class="slideshow-hero uk-position-relative uk-visible-toggle uk-light animation-fade" tabindex="-1">
+        <ul class="slideshow-hero-slick slick-slider" data-animation="fade" data-interval="8000">
+    
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.33" 
+                                data-focus-y="-0.01" 
+                                data-image-w="920" 
+                                data-image-h="345"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/australia-india-institute-hero-banner-1.jpg" alt="Promoting a dynamic &amp; enduring partnership">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        Promoting a dynamic &amp; enduring partnership                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p style="text-align: left;">The Australia India Institute is Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship <span class="ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">and its cooperation in the Indo-Pacific region.</span></p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="/about/who-we-are/" target="_self">Learn more</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.00" 
+                                data-focus-y="0.00" 
+                                data-image-w="970" 
+                                data-image-h="445"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/australia-india-institute-hero-banner-2-1.jpg" alt="Security and geopolitics">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        Security and geopolitics                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p><span style="font-weight: 400;">The security and geopolitics program focuses on defence, foreign policy and strategic affairs critical to both Australia and India. </span></p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="/programs/security-geopolitics/" target="_self">Learn more</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.00" 
+                                data-focus-y="0.00" 
+                                data-image-w="920" 
+                                data-image-h="309"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/aii-map-graphic.jpg" alt="Sustainable Economies">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        Sustainable Economies                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p>The Sustainable Economies program focuses on the complementary economic relationship between Australia and India.</p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="https://aii.unimelb.edu.au/programs/sustainable-economies/" target="_self">Learn more</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.00" 
+                                data-focus-y="0.00" 
+                                data-image-w="920" 
+                                data-image-h="345"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/aii-cultural-diplomacy.jpg" alt="Cultural diplomacy">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        Cultural diplomacy                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p>The cultural diplomacy program focuses on enhancing public opinion and cross-cultural understanding of Australia and India.</p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="/programs/cultural-diplomacy/" target="_self">Learn more</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.00" 
+                                data-focus-y="0.00" 
+                                data-image-w="920" 
+                                data-image-h="351"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/aii-education.jpg" alt="Education">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        Education                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p>The education program focuses on supporting the bilateral education relationship between Australia and India through research, analysis and commentary.</p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="https://aii.unimelb.edu.au/programs/education/" target="_self">Learn more</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.00" 
+                                data-focus-y="0.00" 
+                                data-image-w="920" 
+                                data-image-h="345"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/aii-events.jpg" alt="Events">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        Events                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p><span style="font-weight: 400;">View our upcoming and past events. </span></p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="/category/events/" target="_self">Learn more</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+        
+            <li>
+                <div>
+                                        <div class="uk-position-cover" uk-slideshow-parallax="scale: 1.2,1.2,1">
+                        <div class="slideshow-image">
+                            <picture class="focuspoint" 
+                                data-focus-x="0.21" 
+                                data-focus-y="0.24" 
+                                data-image-w="920" 
+                                data-image-h="453"
+                            >
+                                <img src="https://aii.unimelb.edu.au/wp-content/uploads/2022/11/anthony-albanese-narendra-modi.jpg" alt="ARCH-India">
+                            </picture>
+                        </div>
+                    </div>
+                                        <div class="slideshow-content uk-position-center uk-position-small uk-light">
+                        <div class="uk-transition-slide-bottom">
+                            <div class="uk-container uk-container-center">
+                                <div class="slideshow-content-inner">
+                                    <h2 uk-slideshow-parallax="y: -50,0,0; opacity: 1,1,0">
+                                        ARCH-India                                    </h2>
+                                    <div class="content" uk-slideshow-parallax="y: 50,0,0; opacity: 1,1,0">
+                                        <p>Make your research known on the Australian Researcher Cooperation Hub</p>
+                                                                                    <div class="buttons">
+                                                                                                    <a class="btn" href="https://arch-india.org/" target="_blank">LEARN MORE</a>
+                                                                                                                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            
+            </ul>
+        <div class="slideshow-hero-arrows">
+            <div class="uk-container uk-container-center"></div>
+        </div>
+        <div class="slideshow-hero-dots">
+            <div class="uk-container uk-container-center"></div>
+        </div>
+    </div>
+        
+				
+		
+					<section class="call-to-action aw-layout aw-layout-bg text-center bg-color   uk-light  " style="background-color: #0e2c51;">
+    <span class="anchor alyka-widget-name-689371f843596" data-name="alyka-widget-name-689371f843596"></span>
+    <span class="bg-object bg-object-1"></span>
+    <span class="bg-object bg-object-2"></span>
+        <div class="uk-container uk-container-center">
+        <div data-aos="fade-in">
+            <div class="call-to-action-wrapper">
+                <div class="call-to-action-content wysiwyg">
+                    <div>
+                                                    <div><h2 class="color-gold">Our Events</h2>
+</div>
+                                            </div>
+                </div>
+                                    <div class="buttons">
+                                                    <a class="btn btn-primary " href="/category/events/" target="_self">Events</a>
+                                                                    </div>
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="hotboxes news-module aw-layout     " style="">
+    <span class="anchor alyka-widget-name-689371f843d53" data-name="alyka-widget-name-689371f843d53"></span>
+    <span class="bg-object bg-object-1"></span>
+    <span class="bg-object bg-object-2"></span>
+            <div class="uk-container uk-container-center">
+            <div class="news-module-content  has-button-cta ">
+                <div class="aw-layout-content wysiwyg">
+                    <div data-aos="fade-up">
+                        <h2>Research &amp; analysis</h2>
+                    </div>
+                </div>
+                                    <div class="buttons">
+                        <a class="btn " href="https://www.aii.unimelb.edu.au/our-work/" target="_self">View our work</a>
+                    </div>
+                            </div>
+        </div>
+    
+    
+
+    <div class="hotboxes-wrapper">
+        <div class="uk-container uk-container-center">
+            <div class="uk-grid-match uk-flex uk-flex-middle uk-child-width-1-2@m uk-child-width-1-3@l " uk-grid uk-height-match="target: .hotbox">
+
+                                <div data-aos="fade-up" data-aos-delay="100" >
+                    <a href="https://aii.unimelb.edu.au/advancing-high-performance-sports-victoria-india-opportunities/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>Cultural Diplomacy</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/GettyImages-1330512241-2-576x384.jpg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/GettyImages-1330512241-2-768x512.jpg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/GettyImages-1330512241-2-768x512.jpg" alt="Advancing High-Performance Sports: Victoria-India Opportunities"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>Read</span></div>                                    <h3 class="entry-title">Advancing High-Performance Sports: Victoria-India Opportunities</h3>
+                                    
+                                    <div class="date">6 Aug 2025</div><div class="content">The state of Victoria is known for its strong sporting culture backed by world-class infrastructure for&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="200" >
+                    <a href="https://aii.unimelb.edu.au/media-release-sports-report-finds-common-ground-for-victoria-and-india-ties/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>Cultural Diplomacy</span><span>News</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/GettyImages-1330512241-2-576x384.jpg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/GettyImages-1330512241-2-768x512.jpg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/GettyImages-1330512241-2-768x512.jpg" alt="Media Release: Sports Report Finds Common Ground For Victoria And India Ties"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>News</span></div>                                    <h3 class="entry-title">Media Release: Sports Report Finds Common Ground For Victoria And India Ties</h3>
+                                    
+                                    <div class="date">6 Aug 2025</div><div class="content">Victorian Government Minister for Tourism, Sport and Major Events, Steve Dimopoulos MP today will launch a&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="300" >
+                    <a href="https://aii.unimelb.edu.au/media-release-strengthening-undersea-cable-security-dialogue-perth-2/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>News</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/IMG_2397-576x384.jpg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/IMG_2397-768x512.jpg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/IMG_2397-768x512.jpg" alt="Media Release: Strengthening Undersea Cable Security Dialogue &#8211; Perth"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>News</span></div>                                    <h3 class="entry-title">Media Release: Strengthening Undersea Cable Security Dialogue &#8211; Perth</h3>
+                                    
+                                    <div class="date">31 Jul 2025</div><div class="content">Undersea cable security experts from India and Australia will converge in Perth on Thursday for a&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="400" >
+                    <a href="https://aii.unimelb.edu.au/institutes-monthly-july/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>News</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/1752131961803-576x384.jpeg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/1752131961803-768x512.jpeg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/1752131961803-768x512.jpeg" alt="Institute&#8217;s Monthly July"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>News</span></div>                                    <h3 class="entry-title">Institute&#8217;s Monthly July</h3>
+                                    
+                                    <div class="date">29 Jul 2025</div><div class="content">The Institute’s July Monthly is out! This month features our new Maitri Fellow, toolkit for teachers&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="500" >
+                    <a href="https://aii.unimelb.edu.au/the-dalai-lamas-succession-a-moment-for-global-solidarity/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>Security &amp; Geopolitics</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/Buddhist-monk-comp-1-576x384.jpg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/Buddhist-monk-comp-1-768x511.jpg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/Buddhist-monk-comp-1-768x511.jpg" alt="The Dalai Lama’s Succession: A Moment For Global Solidarity"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>Read</span></div>                                    <h3 class="entry-title">The Dalai Lama’s Succession: A Moment For Global Solidarity</h3>
+                                    
+                                    <div class="date">29 Jul 2025</div><div class="content">The Dalai Lama’s statement this month that his successor would be selected by the traditional process&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="600" >
+                    <a href="https://aii.unimelb.edu.au/how-afl-is-transforming-indian-and-australian-communities-with-sudip-chakraborty/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>Cultural Diplomacy</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/Sudip-Podcast-Website-Tile-576x295.png"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/Sudip-Podcast-Website-Tile-768x393.png"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/Sudip-Podcast-Website-Tile-768x393.png" alt="How AFL is Transforming Indian and Australian Communities with Sudip Chakraborty"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>Listen</span></div>                                    <h3 class="entry-title">How AFL is Transforming Indian and Australian Communities with Sudip Chakraborty</h3>
+                                    
+                                    <div class="date">23 Jul 2025</div><div class="content">In this new episode of Chats Over Chai, CEO Lisa Singh sits down with incoming Head&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="700" >
+                    <a href="https://aii.unimelb.edu.au/maitri-fellowship-to-further-australia-india-research/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>News</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/New-436x576.jpeg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/New-582x768.jpeg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/07/New-582x768.jpeg" alt="MAITRI Fellowship to further Australia-India research"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>News</span></div>                                    <h3 class="entry-title">MAITRI Fellowship to further Australia-India research</h3>
+                                    
+                                    <div class="date">14 Jul 2025</div><div class="content">The Institute has received funding from the Centre for Australia India Relations Maitri Fellowship Program for 2025.&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="800" >
+                    <a href="https://aii.unimelb.edu.au/institutes-monthly-june-2/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>News</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/Front-image-576x384.jpeg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/Front-image-768x512.jpeg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/06/Front-image-768x512.jpeg" alt="Institute&#8217;s Monthly June"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>News</span></div>                                    <h3 class="entry-title">Institute&#8217;s Monthly June</h3>
+                                    
+                                    <div class="date">25 Jun 2025</div><div class="content">The Institute’s June Monthly features highlights from our trilateral Maritime Security Dialogue (MDA), preview of our&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                                <div data-aos="fade-up" data-aos-delay="900" >
+                    <a href="https://aii.unimelb.edu.au/media-release-australia-india-indonesia-strategic-dialogue-camberra/" class="hotbox  " uk-height-match=".entry-title" >
+                        <div class="hotbox-image-wrapper">
+                                                            <div class="tags">
+                                    <span>News</span>                                </div>
+                                                        <div class="hotbox-image">
+                                <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-10.06.57 AM-576x321.png"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-10.06.57 AM-768x429.png"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-10.06.57 AM-768x429.png" alt="Media Release: Australia India Indonesia Strategic Dialogue Camberra"></picture>                            </div>
+                        </div>
+                        <div class="hotbox-content-wrapper">
+                            <div class="hotbox-content">
+                                
+                                <div class="content-body">
+                                    <div class="categories"><span>News</span></div>                                    <h3 class="entry-title">Media Release: Australia India Indonesia Strategic Dialogue Camberra</h3>
+                                    
+                                    <div class="date">24 Jun 2025</div><div class="content">Experts from Australia, India and Indonesia will meet in Canberra today for a high-level maritime security&hellip;</div>                                    
+                                </div>
+
+                                                                <div class="content-footer">
+                                    <div class="buttons">
+                                        <span class="btn btn-secondary"><span>Read more</span></span>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                            
+                            </div>
+        </div>
+    </div>
+
+            <div class="buttons">
+            <div class="uk-container uk-container-center">
+                <a class="btn " href="https://www.aii.unimelb.edu.au/our-work/" target="_self">View our work</a>
+            </div>
+        </div>
+            
+</section>
+
+
+<section class="textimage reverse  aw-layout aw-layout-bg  bg-image  uk-light  " style="background-image: url(https://aii.unimelb.edu.au/wp-content/uploads/2022/01/bg-001.jpg);">
+    <span class="anchor alyka-widget-name-689371f84b5f4" data-name="alyka-widget-name-689371f84b5f4"></span>
+    <div class="uk-container uk-container-center">
+        <div class="textimage-wrapper uk-grid-large uk-grid-match uk-flex uk-flex-middle uk-child-width-1-2@m" uk-grid>
+            <div class="textimage-image">
+                <div class="textimage-image-wrapper">
+
+                                        <div data-aos="fade-right">
+                    
+                        <picture><source media="(max-width: 575px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/image-01.jpg"><source media="(max-width: 767px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/image-01.jpg"><source media="(max-width: 1023px)" data-srcset="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/image-01.jpg"><img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/image-01.jpg" alt="image-01"></picture>                    
+                    </div>
+
+                </div>
+            </div>
+            <div class="textimage-text">
+                <div class="textimage-text-wrapper">
+
+                                        <div data-aos="fade-left">
+                                        
+                                                    <h2>WHO WE ARE</h2>
+<p>The Australia India Institute is Australia’s leading centre dedicated to promoting support for and understanding of the Australia-India relationship <span class="ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">and its cooperation in the Indo-Pacific region. </span>We work to increase the policy and public importance of India as a crucial partner in Australia’s future, and of Australia as a crucial partner in India’s future; and to provide leadership on the nature of a closer and mutually beneficial partnership across a wide range of interests.</p>
+<p>The Institute is guided by our values of bharosa (trust), maryada (respect), gyan (knowledge) and kalyan (welfare).</p>
+                                                                            <div class="buttons">
+                                                                    <a class="btn btn-primary-2 " href="/about/who-we-are/" target="_self">Learn more</a>
+                                                                                            </div>
+                        
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="call-to-action aw-layout aw-layout-bg bg-color   uk-light  sign-up-newsletter" style="background-color: #0e2c51;">
+    <span class="anchor alyka-widget-name-689371f84c554" data-name="alyka-widget-name-689371f84c554"></span>
+    <span class="bg-object bg-object-1"></span>
+    <span class="bg-object bg-object-2"></span>
+        <div class="call-to-action-image">
+        <picture class="focuspoint" 
+            data-focus-x="0.00" 
+            data-focus-y="0.00" 
+            data-image-w="1905" 
+            data-image-h="280"
+        >
+            <img decoding="async" src="https://aii.unimelb.edu.au/wp-content/uploads/2022/03/AII-MAP-GRAPHIC-1905x280-1.png" alt="AII MAP GRAPHIC 1905&#215;280">
+        </picture>
+    </div>
+        <div class="uk-container uk-container-center">
+        <div data-aos="fade-in">
+            <div class="call-to-action-wrapper">
+                <div class="call-to-action-content wysiwyg">
+                    <div>
+                                                    <div><h3 class="color-gold">JOIN OUR MAILING LIST</h3>
+<p>Get the latest news, research and events updates.</p>
+</div>
+                                            </div>
+                </div>
+                                    <div class="buttons">
+                                                    <a class="btn btn-primary-3 " href="/subscribe/" target="_self">Subscribe</a>
+                                                                    </div>
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="logos aw-layout text-center    " style="">
+    <span class="anchor alyka-widget-name-689371f84cebb" data-name="alyka-widget-name-689371f84cebb"></span>
+    <span class="bg-object bg-object-1"></span>
+    <div class="uk-container uk-container-center">
+                    <div class="aw-layout-content wysiwyg">
+                <div data-aos="fade-up">
+                    <h2>Our partners</h2>
+                </div>
+            </div>
+                            <div class="aw-layout-content">
+                <div data-aos="fade-up">
+                    <div uk-slider>
+                        <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
+                            
+                            <ul class="logo-items uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m uk-child-width-1-5@l uk-grid uk-grid-large">
+
+                                                                    <li>
+                                                                                <a class="logo" href="https://www.australia.gov.au/" target="_blank">
+                                                                                <img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2022/03/australian-government-strip-black.png" alt="australian-government-strip-black">
+                                                                                </a>
+                                                                            </li>
+                                                                    <li>
+                                                                                <a class="logo" href="https://www.vic.gov.au/" target="_blank">
+                                                                                <img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/The-Victorian-Government.png" alt="State Government of Victoria">
+                                                                                </a>
+                                                                            </li>
+                                                                    <li>
+                                                                                <a class="logo" href="https://www.unimelb.edu.au/" target="_blank">
+                                                                                <img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2022/01/The-University-of-Melbourne.png" alt="The University of Melbourne">
+                                                                                </a>
+                                                                            </li>
+                                                                    <li>
+                                                                                <a class="logo" href="https://www.uwa.edu.au/" target="_blank">
+                                                                                <img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2022/03/uwa-logo-768x254.png" alt="uwa-logo">
+                                                                                </a>
+                                                                            </li>
+                                                                    <li>
+                                                                                <a class="logo" href="https://iitg.ac.in/aiwc/home" target="_blank">
+                                                                                <img decoding="async" class="lazyload" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://aii.unimelb.edu.au/wp-content/uploads/2022/06/AIWC-EH-logo-PNG-e1655784853451.png" alt="AIWC EH logo PNG">
+                                                                                </a>
+                                                                            </li>
+                                
+                            </ul>
+                            
+                            <a class="uk-position-center-left uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+                            <a class="uk-position-center-right uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
+                            
+                            <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+</section>
+		
+		
+	</main><!-- #main -->
+
+
+	<footer id="colophon" class="site-footer">
+
+		<div class="uk-container uk-container-center">
+
+			
+			<div class="site-footer-panel">
+
+				
+				<div class="uk-grid-match uk-flex" uk-grid>
+					
+					<div class="uk-width-1-3@l">
+						<div class="panel">
+														<aside id="sidebar-footer-1" class="widget-area">
+								<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="/"><img class="logo" src="/wp-content/uploads/2024/07/AustraliaIndiaInstituteLogo_white_264x100.png" alt="Australia India Institute"></a></div></section>							</aside>
+											
+							    <div class="social-link-wrapper">
+        <ul class="social-link">
+                        <li>
+                <a class="button" href="https://www.facebook.com/AIinstitute/" target="_blank" title="Australia India Institute">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+            </li>
+                        <li>
+                <a class="button" href="https://twitter.com/aiinstitute" target="_blank" title="Australia India Institute">
+                    <i class="fab fa-twitter"></i>
+                </a>
+            </li>
+                        <li>
+                <a class="button" href="https://www.linkedin.com/company/aiinstitute/" target="_blank" title="Australia India Institute">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+            </li>
+                        <li>
+                <a class="button" href="https://www.instagram.com/aiinstitute/" target="_blank" title="Australia India Institute">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>
+                    </ul>
+    </div>
+						</div>
+					</div>
+
+											<div class="uk-width-1-3@l">
+							<div class="panel">
+																<aside id="sidebar-footer-2" class="widget-area">
+									<section id="nav_menu-6" class="widget widget_nav_menu"><h2 class="widget-title">Programs</h2><div class="menu-footer-menu-programs-container"><ul id="menu-footer-menu-programs" class="menu"><li id="menu-item-4163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4163"><a href="https://aii.unimelb.edu.au/programs/security-geopolitics/">Security &#038; Geopolitics</a></li>
+<li id="menu-item-4165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4165"><a href="https://aii.unimelb.edu.au/programs/sustainable-economies/">Sustainable Economies</a></li>
+<li id="menu-item-4164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4164"><a href="https://aii.unimelb.edu.au/programs/cultural-diplomacy/">Cultural Diplomacy</a></li>
+<li id="menu-item-6768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6768"><a href="https://aii.unimelb.edu.au/programs/education/">Education</a></li>
+</ul></div></section>								</aside>
+												
+															</div>
+						</div>
+					
+											<div class="uk-width-1-3@l">
+							<div class="panel">
+																<aside id="sidebar-footer-3" class="widget-area">
+									<section id="nav_menu-7" class="widget widget_nav_menu"><h2 class="widget-title">Overview</h2><div class="menu-footer-menu-overview-container"><ul id="menu-footer-menu-overview" class="menu"><li id="menu-item-4166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4166"><a href="https://aii.unimelb.edu.au/about/">About</a></li>
+<li id="menu-item-4168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://aii.unimelb.edu.au/programs/">Programs</a></li>
+<li id="menu-item-4204" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4204"><a href="https://aii.unimelb.edu.au/category/events/">Events</a></li>
+<li id="menu-item-4167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4167"><a href="https://aii.unimelb.edu.au/experts/">EXPERTS</a></li>
+<li id="menu-item-4205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4205"><a href="https://aii.unimelb.edu.au/our-work/">Our Work</a></li>
+<li id="menu-item-4170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4170"><a href="https://aii.unimelb.edu.au/category/india-matters/">India Matters</a></li>
+</ul></div></section>								</aside>
+												
+															</div>
+						</div>
+					
+					
+				</div>
+				
+				
+			</div><!-- .site-footer-panel -->
+
+		</div><!-- .uk-container -->
+		
+		<div class="site-info-wrapper">
+			<div class="uk-container uk-container-center">
+				<div class="site-info">
+					
+					<div class="site-info-content">
+						<span>©  2025 Australia India Institute. All rights reserved.</span>
+						<div class="menu-footer-links-bottom-container"><ul id="site-footer-bottom-menu" class="menu"><li id="menu-item-5705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-5705"><a rel="privacy-policy" href="https://aii.unimelb.edu.au/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-3583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3583"><a href="https://aii.unimelb.edu.au/sitemap/">Sitemap</a></li>
+</ul></div>					</div>
+					<div class="site-by">
+						Site  by <a href="https://www.alyka.com.au/" target="_blank">ALYKA</a>					</div>
+				
+					
+				</div><!-- .site-info -->
+			</div>
+		</div>
+
+	</footer><!-- #colophon -->
+    
+	<a href="#page" id="back-to-top" class="uk-button back-to-top" data-scrollto>
+        <span class="sr-only">Back to </span>Top <span class="sr-only">of the page.</span>
+    </a>
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/alyka\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/typing-text/assets/js/eb-animation-load.js?ver=1.2.7" id="essential-blocks-eb-animation-js"></script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/typing-text/dist/frontend/index.js?ver=f9624730a013d1d95070" id="eb-typing-text-frontend-js"></script>
+<script src="https://aii.unimelb.edu.au/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://aii.unimelb.edu.au/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1" id="swv-js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/aii.unimelb.edu.au\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+</script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1" id="contact-form-7-js"></script>
+<script id="wpcf7-redirect-script-js-extra">
+var wpcf7r = {"ajax_url":"https:\/\/aii.unimelb.edu.au\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/wpcf7-redirect/build/assets/frontend-script.js?ver=2c532d7e2be36f6af233" id="wpcf7-redirect-script-js"></script>
+<script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/awd-admin\/|\/wp-admin\/|\/logout\/|\/awd-admin\/|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/aii.unimelb.edu.au","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script src="https://aii.unimelb.edu.au/wp-content/themes/alyka/assets/js/minified/all.min.js?ver=1.0.0.2025.08.06.15.17.12" id="alyka-scripts-js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdLy-QeAAAAAJubVIWNIhP5-Ad3y84bR9yckUZM&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script src="https://aii.unimelb.edu.au/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script id="wpcf7-recaptcha-js-before">
+var wpcf7_recaptcha = {
+    "sitekey": "6LdLy-QeAAAAAJubVIWNIhP5-Ad3y84bR9yckUZM",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+</script>
+<script src="https://aii.unimelb.edu.au/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.1" id="wpcf7-recaptcha-js"></script>
+
+
+</body>
+</html>
+
+[tiny-file-manager-unauth] Dumped HTTP response https://aii.unimelb.edu.au/index.php
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+Cache-Control: max-age=3600
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:11 GMT
+Expires: Wed, 06 Aug 2025 16:17:11 GMT
+Location: https://aii.unimelb.edu.au/
+Server: LiteSpeed
+X-Redirect-By: WordPress
+Content-Length: 0
+
+

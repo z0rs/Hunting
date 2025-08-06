@@ -1,0 +1,59 @@
+[gopher-server] Dumped HTTP request for https://law.app.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: law.app.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[gopher-server] Dumped HTTP response https://law.app.unimelb.edu.au
+
+HTTP/1.1 403 Forbidden
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:42 GMT
+Server: Microsoft-IIS/10.0
+Set-Cookie: BIGipServer~app_coldfusion_law_prod~pool_coldfusion_law_prod_loadbalancer_qs=3628406700.20480.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3148830=wtMZBzWcQIupHceI+cC0ehZyk2gAAAAAQUIPAAAAAACnZ35KVTtNBg1dWb1fo2Cq; expires=Thu, 06 Aug 2026 08:08:47 GMT; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3148830=Nd9DfGY/kECnZWVzpdyzEAAAAAB1fb+EtAukvYTclRxX5x+d; HttpOnly; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_1540_3148830=Bfz+Hxx8jS9w4mxVQi5fFRZyk2gAAAAA+GGfB+VwJMcKo1MKrHRTjA==; path=/; Domain=.app.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 6-4131416-4131419 NNYY CT(213 232 0) RT(1754493462833 7) q(0 0 0 -1) r(2 2) U24
+X-Powered-By: ASP.NET
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script src="/faile-to-of-almost-ther-th-to-a-Racessage-and-dy" async></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>403 - Forbidden: Access is denied.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>403 - Forbidden: Access is denied.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+

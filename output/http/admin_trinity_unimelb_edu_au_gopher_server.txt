@@ -1,0 +1,27 @@
+[gopher-server] Dumped HTTP request for http://admin.trinity.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: admin.trinity.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[gopher-server] Dumped HTTP response http://admin.trinity.unimelb.edu.au
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 165
+Content-Security-Policy: child-src 'self' blob: ;    frame-src 'self' *.google.com *.facebook.com *.twitter.com *.recaptcha.net *.payway.com.au *.youtube.com *.vimeo.com *.viddler.com *.sharethis.com *.ddsn.net;    frame-ancestors 'self' *.ddsn.net
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:17:06 GMT
+Location: https://admin.trinity.unimelb.edu.au/admin
+Server: Microsoft-IIS/10.0
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://admin.trinity.unimelb.edu.au/admin">here</a></body>

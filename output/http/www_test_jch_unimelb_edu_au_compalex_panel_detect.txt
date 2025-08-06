@@ -1,0 +1,39 @@
+[compalex-panel-detect] Dumped HTTP request for https://www.test.jch.unimelb.edu.au
+
+
+GET / HTTP/1.1
+Host: www.test.jch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[compalex-panel-detect] Dumped HTTP response https://www.test.jch.unimelb.edu.au
+
+HTTP/1.1 503 Service Unavailable
+Connection: close
+Content-Length: 378
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:19:07 GMT
+Last-Modified: Fri, 30 Sep 2022 05:24:07 GMT
+Server: Apache
+Upgrade: h2,h2c
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="2"></meta>
+    <title>Please wait a sec...</title>
+    <style>
+      html, body {height: 100%; width: 100%; background #fff;}
+      body {display:flex; align-items: center; justify-content: center;}
+    </style>
+</head>
+<body>
+  <h3>Hang on a sec, we are just doing some maintenance....</h3>
+</body>
+</html>
+

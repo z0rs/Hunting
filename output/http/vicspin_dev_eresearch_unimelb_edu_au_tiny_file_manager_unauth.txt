@@ -1,0 +1,37 @@
+[tiny-file-manager-unauth] Dumped HTTP request for https://vicspin-dev.eresearch.unimelb.edu.au/index.php
+
+
+GET /index.php HTTP/1.1
+Host: vicspin-dev.eresearch.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[tiny-file-manager-unauth] Dumped HTTP response https://vicspin-dev.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 404 NOT FOUND
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:15:00 GMT
+Server: nginx/1.10.3 (Ubuntu)
+Set-Cookie: session_id_vicspin="3991889:a4d3e604-eb28-485b-b2ae-33b766dafcdf"; httponly; Path=/; SameSite=Lax
+Vary: Accept-Encoding
+Web2py_error: invalid view (default/user.php)
+
+<html><body><h1>invalid view (default/user.php)</h1></body></html>
+[tiny-file-manager-unauth] Dumped HTTP response https://vicspin-dev.eresearch.unimelb.edu.au/index.php
+
+HTTP/1.1 303 SEE OTHER
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 06 Aug 2025 15:14:59 GMT
+Location: /user.php/login
+Server: nginx/1.10.3 (Ubuntu)
+Set-Cookie: session_id_vicspin="3991889:a4d3e604-eb28-485b-b2ae-33b766dafcdf"; httponly; Path=/; SameSite=Lax
+
+

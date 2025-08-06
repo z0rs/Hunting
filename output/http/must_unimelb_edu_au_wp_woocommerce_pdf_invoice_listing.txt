@@ -1,0 +1,27 @@
+[wp-woocommerce-pdf-invoice-listing] Dumped HTTP request for https://must.unimelb.edu.au/wp-content/uploads/pdf-invoices/
+
+
+GET /wp-content/uploads/pdf-invoices/ HTTP/1.1
+Host: must.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[wp-woocommerce-pdf-invoice-listing] Dumped HTTP response https://must.unimelb.edu.au/wp-content/uploads/pdf-invoices/
+
+HTTP/1.1 302 Found
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: public, max-age=31536000
+Content-Type: image/au/wp-content/dist/f/256/files/pdf-invoices/
+Date: Wed, 06 Aug 2025 15:18:11 GMT
+Etag: 0db28bce6ec35fea08d418071ad7d176
+Location: https://bpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/f/256/files/pdf-invoices/
+Server: openresty
+Vary: Cookie
+X-Cache-Bypass-Reason: 0
+
+

@@ -1,0 +1,946 @@
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/sql.sql
+
+
+GET /sql.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/sql.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 58ff8bffb8202620fab96966a8d77160.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: -PGCD6k8TxZ7X3Zq1uKQMU_i0ibrzUqXKgpXloH7GK7SLCqVfN5rsA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/temp.sql
+
+
+GET /temp.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/backup.sql
+
+
+GET /backup.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/db_backup.sql
+
+
+GET /db_backup.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/temp.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 717a0e7af2a3da4138a71f64ce4675d0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: fxsE2KVsYfmRAlgi4vvxEKy0fNlwrHOGsI4uhhzjiG1eAACPOz5ODQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/www.tbwl.esrc.unimelb.edu.au_db.sql
+
+
+GET /www.tbwl.esrc.unimelb.edu.au_db.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/backup.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 762d730dc67e76a23b806d2aba1a1cae.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: YXaJMAnGcSZyTbnCJbpVdjekHrCL4Cicxh16BTLRfqscP4Jv9akzAw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/db_backup.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 67e0252f80139a17537e71117acd6be0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: EceWLT_nRG1XYsx03VXr1KkJhusmvo_F8qqkB5GkVPvC-DEfew69Hw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/database.sql
+
+
+GET /database.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/www.tbwl.esrc.unimelb.edu.au_db.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 e4988703a7c309c2817a35cb916bef58.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 6SKPLH3PyJX7nRO0lq1VTRRTOVwxPbDgNPBFNzblrFk9NF1bA_9EGg==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/data.sql
+
+
+GET /data.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/database.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 dbbdffd5abd9b6fb9357259f8ea93f44.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 2VLJexwRXG3RpCd7snyYAGEQmWTs5h6O8L2GePXsYVrNrSykN-Z4oA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/dump.sql
+
+
+GET /dump.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/data.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 978b1b29b70b082668c3d920b0bbe7d4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 2OnkOtiisMgEIfyINNPzeWaKiszDiDsnKB8k-0mE9dsvYLQvbMvMQA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/dump.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 717a0e7af2a3da4138a71f64ce4675d0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 6xAQ3jPIhi552zFB2e0OtxNby65Aig3CkGAChC3vuTqgpSaKHK6e1Q==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/mysqldump.sql
+
+
+GET /mysqldump.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/www.tbwl.esrc.unimelb.edu.au.sql
+
+
+GET /www.tbwl.esrc.unimelb.edu.au.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/users.sql
+
+
+GET /users.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/mysqldump.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 a6cf90963f3d761a69185cafd3ede98e.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: nRDXPmLtysXf307uNryzPvrc3OzzfZ6kRTvz7EyfF0VcdnTDOLR5Yw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/users.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 598d87b7aabfe9af537b98f78145120e.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: AAnujn3G4isQDHMFJs5o9XaBIGTIWLSrB3y2h1xoajOifDr2dnw21Q==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/www.tbwl.esrc.unimelb.edu.au.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 eafa30ac9eebc826d698b6b51868b24a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: qjU5_RqYMAJsxpfRKNyRU_3DSwGBnWlYWIe6Fh2aag0cmxpWw7MKbw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/translate.sql
+
+
+GET /translate.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-content/mysql.sql
+
+
+GET /wp-content/mysql.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/www.sql
+
+
+GET /www.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/translate.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 717a0e7af2a3da4138a71f64ce4675d0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: MWSELx5Db4NFHPw3TNYtq700lexBZwrOUcs1PTcvBlZFXCHBLFS_3g==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-content/mysql.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 31018efa0f6c4b43ab018b8f561f340a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 4yMHCBl-kueq6_Shj9MPbDxdVRAU-NjeyCe7zp_04Qh9PoiFLMEibg==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/www.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 8d260504510dc66e11b489b69c10cb8e.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Q7FOw59JTyry72DYqmZAUteIH-ZCuE4wBLu52yZh1m8f-OD8fnzXRQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/wp-content/uploads/dump.sql
+
+
+GET /wp-content/uploads/dump.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/1.sql
+
+
+GET /1.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/wp-content/uploads/dump.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 65ed266dda094f56ecb91fc422768658.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: tFA16yBkkjxymPVMgpZh6R4et7G1BPLr8jVkz8XSdIA-RlAVEBY6kg==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/1.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 598d87b7aabfe9af537b98f78145120e.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: e0xsqFt3iNhi-Dcn5n7k9kImXwayvzY_DENKJYiQ_ELdbFKSVs3NqA==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/dbdump.sql
+
+
+GET /dbdump.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/dbdump.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 18f4d2895273eb518f03b4c831d8c396.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Z7LDnwj_SCKMOnTsrDxdmcRRKrbYF3hSyUux0N8J0h1Vqo4l81vj4A==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/site.sql
+
+
+GET /site.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/site.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 978b1b29b70b082668c3d920b0bbe7d4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: PRe-bFgiCsv3TF0ih2I9q6I6Nonsl_zAgJMpXsBxd4GkASdqcSW04w==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/localhost.sql
+
+
+GET /localhost.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/localhost.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 978b1b29b70b082668c3d920b0bbe7d4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Pe73iv4OvRp-ITz7L9JZhsssZKS5sbrKFoBsBCaaq-wgF2rMVL1MXQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/mysql.sql
+
+
+GET /mysql.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/mysql.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 eafa30ac9eebc826d698b6b51868b24a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: YXzM7SqtW37ILngRdYDK_tSxAqmkCS9NMoQfd5Ls8PChhhWlsoKxwQ==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+
+[mysql-dump] Dumped HTTP request for https://www.tbwl.esrc.unimelb.edu.au/db.sql
+
+
+GET /db.sql HTTP/1.1
+Host: www.tbwl.esrc.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Accept: */*
+Accept-Language: en
+Range: bytes=0-3000
+
+
+[mysql-dump] Dumped HTTP response https://www.tbwl.esrc.unimelb.edu.au/db.sql
+
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 568
+Age: 1
+Content-Type: text/html; charset=utf-8
+Date: Wed, 06 Aug 2025 15:19:02 GMT
+Server: AmazonS3
+Via: 1.1 65ed266dda094f56ecb91fc422768658.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: hTQXawTCHVfsFCZrmI4fFf7u55_3qMoaEIUxov-4nWcnJyMqeT34iw==
+X-Amz-Cf-Pop: IAD55-P6
+X-Cache: Error from cloudfront
+
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: 404.html</li>
+<li>RequestId: YT0SASAQVAC3M7BG</li>
+<li>HostId: kslAV7pH6AghkLLM3WfJC7ImXUSeWTyihhAkJVPFtGEfYd20ljZh9FOgeuIpEO9GJ5uPy40Rl/MJkPNQssQTgif0B81d44GvOSlPTJFkYEA=</li>
+</ul>
+<h3>An Error Occurred While Attempting to Retrieve a Custom Error Document</h3>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: error.html</li>
+</ul>
+<hr/>
+</body>
+</html>
+

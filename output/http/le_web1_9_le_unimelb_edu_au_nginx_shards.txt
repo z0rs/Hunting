@@ -1,0 +1,81 @@
+[nginx-shards] Dumped HTTP request for https://le-web1-9.le.unimelb.edu.au/static/shards.html
+
+
+GET /static/shards.html HTTP/1.1
+Host: le-web1-9.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://le-web1-9.le.unimelb.edu.au/static/shards.html
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:54 GMT
+Server: nginx/1.20.1
+Set-Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; path=/; Httponly; Secure
+Set-Cookie: visid_incap_3239151=vo+OQ+nNTUya8uR1ey5qEiJyk2gAAAAAQUIPAAAAAACp7pWT1LINaDvr6fcTtt9U; expires=Thu, 06 Aug 2026 07:06:45 GMT; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: nlbi_3239151=pKscaIjI1WvOvUYDKvIj2wAAAACHDUtD2QOPA4PJuhVDSWUJ; HttpOnly; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Set-Cookie: incap_ses_237_3239151=Z2MiC6HcsRYMBberov5JAyJyk2gAAAAAw6KW28+sGabFnjt3/KVsZg==; path=/; Domain=.le.unimelb.edu.au; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 12-10112215-10112222 NNYY CT(215 230 0) RT(1754493474267 17) q(0 0 0 -1) r(2 2) U11
+
+<html>
+<head><script src="/ox-What-will-Enter-a-Profit-Why-Chambe-sicall-we" async></script><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.20.1</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[nginx-shards] Dumped HTTP request for https://le-web1-9.le.unimelb.edu.au/static/shards/html
+
+
+GET /static/shards/html HTTP/1.1
+Host: le-web1-9.le.unimelb.edu.au
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+Connection: close
+Accept: */*
+Accept-Language: en
+Cookie: BIGipServer~app_le_web_prod~pool_le_web_prod_le_web1=2403669932.47873.0000; visid_incap_3239151=vo+OQ+nNTUya8uR1ey5qEiJyk2gAAAAAQUIPAAAAAACp7pWT1LINaDvr6fcTtt9U; nlbi_3239151=pKscaIjI1WvOvUYDKvIj2wAAAACHDUtD2QOPA4PJuhVDSWUJ; incap_ses_237_3239151=Z2MiC6HcsRYMBberov5JAyJyk2gAAAAAw6KW28+sGabFnjt3/KVsZg==
+Accept-Encoding: gzip
+
+
+[nginx-shards] Dumped HTTP response https://le-web1-9.le.unimelb.edu.au/static/shards/html
+
+HTTP/1.1 404 Not Found
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Wed, 06 Aug 2025 15:17:54 GMT
+Server: nginx/1.20.1
+Strict-Transport-Security: max-age=31536000
+X-Cdn: Imperva
+X-Iinfo: 12-10112259-10112261 NNYY CT(214 228 0) RT(1754493474535 8) q(0 0 0 0) r(2 2) U11
+
+<html>
+<head><script src="/ox-What-will-Enter-a-Profit-Why-Chambe-sicall-we" async></script><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.20.1</center>
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1936630791" async></script></body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
