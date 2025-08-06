@@ -27,6 +27,7 @@ jobs:
           go install github.com/lc/gau/v2/cmd/gau@latest && sudo mv ~/go/bin/gau /usr/bin/
           go install github.com/tomnomnom/qsreplace@latest && sudo mv ~/go/bin/qsreplace /usr/bin/
           go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest && sudo mv ~/go/bin/subfinder /usr/bin/
+          go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest && sudo mv ~/go/bin/dnsx /usr/bin/
 
           # Install nuclei (latest)
           LATEST_VERSION=$(curl -s https://api.github.com/repos/projectdiscovery/nuclei/releases/latest | jq -r '.tag_name')
@@ -41,39 +42,44 @@ jobs:
           set -e
           mkdir -p results
       
-          TARGET="t-mobile.com"
+          TARGET="unimelb.edu.au"
           DATE=$(date -u +%F-%H%M)
       
           echo "[*] Subdomain Enumeration with assetfinder & subfinder..."
-          
-          subfinder -d $TARGET -silent | assetfinder --subs-only | grep "\.${TARGET}$" > results/t-mobile.txt
+          subfinder -d $TARGET -silent | assetfinder --subs-only | grep "\.${TARGET}$" > results/unimelb.txt
       
-          cat results/mobile.txt | sort -u > results/subdomains-mobile.txt
-          echo "[+] Total subdomains found: $(wc -l < results/subdomains.txt)"
+          cat results/unimelb.txt | sort -u > results/subdomains-unimelb.txt
+          echo "[+] Total subdomains found: $(wc -l < results/subdomains-unimelb.txt)"
       
           echo "[*] Probing live web apps on common ports..."
-          cat results/subdomains-mobile.txt | httpx -p 80,443,8080,8443,3000,5000,8000,8888,10000,5601,9200,1337,7001,7000,9000 \
-            -title -td -tech-detect -web-server -ip -status-code -method \
+          cat results/subdomains-unimelb.txt | httpx -p 80,443,8080,8443,3000,5000,8000,8888 \
+            -title -status-code -tech-detect -ip -web-server -cname -location \
             -probe -follow-redirects -random-agent -fr \
-            -silent \
-            -rate-limit 500 \
-            -timeout 10 \
-            -retries 3 \
-            -location \
-            -o results/subdomains-mobile-live.txt
+            -silent -rate-limit 500 -timeout 10 -retries 3 \
+            -o results/subdomains-unimelb-live.txt
+
+          echo "[*] Checking for potential subdomain takeovers..."
+          cat results/subdomains-unimelb-live.txt | grep -iE 'github|heroku|azure|fastly|zendesk|surge|unbounce|wordpress|bitbucket|ghost|desk.com' > results/takeover-candidates.txt
+
+          echo "[*] Resolving DNS..."
+          cat results/subdomains-unimelb-live.txt | awk '{print $1}' | dnsx -silent -nc -a -cname -resp -o results/unimelb-resolved.txt
       
-          echo "[*] Running nuclei on live targets..."
-          cat results/subdomains-mobile-live.txt | awk '{print $1}' | sort -u | nuclei -as -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" \
-            -rl 300 -c 100 \
-            -retries 3 -timeout 15 \
+          cat results/unimelb-resolved.txt | awk '{print $1}' | sort -u | nuclei \
+            -as \
+            -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" \
+            -rl 200 \
+            -c 50 \
+            -bs 50 \
+            -timeout 10 \
+            -retries 2 \
+            -mhe 20 \
+            -stream \
+            -silent \
             -stats -si 10 \
             -sresp \
-            -t dns/ \
-            -t cves/ \
-            -t misconfiguration/ \
-            -t exposures/ \
-            -t default-logins/ \
-            -o results/nuclei-subdomains-mobile-live.txt-$(date +%F).txt
+            -severity medium, high, critical, unknown \
+            -t cves/,dns/,http/ \
+            -o results/nuclei-unimelb-$(date +%F).txt
 
       - name: Set up Git Identity
         run: |
